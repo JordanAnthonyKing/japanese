@@ -1,18 +1,19 @@
 
 # Table of Contents
 
-1.  [Lesson 1: The core Japanese sentence](#orgbfa79dd)
-2.  [Lesson 2](#org8f22a76)
-    1.  [The invisible が carriage](#org2d5e890)
-    2.  [The を carriage](#org1e81d42)
-3.  [Lesson 3](#orgd5b3943)
-    1.  [は particle secrets](#org964168e)
-    2.  [The に particle](#org1d45d71)
+1.  [Lesson 1: The core Japanese sentence](#org9d5dfd3)
+2.  [Lesson 2](#org07d3149)
+    1.  [The invisible が carriage](#org08125d0)
+    2.  [The を carriage](#org433e844)
+3.  [Lesson 3](#org6e46462)
+    1.  [は particle secrets](#org8ab6811)
+    2.  [The に particle](#org71f3ad6)
+4.  [Lesson 4: Japanese past, present and future tenses](#org0188904)
 
 My follow-along notes from the Organic Japanese course on Youtube: <https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj>
 
 
-<a id="orgbfa79dd"></a>
+<a id="org9d5dfd3"></a>
 
 # Lesson 1: The core Japanese sentence
 
@@ -47,12 +48,12 @@ To recap, all of these sentences begin with the subject, they are connected with
     - い - /"adjective"/ - A is B
 
 
-<a id="org8f22a76"></a>
+<a id="org07d3149"></a>
 
 # Lesson 2
 
 
-<a id="org2d5e890"></a>
+<a id="org08125d0"></a>
 
 ## The invisible が carriage
 
@@ -81,7 +82,7 @@ If I say 土曜日だ *&rsquo;It is Saturday&rsquo;* it is clear that ∅ means 
 Each of these sentences are complete grammatical sentences with a subject marked by が and an engine, but in each of these cases the が carriage is just invisible. It **is** still there. This may seem to be arbitrary, or over-complicated but it saves a lot of grief later on to model sentences this way. Without this information as sentences become more complex they&rsquo;re going to seem increasingly vague and hard to understand.
 
 
-<a id="org1e81d42"></a>
+<a id="org433e844"></a>
 
 ## The を carriage
 
@@ -98,12 +99,12 @@ Once again, we would often see this said as: ケーキをたべる. This is just
 When we are saying ケーキをたべる, what we are really saying is ∅がケーキをたべる. And the default value for ∅ is わたし: *I*.
 
 
-<a id="orgd5b3943"></a>
+<a id="org6e46462"></a>
 
 # Lesson 3
 
 
-<a id="org964168e"></a>
+<a id="org8ab6811"></a>
 
 ## は particle secrets
 
@@ -129,7 +130,7 @@ There is no が carriage. We don&rsquo;t know who the subject actually is. One m
 Treating は as &rsquo;I am&rsquo; doesn&rsquo;t work. As we now know the default value of the ∅ pronoun is &rsquo;I&rsquo;, but in this context it&rsquo;s clear that we&rsquo;re talking instead about *what* we want to eat. わたしはうなぎだ therefore means &rsquo;As for me, eel&rsquo;.
 
 
-<a id="org1d45d71"></a>
+<a id="org71f3ad6"></a>
 
 ## The に particle
 
@@ -166,3 +167,46 @@ As we know, even if the が carriage is invisible (or silent) this means &rsquo;
 
 Note, this time the を carriage has become invisible, because what we&rsquo;re throwing is now marked by the は particle, ∅ here has taken the value of &rsquo;it&rsquo;. Even without は we might already know what &rsquo;it&rsquo; was that was thrown from context. The important thing to understand here is that as we change the logical particles from one noun to another we change the meaning of the sentence, but when we change the non-logical particle は from one noun to another it makes no difference to the logic of the sentence. It may make some difference to the emphasis, but it makes no difference to who is doing what or what they&rsquo;re doing it to.
 
+
+<a id="org0188904"></a>
+
+# Lesson 4: Japanese past, present and future tenses
+
+Up until now we&rsquo;ve only been using one tense and that is the one presented by the plain dictionary form of verbs. To use natural sounding Japanese we need 3 tenses. In Japanese these are not the same past, present and future tenses we&rsquo;re familiar with from English.
+
+The tense we have been using thus far is **not** the present tense. It is the *non-past* tense. This non-past tense is actually very similar to the English non-past tense. What is the *English* non-past tense? It is again the plain dictionary form of a verb. Eat, run, walk etc. It is unnatural in English to say &rsquo;I eat cake&rsquo;, to mean &rsquo;I am eating cake&rsquo;. It is natural however to use the non-past tense to say &rsquo;Sometimes I eat cake&rsquo; or, in the explictily future tense &rsquo;I will eat cake&rsquo;. Japanese is just the same as English in this way. It is rare we use this form for talking about things actually happening right now, except in cases like literary descriptions.
+
+Most of the time the Japanese non-past tense refers to future events. In fact, just as ∅ defaults to &rsquo;I&rsquo;, the non-past tense default to the future.
+
+> さくらが歩く - Sakura will walk
+> 犬がたべる - dog will eat
+
+The way we have been using this tense up until now, &rsquo;Sakura walks&rsquo;, is possible, but isn&rsquo;t the most natural way.
+
+If we want to say something more natural like &rsquo;Sakura is walking&rsquo; we must use the verb &rsquo;to be&rsquo;<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup> , or in Japanese いる.
+
+> さくらが歩いている - Sakura is walking
+> 犬がたべている - dog is eating
+
+There is something here however that we haven&rsquo;t yet seen. In our train metaphor this is a secondary engine, here たべて which could be an engine in of itself, is helping (modifying) to main いる engine. Our core sentence is still the same, we have a が carriage and an engine, いる i.e. さくらがいる - Sakura is (existing). The secondary engine modifies いる telling us more about what state she is currently existing in, she is in the eating state. As we go further into Japanese we will see this secondary engine structure again and again.
+
+Also, just as in English we don&rsquo;t say &rsquo;The dog is eat&rsquo;, we use a special form of the verb *eat* => *eating*. In Japanese this is the て form. This is covered in the next lesson.
+
+For the past tense of verbs instead of adding て to verbs we add た. The way in which we do this is exactly the same as the way in which we attach て and will be covered in the next lesson.
+
+If we want to make it clear that we are talking about a future event we can add a time expression. By prefixing a sentence with あした (tomorrow), we can make it clear that what we will be doing, we will be doing tomorrow.
+
+> あした[∅が]ケーキをたべる - Tomorrow I will eat cake
+
+Note how we simply preface the sentence with &rsquo;tomorrow&rsquo;, just like we would in English. This is the case with all *relative-time nouns*, yesterday, tomorrow, the day after tomorrow, next week, next month, next year.
+
+For *non-relative*, i.e. *absolute* time expressions we must use the に particle:
+
+> 火曜日\*に\*[∅が]ケーキをたべる - On Tuesday I will eat cake
+
+We must attach に in all the same places we would attach on/in/at in English. On Tuesday, in March, at 12 o&rsquo;clock. Foruntately in Japanese we only need to use the one particle.
+
+
+# Footnotes
+
+<sup><a id="fn.1" href="#fnr.1">1</a></sup> In English the verb &rsquo;to be&rsquo; is irregular and has multiple forms be/is/are/am: To *be* walking, Sakura *is* walking, not Sakura *be* walking.

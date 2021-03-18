@@ -138,3 +138,47 @@ As we know, even if the が carriage is invisible (or silent) this means 'As for
 As for the ball, I threw *it* (the ball) at Sakura.
 #+END_EXAMPLE
 Note, this time the を carriage has become invisible, because what we're throwing is now marked by the は particle, ∅ here has taken the value of 'it'. Even without は we might already know what 'it' was that was thrown from context. The important thing to understand here is that as we change the logical particles from one noun to another we change the meaning of the sentence, but when we change the non-logical particle は from one noun to another it makes no difference to the logic of the sentence. It may make some difference to the emphasis, but it makes no difference to who is doing what or what they're doing it to.
+
+* Lesson 4: Japanese past, present and future tenses
+Up until now we've only been using one tense and that is the one presented by the plain dictionary form of verbs. To use natural sounding Japanese we need 3 tenses. In Japanese these are not the same past, present and future tenses we're familiar with from English.
+
+The tense we have been using thus far is *not* the present tense. It is the /non-past/ tense. This non-past tense is actually very similar to the English non-past tense. What is the /English/ non-past tense? It is again the plain dictionary form of a verb. Eat, run, walk etc. It is unnatural in English to say 'I eat cake', to mean 'I am eating cake'. It is natural however to use the non-past tense to say 'Sometimes I eat cake' or, in the explictily future tense 'I will eat cake'. Japanese is just the same as English in this way. It is rare we use this form for talking about things actually happening right now, except in cases like literary descriptions.
+
+Most of the time the Japanese non-past tense refers to future events. In fact, just as ∅ defaults to 'I', the non-past tense default to the future.
+#+BEGIN_QUOTE
+さくらが歩く - Sakura will walk
+犬がたべる - dog will eat
+#+END_QUOTE
+The way we have been using this tense up until now, 'Sakura walks', is possible, but isn't the most natural way.
+
+If we want to say something more natural like 'Sakura is walking' we must use the verb 'to be'[fn:1] , or in Japanese いる.
+#+BEGIN_QUOTE
+さくらが歩いている - Sakura is walking
+犬がたべている - dog is eating
+#+END_QUOTE
+There is something here however that we haven't yet seen. In our train metaphor this is a secondary engine, here たべて which could be an engine in of itself, is helping (modifying) to main いる engine. Our core sentence is still the same, we have a が carriage and an engine, いる i.e. さくらがいる - Sakura is (existing). The secondary engine modifies いる telling us more about what state she is currently existing in, she is in the eating state. As we go further into Japanese we will see this secondary engine structure again and again.
+
+Also, just as in English we don't say 'The dog is eat', we use a special form of the verb /eat/ => /eating/. In Japanese this is the て form. This is covered in the next lesson.
+
+For the past tense of verbs instead of adding て to verbs we add た. The way in which we do this is exactly the same as the way in which we attach て and will be covered in the next lesson.
+
+If we want to make it clear that we are talking about a future event we can add a time expression. By prefixing a sentence with あした (tomorrow), we can make it clear that what we will be doing, we will be doing tomorrow.
+#+BEGIN_QUOTE
+あした[∅が]ケーキをたべる - Tomorrow I will eat cake
+#+END_QUOTE
+Note how we simply preface the sentence with 'tomorrow', just like we would in English. This is the case with all /relative-time nouns/, yesterday, tomorrow, the day after tomorrow, next week, next month, next year.
+
+For /non-relative/, i.e. /absolute/ time expressions we must use the に particle:
+#+BEGIN_QUOTE
+火曜日*に*[∅が]ケーキをたべる - On Tuesday I will eat cake
+#+END_QUOTE
+We must attach に in all the same places we would attach on/in/at in English. On Tuesday, in March, at 12 o'clock. Foruntately in Japanese we only need to use the one particle.
+
+
+
+
+
+
+
+# --- FOOTNOTES ---
+[fn:1] In English the verb 'to be' is irregular and has multiple forms be/is/are/am: To /be/ walking, Sakura /is/ walking, not Sakura /be/ walking.

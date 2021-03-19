@@ -1,6 +1,7 @@
 #+TITLE: Organic Japanese lesson notes
 My follow-along notes from the Organic Japanese course on Youtube: [[https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj]]
 
+# TODO: Replace examples with tables
 # ∅
 * Lesson 1: The core Japanese sentence
 Every Japanese sentence is fundamentally the same, they have the same core.
@@ -29,11 +30,9 @@ There is a third form of the Japanese sentence core sentence:
 This is similar, but not identical to an adjective. This will be discussed more later.
 
 To recap, all of these sentences begin with the subject, they are connected with が, and the three /engines/ of the Japanese core sentence are:
-#+BEGIN_EXAMPLE
 - う - verb          - A does B
 - だ - noun          - A is B
 - い - /"adjective"/ - A is B
-  #+END_EXAMPLE
 
 * Lesson 2
 ** The invisible が carriage
@@ -128,12 +127,12 @@ Obviously this final example doesn't make any sense (although we might want to s
 
 Now let's introduce は:
 #+BEGIN_EXAMPLE
-  /flag/   /carriage/ /carriage/ /carriage/ /engine/
-[わたし*は*]  [∅*が*]  [さくら*に*] [ぼーる*を*] [なげる]
+  /flag/    /carriage/ /carriage/  /carriage/ /engine/
+[わたし*は*]  [∅*が*]   [さくら*に*] [ぼーる*を*] [なげる]
 #+END_EXAMPLE
 As we know, even if the が carriage is invisible (or silent) this means 'As for me, (I) threw the ball at Sakura'. Now let's give the は /flag/ to the ball:
 #+BEGIN_EXAMPLE
-  /flag/   /carriage/  /carriage/ /carriage/ /engine/
+  /flag/      /carriage/ /carriage/   /carriage/ /engine/
 [ぼーる*は*] [わたし*が*] [さくら*に*]  [∅*を*]    [なげる]
 As for the ball, I threw *it* (the ball) at Sakura.
 #+END_EXAMPLE
@@ -144,23 +143,35 @@ Up until now we've only been using one tense and that is the one presented by th
 
 The tense we have been using thus far is *not* the present tense. It is the /non-past/ tense. This non-past tense is actually very similar to the English non-past tense. What is the /English/ non-past tense? It is again the plain dictionary form of a verb. Eat, run, walk etc. It is unnatural in English to say 'I eat cake', to mean 'I am eating cake'. It is natural however to use the non-past tense to say 'Sometimes I eat cake' or, in the explictily future tense 'I will eat cake'. Japanese is just the same as English in this way. It is rare we use this form for talking about things actually happening right now, except in cases like literary descriptions.
 
-Most of the time the Japanese non-past tense refers to future events. In fact, just as ∅ defaults to 'I', the non-past tense default to the future.
+Most of the time the Japanese non-past tense refers to future events. In fact, just as ∅ defaults to 'I', the non-past tense defaults to the future.
 #+BEGIN_QUOTE
 さくらが歩く - Sakura will walk
+#+END_QUOTE
+#+BEGIN_QUOTE
 犬がたべる - dog will eat
 #+END_QUOTE
 The way we have been using this tense up until now, 'Sakura walks', is possible, but isn't the most natural way.
 
-If we want to say something more natural like 'Sakura is walking' we must use the verb 'to be'[fn:1] , or in Japanese いる.
+If we want to say something more natural like 'Sakura is walking' we must use the verb 'to be'[fn::In English the verb 'to be' is irregular and has multiple forms be/is/are/am: To /be/ walking, Sakura /is/ walking, not Sakura /be/ walking.], or in Japanese いる.
 #+BEGIN_QUOTE
 さくらが歩いている - Sakura is walking
+#+END_QUOTE
+#+BEGIN_QUOTE
 犬がたべている - dog is eating
 #+END_QUOTE
-There is something here however that we haven't yet seen. In our train metaphor this is a secondary engine, here たべて which could be an engine in of itself, is helping (modifying) to main いる engine. Our core sentence is still the same, we have a が carriage and an engine, いる i.e. さくらがいる - Sakura is (existing). The secondary engine modifies いる telling us more about what state she is currently existing in, she is in the eating state. As we go further into Japanese we will see this secondary engine structure again and again.
+There is something here however that we haven't yet seen. In our train metaphor this is a secondary engine, here たべて which could be an engine in of itself, is helping (modifying) the main いる engine. Our core sentence is still the same, we have a が carriage and an engine, いる i.e. さくらがいる - Sakura is (existing). The secondary engine modifies いる telling us more about what state she is currently existing in, she is in the eating state. As we go further into Japanese we will see this secondary engine structure again and again.
+#+BEGIN_EXAMPLE
+/carriage/ /engine/ /engine/
+ [犬*が*]   [たべて]  [いる] - dog is eating
+#+END_EXAMPLE
 
 Also, just as in English we don't say 'The dog is eat', we use a special form of the verb /eat/ => /eating/. In Japanese this is the て form. This is covered in the next lesson.
 
-For the past tense of verbs instead of adding て to verbs we add た. The way in which we do this is exactly the same as the way in which we attach て and will be covered in the next lesson.
+For the past tense of verbs instead of adding て to verbs we add た.
+#+BEGIN_QUOTE
+犬がたべた - The dog ate
+#+END_QUOTE
+The way in which we do this is exactly the same as the way in which we attach て and will be covered in the next lesson.
 
 If we want to make it clear that we are talking about a future event we can add a time expression. By prefixing a sentence with あした (tomorrow), we can make it clear that what we will be doing, we will be doing tomorrow.
 #+BEGIN_QUOTE
@@ -175,10 +186,19 @@ For /non-relative/, i.e. /absolute/ time expressions we must use the に particl
 We must attach に in all the same places we would attach on/in/at in English. On Tuesday, in March, at 12 o'clock. Foruntately in Japanese we only need to use the one particle.
 
 
+* Lesson 5: Japanese verb groups and て form
+Japanese verbs fall into three groups: /Ichidan/, /Godan/, and /irregular/
 
+The first group are /ichidan/ (lit: one level) verbs. Morphing these verbs is easy, we simply remove the る and add our new ending. Ichidan verbs can only end in either いる or える.
 
+The second group is by far the largest, the /godan/ (lit: five level) verbs. This groups contains verbs that end in all of the possible verb endings: う つ る ー ぬ ぶ む ー く ぐ ー す. Each of these ending groups has its own way of being morphed, though although they're 'five level' verbs, two of the groups use the same method so we only need to learn 4 methods. Confusingly this means that godan verbs can end in いる or える, most of these will still be /ichidan/ verbs, and fortunately even if a verb is morphed incorrectly, you will probably still be understood.
+- う つ る -> って
+- ぬ ぶ む -> んで
+- く/ぐ -> いて/いで (Note: this is the combined group)
+- す -> して
 
-
-
-# --- FOOTNOTES ---
-[fn:1] In English the verb 'to be' is irregular and has multiple forms be/is/are/am: To /be/ walking, Sakura /is/ walking, not Sakura /be/ walking.
+There are only two irregular verbs, くる and する. いく, is partly irregular, but not completely.
+- くる -> きて
+- する -> して
+- いく -> いって (+いいて+)
+These are the only exceptions

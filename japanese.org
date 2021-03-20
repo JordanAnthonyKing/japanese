@@ -202,3 +202,70 @@ There are only two irregular verbs, くる and する. いく, is partly irregul
 - する -> して
 - いく -> いって (+いいて+)
 These are the only exceptions
+* Lesson 6: Japanese "adjectives"
+Japanese adjectives are not the same as English adjectives. As we have learned Japanese sentences come in three kinds, depending on the type of engine they have. As a reminder they are:
+- う - verb - A does B
+- だ - noun - A is B
+- い - "adjective" - A is B
+
+The truth is that all three of these types of engines can be used like adjectives.
+
+Let's start with the first one, the one we refer to as an adjective in English, the い engine:
+#+BEGIN_QUOTE
+ぺんがあかい - Pen is red
+#+END_QUOTE
+An important note, あかい does not mean 'red', it means *is red*. あか means red.
+
+If we swap the order of ぺんが and あかい then we can take this い engine, and now use it not as the primary engine, but as a secondary engine. This would not be a complete sentence however without a new engine, for example, a new (primary) い engine.
+#+BEGIN_QUOTE
+あかいぺんがちいさい - Red pen is small
+#+END_QUOTE
+This is simple enough, let's take a look at verbs.
+
+Any う (verb) engine, in any tense can be used like an adjective:
+#+BEGIN_QUOTE
+しょうじょがうたった - Girl sang
+#+END_QUOTE
+#+BEGIN_QUOTE
+うたったしょうじょが - The girl who sang (Note: this sentence is not yet complete, it lacks a primary engine).
+#+END_QUOTE
+#+BEGIN_QUOTE
+うたったしょうじょがねている - The girl who sang is sleeping
+#+END_QUOTE
+# NOTE: There are some more examples given here but I'm not sure it's necessary to write them all down
+
+Next, the noun engine:
+#+BEGIN_QUOTE
+いぬがやんちゃだ - The dog is naughty
+#+END_QUOTE
+We can turn やんちゃ into an adjective too, but there is one important thing to note. Just as we have to add だ to a noun, here we must add な to the noun. な is the connective form of だ. Don't be fooled by 'な-adjectives', they're simply nouns!
+#+BEGIN_QUOTE
+やんちゃないぬが - The dog who is naughty (Note: this sentence is not yet complete, it lacks a primary engine).
+#+END_QUOTE
+#+BEGIN_QUOTE
+やんちゃないぬがねている - The dog who is naughty is sleeping
+#+END_QUOTE
+
+An important note is that we cannot do this with /all/ nouns, only nouns which are frequently used in an adjectival way. This group of nouns is what the are referred to as 'な-adjectives'. We can use all nouns as adjectives, but for the rest we need to use a different technique and for that we will have to learn about the の particle.
+
+** The の carriage
+The の particle, or the /possessive particle/ functions just like the English /'s/.
+#+BEGIN_QUOTE
+さくらのはな - Sakura's nose
+#+END_QUOTE
+#+BEGIN_QUOTE
+わたしのはな - Me's (my) nose
+#+END_QUOTE
+Luckly in Japanese we don't have to worry about his/her/my/their, we just use の.
+
+Because this is the /possessive particle/ we can use this in another slightly different way. あか has an /adjectival/ form in あかい, but not all colours have this form. The Japanese for pink, ピンクいる (lit: pink-colour) doesn't have an adjectival form in ピンクいろい, nor can we use it as a secondary engine with な. So what are we to do? Well we can use the の particle:
+#+BEGIN_QUOTE
+ピンクいる*の*どれすが - The pink dress (literally: The dress belonging to the class of pink things)
+#+END_QUOTE
+#+BEGIN_QUOTE
+うさぎ*の*OSCAR - Oscar the rabbit (literally: Oscar belonging to the class of rabbit)
+#+END_QUOTE
+
+Just as before, there's no need to worry about misusing の and な, no-one listening is going to misunderstand what you're saying and it's a very typical beginner mistake to make.
+
+Using these techniques we can make all kinds of sentences that can become very complex, especially with verbal adjectives in which we can use whole sentences in an adjectival manner.

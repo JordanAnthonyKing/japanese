@@ -269,3 +269,94 @@ Because this is the /possessive particle/ we can use this in another slightly di
 Just as before, there's no need to worry about misusing の and な, no-one listening is going to misunderstand what you're saying and it's a very typical beginner mistake to make.
 
 Using these techniques we can make all kinds of sentences that can become very complex, especially with verbal adjectives in which we can use whole sentences in an adjectival manner.
+* Lesson 7: Negative verbs and adjective "conjugations"
+The fundamental basis of negatives is the adjective ない. This adjective means 'non-exist'. The word for exist (for any inanimate thing) is ある. If we want to say that something exists:
+#+BEGIN_QUOTE
+ぺんがある
+#+END_QUOTE
+But if we want to say that something doesn't exist we say:
+#+BEGIN_QUOTE
+ぺんがない
+#+END_QUOTE
+Now, why do we use a verb for being, and an adjective for non-being? This is something that happens all throughout Japanese, when we do something we use a verb, but when we don't do something we attach ない and are therefore using an adjective as the engine of the sentence. This has a very logical reason, when we *do* something, an action is taking place, and so we use a verb, but when we *don't do* it we are describing a state of non-action, so that's an adjective.
+
+Above we have said 'There is no pen', how do we say 'This is not a pen'?
+#+BEGIN_QUOTE
+これわぺんがある - As for this, it's a pen
+#+END_QUOTE
+#+BEGIN_QUOTE
+これわぺんではない - As for this, as for being a pen, it's not. (Note: で is the て-form of だ)
+#+END_QUOTE
+
+Now let's look at negative verbs. To make a verb negative we must attach ない to the あ-stem of the verb. How do we do this?
+
+** The Japanese stem system
+Note: these stems apply to Godan verbs. For Ichidan verbs we simply drop the る and add ない. Remember, all ichidan verbs end in る but not all る ending verbs are ichidan verbs.
+#+BEGIN_QUOTE
+たべる ー> たべない
+#+END_QUOTE
+
+Here is the kana-grid, presented on its side. Every verb ends in one of the う-row kana. (う-row kana that aren't used as verb endings have been removed).
+
+| あ | い | *う* | え | お |
+| か | き | *く* | け | こ |
+| さ | し | *す* | せ | そ |
+| た | ち | *つ* | て | と |
+| な | に | *ぬ* | ね | の |
+| ば | び | *ぶ* | べ | ぼ |
+| ま | み | *む* | め | も |
+| ら | り | *る* | れ | ろ |
+
+As we can see there are four other ways in which the verb could end. These are the verb stems. For now we're only looking at the あ-stem as this is the one we need for the negative.
+
+To from the あ-stem we simply shift the final kana from the う-row to the あ-row. There is one only exception and this is the only exception in the entire stem system. This exception is that う itself does not become あ but わ. This is because, take for example a verb like かう, かあ would not be as easy to say as かわ. Every other う-row kana is simply changed to its あ-row equivalent.
+
+| _*わ*_ | い | *う* | え | お |
+| _か_   | き | *く* | け | こ |
+| _さ_   | し | *す* | せ | そ |
+| _た_   | ち | *つ* | て | と |
+| _な_   | に | *ぬ* | ね | の |
+| _ば_   | び | *ぶ* | べ | ぼ |
+| _ま_   | み | *む* | め | も |
+| _ら_   | り | *る* | れ | ろ |
+
+So to form the negative form of a verb convert it to the あ-stem and add ない.
+#+BEGIN_QUOTE
+かう ー> かわない
+#+END_QUOTE
+#+BEGIN_QUOTE
+はなす ー> はなさない
+#+END_QUOTE
+
+** Negative adjectives (and adjective "conjugations")
+The adjective stem is simple, just drop the い and add く. This is how we make the て form, あかい ー> あかくて, and it's also the way we make the negative, あかい ー> あかくない.
+
+If we want to put an adjective into the past tense we drop the い and add かった.
+#+BEGIN_QUOTE
+こわい ー> こわかった - Was scary
+#+END_QUOTE
+
+Because ない is also an adjective, the past tense of it is just なかった.
+# I need to find a font that is uniform width for Japanese and Latin
+| Non-past             | Past                     |          |
+|----------------------+--------------------------+----------|
+| さくらがはしる       | さくらがはしった         | Positive |
+| さくらがはし*ら*ない | さくらがはし*ら*なかった | Negative |
+
+Now as we know さくらがはしる is not very natural Japanese, instead we would say さくらがはしっている. For this, all we need to do is put the いる into the past tense:
+#+BEGIN_QUOTE
+さくらがはしっている -> さくらがはしっていた - Sakura was running
+#+END_QUOTE
+
+** The only exceptions
+There are only two real exceptions to what has been covered in this lesson. They are the helper verb ます which makes words formal by adding it to the い-stem of a verb. When we put ます into the negative it does not become まさない as we would expect, but becomes ません, because it is formal it is a bit old-fashioned and uses the old Japanese negative せん instead of ない.
+
+The only other exception is いい (is good), which has an older form, which is still widely used in よい. When we morph いい it becomes よい again:
+#+BEGIN_QUOTE
+いい ー> よくない - Not-good
+#+END_QUOTE
+#+BEGIN_QUOTE
+いい ー> よかった - Was-good
+#+END_QUOTE
+
+Note: よかった is a common phrase: ∅がよかった - /It was good (That went well, it turned out great etc.)/

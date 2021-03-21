@@ -1,22 +1,26 @@
 
 # Table of Contents
 
-1.  [Lesson 1: The core Japanese sentence](#orge52adf7)
-2.  [Lesson 2](#org87e800f)
-    1.  [The invisible が carriage](#org998a347)
-    2.  [The を carriage](#org505d02c)
-3.  [Lesson 3](#org3241339)
-    1.  [は particle secrets](#orgbc5cf96)
-    2.  [The に particle](#org930dc2b)
-4.  [Lesson 4: Japanese past, present and future tenses](#org0fbfbe5)
-5.  [Lesson 5: Japanese verb groups and て form](#orgf060a7a)
-6.  [Lesson 6: Japanese &ldquo;adjectives&rdquo;](#orgd8e951a)
-    1.  [The の carriage](#org3eb17f1)
+1.  [Lesson 1: The core Japanese sentence](#orgee32fbc)
+2.  [Lesson 2](#orgd15bb55)
+    1.  [The invisible が carriage](#org187138a)
+    2.  [The を carriage](#org778c487)
+3.  [Lesson 3](#orgc086e7b)
+    1.  [は particle secrets](#orgf656124)
+    2.  [The に particle](#orgec196f8)
+4.  [Lesson 4: Japanese past, present and future tenses](#org5c40618)
+5.  [Lesson 5: Japanese verb groups and て form](#org6d566fb)
+6.  [Lesson 6: Japanese &ldquo;adjectives&rdquo;](#org47f0a28)
+    1.  [The の carriage](#org8b5a6c3)
+7.  [Lesson 7: Negative verbs and adjective &ldquo;conjugations&rdquo;](#org5fbf29e)
+    1.  [The Japanese stem system](#org11af34e)
+    2.  [Negative adjectives (and adjective &ldquo;conjugations&rdquo;)](#orgaac8719)
+    3.  [The only exceptions](#org0c26337)
 
 My follow-along notes from the Organic Japanese course on Youtube: <https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj>
 
 
-<a id="orge52adf7"></a>
+<a id="orgee32fbc"></a>
 
 # Lesson 1: The core Japanese sentence
 
@@ -51,12 +55,12 @@ To recap, all of these sentences begin with the subject, they are connected with
 -   い - *&ldquo;adjective&rdquo;* - A is B
 
 
-<a id="org87e800f"></a>
+<a id="orgd15bb55"></a>
 
 # Lesson 2
 
 
-<a id="org998a347"></a>
+<a id="org187138a"></a>
 
 ## The invisible が carriage
 
@@ -85,7 +89,7 @@ If I say 土曜日だ *&rsquo;It is Saturday&rsquo;* it is clear that ∅ means 
 Each of these sentences are complete grammatical sentences with a subject marked by が and an engine, but in each of these cases the が carriage is just invisible. It **is** still there. This may seem to be arbitrary, or over-complicated but it saves a lot of grief later on to model sentences this way. Without this information as sentences become more complex they&rsquo;re going to seem increasingly vague and hard to understand.
 
 
-<a id="org505d02c"></a>
+<a id="org778c487"></a>
 
 ## The を carriage
 
@@ -102,12 +106,12 @@ Once again, we would often see this said as: ケーキをたべる. This is just
 When we are saying ケーキをたべる, what we are really saying is ∅がケーキをたべる. And the default value for ∅ is わたし: *I*.
 
 
-<a id="org3241339"></a>
+<a id="orgc086e7b"></a>
 
 # Lesson 3
 
 
-<a id="orgbc5cf96"></a>
+<a id="orgf656124"></a>
 
 ## は particle secrets
 
@@ -133,7 +137,7 @@ There is no が carriage. We don&rsquo;t know who the subject actually is. One m
 Treating は as &rsquo;I am&rsquo; doesn&rsquo;t work. As we now know the default value of the ∅ pronoun is &rsquo;I&rsquo;, but in this context it&rsquo;s clear that we&rsquo;re talking instead about *what* we want to eat. わたしはうなぎだ therefore means &rsquo;As for me, eel&rsquo;.
 
 
-<a id="org930dc2b"></a>
+<a id="orgec196f8"></a>
 
 ## The に particle
 
@@ -171,7 +175,7 @@ As we know, even if the が carriage is invisible (or silent) this means &rsquo;
 Note, this time the を carriage has become invisible, because what we&rsquo;re throwing is now marked by the は particle, ∅ here has taken the value of &rsquo;it&rsquo;. Even without は we might already know what &rsquo;it&rsquo; was that was thrown from context. The important thing to understand here is that as we change the logical particles from one noun to another we change the meaning of the sentence, but when we change the non-logical particle は from one noun to another it makes no difference to the logic of the sentence. It may make some difference to the emphasis, but it makes no difference to who is doing what or what they&rsquo;re doing it to.
 
 
-<a id="org0fbfbe5"></a>
+<a id="org5c40618"></a>
 
 # Lesson 4: Japanese past, present and future tenses
 
@@ -219,7 +223,7 @@ For *non-relative*, i.e. *absolute* time expressions we must use the に particl
 We must attach に in all the same places we would attach on/in/at in English. On Tuesday, in March, at 12 o&rsquo;clock. Foruntately in Japanese we only need to use the one particle.
 
 
-<a id="orgf060a7a"></a>
+<a id="org6d566fb"></a>
 
 # Lesson 5: Japanese verb groups and て form
 
@@ -243,7 +247,7 @@ There are only two irregular verbs, くる and する. いく, is partly irregul
 These are the only exceptions
 
 
-<a id="orgd8e951a"></a>
+<a id="org47f0a28"></a>
 
 # Lesson 6: Japanese &ldquo;adjectives&rdquo;
 
@@ -288,7 +292,7 @@ We can turn やんちゃ into an adjective too, but there is one important thing
 An important note is that we cannot do this with *all* nouns, only nouns which are frequently used in an adjectival way. This group of nouns is what the are referred to as &rsquo;な-adjectives&rsquo;. We can use all nouns as adjectives, but for the rest we need to use a different technique and for that we will have to learn about the の particle.
 
 
-<a id="org3eb17f1"></a>
+<a id="org8b5a6c3"></a>
 
 ## The の carriage
 
@@ -309,6 +313,292 @@ Because this is the *possessive particle* we can use this in another slightly di
 Just as before, there&rsquo;s no need to worry about misusing の and な, no-one listening is going to misunderstand what you&rsquo;re saying and it&rsquo;s a very typical beginner mistake to make.
 
 Using these techniques we can make all kinds of sentences that can become very complex, especially with verbal adjectives in which we can use whole sentences in an adjectival manner.
+
+
+<a id="org5fbf29e"></a>
+
+# Lesson 7: Negative verbs and adjective &ldquo;conjugations&rdquo;
+
+The fundamental basis of negatives is the adjective ない. This adjective means &rsquo;non-exist&rsquo;. The word for exist (for any inanimate thing) is ある. If we want to say that something exists:
+
+> ぺんがある
+
+But if we want to say that something doesn&rsquo;t exist we say:
+
+> ぺんがない
+
+Now, why do we use a verb for being, and an adjective for non-being? This is something that happens all throughout Japanese, when we do something we use a verb, but when we don&rsquo;t do something we attach ない and are therefore using an adjective as the engine of the sentence. This has a very logical reason, when we **do** something, an action is taking place, and so we use a verb, but when we **don&rsquo;t do** it we are describing a state of non-action, so that&rsquo;s an adjective.
+
+Above we have said &rsquo;There is no pen&rsquo;, how do we say &rsquo;This is not a pen&rsquo;?
+
+> これわぺんがある - As for this, it&rsquo;s a pen
+
+> これわぺんではない - As for this, as for being a pen, it&rsquo;s not. (Note: で is the て-form of だ)
+
+Now let&rsquo;s look at negative verbs. To make a verb negative we must attach ない to the あ-stem of the verb. How do we do this?
+
+
+<a id="org11af34e"></a>
+
+## The Japanese stem system
+
+Note: these stems apply to Godan verbs. For Ichidan verbs we simply drop the る and add ない. Remember, all ichidan verbs end in る but not all る ending verbs are ichidan verbs.
+
+> たべる ー> たべない
+
+Here is the kana-grid, presented on its side. Every verb ends in one of the う-row kana. (う-row kana that aren&rsquo;t used as verb endings have been removed).
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">あ</td>
+<td class="org-left">い</td>
+<td class="org-left"><b>う</b></td>
+<td class="org-left">え</td>
+<td class="org-left">お</td>
+</tr>
+
+
+<tr>
+<td class="org-left">か</td>
+<td class="org-left">き</td>
+<td class="org-left"><b>く</b></td>
+<td class="org-left">け</td>
+<td class="org-left">こ</td>
+</tr>
+
+
+<tr>
+<td class="org-left">さ</td>
+<td class="org-left">し</td>
+<td class="org-left"><b>す</b></td>
+<td class="org-left">せ</td>
+<td class="org-left">そ</td>
+</tr>
+
+
+<tr>
+<td class="org-left">た</td>
+<td class="org-left">ち</td>
+<td class="org-left"><b>つ</b></td>
+<td class="org-left">て</td>
+<td class="org-left">と</td>
+</tr>
+
+
+<tr>
+<td class="org-left">な</td>
+<td class="org-left">に</td>
+<td class="org-left"><b>ぬ</b></td>
+<td class="org-left">ね</td>
+<td class="org-left">の</td>
+</tr>
+
+
+<tr>
+<td class="org-left">ば</td>
+<td class="org-left">び</td>
+<td class="org-left"><b>ぶ</b></td>
+<td class="org-left">べ</td>
+<td class="org-left">ぼ</td>
+</tr>
+
+
+<tr>
+<td class="org-left">ま</td>
+<td class="org-left">み</td>
+<td class="org-left"><b>む</b></td>
+<td class="org-left">め</td>
+<td class="org-left">も</td>
+</tr>
+
+
+<tr>
+<td class="org-left">ら</td>
+<td class="org-left">り</td>
+<td class="org-left"><b>る</b></td>
+<td class="org-left">れ</td>
+<td class="org-left">ろ</td>
+</tr>
+</tbody>
+</table>
+
+As we can see there are four other ways in which the verb could end. These are the verb stems. For now we&rsquo;re only looking at the あ-stem as this is the one we need for the negative.
+
+To from the あ-stem we simply shift the final kana from the う-row to the あ-row. There is one only exception and this is the only exception in the entire stem system. This exception is that う itself does not become あ but わ. This is because, take for example a verb like かう, かあ would not be as easy to say as かわ. Every other う-row kana is simply changed to its あ-row equivalent.
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left"><span class="underline"><b>わ</b></span></td>
+<td class="org-left">い</td>
+<td class="org-left"><b>う</b></td>
+<td class="org-left">え</td>
+<td class="org-left">お</td>
+</tr>
+
+
+<tr>
+<td class="org-left"><span class="underline">か</span></td>
+<td class="org-left">き</td>
+<td class="org-left"><b>く</b></td>
+<td class="org-left">け</td>
+<td class="org-left">こ</td>
+</tr>
+
+
+<tr>
+<td class="org-left"><span class="underline">さ</span></td>
+<td class="org-left">し</td>
+<td class="org-left"><b>す</b></td>
+<td class="org-left">せ</td>
+<td class="org-left">そ</td>
+</tr>
+
+
+<tr>
+<td class="org-left"><span class="underline">た</span></td>
+<td class="org-left">ち</td>
+<td class="org-left"><b>つ</b></td>
+<td class="org-left">て</td>
+<td class="org-left">と</td>
+</tr>
+
+
+<tr>
+<td class="org-left"><span class="underline">な</span></td>
+<td class="org-left">に</td>
+<td class="org-left"><b>ぬ</b></td>
+<td class="org-left">ね</td>
+<td class="org-left">の</td>
+</tr>
+
+
+<tr>
+<td class="org-left"><span class="underline">ば</span></td>
+<td class="org-left">び</td>
+<td class="org-left"><b>ぶ</b></td>
+<td class="org-left">べ</td>
+<td class="org-left">ぼ</td>
+</tr>
+
+
+<tr>
+<td class="org-left"><span class="underline">ま</span></td>
+<td class="org-left">み</td>
+<td class="org-left"><b>む</b></td>
+<td class="org-left">め</td>
+<td class="org-left">も</td>
+</tr>
+
+
+<tr>
+<td class="org-left"><span class="underline">ら</span></td>
+<td class="org-left">り</td>
+<td class="org-left"><b>る</b></td>
+<td class="org-left">れ</td>
+<td class="org-left">ろ</td>
+</tr>
+</tbody>
+</table>
+
+So to form the negative form of a verb convert it to the あ-stem and add ない.
+
+> かう ー> かわない
+
+> はなす ー> はなさない
+
+
+<a id="orgaac8719"></a>
+
+## Negative adjectives (and adjective &ldquo;conjugations&rdquo;)
+
+The adjective stem is simple, just drop the い and add く. This is how we make the て form, あかい ー> あかくて, and it&rsquo;s also the way we make the negative, あかい ー> あかくない.
+
+If we want to put an adjective into the past tense we drop the い and add かった.
+
+> こわい ー> こわかった - Was scary
+
+Because ない is also an adjective, the past tense of it is just なかった.
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Non-past</th>
+<th scope="col" class="org-left">Past</th>
+<th scope="col" class="org-left">&#xa0;</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="org-left">さくらがはしる</td>
+<td class="org-left">さくらがはしった</td>
+<td class="org-left">Positive</td>
+</tr>
+
+
+<tr>
+<td class="org-left">さくらがはし*ら*ない</td>
+<td class="org-left">さくらがはし*ら*なかった</td>
+<td class="org-left">Negative</td>
+</tr>
+</tbody>
+</table>
+
+Now as we know さくらがはしる is not very natural Japanese, instead we would say さくらがはしっている. For this, all we need to do is put the いる into the past tense:
+
+> さくらがはしっている -> さくらがはしっていた - Sakura was running
+
+
+<a id="org0c26337"></a>
+
+## The only exceptions
+
+There are only two real exceptions to what has been covered in this lesson. They are the helper verb ます which makes words formal by adding it to the い-stem of a verb. When we put ます into the negative it does not become まさない as we would expect, but becomes ません, because it is formal it is a bit old-fashioned and uses the old Japanese negative せん instead of ない.
+
+The only other exception is いい (is good), which has an older form, which is still widely used in よい. When we morph いい it becomes よい again:
+
+> いい ー> よくない - Not-good
+
+> いい ー> よかった - Was-good
+
+Note: よかった is a common phrase: ∅がよかった - *It was good (That went well, it turned out great etc.)*
 
 
 # Footnotes

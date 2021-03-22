@@ -310,7 +310,7 @@ Here is the kana-grid, presented on its side. Every verb ends in one of the う-
 As we can see there are four other ways in which the verb could end. These are the verb stems. For now we're only looking at the あ-stem as this is the one we need for the negative.
 
 To from the あ-stem we simply shift the final kana from the う-row to the あ-row. There is one only exception and this is the only exception in the entire stem system. This exception is that う itself does not become あ but わ. This is because, take for example a verb like かう, かあ would not be as easy to say as かわ. Every other う-row kana is simply changed to its あ-row equivalent.
-
+# TODO: You cannot underline kana apparently
 | _*わ*_ | い | *う* | え | お |
 | _か_   | き | *く* | け | こ |
 | _さ_   | し | *す* | せ | そ |
@@ -360,3 +360,5 @@ The only other exception is いい (is good), which has an older form, which is 
 #+END_QUOTE
 
 Note: よかった is a common phrase: ∅がよかった - /It was good (That went well, it turned out great etc.)/
+* Extra: The secret to all Japanese "conjugations"
+Uncovered. Partially covered in previous lesson. Will be covered if required in future lessons.

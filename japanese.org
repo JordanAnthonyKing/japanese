@@ -362,3 +362,54 @@ The only other exception is いい (is good), which has an older form, which is 
 Note: よかった is a common phrase: ∅がよかった - /It was good (That went well, it turned out great etc.)/
 * Extra: The secret to all Japanese "conjugations"
 Uncovered. Partially covered in previous lesson. Will be covered if required in future lessons.
+* Lesson 8: Location, purpose and transformation (に and へ particles).
+We already know that in a logical sentence the に particle marks the ultimate target of an action. If we are going somewhere, or sending something somewhere, or putting something somewhere, we use に.
+#+BEGIN_QUOTE
+∅がみせ*に*いく - (I) will go to the shop
+#+END_QUOTE
+We can also mark a more subtler kind of target:
+#+BEGIN_QUOTE
+∅がみせ*に*たまごをかい*に*いく - (I) will go to the shop to buy eggs
+#+END_QUOTE
+Note: かい is the い stem of かう, to buy.
+
+If we recall, logical particles (が, に, を) can only mark nouns. The い stem of a verb is the equivalent noun form of it. Just as in English 'I like swimming', /swimming/ is a noun, 'I go to the shop for the purpose of buying eggs', this /buying/ is also a noun.
+
+に gives us the target of an action in the literal sense, and also the target in a volitional sense, i.e. the aim of our action.
+
+As well as identifying a place we will go to, に can also specify a place we are currently at:
+#+BEGIN_QUOTE
+∅がみせ*に*いる - (I am) at the shop
+#+END_QUOTE
+This に is still marking a target, just not a future target. In order for something to be somewhere it must've gotten there, and so に specifies the target or some past action. We can also use this for inanimate objects:
+#+BEGIN_QUOTE
+ほんは∅テーベルのうえ*に*ある - As for the book, (it) exists (is) on-at the table.
+#+END_QUOTE
+Note: うえ is a noun, meaning the on/top of something.
+
+Finally, に can also mark a transformation. If /a/ becomes /b/, then に also marks /b/, the thing a is becomming.
+#+BEGIN_QUOTE
+さくらは∅がかえる*に*なった - Sakura became a frog
+#+END_QUOTE
+Of course this example is a bit of a joke, but there are of course various every day things that become other things. This form of expression is also used much more often in Japanese than in English.
+#+BEGIN_QUOTE
+ことし∅が十八さいになる - This year (I) become 18 years old
+#+END_QUOTE
+#+BEGIN_QUOTE
+あとで∅がくもりになる - Later (it (the weather) will) become cloudy
+#+END_QUOTE
+
+For adjectives things work slightly differently:
+#+BEGIN_QUOTE
+さくらがうつくしい - Sakura is beautiful
+#+END_QUOTE
+If we want to say 'Sakura became beautiful' we can't use に because うつくしい isn't a noun, (referring back to our metaphor), it's not a carriage, it's an engine. All we need to do is turn the adjective into its stem by removing い and adding く (refer back to lesson 6).
+# TODO: I don't actually see anything discussing this in lesson 6, go back and check sometime
+#+BEGIN_QUOTE
+さくらがうつくしくなった - Sakura became beautiful
+#+END_QUOTE
+
+** The へ car
+Note: when used as a particle へ is pronounced え.
+
+This is a very simple particle, it duplicates a single use of に. When we say /a is going to b/ we can freely substitute に with へ. This is *all* is can do, it cannot even mark the case where something /is/, only where it is /going/.

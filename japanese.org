@@ -413,3 +413,35 @@ If we want to say 'Sakura became beautiful' we can't use に because うつく�
 Note: when used as a particle へ is pronounced え.
 
 This is a very simple particle, it duplicates a single use of に. When we say /a is going to b/ we can freely substitute に with へ. This is *all* is can do, it cannot even mark the case where something /is/, only where it is /going/.
+* Lesson 8b: Japanese particles explained
+A logical particle tells us how the sentence logically holds together. It tells us who does what to whom with what, when and where.
+
+は is a non-logical particle, it simply identifies the topic, but doesn't say anything about it. Other particles like と are /alogical/, they aren't simply markers. In the case of と the particle 'ands' two nouns together. It is therefore doing something in the sentence, in our train metaphor it is joining a noun-carriage to another carriage, inheriting its logical particle, but has no function of its own.
+#+BEGIN_QUOTE
+さくら*と*メイリー*が*あるいていた - Sakura *and* Mary were walking
+#+END_QUOTE
+
+Logical particles *always* attach to a noun. If we see a logical particle attached to anything else then we know that that word is functionally a noun.
+
+The noun and the particle attached to it are an inseperable pair. We must view the two together, they are a question and an answer which form a fundamental unit of the Japanese sentence.
+
+There cannot be a sentence without が, even if sometimes you can't see it. が can work in A is B sentences, descriptive sentences. The other particles can *only* work in A does B sentences, that is sentences with a verb engine.
+- が - Who (or what) did it?
+- を - Whom was it done to?
+- に - Where did they go?/Where are they?
+- へ - What direction?
+- で - Where was it done? With what was it done?
+#+BEGIN_QUOTE
+∅がこうえん*に*いる - I am in the park
+#+END_QUOTE
+#+BEGIN_QUOTE
+∅がこうえん*で*あるんでいる - I am playing in the park
+#+END_QUOTE
+Remember, あそんで is the て form of あそぶ and is a secondary engine, modifying いる. I am => I am playing.
+#+BEGIN_QUOTE
+∅がこうえん*に*いく - I go to the park
+#+END_QUOTE
+#+BEGIN_QUOTE
+∅がバス*で*こうえんいいく - I go to the park by bus
+#+END_QUOTE
+If we say 'I went by bus' or 'I ate with chopsticks' we use で for the thing we did it with, the means by which we performed the action.

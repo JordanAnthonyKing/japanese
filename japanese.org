@@ -114,20 +114,20 @@ The に particle marks the target (indirect object) of an engine. Along with the
 #+END_QUOTE
 The *core* sentence is 'I threw', and the extra carriage (を) tells us what we threw, the ball. We can add another carriage to tell us more about the engine:
 #+BEGIN_QUOTE
-わたしがぼーるをさくらになげる - I threw the ball at/to Sakura
+わたしがぼーるをさくら*に*なげる - I threw the ball at/to Sakura
 #+END_QUOTE
 Sakura is the destination, the target. It is important to note here that the logical particles tell us what is happened. The order of the words doesn't really matter the way it does in English.
 #+BEGIN_QUOTE
-わたしにさくらがぼーるをなげる - Sakura threw the ball at/to me.
+わたし*に*さくらがぼーるをなげる - Sakura threw the ball at/to me.
 #+END_QUOTE
 #+BEGIN_QUOTE
-ぼーるがわたしにさくらをなげる - The ball throws Sakura at me
+ぼーるがわたし*に*さくらをなげる - The ball throws Sakura at me
 #+END_QUOTE
 Obviously this final example doesn't make any sense (although we might want to say something non-sensical like this in a fantasy novel or something) but we can say whatever we like in Japanese so long as we use the right logical particles.
 
 Now let's introduce は:
 #+BEGIN_EXAMPLE
-  /flag/    /carriage/ /carriage/  /carriage/ /engine/
+  /flag/   /carriage/  /carriage//carriage/ /engine/
 [わたし*は*]  [∅*が*]   [さくら*に*] [ぼーる*を*] [なげる]
 #+END_EXAMPLE
 As we know, even if the が carriage is invisible (or silent) this means 'As for me, (I) threw the ball at Sakura'. Now let's give the は /flag/ to the ball:
@@ -175,13 +175,13 @@ The way in which we do this is exactly the same as the way in which we attach �
 
 If we want to make it clear that we are talking about a future event we can add a time expression. By prefixing a sentence with あした (tomorrow), we can make it clear that what we will be doing, we will be doing tomorrow.
 #+BEGIN_QUOTE
-あした[∅が]ケーキをたべる - Tomorrow I will eat cake
+あした∅がケーキをたべる - Tomorrow I will eat cake
 #+END_QUOTE
 Note how we simply preface the sentence with 'tomorrow', just like we would in English. This is the case with all /relative-time nouns/, yesterday, tomorrow, the day after tomorrow, next week, next month, next year.
 
 For /non-relative/, i.e. /absolute/ time expressions we must use the に particle:
 #+BEGIN_QUOTE
-火曜日*に*[∅が]ケーキをたべる - On Tuesday I will eat cake
+火曜日*に*∅がケーキをたべる - On Tuesday I will eat cake
 #+END_QUOTE
 We must attach に in all the same places we would attach on/in/at in English. On Tuesday, in March, at 12 o'clock. Foruntately in Japanese we only need to use the one particle.
 
@@ -214,7 +214,7 @@ Let's start with the first one, the one we refer to as an adjective in English, 
 #+BEGIN_QUOTE
 ぺんがあかい - Pen is red
 #+END_QUOTE
-An important note, あかい does not mean 'red', it means *is red*. あか means red.
+An important note, あかい does not mean 'red', it means 'is red'. あか means red.
 
 If we swap the order of ぺんが and あかい then we can take this い engine, and now use it not as the primary engine, but as a secondary engine. This would not be a complete sentence however without a new engine, for example, a new (primary) い engine.
 #+BEGIN_QUOTE
@@ -251,10 +251,10 @@ An important note is that we cannot do this with /all/ nouns, only nouns which a
 ** The の carriage
 The の particle, or the /possessive particle/ functions just like the English /'s/.
 #+BEGIN_QUOTE
-さくらのはな - Sakura's nose
+さくら*の*はな - Sakura's nose
 #+END_QUOTE
 #+BEGIN_QUOTE
-わたしのはな - Me's (my) nose
+わたし*の*はな - Me's (my) nose
 #+END_QUOTE
 Luckly in Japanese we don't have to worry about his/her/my/their, we just use の.
 
@@ -282,10 +282,10 @@ Now, why do we use a verb for being, and an adjective for non-being? This is som
 
 Above we have said 'There is no pen', how do we say 'This is not a pen'?
 #+BEGIN_QUOTE
-これわぺんがある - As for this, it's a pen
+これはぺんがある - As for this, it's a pen
 #+END_QUOTE
 #+BEGIN_QUOTE
-これわぺんではない - As for this, as for being a pen, it's not. (Note: で is the て-form of だ)
+これはぺんではない - As for this, as for being a pen, it's not. (Note: で is the て-form of だ)
 #+END_QUOTE
 
 Now let's look at negative verbs. To make a verb negative we must attach ない to the あ-stem of the verb. How do we do this?

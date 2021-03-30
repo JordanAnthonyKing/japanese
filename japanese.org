@@ -185,7 +185,6 @@ For /non-relative/, i.e. /absolute/ time expressions we must use the に particl
 #+END_QUOTE
 We must attach に in all the same places we would attach on/in/at in English. On Tuesday, in March, at 12 o'clock. Foruntately in Japanese we only need to use the one particle.
 
-
 * Lesson 5: Japanese verb groups and て form
 Japanese verbs fall into three groups: /Ichidan/, /Godan/, and /irregular/
 
@@ -445,7 +444,7 @@ Remember, あそんで is the て form of あそぶ and is a secondary engine, m
 ∅がバス*で*こうえんいいく - I go to the park by bus
 #+END_QUOTE
 If we say 'I went by bus' or 'I ate with chopsticks' we use で for the thing we did it with, the means by which we performed the action.
-* Lesson 9: Japanese: No 1 secret + Expressing desire
+* Lesson 9: Japanese: No 1 secret and expressing desire
 ** The No 1 secret
 English is an /ego-centric/ language. Japanese is a more /animist/ language. What this means is that English always wants a person, preferably I, but if not I then someone else, or perhaps it will settle for an animal, but always wanting an animate being to be acting. Japanese is not this way:
 #+BEGIN_QUOTE
@@ -511,3 +510,41 @@ To do this we take the い off of the adjective and add the helper verb がる.
 Even if Sakura has actually told me she wants cake, we must still use がる. All I know is what she's said, I still don't know her feelings absolutely.
 
 Why do we use a verb for other people and an adjective for ourselves? I can't describe someone else's feelings because I don't know about them, I can only describe their actions, and their actions are a verb.
+* Lesson 10: Japanese "conjugation" and potential form
+What textbooks typically refer to as "conjugations" are really just helper-verbs attached to the four verb stems.
+
+We have already looked at the helper-adjectives ない and たい, as well as the helper-verb がる. Now for the potential helper-verb which attaches to the え-stem of a verb.
+| あ | い | *う* | *え* | お |
+| か | き | *く* | *け* | こ |
+| さ | し | *す* | *せ* | そ |
+| た | ち | *つ* | *て* | と |
+| な | に | *ぬ* | *ね* | の |
+| ば | び | *ぶ* | *べ* | ぼ |
+| ま | み | *む* | *め* | も |
+| ら | り | *る* | *れ* | ろ |
+
+The potential helper verb has two forms, for godan verbs る, and for ichidan verbs られる.
+
+There are only two exceptions, くる and する.
+#+BEGIN_QUOTE
+くる -> こられる
+#+END_QUOTE
+#+BEGIN_QUOTE
+する ー> できる
+#+END_QUOTE
+
+There is only one difficult spot with the potential form, and it is similar to the issue from the previous lesson.
+#+BEGIN_QUOTE
+わたしは(optional)ほんがよめる - As for me, the book is readable
+#+END_QUOTE
+A common translation of this would be 'I can read the book', however again the が is on the book, not on I. If we wanted to say 'I can read the book', the book would need to bemarked by を as it is the target of our reading, and 'I' would have to be marked by が as I is the actor.
+#+BEGIN_QUOTE
+わたしがほんをよめる - I can read the book
+#+END_QUOTE
+This is perfectly fine, but it's not what is usually done. Remember, Japanese is not /egocentric/.
+
+As we're using a helper-verb, the past, non-past, negative-past and negative-non-past conjugation rules are the same as regular verbs, for あるける (can walk):
+- あるける - non-past
+- あるけた - past
+- あるけない - negative-non-past
+- あるけなっかた - negative-past

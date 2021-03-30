@@ -1,34 +1,35 @@
 
 # Table of Contents
 
-1.  [Lesson 1: The core Japanese sentence](#org3b6aec2)
-2.  [Lesson 2](#org6199001)
-    1.  [The invisible が carriage](#orgab093d1)
-    2.  [The を carriage](#org63f5a2b)
-3.  [Lesson 3](#orgd976872)
-    1.  [は particle secrets](#orgf45e7e7)
-    2.  [The に particle](#org4f7a316)
-4.  [Lesson 4: Japanese past, present and future tenses](#org0317e0e)
-5.  [Lesson 5: Japanese verb groups and て form](#orgb729be8)
-6.  [Lesson 6: Japanese &ldquo;adjectives&rdquo;](#org223968f)
-    1.  [The の carriage](#orgf5a9f6e)
-7.  [Lesson 7: Negative verbs and adjective &ldquo;conjugations&rdquo;](#org45d8ba1)
-    1.  [The Japanese stem system](#org86daa40)
-    2.  [Negative adjectives (and adjective &ldquo;conjugations&rdquo;)](#orgde74aa4)
-    3.  [The only exceptions](#orgeed9f96)
-8.  [Extra: The secret to all Japanese &ldquo;conjugations&rdquo;](#org416bdfd)
-9.  [Lesson 8: Location, purpose and transformation (に and へ particles).](#org9ce7820)
-    1.  [The へ car](#orgd3b7b07)
-10. [Lesson 8b: Japanese particles explained](#orgb7028dc)
-11. [Lesson 9: Japanese: No 1 secret + Expressing desire](#orgaf77ed1)
-    1.  [The No 1 secret](#org5d1110a)
-    2.  [Expressing desire](#org6689c0c)
-    3.  [A final note to help keep things clear](#orgd95695c)
+1.  [Lesson 1: The core Japanese sentence](#orge04c2a0)
+2.  [Lesson 2](#org9f0464e)
+    1.  [The invisible が carriage](#org8c1304a)
+    2.  [The を carriage](#org23bce99)
+3.  [Lesson 3](#org927038f)
+    1.  [は particle secrets](#org332b864)
+    2.  [The に particle](#org75457ab)
+4.  [Lesson 4: Japanese past, present and future tenses](#org4bde8ca)
+5.  [Lesson 5: Japanese verb groups and て form](#orgf9571b9)
+6.  [Lesson 6: Japanese &ldquo;adjectives&rdquo;](#orgbee862a)
+    1.  [The の carriage](#org2a4be96)
+7.  [Lesson 7: Negative verbs and adjective &ldquo;conjugations&rdquo;](#org722ef04)
+    1.  [The Japanese stem system](#org2a1a019)
+    2.  [Negative adjectives (and adjective &ldquo;conjugations&rdquo;)](#org61c0222)
+    3.  [The only exceptions](#org31bfc01)
+8.  [Extra: The secret to all Japanese &ldquo;conjugations&rdquo;](#orgdb260d9)
+9.  [Lesson 8: Location, purpose and transformation (に and へ particles).](#org2f62359)
+    1.  [The へ car](#org6df5b81)
+10. [Lesson 8b: Japanese particles explained](#org4c8399a)
+11. [Lesson 9: Japanese: No 1 secret and expressing desire](#orgd9b474e)
+    1.  [The No 1 secret](#orgd4e8347)
+    2.  [Expressing desire](#org356e870)
+    3.  [A final note to help keep things clear](#orgd6620c1)
+12. [Lesson 10: Japanese &ldquo;conjugation&rdquo; and potential form](#org932f7cf)
 
 My follow-along notes from the Organic Japanese course on Youtube: <https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj>
 
 
-<a id="org3b6aec2"></a>
+<a id="orge04c2a0"></a>
 
 # Lesson 1: The core Japanese sentence
 
@@ -63,12 +64,12 @@ To recap, all of these sentences begin with the subject, they are connected with
 -   い - *&ldquo;adjective&rdquo;* - A is B
 
 
-<a id="org6199001"></a>
+<a id="org9f0464e"></a>
 
 # Lesson 2
 
 
-<a id="orgab093d1"></a>
+<a id="org8c1304a"></a>
 
 ## The invisible が carriage
 
@@ -97,7 +98,7 @@ If I say 土曜日だ *&rsquo;It is Saturday&rsquo;* it is clear that ∅ means 
 Each of these sentences are complete grammatical sentences with a subject marked by が and an engine, but in each of these cases the が carriage is just invisible. It **is** still there. This may seem to be arbitrary, or over-complicated but it saves a lot of grief later on to model sentences this way. Without this information as sentences become more complex they&rsquo;re going to seem increasingly vague and hard to understand.
 
 
-<a id="org63f5a2b"></a>
+<a id="org23bce99"></a>
 
 ## The を carriage
 
@@ -114,12 +115,12 @@ Once again, we would often see this said as: ケーキをたべる. This is just
 When we are saying ケーキをたべる, what we are really saying is ∅がケーキをたべる. And the default value for ∅ is わたし: *I*.
 
 
-<a id="orgd976872"></a>
+<a id="org927038f"></a>
 
 # Lesson 3
 
 
-<a id="orgf45e7e7"></a>
+<a id="org332b864"></a>
 
 ## は particle secrets
 
@@ -145,7 +146,7 @@ There is no が carriage. We don&rsquo;t know who the subject actually is. One m
 Treating は as &rsquo;I am&rsquo; doesn&rsquo;t work. As we now know the default value of the ∅ pronoun is &rsquo;I&rsquo;, but in this context it&rsquo;s clear that we&rsquo;re talking instead about *what* we want to eat. わたしはうなぎだ therefore means &rsquo;As for me, eel&rsquo;.
 
 
-<a id="org4f7a316"></a>
+<a id="org75457ab"></a>
 
 ## The に particle
 
@@ -183,7 +184,7 @@ As we know, even if the が carriage is invisible (or silent) this means &rsquo;
 Note, this time the を carriage has become invisible, because what we&rsquo;re throwing is now marked by the は particle, ∅ here has taken the value of &rsquo;it&rsquo;. Even without は we might already know what &rsquo;it&rsquo; was that was thrown from context. The important thing to understand here is that as we change the logical particles from one noun to another we change the meaning of the sentence, but when we change the non-logical particle は from one noun to another it makes no difference to the logic of the sentence. It may make some difference to the emphasis, but it makes no difference to who is doing what or what they&rsquo;re doing it to.
 
 
-<a id="org0317e0e"></a>
+<a id="org4bde8ca"></a>
 
 # Lesson 4: Japanese past, present and future tenses
 
@@ -231,7 +232,7 @@ For *non-relative*, i.e. *absolute* time expressions we must use the に particl
 We must attach に in all the same places we would attach on/in/at in English. On Tuesday, in March, at 12 o&rsquo;clock. Foruntately in Japanese we only need to use the one particle.
 
 
-<a id="orgb729be8"></a>
+<a id="orgf9571b9"></a>
 
 # Lesson 5: Japanese verb groups and て form
 
@@ -255,7 +256,7 @@ There are only two irregular verbs, くる and する. いく, is partly irregul
 These are the only exceptions
 
 
-<a id="org223968f"></a>
+<a id="orgbee862a"></a>
 
 # Lesson 6: Japanese &ldquo;adjectives&rdquo;
 
@@ -300,7 +301,7 @@ We can turn やんちゃ into an adjective too, but there is one important thing
 An important note is that we cannot do this with *all* nouns, only nouns which are frequently used in an adjectival way. This group of nouns is what the are referred to as &rsquo;な-adjectives&rsquo;. We can use all nouns as adjectives, but for the rest we need to use a different technique and for that we will have to learn about the の particle.
 
 
-<a id="orgf5a9f6e"></a>
+<a id="org2a4be96"></a>
 
 ## The の carriage
 
@@ -323,7 +324,7 @@ Just as before, there&rsquo;s no need to worry about misusing の and な, no-on
 Using these techniques we can make all kinds of sentences that can become very complex, especially with verbal adjectives in which we can use whole sentences in an adjectival manner.
 
 
-<a id="org45d8ba1"></a>
+<a id="org722ef04"></a>
 
 # Lesson 7: Negative verbs and adjective &ldquo;conjugations&rdquo;
 
@@ -346,7 +347,7 @@ Above we have said &rsquo;There is no pen&rsquo;, how do we say &rsquo;This is n
 Now let&rsquo;s look at negative verbs. To make a verb negative we must attach ない to the あ-stem of the verb. How do we do this?
 
 
-<a id="org86daa40"></a>
+<a id="org2a1a019"></a>
 
 ## The Japanese stem system
 
@@ -543,7 +544,7 @@ So to form the negative form of a verb convert it to the あ-stem and add ない
 > はなす ー> はなさない
 
 
-<a id="orgde74aa4"></a>
+<a id="org61c0222"></a>
 
 ## Negative adjectives (and adjective &ldquo;conjugations&rdquo;)
 
@@ -594,7 +595,7 @@ Now as we know さくらがはしる is not very natural Japanese, instead we wo
 > さくらがはしっている -> さくらがはしっていた - Sakura was running
 
 
-<a id="orgeed9f96"></a>
+<a id="org31bfc01"></a>
 
 ## The only exceptions
 
@@ -609,14 +610,14 @@ The only other exception is いい (is good), which has an older form, which is 
 Note: よかった is a common phrase: ∅がよかった - *It was good (That went well, it turned out great etc.)*
 
 
-<a id="org416bdfd"></a>
+<a id="orgdb260d9"></a>
 
 # Extra: The secret to all Japanese &ldquo;conjugations&rdquo;
 
 Uncovered. Partially covered in previous lesson. Will be covered if required in future lessons.
 
 
-<a id="org9ce7820"></a>
+<a id="org2f62359"></a>
 
 # Lesson 8: Location, purpose and transformation (に and へ particles).
 
@@ -663,7 +664,7 @@ If we want to say &rsquo;Sakura became beautiful&rsquo; we can&rsquo;t use に b
 > さくらがうつくしくなった - Sakura became beautiful
 
 
-<a id="orgd3b7b07"></a>
+<a id="org6df5b81"></a>
 
 ## The へ car
 
@@ -672,7 +673,7 @@ Note: when used as a particle へ is pronounced え.
 This is a very simple particle, it duplicates a single use of に. When we say *a is going to b* we can freely substitute に with へ. This is **all** is can do, it cannot even mark the case where something *is*, only where it is *going*.
 
 
-<a id="orgb7028dc"></a>
+<a id="org4c8399a"></a>
 
 # Lesson 8b: Japanese particles explained
 
@@ -707,12 +708,12 @@ Remember, あそんで is the て form of あそぶ and is a secondary engine, m
 If we say &rsquo;I went by bus&rsquo; or &rsquo;I ate with chopsticks&rsquo; we use で for the thing we did it with, the means by which we performed the action.
 
 
-<a id="orgaf77ed1"></a>
+<a id="orgd9b474e"></a>
 
-# Lesson 9: Japanese: No 1 secret + Expressing desire
+# Lesson 9: Japanese: No 1 secret and expressing desire
 
 
-<a id="org5d1110a"></a>
+<a id="orgd4e8347"></a>
 
 ## The No 1 secret
 
@@ -737,7 +738,7 @@ If this sentence were 1-1 with the common English meaning given, then every sing
 > わたしはほんがわかる
 
 
-<a id="org6689c0c"></a>
+<a id="org356e870"></a>
 
 ## Expressing desire
 
@@ -766,7 +767,7 @@ So what is たい? Is it an adjective describing the *condition of something* ma
 This isn&rsquo;t confusing because が tells us what to do.
 
 
-<a id="orgd95695c"></a>
+<a id="orgd6620c1"></a>
 
 ## A final note to help keep things clear
 
@@ -787,6 +788,128 @@ To do this we take the い off of the adjective and add the helper verb がる.
 Even if Sakura has actually told me she wants cake, we must still use がる. All I know is what she&rsquo;s said, I still don&rsquo;t know her feelings absolutely.
 
 Why do we use a verb for other people and an adjective for ourselves? I can&rsquo;t describe someone else&rsquo;s feelings because I don&rsquo;t know about them, I can only describe their actions, and their actions are a verb.
+
+
+<a id="org932f7cf"></a>
+
+# Lesson 10: Japanese &ldquo;conjugation&rdquo; and potential form
+
+What textbooks typically refer to as &ldquo;conjugations&rdquo; are really just helper-verbs attached to the four verb stems.
+
+We have already looked at the helper-adjectives ない and たい, as well as the helper-verb がる. Now for the potential helper-verb which attaches to the え-stem of a verb.
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">あ</td>
+<td class="org-left">い</td>
+<td class="org-left"><b>う</b></td>
+<td class="org-left"><b>え</b></td>
+<td class="org-left">お</td>
+</tr>
+
+
+<tr>
+<td class="org-left">か</td>
+<td class="org-left">き</td>
+<td class="org-left"><b>く</b></td>
+<td class="org-left"><b>け</b></td>
+<td class="org-left">こ</td>
+</tr>
+
+
+<tr>
+<td class="org-left">さ</td>
+<td class="org-left">し</td>
+<td class="org-left"><b>す</b></td>
+<td class="org-left"><b>せ</b></td>
+<td class="org-left">そ</td>
+</tr>
+
+
+<tr>
+<td class="org-left">た</td>
+<td class="org-left">ち</td>
+<td class="org-left"><b>つ</b></td>
+<td class="org-left"><b>て</b></td>
+<td class="org-left">と</td>
+</tr>
+
+
+<tr>
+<td class="org-left">な</td>
+<td class="org-left">に</td>
+<td class="org-left"><b>ぬ</b></td>
+<td class="org-left"><b>ね</b></td>
+<td class="org-left">の</td>
+</tr>
+
+
+<tr>
+<td class="org-left">ば</td>
+<td class="org-left">び</td>
+<td class="org-left"><b>ぶ</b></td>
+<td class="org-left"><b>べ</b></td>
+<td class="org-left">ぼ</td>
+</tr>
+
+
+<tr>
+<td class="org-left">ま</td>
+<td class="org-left">み</td>
+<td class="org-left"><b>む</b></td>
+<td class="org-left"><b>め</b></td>
+<td class="org-left">も</td>
+</tr>
+
+
+<tr>
+<td class="org-left">ら</td>
+<td class="org-left">り</td>
+<td class="org-left"><b>る</b></td>
+<td class="org-left"><b>れ</b></td>
+<td class="org-left">ろ</td>
+</tr>
+</tbody>
+</table>
+
+The potential helper verb has two forms, for godan verbs る, and for ichidan verbs られる.
+
+There are only two exceptions, くる and する.
+
+> くる -> こられる
+
+> する ー> できる
+
+There is only one difficult spot with the potential form, and it is similar to the issue from the previous lesson.
+
+> わたしは(optional)ほんがよめる - As for me, the book is readable
+
+A common translation of this would be &rsquo;I can read the book&rsquo;, however again the が is on the book, not on I. If we wanted to say &rsquo;I can read the book&rsquo;, the book would need to bemarked by を as it is the target of our reading, and &rsquo;I&rsquo; would have to be marked by が as I is the actor.
+
+> わたしがほんをよめる - I can read the book
+
+This is perfectly fine, but it&rsquo;s not what is usually done. Remember, Japanese is not *egocentric*.
+
+As we&rsquo;re using a helper-verb, the past, non-past, negative-past and negative-non-past conjugation rules are the same as regular verbs, for あるける (can walk):
+
+-   あるける - non-past
+-   あるけた - past
+-   あるけない - negative-non-past
+-   あるけなっかた - negative-past
 
 
 # Footnotes

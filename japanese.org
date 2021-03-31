@@ -548,3 +548,41 @@ As we're using a helper-verb, the past, non-past, negative-past and negative-non
 - あるけた - past
 - あるけない - negative-non-past
 - あるけなっかた - negative-past
+* Lesson 11: Compound sentences, くれる, あげる, and more て form uses
+#+BEGIN_QUOTE
+ある 日 アリスは 川の そばに いた。
+#+END_QUOTE
+そば is a noun meaning 'beside', so 川のそば means beside the river.
+
+ある means 'a certain', so ある日 means 'on a certain day'. Notice that here we're using a verb as an adjective, as we have described in previous lessons. 本がある (a book exists) -> ある本が (an existing/a certain book). Note also that this is the same as how we use might use Today, Yesterday, Tomorrow etc. but not how we might use 'On Saturday'.
+#+BEGIN_QUOTE
+On a certain day, alice was beside a river.
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+おねえちゃんは つまらない 本を よんで いて あそんで くれなかった。
+#+END_QUOTE
+よむ (read) -> よんでいる (reading) -> よんでい*て* - We have put the いる into the て form, why have we done this?
+#+BEGIN_QUOTE
+おねえちゃんは つまらない 本を よんで いる - Big sister is reading an uninteresting book.
+#+END_QUOTE
+This by itself is a complete clause (sentence), by turning the engine of the sentence (いる) into the て form we're saying that something else is going to follow this clause, i.e. 'and'.
+#+BEGIN_QUOTE
+おねえちゃんは つまらない 本を よんで いて - Big sister is reading an uninteresting book and...
+#+END_QUOTE
+#+BEGIN_QUOTE
+あそんで くれなかった
+#+END_QUOTE
+あそぶ is to play. This has also been put into the て form. Here we have another use of the て form, let's examine. くれる means to 'give downwards' i.e. as Japanese is so polite we place ourselves below others, so someone else is giving us something. あげる to contrast is to 'give upwards' i.e. to give to someone else. What is being given? In this case the thing being given is what is attached to it via the て form, i.e. 'playing'. Specifically, she is not giving the act of playing to Alice. In Japanese we frequently use 'give' for actions, for doing something for our benefit as well as for literally 'giving' nouns. If someone does something for our benefit, we turn that action to the て form, and attach it to くれる. If we do something for someone else's benefit, we turn that action to the て form, and attach it to あげる.
+#+BEGIN_QUOTE
+Big sister is reading an uninteresting book and didn't play with Alice (didn't play for Alice's benefit).
+#+END_QUOTE
+
+Note again our two clauses:
+#+BEGIN_QUOTE
+おねえちゃんは つまらない 本を よんで いて
+#+END_QUOTE
+#+BEGIN_QUOTE
+あそんで くれなかった
+#+END_QUOTE
+For the first clause we do not know what in what tense the action is taking place. In English we would place the tense marker on both clauses, in Japanese we only do this at the end. よんで いて could mean 'is reading' and it could mean 'was reading'. Because くれなかった is in the past tense, then the entire sentence is in the past tense.

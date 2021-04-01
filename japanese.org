@@ -1,4 +1,4 @@
-#+TITLE: Organic Japanese lesson notes
+
 My follow-along notes from the Organic Japanese course on Youtube: [[https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj]]
 
 # TODO: Replace examples with tables
@@ -586,3 +586,87 @@ Note again our two clauses:
 あそんで くれなかった
 #+END_QUOTE
 For the first clause we do not know what in what tense the action is taking place. In English we would place the tense marker on both clauses, in Japanese we only do this at the end. よんで いて could mean 'is reading' and it could mean 'was reading'. Because くれなかった is in the past tense, then the entire sentence is in the past tense.
+* Lesson 12: と quotation particle and compound verbs and compound nouns
+#+BEGIN_QUOTE
+「おもしろい ことが ない」 と アリスは 言った
+#+END_QUOTE
+- もの - thing concrete
+- こと - thing abstract
+
+#+BEGIN_QUOTE
+「おもしろい ことが ない」- No interesting (abstract) thing exists (Nothing interesting is going on here)
+#+END_QUOTE
+#+BEGIN_QUOTE
+アリスは 言った - Alice said
+#+END_QUOTE
+The intesting thing to note is the particle between these two, the と particle. There are two と particles, one means 'and', and one marks a quotation. When we quote someone as saying something or as thinking something we use this と particle. We also use these square brackets which are the equivalent of English quotation marks, but in speech we cannot see these, so we also use と (and clearly use と in writing regardless also).
+#+BEGIN_QUOTE
+「おもしろい ことが ない」 と アリスは 言った - Nothing interesting is happening said Alice
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+そのとき、白い ウサギが とおり すぎた。
+#+END_QUOTE
+- そのとき - That time, in this sentence it is used to mean 'just at that moment' (just as Alice said that)
+- とおる - pass through
+- すぎる - exceed, go beyond
+
+とおりすぎる is doing something very interesting. It is attaching the い stem of one verb, to another verb to give it extra meaning. We will see this a lot throughout Japanese. Connecting とおる and すぎる, 'pass through' and 'go beyond' means 'passing by'.
+#+BEGIN_QUOTE
+そのとき、白い ウサギが とおり すぎた。 - At that moment a white rabbit passed by
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+ふつうの ウサギでは なくて、 チョッキを きて いる ウサギ だった。
+#+END_QUOTE
+#+BEGIN_QUOTE
+ふつうの ウサギでは なくて - Not an ordinary rabbit
+#+END_QUOTE
+# TODO: Add a note here about では
+#+BEGIN_QUOTE
+チョッキを きて いる ウサギ だった。- It was a rabbit that was wearing a vest (it was a wearing a vest rabbit)
+#+END_QUOTE
+
+
+#+BEGIN_QUOTE
+ウサギは かいちゅうどけいを 見て 「おそい!おおい!」と言って、はしり だした。
+#+END_QUOTE
+- かいちゅうどけい is the combination of かいちゅう (inside pocket) and どけい (watch) meaning pocketwatch. An interesting note here is that とけい becomes どけい (I may write up a full explanation of why anothe time).
+
+#+BEGIN_QUOTE
+「おそい!おおい!」と
+#+END_QUOTE
+What と does structurally, is it takes whatever it marks which could be a whole paragraph, or just two short words like this, or anything with all sorts of grammar going on, it takes whatever it marks as a quotation and turns it into a single noun. Going forward we will find that this is used not only to mark things people say and people think, but to mark all sorts of things. This と structure can therefore make a quotation act as a modifier to whatever follows, in this cast it is modifying 言う (to say), or to think or feel, but could be many things.
+
+Note: As there must be a ∅ somewhere the rabbit is either saying 'it's late' or 'I'm late'.
+Note also, we don't need to use ウサギは again as it is already marked in the first half of the sentence.
+#+BEGIN_QUOTE
+はしり だした - Run + Take out = Broke into a run (started to run). In this sense だした means modifies the verb to mean the action 'erupted'.
+#+END_QUOTE
+#+BEGIN_QUOTE
+ウサギは かいちゅうどけいを 見て 「おそい!おおい!」と言って、はしり だした。 - The rabbit looked at his watch and said 'I'm late! I'm late' and broke out into a run.
+#+END_QUOTE
+Note: all the uses of て-form to mark 'and'.
+#+BEGIN_QUOTE
+「ちょっと まって ください」 と アリスは よんだ。
+#+END_QUOTE
+#+BEGIN_QUOTE
+「ちょっと まって ください」 と - Please wait a little
+#+END_QUOTE
+#+BEGIN_QUOTE
+「ちょっと まって ください」 と アリスは よんだ。
+#+END_QUOTE
+よんだ is the て-form of よぶ (to shout/call).
+Note: Both よむ and よぶ conjugate to よんだ in the て form, fortunately it's not likely that we'll get these two verbs mixed up.
+#+BEGIN_QUOTE
+「ちょっと まって ください」 と アリスは よんだ。 - Please wait a minute called Alice
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+でも ウサギは ピョンピョンと はしり つづけた。
+#+END_QUOTE
+- でも - but
+- はしる + つづける = Continued running (running continued).
+- ピョンピョン - The sound of a small thing jumping along
+
+Once again we're using the quotation particle と to describe the way in which it run, it ran in the way it sounds, it ran like a small thing jumping along (note there are no quotation marks around this).

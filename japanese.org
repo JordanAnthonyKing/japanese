@@ -670,3 +670,50 @@ Note: Both よむ and よぶ conjugate to よんだ in the て form, fortunately
 - ピョンピョン - The sound of a small thing jumping along
 
 Once again we're using the quotation particle と to describe the way in which it run, it ran in the way it sounds, it ran like a small thing jumping along (note there are no quotation marks around this).
+* Lesson 13: Passive "conjugation" - Not passive and not a conjugation
+The real name for the 'passive conjugation' is the /Receptive helper verb/.
+
+The receptive helper verb is れる for godan verbs and られる for ichidan verbs, and attaches to the あ-stem of another verb.
+| *あ* | い | *う* | え | お |
+| *か* | き | *く* | け | こ |
+| *さ* | し | *す* | せ | そ |
+| *た* | ち | *つ* | て | と |
+| *な* | に | *ぬ* | ね | の |
+| *ば* | び | *ぶ* | べ | ぼ |
+| *ま* | み | *む* | め | も |
+| *ら* | り | *る* | れ | ろ |
+Remember! う becomes わ, not あ.
+
+The receptive helper verb means /receive/ or /get/, we're receiving/getting the action that the helper verb is attached to
+#+BEGIN_QUOTE
+さくらがしか*ら*れた - Sakura scolded-got - Sakura got scolded/Sakura received a scolding
+#+END_QUOTE
+
+Note, the receptive helper verb and the modified verb have different actors. The sentence is not Sakura scolds, someone else (we don't know who) is scolding Sakura, but Sakura is the one in the act of receiving the scolding. This is not the same with all helper verbs.
+
+The receiver is not always a person:
+#+BEGIN_QUOTE
+水がの*ま*れた - Water got drunk
+#+END_QUOTE
+Even if we add a doer of the drinking, the water is still the actor of the sentence.
+#+BEGIN_QUOTE
+水がいぬにの*ま*れた - Water got drunk by (a) dog
+#+END_QUOTE
+いぬに is modifying のむ.
+
+Why is the dog being marked by に? Let's look at a larger sentence:
+#+BEGIN_QUOTE
+さくらは だれかに かばんが ぬす*ま* れた - As for Sakura, someone-by bag stolen-got - As for Sakura, (her) bag got stolen by someone
+#+END_QUOTE
+
+Who is the actor? It's not Sakura, she's marked by は. It's not the 'someone' as they're marked by に. The bag is the actor of the sentence, the bag /did/ 'got'.
+
+What is に doing here? に marks the ultimate target of an action. So what is the target of getting stolen? To whome is the stolen item going? It is the 'someone' who stole it.
+
+Note: Cure Dolly uses a /push-pull/ analogy here, which I think is unnecessary.
+
+** The nuisance receptive
+#+BEGIN_QUOTE
+さくらが だれかに かばんを ぬす*ま* れた
+#+END_QUOTE
+Here the core of the sentence is now 'Sakura got'. What did she get? She got the unfortunate (nuisance) action of だれかに かばんを ぬすむ, someone stealing (her) bag. /Sakura got her bag stolen by someone/ *not* /Sakura's bag got stolen by someone/.

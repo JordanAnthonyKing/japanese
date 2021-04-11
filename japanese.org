@@ -717,3 +717,72 @@ Note: Cure Dolly uses a /push-pull/ analogy here, which I think is unnecessary.
 さくらが だれかに かばんを ぬす*ま* れた
 #+END_QUOTE
 Here the core of the sentence is now 'Sakura got'. What did she get? She got the unfortunate (nuisance) action of だれかに かばんを ぬすむ, someone stealing (her) bag. /Sakura got her bag stolen by someone/ *not* /Sakura's bag got stolen by someone/.
+* Lesson 14: Adverbs and も-particle
+#+BEGIN_QUOTE
+アリスは とび 上がって、 ウサギの 後を 追った。
+#+END_QUOTE
+- とび上がって = とぶ (jump/fly) + 上がる (rise up) = Jump up
+- 後を追った = 後 (after) + 追う (follow) = Follow after/follow behind
+
+Note how we are following ウサギの後 - /the rabbit's after/behind/. We are following the back of the rabbit.
+#+BEGIN_QUOTE
+アリスは とび 上がって、 ウサギの 後を 追った。 - Alice jumped up and followed after the rabbit
+#+END_QUOTE
+
+---
+
+#+BEGIN_QUOTE
+しゃべる ウサギを 見た ことが ない。
+#+END_QUOTE
+Here しゃべる is being used as an adjective just as any verb can be. しゃべるウサギ - Talkative/talking rabbit.
+
+見た is the passed tense of 見る to see. It is modifying こと, an abstract thing, meaning 'The fact of having seen'. 見たことがない means 'The fact of having seen doesn't exist'.
+
+The talking rabbit is the object of the engine of the sentence, 'The fact of having seen'. So: 'The fact of having seen a talking rabbit doesn't exist' -> (Alice) had never seen a talking rabbit. This is another example of the un-egocentric nature of Japanese; Alice is not the actor of this sentence, it is the 'thing' that does not exist.
+
+---
+
+#+BEGIN_QUOTE
+ウサギは 早く 走って、 急に ウサギの 穴に とび 込んだ。
+#+END_QUOTE
+#+BEGIN_QUOTE
+ウサギは 早く 走って、
+#+END_QUOTE
+- 早い - fast/early
+- 走る - run
+早い is an adjective. If we want to say the rabbit is fast we simply say ウサギが早い. But if we want to say that the rabbit's *movement* is fast we must use an adverb. In Japanese we can turn any adjective into an adverb by simply removing the い and replacing it with く. 早い -> 早く.
+
+Note again how our verb 走る has been converted to the て form signifying an 'and'.
+
+#+BEGIN_QUOTE
+急に ウサギの 穴に とび 込んだ。
+#+END_QUOTE
+- ウサギの 穴に - Here we aren't saying 'The rabbit's hole' but 'a hole of the variety rabbit'.
+- とび 込む = とぶ (jump) + こむ (Squeeze (?) into) = Jump into
+
+急に is another way of forming an adverb. 急 is a noun meaning 'suddenly'. We can form an adjective from a noun by adding に.
+
+#+BEGIN_QUOTE
+ウサギは 早く 走って、 急に ウサギの 穴に とび 込んだ。- The rabbit ran quickly and jumped into a rabbit hole.
+#+END_QUOTE
+
+** The も flag
+#+BEGIN_QUOTE
+アリス*も* ウサギの 穴に とび こんだ。 - Alice also jumped into the rabbit hole.
+#+END_QUOTE
+
+も is another non-logical topic-marking particle. も marks the topic of the sentence in the same way that は does. The difference is that while は can mark the topic of the sentence and *can* also change the topic of the sentence, も decalares the topic of the sentence but can *only* change the topic of the sentence. We cannot use も unless we are changing the topic of the sentence. Up until this point the topic of our conversation has been the rabbit, now we are switching to talk about Alice.
+
+When we change topic with も we're saying that the comment about the previous topic (the rabbit and that it jumped) is the same as our new topic (Alice). When we change the topic with は we are doing the opposite, we are drawing a distinction between the two.
+
+---
+
+#+BEGIN_QUOTE
+穴の 中は たて穴 だった。 アリスは すぐ下に 落さた。- The inside of the hole was a vertical hole. Alice fell straight (directly) down the hole.
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+でも、 おどろいたことに ゆっくり ゆっくり 落さた。 - But, the surprising thing was that she slowly slowly fell/ But, surprisingly she fell slowly.
+#+END_QUOTE
+- おどろいたこと doesn't mean 'A surprised thing', it means 'the surprising thing' (surprisingly). The に attached is again to turn it into an adverb. So: 'She fell surprisingly'. Of course, it isn't surprising that she fell, but it is suprising that she fell ゆっくり ゆっくり (slowly slowly).
+- ゆっくり is slightly unusual in that it is fundamentall a noun, but we can use it as an adjective without adding に to it. We will see ゆっくり very often.

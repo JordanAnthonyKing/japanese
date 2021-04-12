@@ -786,3 +786,36 @@ When we change topic with も we're saying that the comment about the previous t
 #+END_QUOTE
 - おどろいたこと doesn't mean 'A surprised thing', it means 'the surprising thing' (surprisingly). The に attached is again to turn it into an adverb. So: 'She fell surprisingly'. Of course, it isn't surprising that she fell, but it is suprising that she fell ゆっくり ゆっくり (slowly slowly).
 - ゆっくり is slightly unusual in that it is fundamentall a noun, but we can use it as an adjective without adding に to it. We will see ゆっくり very often.
+
+
+* Lesson 15: Transitivity
+/Transitive/ and /intransitive/ aren't as big of a misnomer as some of the things we've seen so far, but a better pair of terms would be /Self-move/ and /Other-move/.
+
+In japanese, a move-word 動詞 (どうし) is a word that denotes an action of a movement. So a self-move verb is a verb that moves itself. If I 'stand-up' that's a self-move action. But throwing a ball is an 'other-move' action, one is not throwing themselves, they are throwing a ball. It's as simple as that.
+
+Japanese has a lot of pairs of words, these could be called forms, or just closely related words, that give the self-move and other-move variations of the verb. For example:
+- 出る (でる) - leave, exit, come out - Self-move
+- 出す (だす) - take out, bring out - Other-move
+
+Most of the time we can tell which is a self-move word and which is an other-move word by following a few simple rules.
+
+The first thing to know is that there is a root word for self-move and a root word for other-mode:
+- ある - Be - Self-move
+- する - Do - Other-move
+
+Knowing this there are three laws of move-word pairs.
+1. す and せる (え-stem) ending verbs are other-move
+2. あ-stem + る (aru) ending verbs are self-move
+3. え-stem + る (eru) flip self/other-move either way
+
+Honorary members of the す family:
+- む -> める is always other-move
+- ぶ -> べる is always other-move
+- つ -> てる is always other-move
+
+The only wildcards left are:
+- く/ぐ -> ける/げる
+- う ー> える
+- Some る-ending verbs not covered by the first two laws
+
+Is there anything we can do to simplify this: える version have the opposite of the standard word.

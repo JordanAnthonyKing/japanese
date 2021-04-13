@@ -1,4 +1,3 @@
-
 My follow-along notes from the Organic Japanese course on Youtube: [[https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj]]
 
 # TODO: Replace examples with tables
@@ -787,7 +786,6 @@ When we change topic with も we're saying that the comment about the previous t
 - おどろいたこと doesn't mean 'A surprised thing', it means 'the surprising thing' (surprisingly). The に attached is again to turn it into an adverb. So: 'She fell surprisingly'. Of course, it isn't surprising that she fell, but it is suprising that she fell ゆっくり ゆっくり (slowly slowly).
 - ゆっくり is slightly unusual in that it is fundamentall a noun, but we can use it as an adjective without adding に to it. We will see ゆっくり very often.
 
-
 * Lesson 15: Transitivity
 /Transitive/ and /intransitive/ aren't as big of a misnomer as some of the things we've seen so far, but a better pair of terms would be /Self-move/ and /Other-move/.
 
@@ -819,3 +817,98 @@ The only wildcards left are:
 - Some る-ending verbs not covered by the first two laws
 
 Is there anything we can do to simplify this: える version have the opposite of the standard word.
+
+* Lesson 16: て-みる, 'try doing', や-particle, から-particle, exclusive-'and'
+#+BEGIN_QUOTE
+落ちる 間に ひもが たっぷり あって まわりを ゆっくり 見まわせた。
+#+END_QUOTE
+- 落ちる - fall
+- 間に - during
+- ひま - spare time
+- たっぷり - in plenty
+- まわり - surroundings
+- 見まわす - look around
+
+| verb working as adjective for 間 |        |           | adverbial noun not needing に |             |
+| Secondary-*う* engine            | noun   | core      | adverb                        | *う*-engine |
+| 落ち*る*                         | 間*に* | ひま*が*  | たっぷり                      | あって      |
+| fall                             | during | free time | plentifully                   | existed-and |
+
+#+BEGIN_QUOTE
+まわりを ゆっくり 見まわせた。
+#+END_QUOTE
+- 回る - Go around (self-move)
+- 回す - Send/Make go around (other-move)
+- まわり - Noun form of 回る meaning 'surroundings', not the act of going around
+
+# It may be worth using screenshots of the videos
+|       | い-stem info |                | い-stem info          | まわる + potential helper + past tense |
+| core  | object       | adverbial noun | secondary-*う* engine | *う*-engine                            |
+| ∅*が* | まわり*を*   | ゆっくり       | 見                    | まわせた                               |
+| Alice | surroundings | leisurely      | lookage-              | around-send-could                      |
+
+#+BEGIN_QUOTE
+落ちる 間に ひもが たっぷり あって まわりを ゆっくり 見まわせた。- While (she was) falling a lot of spare time existed, and (she) could look leisurely around her surroundings.
+#+END_QUOTE
+
+---
+
+#+BEGIN_QUOTE
+まずは、下を 見てみた けど、暗すぎて 何も 見えなかった。
+#+END_QUOTE
+- まず - first
+- 下 - down
+- 暗い - dark
+- すぎる - exceed
+- 何も - even-anything
+
+見てみた: When we add みる to the て-form of another verb we're saying to 'try' doing something. We're literally saying 'do it and see'. 食べてみろ = Try eating (it) and see. やってみろ = do and see (give it a try). 見てみた = Take a look and see.
+
+#+BEGIN_QUOTE
+まずは、下を 見てみた
+#+END_QUOTE
+| Relative time expression | core  | object | secondary-*う* engine | *う*-engine |
+| まず*は*                 | ∅*が* | 下を   | 見て                  | 見た        |
+| first of all             | Alice | down   | look-                 | tried       |
+
+#+BEGIN_QUOTE
+暗すぎ*て* - (it was) dark exceeded-and - It was too dark and therefore
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+何も 見えなかった - even anything as for (it) did-not-do-see-able - It was too dark to see anything
+#+END_QUOTE
+
+---
+
+#+BEGIN_QUOTE
+その後、穴の まわりを 見て、目に 止まるのは ぎっしり ならんだ とだな や 本だな だった。
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+その後、穴の まわりを 見て - After that she looked at the surroundings of the hole and...
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+目に 止まるのは - Eye-at as for stopped-thing - The thing that stopped her eye - The thing that caught her eye
+#+END_QUOTE
+
+# There are some notes here about the use of の but I feel relatively familiar with that already.
+
+#+BEGIN_QUOTE
+その後、穴の まわりを 見て、目に 止まるのは - After that she looked at the surroundings of the hole and the thing that caught her eye was...
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+ぎっしり ならんだ とだな や 本だな だった。- tightly lined-up cupboards-and bookshelves-was
+#+END_QUOTE
+
+*The や-particle*
+
+When putting to clauses together we use the て-form as an equivalent to 'and'. When putting two things together we can use the と (exclusive 'and') and や (non-exclusive 'and') particles.
+
+---
+
+#+BEGIN_QUOTE
+たなの 一つから びんを 取り下した。- (She) shelve's one-from jar take-lowered - From one of the shelves she took down a jar.
+#+END_QUOTE

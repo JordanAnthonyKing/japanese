@@ -912,3 +912,34 @@ When putting to clauses together we use the て-form as an equivalent to 'and'. 
 #+BEGIN_QUOTE
 たなの 一つから びんを 取り下した。- (She) shelve's one-from jar take-lowered - From one of the shelves she took down a jar.
 #+END_QUOTE
+
+* Lesson 17: Form Japanese: です/ます + volitional
+ます is a (helper) verb that attaches to the い stem of another verb. It doesn't change the meaning of the verb in anyway, it just makes it formal. ます is highly irregular:
+- The past tense is normal, it ends just like any す verb - ました
+- The past tense is not ませない, it is ません - This is the only verb that does this in modern Japanese
+- The negative past is ませんでした
+
+です is the formal version of だ and works exactly the same aside from one quirk, unlike with だ which we do not attach to adjectives, we do attach です in formal speech. It doesn't mean or do anything, but it's done all the same.
+
+A useful note, we can use ません and ないです interchangeably:
+- さくらが話しません
+- さくらが話しないです
+
+*The volitional form*
+
+The volitional form is one of the few uses of the お-stem. The godan volitional helper is just う, attached to the お stem it simply lengths the お sound. The ichidan form is to as usual remove the る, and add よう.
+
+The volitional form of ます and です are ましょう and でしょう.
+
+| あ | い | *う* | え | *お* |
+| か | き | *く* | け | *こ* |
+| さ | し | *す* | せ | *そ* |
+| た | ち | *つ* | て | *と* |
+| な | に | *ぬ* | ね | *の* |
+| ば | び | *ぶ* | べ | *ぼ* |
+| ま | み | *む* | め | *も* |
+| ら | り | *る* | れ | *ろ* |
+
+Volition means will, the volitional form expresses or invokes the will of the speaker. The most usual use of it is setting the will of a group of people in a particular direction. いきましょう = Let's go.
+
+There are many uses of the volitional form in combiantion with various particles but they will be covered in due time. One of note for now is the volitional copula だろう / でしょう which when added to any ordinary sentence adds the extra meaning of _probably_, i.e. it adds doubt/conjecture.

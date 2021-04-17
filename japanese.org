@@ -942,4 +942,79 @@ The volitional form of ます and です are ましょう and でしょう.
 
 Volition means will, the volitional form expresses or invokes the will of the speaker. The most usual use of it is setting the will of a group of people in a particular direction. いきましょう = Let's go.
 
-There are many uses of the volitional form in combiantion with various particles but they will be covered in due time. One of note for now is the volitional copula だろう / でしょう which when added to any ordinary sentence adds the extra meaning of _probably_, i.e. it adds doubt/conjecture.
+There are many uses of the volitional form in combination with various particles but they will be covered in due time. One of note for now is the volitional copula だろう / でしょう which when added to any ordinary sentence adds the extra meaning of /probably/, i.e. it adds doubt/conjecture.
+- 赤いでしょう - Probably red
+- さくらがくるでしょう - Sakura's probably coming.
+
+* Lesson 18: Trying to do something; って = は? として、 と言う/という、 と する、 おう と する、 っていう
+** Try - と する
+#+BEGIN_QUOTE
+山にのぼろうとする - Try to climb the mountain
+#+END_QUOTE
+- のぼる = Climb
+- Note: に is normal here because we are climbing to the /target/ of the summit.
+
+Why does this mean 'try'? A precise translation may be derived from のぼろう - have the will to climb, and する to do. I have the will to climb the mountain, and I will do it, (but I may not have the ability). Hence, /try/.
+
+** How we regard something - と する
+
+See again how we're using the と quotation particle once again. と is encapsulating, not the words or thoughts of someone, but the meaning of 「山にのぼろう」 and putting that meaning into action (する).
+
+Another example:
+#+BEGIN_QUOTE
+ホッとする
+#+END_QUOTE
+- ホッ is the sound effect for a sigh of relief
+
+We aren't saying here that someone breathed a sigh of relief. What we're saying is that they /enacted what was expressed by the sound effect/ i.e. They were relieved. In 山にのぼろうとする we're enacting the feeling of setting out to climb the mountain.
+
+#+BEGIN_QUOTE
+∅が さくらを *日本人と* する - We Sakura "Japanese person" enact - We assume/take Sakura to be Japanese
+#+END_QUOTE
+We are thinking/acting according what is expressed by the quote.
+
+Compare this with:
+#+BEGIN_QUOTE
+∅が さくらを *日本人に* する - We turned Sakura into a Japanese person
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+かばんを *まくらと* する - Use bag as a pillow
+#+END_QUOTE
+Not literally: turn bag into a pillow.
+
+** See something in the light of being something - と して
+The closest equivalent to this in English is 'as'. i.e. 'My opinion /as/ a private person'.
+#+BEGIN_QUOTE
+会長*として* - As President...
+#+END_QUOTE
+
+We can also use it as 'for':
+#+BEGIN_QUOTE
+アメリカジン*として*小さい - She's small for an American. (As an American, she's small).
+#+END_QUOTE
+
+** As a quotation -  と言う/という
+The most basic thing that can follow と is 言う in which case it can be used as a literal quotation of something that's been said (as we've already seen) but can also be used as a way of saying how something is said or what it's called:
+#+BEGIN_QUOTE
+ふしぎの国のアリスという本 - The book called 「ふしぎの国のアリス」
+#+END_QUOTE
+- Note: という is usually written in Kana when it precedes something
+
+という can be reduced down as far as just って. という -> っていう -> って:
+#+BEGIN_QUOTE
+ふしぎの国のアリスっていう本 - The book called 「ふしぎの国のアリス」
+#+END_QUOTE
+#+BEGIN_QUOTE
+ふしぎの国のアリスって本 - The book called 「ふしぎの国のアリス」
+#+END_QUOTE
+
+** って as は
+Remember the は particle is the topic marking particle:
+#+BEGIN_QUOTE
+さくらは ∅が 日本人だ - As for Sakura, (she) is a Japanese person
+#+END_QUOTE
+#+BEGIN_QUOTE
+さくらって ∅が 日本人だ - Speaking of Sakura, (she) is a Japanese person
+#+END_QUOTE
+This is a very casual use, we can't use という in place of は but we can use って. The point is that this is still very logical.

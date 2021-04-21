@@ -11,7 +11,7 @@ In all languages there are only two kinds of sentence:
 - A is B: Sakura is Japanese
 - A does B: Sakura Walks
 
-Sakura ga nihonjin da - Sakira is Japanese
+Sakura ga nihonjin da - Sakura is Japanese
 Sakura ga aruku - Sakura walks
 
 Going back to the train metaphor:
@@ -44,7 +44,7 @@ The ball rolled down the hill. When the ball got to the bottom the ball hit a sh
 
 This is not a sentence we would ever say in English, once we have established that we are talking about 'the ball' we would instead refer to the ball with it:
 #+BEGIN_QUOTE
-The ball rolled downm the hill. When it got to the bottom it hit a sharp stone and it was punctured and all the air came out of it.
+The ball rolled down the hill. When it got to the bottom it hit a sharp stone and it was punctured and all the air came out of it.
 #+END_QUOTE
 
 If we were to completely omit /it/ the sentence would still be easy to understand, we don't /need/ to use this it marker each time, but English grammar *demands* it. Japanese does not, hence the 'invisible' が carriage.
@@ -1018,3 +1018,74 @@ Remember the は particle is the topic marking particle:
 さくらって ∅が 日本人だ - Speaking of Sakura, (she) is a Japanese person
 #+END_QUOTE
 This is a very casual use, we can't use という in place of は but we can use って. The point is that this is still very logical.
+
+* Lesson 19: Causative + 'causative passive'
+The /causative helper verb/ indicates that we are causing someone to do the verb to which is is attached.
+
+The /receptive helper verb/ indicates receiving the action to which it is attached.
+
+The causative and the receptive both attach to the あ-stem of a verb.
+- Causative: せる/させる
+- Receptive: れる/られる
+
+| *わ* | い | *う* | え | お |
+| *か* | き | *く* | け | こ |
+| *さ* | し | *す* | せ | そ |
+| *た* | ち | *つ* | て | と |
+| *な* | に | *ぬ* | ね | の |
+| *ば* | び | *ぶ* | べ | ぼ |
+| *ま* | み | *む* | め | も |
+| *ら* | り | *る* | れ | ろ |
+
+# TODO: Is this true for all helper verbs?
+It is important to understand that the verb and the helper verb always have different subjects
+#+BEGIN_QUOTE
+水が 犬に 飲む れた - The water got drunk by the dog (receptive)
+#+END_QUOTE
+- Core action: verb れる (get/receive), actor 水 (water)
+  + Secondary action: verb 飲む (drink), actor 犬 (dog)
+    - Implicit sub-clause: 犬が 飲んだ
+
+#+BEGIN_QUOTE
+さくらが だれかに かばんを ぬすま れた - Sakura got her bag stolen by someone (receptive)
+#+END_QUOTE
+- Core action: verb れる (get/receive), actor さくら
+  + Secondary action: object かばん (bag), actor だれか (someone)
+    - Implicit sub-clause: だれかが かばんを ぬすんだ
+
+#+BEGIN_QUOTE
+∅が 犬を 食べ させた - I caused the dog to eat (causative)
+#+END_QUOTE
+- Core action: verb させる (cause), actor ∅ (I)
+  + Secondary action: verb たべる (eat), actor 犬 (dog)
+    - Implicit sub-clause: 犬が 食べた
+
+せる/させる can mean to /compel/make/force/, or it can mean to /allow/. But it can also mean neither of those. The best way to translate it is with the rather non-native sounding 'cause'. 'I caused the dog to eat' doesn't mean 'I forced the dog to eat', it just means that I did something that had the result of the dog eating, whether that be intentional, accidental, or forceful.
+
+Sometimes the person or thing we are causing to do something can be marked by を and sometimes it can be marked by に. Remember the particles are always consistent. If we are forcing someone to do something, then we're treating them like an object (を), if we're treating them as a target, then this is more mutual and goes with /allowing/ over /compelling/ and so に.
+
+That said the use of を and に is not the main indicator of if we mean allowing or compelling. There is no precise English analogy with the causative helper verb, so trying to determine if it means exactly cause or exactly allow is misguided, remember, it can mean neither. It's sort of a sliding scale between the two, more subtle. Beyond that, when the action that is being compelled has itself an を marked object we can see that in the sub(ordinate) sentence the meat is the object of the dog's action, and the dog is the thing that is being caused to do the action:
+#+BEGIN_QUOTE
+∅が犬に にくを 食べ させた - I caused the dog to eat meat
+#+END_QUOTE
+- Core action: verb させる (cause), actor ∅ (I)
+  + Secondary action: verb たべる (eat), actor 犬 (dog)
+    - Implicit sub-clause: 犬が にくを 食べた
+
+に expresses relation to core clause. を expresses relation to sub clause.
+
+In these types of sentences Japanese does not allow us to use the を particle twice. If we could use を twice then in some sentences we might end up with some doubt as to which を marks the object associated with 食べる and which を marks the object associated with せる/させる.
+
+** Causative receptive (causative passive)
+Causative-receptive (what most call the causative passive) means to get made to do. Remembering that helper verbs are ichidan verbs, to add the receptive helper verb to the causative helper verb we simple remove the る and add られる:
+- せる/させる - る + られる = せられる/させられる
+
+We now have three verbs in a sentence:
+#+BEGIN_QUOTE
+わたしは ∅が ブロコリを 食べ(1) させ^2 られた^2 - I got^3 compelled^2 to eat^1 broccoli
+#+END_QUOTE
+- Core action: verb られる (get), actor ∅ (I)
+  + Secondary action: verb させる (compel), actor unspecified
+    - Tertiary action: verb 食べる (eat), actor ∅ (I)
+
+Note: The first and third actor are always the same. The second actor always different.

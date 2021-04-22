@@ -1089,3 +1089,80 @@ We now have three verbs in a sentence:
     - Tertiary action: verb 食べる (eat), actor ∅ (I)
 
 Note: The first and third actor are always the same. The second actor always different.
+* Lesson 20: Sore/Sono/Sonna/Sou etc. Directional Words
+# TODO: Re-title this?
+こ そ あ ど words initially simply mark physical locations, but then expands out to more subtle and metaphorical uses. This is common because all languages use physical metaphors to express abstract concepts.
+
+The most basic meaning:
+| ここ           | そこ                              | あそこ     | どこ   |
+| Here (near me) | There (near you/a little way off) | Over there | Where? |
+- Often ここ means the speaker's place and そこ means the listener's place
+- Often あそこ means away from both the speaker and the listener
+
+** れ-group (nouns)
+The れ group act as nouns.
+
+| これ | それ | あそれ             | どれ         |
+| This | That | That (other there) | Which thing? |
+
+These can get confused with the の-group as in English we use the same word for both of these types of words.
+
+** の-group (adjectivals)
+The の group act as adjectives.
+
+| これ                 | それ                  | あそれ                       | どれ           |
+| This-something       | That-something        | That-something (other there) |                |
+| described as near me | described as near you | described as over there      | how-described? |
+
+れ means a being, it refers to a thing. の is used to make adjectivals and descriptors:
+#+BEGIN_QUOTE
+これは (∅が) ペンだ - As for here-thing (it) pen-is - The thing here is a pen
+#+END_QUOTE
+#+BEGIN_QUOTE
+この ペンは (∅が) 赤い - Here's pen as for (it) red-is - The pen that is here is red
+#+END_QUOTE
+
+** な-group (real adjectives)
+The な-group act as real adjectives
+
+| こな      | そな      | あそな    | どな       |
+| Like this | Like that | Like that | Like what? |
+
+The な used for adjectival nouns descriptive of a thing's qualities. Distance is often conceptual, no physical. i.e. How far the thing is from what we're talking about or the present-circumstance.
+#+BEGIN_QUOTE
+こんあ食べ物 = Food like this
+#+END_QUOTE
+#+BEGIN_QUOTE
+そんあことがひどい - A thing like that is cruel
+#+END_QUOTE
+
+These are essentially comparing-adjectives. Saying that something is like something either in physical space or in a conceptual way.
+
+** う/あ-group
+Lengthening the final sound of こ/そ/あ/ど is talking about the way something is/happens.
+
+#+BEGIN_QUOTE
+∅がそうです - It (the fact/situation) is that way = That's right
+#+END_QUOTE
+#+BEGIN_QUOTE
+そうせる - Do like that
+#+END_QUOTE
+#+BEGIN_QUOTE
+こうせる - Do like this
+#+END_QUOTE
+#+BEGIN_QUOTE
+どうせる - Do it like how?
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+どうすればいい - In what way if I act will be good?
+#+END_QUOTE
+- すれば is the conditional form of する
+
+#+BEGIN_QUOTE
+そういうこと - That way say matter (condition/thing) - Thus-described matter - That kind of thing
+#+END_QUOTE
+#+BEGIN_QUOTE
+どういうこと - What way said matter (condition/thing) - What is going on here?
+#+END_QUOTE
+The いう here is not referring to the fact we've said anything. The いう refers to the description of the thing.

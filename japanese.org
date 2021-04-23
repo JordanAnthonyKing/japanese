@@ -1166,3 +1166,48 @@ Lengthening the final sound of こ/そ/あ/ど is talking about the way somethin
 どういうこと - What way said matter (condition/thing) - What is going on here?
 #+END_QUOTE
 The いう here is not referring to the fact we've said anything. The いう refers to the description of the thing.
+* Lesson 21: Te oku/te aru
+#+BEGIN_QUOTE
+その びんいは ラベルが 貼って あって 「オレンジ•マーマレード」と 書いて あった
+#+END_QUOTE
+#+BEGIN_QUOTE
+その びんいは ラベルが 貼って あって - A label was pasted to the bottle
+#+END_QUOTE
+貼って ある is something not yet covered. We've used the て-form of a verb + いる meaning to be in the state of doing that verb. て ある also means to be in the state of that verb, however there is a difference:
+#+BEGIN_QUOTE
+窓が開いている - The window is open
+#+END_QUOTE
+#+BEGIN_QUOTE
+窓が開けてある - The window is open
+#+END_QUOTE
+What is the difference? いる simply means is open, however ある carries another implication. Notice the use of the other-move verb in ある and the self-move verb in いる. 開けてある therefore signals that the window is open *because* someone opened it.
+
+Notice how we're using いる, the verb for animate objects to describe the openness of an inanimate object. Because we have used the self-move verb the inanimate object is an honorary 'willed being' with a state of its own. In the example with ある the state has been caused externally, and so the window maintains its inanimateness.
+
+#+BEGIN_QUOTE
+その びんいは ラベルが 貼って あって - The jar existed in the state of having a label stuck to it and...
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+「オレンジ•マーマレード」と 書いて あった - (it) was in the state of having 'Orange marmalade' written on it
+#+END_QUOTE
+
+** ておく
+/Skipping ahead a little/ Alice realises that the marmalade jar is in fact empty. What is she to do with it? She doesn't want to drop it, what will she do?
+#+BEGIN_QUOTE
+[アリスが びんを] うまく とだなの 一つく 通りすがりに 置いて* おいた* - She skilfully in passing put the jar into one of the cupboards
+#+END_QUOTE
+- * Same word used twice, helper usually written in kana alone
+- うまく - skilfully
+- とだな - cupboard
+- 通りすがり - in passing
+- 置く - place/put
+
+The second おく here (ておく) is in a sense the second half of てある:
+#+BEGIN_QUOTE
+窓が開けてある - Exist in the state of having been made open
+#+END_QUOTE
+#+BEGIN_QUOTE
+窓を開けてあく - Open the window so that it remains in the state of openness. Establish the window as being in the state of openness
+#+END_QUOTE
+In many cases this is used to mean 'doing something in advance' but it is not the only meaning, as we see here. What is literally means is putting the action in place.

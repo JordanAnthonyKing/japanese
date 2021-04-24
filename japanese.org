@@ -1211,3 +1211,52 @@ The second おく here (ておく) is in a sense the second half of てある:
 窓を開けてあく - Open the window so that it remains in the state of openness. Establish the window as being in the state of openness
 #+END_QUOTE
 In many cases this is used to mean 'doing something in advance' but it is not the only meaning, as we see here. What is literally means is putting the action in place.
+* Lesson 22: Te-wa, te-mo - Topic/comment magic
+#+BEGIN_QUOTE
+でも、びんは 空っぽ だった - But the jar was empty
+#+END_QUOTE
+---
+#+BEGIN_QUOTE
+アリスは 空っぽの びん*でも*、下へ 落としては 悪いと 思った
+#+END_QUOTE
+The で here is the て form of だ and it is attached to も, the inclusive /and/ particle and the reverse subject particle of は:
+#+BEGIN_QUOTE
+∅が 空っぽの びんでも - It empty jar-is as-much-as
+#+END_QUOTE
+- も = as-much-as i.e. 'even though'
+The て-form + topic-marker combination forms a complete logical clause that is subordinate to (requiring comment from) the following clause
+#+BEGIN_QUOTE
+∅が 空っぽの びんでも - Even though it was an empty jar...
+#+END_QUOTE
+
+  # TODO: There is a も-combinations video suggested here that I may want to add if it doesn't come up later in the playlist
+This is a new usage of も, there are many similar usages of this particle:
+- いちま円もかかた掛かる - He took as much as 10,000 yen
+- ケエキを食べてもいい - Is it alright if I eat this cake? lit. If I go as far as to eat the cake is that alright?
+
+#+BEGIN_QUOTE
+下へ 落としては 悪いと 思った
+#+END_QUOTE
+落としては now we have て from + は topic marker. While も is the additive, including particle, は is the subtractive, excluding particle. So, while も means 'as much as', は means 'as little as'. We tend to use でも in positive contexts, and では in negative contexts. Often this ては gets contracted into just ちゃ.
+
+We can use ては as the connector between two clauses, and it implies that the second clause is unwanted:
+#+BEGIN_QUOTE
+雨が 降っ*ては* ： ∅が こうえんい 行けない - Rain falls and (negative comment expected) : we park-to can-go-not
+#+END_QUOTE
+This is much the same as how も is followed by a comment, here we follow は with a comment explaining why the rain falling is a bad thing.
+#+BEGIN_QUOTE
+∅が いもうとと けんかし*ては* ： ははに しかられた - I sister-with quarrelled-and (negative result) : mother-by scolded-got
+#+END_QUOTE
+
+ても on the other hand doesn't indicate a positive result or a negative result, it indicates a contrasting result:
+#+BEGIN_QUOTE
+雨が 降っ*ても* ： ∅が こうえんい 行く - Even though it's raining we can still go to the park
+#+END_QUOTE
+
+This is where でも itself, rightly translated as 'but', comes from; でも wraps up whatever came before it literally meaning 'as much as [that] is [so]...'. でも is the all purpose ても contrast marker.
+
+#+BEGIN_QUOTE
+アリスは 空っぽの びんでも、下へ 落としては 悪い*と* 思った
+#+END_QUOTE
+と bundles the entire thing into a quotation, of Alice's thoughts (思て). The full sentence therefore is: 'Empty jar-is-even-though, downward drop (negative expectation) is bad, Alice thought.' - 'Alice thought that even though the jar is empty, dropping it would be bad'.
+# There are some more notes about the structure of this sentence, but I think they are unnecessary.

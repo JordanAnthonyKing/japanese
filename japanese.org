@@ -386,6 +386,7 @@ This に is still marking a target, just not a future target. In order for somet
 Note: うえ is a noun, meaning the on/top of something.
 
 Finally, に can also mark a transformation. If /a/ becomes /b/, then に also marks /b/, the thing a is becomming.
+# I think the actual sentence is missing here
 #+BEGIN_QUOTE
 さくらは∅がかえる*に*なった - Sakura became a frog
 #+END_QUOTE
@@ -432,6 +433,7 @@ There cannot be a sentence without が, even if sometimes you can't see it. が 
 #+BEGIN_QUOTE
 ∅がこうえん*に*いる - I am in the park
 #+END_QUOTE
+# I think this is supposed to be asondeiru
 #+BEGIN_QUOTE
 ∅がこうえん*で*あるんでいる - I am playing in the park
 #+END_QUOTE
@@ -1260,3 +1262,25 @@ This is where でも itself, rightly translated as 'but', comes from; でも wra
 #+END_QUOTE
 と bundles the entire thing into a quotation, of Alice's thoughts (思て). The full sentence therefore is: 'Empty jar-is-even-though, downward drop (negative expectation) is bad, Alice thought.' - 'Alice thought that even though the jar is empty, dropping it would be bad'.
 # There are some more notes about the structure of this sentence, but I think they are unnecessary.
+
+* Extra: も particle combinations
+も is the additive particle, and can also be used to mean 'as much as' in several expressions. In English 'as much as' can also be said as 'even'. The same is true in Japanese.
+- 誰もない - Not even someone
+- 何もない - Not even something
+- 少しもない - Not even a little
+
+What about でも? The で here is not the particle で, it is the て-form of だ. As we know だ (the copula) couples together two nouns. What is it coupling? It is couple the sentence that came before it and the ∅ pronoun (it). So 誰でも doesn't mean 'everyone', it means anyone.
+- 誰でも - Anyone - 誰でもできろ - Even if it's anyone, they can do it - Anyone can do it
+- 何でも - Anything - 何でもいい - Even if it's anything, it's good - Anything is good
+- どうでも - However (Whatever way) - どうでもいい - Whatever way is fine
+
+#+BEGIN_QUOTE
+かもしれません - Perhaps
+#+END_QUOTE
+- か - Makes a question of whatever came before
+- も - Even/As much as
+- 知れ - Potential form of know
+- ない/ません - Can't know (don't have the potential to know)
+#+BEGIN_QUOTE
+かもしれません - As to whether that is true or not I can can't go as far as to know
+#+END_QUOTE

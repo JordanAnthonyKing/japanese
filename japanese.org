@@ -1284,3 +1284,53 @@ What about でも? The で here is not the particle で, it is the て-form of �
 #+BEGIN_QUOTE
 かもしれません - As to whether that is true or not I can can't go as far as to know
 #+END_QUOTE
+* Lesson 23: だって, だから, それ から
+だって is usually translated as 'because' and 'but' and 'even' and 'somebody said'. The reason for these myriad definitions is that だって isn't really a word.
+
+だって is simply the copula だ, and って. This is not the て-form of だ, it is the same って as the contraction of the quotation particle という.
+
+Firstly, /somebody said/:
+#+BEGIN_QUOTE
+*(∅が) 明日は* (∅が) 晴れだ *って(という)* - *(Someone/weather forecast/people)* as for tomorrow (it) fine will-be *says*
+#+END_QUOTE
+
+---
+
+/But:/
+#+BEGIN_QUOTE
+1. さくらがきれいだね - Sakura's pretty isn't she
+2. だって 頭が 弱い - But she's not very smary (lit: head is weak)
+#+END_QUOTE
+Note: This usage usually has a childish, or somewhat argumentative tone.
+
+Why does this mean 'but'? What're we're doing is taking the thing that was just said and adding だ to it. Then quoting what they just said: だって - You say that (Sakura is pretty), and the implication is that something contradictory will follow.
+
+# There is some explanation here of standalone phrases like ですね but I don't think it's necessary
+
+---
+
+#+BEGIN_QUOTE
+(...)だから - From that (what you/I just said) - Therefore; as above.
+#+END_QUOTE
+
+
+---
+
+/Because:/ Just as we can use だって as 'You say a thing is so, but...' We can also use だって as 'You say a thing is so, this is because (some explanation)'.
+
+What both of these phrases are saying is 'You have said something, and I don't dispute it, but here's something we can add to it that undermines the narrative that you're trying to put forward'. This is the same in both cases, it's only the translation to English that mandates a distinction.
+
+---
+
+/Even:/
+When we say だって to mean even we're not using だ in the same was as だから or in the other sense we've just spoken about, i.e. we aren't using it to refer back to the previous statement. We are usually attaching it to something in particular within the statement we're making.
+#+BEGIN_QUOTE
+1. さくらができる - Sakura can do that
+2. わたしだって - Say (it) is me - I can do that
+#+END_QUOTE
+This has a different implication to わたしもできる which just means 'I can do that too', わたしだって, because it is associated with the phrases above carries the /tone/ of '/even/ I can do that'.
+
+#+BEGIN_QUOTE
+わたしだってホトケーキがつくられる - Even I can make hot cakes
+#+END_QUOTE
+In this example we aren't saying anything contradictory to someone else but it still has the implication of /even/.

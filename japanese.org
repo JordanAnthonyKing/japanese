@@ -1,5 +1,8 @@
 My follow-along notes from the Organic Japanese course on Youtube: [[https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj]]
 
+# Styling rules: /new concept/, *emphasis*, 'meaning', "quotation"
+# Notes should be preceded by a bullet
+
 # TODO: Replace examples with tables
 # ∅
 * Lesson 1: The core Japanese sentence
@@ -1334,3 +1337,50 @@ This has a different implication to わたしもできる which just means 'I ca
 わたしだってホトケーキがつくられる - Even I can make hot cakes
 #+END_QUOTE
 In this example we aren't saying anything contradictory to someone else but it still has the implication of /even/.
+* Lesson 24: Hearsay and guesses: ~そうだ, ~そうです
+** Likeness
+そう is a /helper noun/ that can mean either 'likeness', or 'hearsay'.
+
+そう is the same そう as in the こう/そう/ああ/どう (in this way/in that way/in /that/ way/in what way) group we learned about in lesson 20. そう can be used with any of the three engines: う (verbs), い (adjectives) or だ (nouns). Simply remove the final kana and add そう for 'seems like' meaning. In the case of だ the engine must be an adjectival noun (な-adjective).
+
+Remember that each of the three engines can be moved behind other cars to turn them into adjectives.
+
+Once そう has been attached to an engine, the engine becomes a new adjectival noun.
+
+#+BEGIN_QUOTE
+元気だ -> 元気そう - Is healthy -> Seems healthy
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+元気な学生 -> 元気そう学生 - Healthy student -> Healthy looking student
+#+END_QUOTE
+
+-----
+
+#+BEGIN_QUOTE
+おもしろい -> おもしろそうだ - Is interesting -> Seems interesting
+#+END_QUOTE
+- Note: Logically だ must always be used with そう, but colloquially it is often left off.
+
+Remember, in Japanese we can only say things that we actually know for ourselves, so unless we have read/tasted/experienced/whatever that thing which the other person is describing, we must say そう as we cannot *know* that is is the way that they say.
+
+-----
+
+For verbs, in the case of ichidan we just remove る as usual, and in the case of godan we use the い-stem of the verb. The い-stem of a verb is what we might call the 'pure-stem' of a verb. In Japanese this is called 「連用形」(れんようけい) which means 'connective-use form'.
+
+# There are some notes here about the correctness of this 'connective-use form' label
+
+#+BEGIN_QUOTE
+泣きそうだ - Seems about to cry
+#+END_QUOTE
+- Note: Again; logically だ must always be used with そう, but colloquially it is often left off.
+
+** Hearsay
+The そう used for likeness is a /suffix/, it is joined to other words in order to form a new word. Whatever the word was to start with, once そう is attached, it becomes an adjectival noun. This is not what happens with hearsay.
+
+When talking about hearsay we use そうだ/そうです after the entire, complete sentence. Back to the train metaphor, the entire logical sentence becomes the main car at the core of a new sentence being pulled by a だ-engine.
+
+#+BEGIN_QUOTE
+さくらが日本人だ -> さくらが日本人だそうだ - Sakura is Japanese -> Sakura is Japanese I hear
+#+END_QUOTE
+So simply put そうだ at the end of any full statement.

@@ -1,8 +1,5 @@
 My follow-along notes from the Organic Japanese course on Youtube: [[https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj]]
 
-# Styling rules: /new concept/, *emphasis*, 'meaning', "quotation"
-# Notes should be preceded by a bullet
-
 # TODO: Replace examples with tables
 # ∅
 * Lesson 1: The core Japanese sentence
@@ -1384,3 +1381,58 @@ When talking about hearsay we use そうだ/そうです after the entire, compl
 さくらが日本人だ -> さくらが日本人だそうだ - Sakura is Japanese -> Sakura is Japanese I hear
 #+END_QUOTE
 So simply put そうだ at the end of any full statement.
+
+* Lesson 25: らしい vs そうです
+らしい is a /helper adjective/. Adjectives that end in しい we can consider a sub-class of adjectives that on the whole express subjectivities. That is to say, they are adjectives not describing an inherent property of something, but a (possible) human perspective on it:
+- かなしい - Sad
+- うれしい - Happy
+- むずかしい - Difficult
+- やさしい - Easy
+
+Like そう, らしい can be attached either to an individual word or to a complete logical clause/sentence. We don't need to change anything about the word, just attach らしい to it.
+
+As with そう, if we attach らしい to a single word, we are talking about our (subjective) impression of that action or state.
+
+And again as with そう, if we attach らしい to a sentence we're indicating that the statement itself is subjective, i.e. a deduction/hearsay/conjecture.
+
+There is a difference however:
+#+BEGIN_QUOTE
+あの動物はウサギだ*そうだ* - I heard that animal is a rabbit
+#+END_QUOTE
+#+BEGIN_QUOTE
+あの動物はウサギだ*らしい* - It seems that animal is a rabbit
+#+END_QUOTE
+These two /can/ mean the same thing, but not always. そう is specific to 'I heard', whereas らしい means that from the available evidence, which /could/ be what somebody said, or could be something else, it /seems/ to be a rabbit.
+
+When it comes to the difference between そう and らしい with respect to a single word, the main difference is that we can't apply そうだ to a regular noun. We can only apply it to an adjectival noun. らしい can be applied to any noun, adjectival or otherwise.
+
+らしい has the ability to liken one thing to another:
+#+BEGIN_QUOTE
+あの動物はウサギだ*らしい* - That animal is rabbit like
+#+END_QUOTE
+らしい is not-necessarily conjecturing that something is something else, we may merely be saying that it is like that thing.
+#+BEGIN_QUOTE
+男らしい男 - Manly man
+#+END_QUOTE
+#+BEGIN_QUOTE
+さくら先生は先生らしくない - Sakura-sensei is not like (does not have the qualities of) a teacher
+#+END_QUOTE
+#+BEGIN_QUOTE
+それはさくらしくない - That wasn't like (you) Sakura
+#+END_QUOTE
+
+** っぽい
+#+BEGIN_QUOTE
+こどもっぽい - Childish
+#+END_QUOTE
+っぽい works very much like らしい and is also a /helper adjective/ but is much more casual than らしい.
+
+っぽい cannot be used on the end of a completed clause, it can only be attached to a word.
+
+らしい tends to imply that the quality is something that the thing ought to have, っぽい often tends to imply the opposite. This is not an absolute rule, just a tendency.
+#+BEGIN_QUOTE
+こどもらしい - Childlike
+#+END_QUOTE
+#+BEGIN_QUOTE
+こどもっぽい - Childish
+#+END_QUOTE

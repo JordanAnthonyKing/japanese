@@ -54,7 +54,7 @@ One might say: 「ドリーだ」 meaning /'I am Dolly'/. The full sentence bein
 
 By default 'I' is the default value of this /∅ pronoun/. However, if someone were introducing their daughter and said 「ドリーだ」 we would understand from context that ∅ meant this/she.
 
-If I say 「土曜日だ] - /'It is Saturday'/ it is clear that 「∅が」 is /today/.
+If I say 「土曜日だ」 - /'It is Saturday'/ it is clear that 「∅が」 is /today/.
 
 Each of these sentences are complete grammatical sentences with a subject marked by が and an engine, but in each of these cases the が carriage is just invisible. It *is* still there. This may seem to be arbitrary, or over-complicated but it saves a lot of grief later on to model sentences this way. Without this information as sentences become more complex they're going to seem increasingly vague and hard to understand.
 
@@ -191,20 +191,21 @@ There are only two irregular verbs, くる and する. いく, is partly irregul
 - いく -> いって (+いいて+)
 These are the only exceptions
 * Lesson 6: Japanese "adjectives"
+** い-adjectives, verb adjectives, and な-adjectives
 Japanese adjectives are not the same as English adjectives. As we have learned Japanese sentences come in three kinds, depending on the type of engine they have. As a reminder they are:
-- う - verb - A does B
-- だ - noun - A is B
-- い - "adjective" - A is B
+- う - verb - A *does* B
+- だ - noun - A *is* B
+- い - "adjective" - A *is* B
 
 The truth is that all three of these types of engines can be used like adjectives.
 
-Let's start with the first one, the one we refer to as an adjective in English, the い engine:
+Let's start with the first one, the one we refer to as an adjective in English, the い-engine:
 #+BEGIN_QUOTE
 ぺんがあかい - Pen is red
 #+END_QUOTE
-An important note, あかい does not mean 'red', it means 'is red'. あか means red.
+An important note, 「あかい」 does not mean 'red', it means 'is red'. 「あか」 means red.
 
-If we swap the order of ぺんが and あかい then we can take this い engine, and now use it not as the primary engine, but as a secondary engine. This would not be a complete sentence however without a new engine, for example, a new (primary) い engine.
+If we swap the order of 「ぺんが」 and 「あかい」 then we can take this い-engine, and now use it not as the primary engine, but as a secondary engine. This would not be a complete sentence however without a new engine, for example, a new (primary) い engine.
 #+BEGIN_QUOTE
 あかいぺんがちいさい - Red pen is small
 #+END_QUOTE
@@ -226,7 +227,7 @@ Next, the noun engine:
 #+BEGIN_QUOTE
 いぬがやんちゃだ - The dog is naughty
 #+END_QUOTE
-We can turn やんちゃ into an adjective too, but there is one important thing to note. Just as we have to add だ to a noun, here we must add な to the noun. な is the connective form of だ. Don't be fooled by 'な-adjectives', they're simply nouns!
+We can turn 「やんちゃ」 into an adjective too, but there is one important thing to note. Just as we have to add だ to a noun, here we must add な to the noun. な is the connective form of だ. Don't be fooled by 'な-adjectives', they're simply nouns!
 #+BEGIN_QUOTE
 やんちゃないぬが - The dog who is naughty (Note: this sentence is not yet complete, it lacks a primary engine).
 #+END_QUOTE
@@ -236,7 +237,7 @@ We can turn やんちゃ into an adjective too, but there is one important thing
 
 An important note is that we cannot do this with /all/ nouns, only nouns which are frequently used in an adjectival way. This group of nouns is what the are referred to as 'な-adjectives'. We can use all nouns as adjectives, but for the rest we need to use a different technique and for that we will have to learn about the の particle.
 
-** The の carriage
+** The の-particle
 The の particle, or the /possessive particle/ functions just like the English /'s/.
 #+BEGIN_QUOTE
 さくら*の*はな - Sakura's nose
@@ -244,9 +245,9 @@ The の particle, or the /possessive particle/ functions just like the English /
 #+BEGIN_QUOTE
 わたし*の*はな - Me's (my) nose
 #+END_QUOTE
-Luckly in Japanese we don't have to worry about his/her/my/their, we just use の.
+Luckily in Japanese we don't have to worry about his/her/my/their, we just use の.
 
-Because this is the /possessive particle/ we can use this in another slightly different way. あか has an /adjectival/ form in あかい, but not all colours have this form. The Japanese for pink, ピンクいる (lit: pink-colour) doesn't have an adjectival form in ピンクいろい, nor can we use it as a secondary engine with な. So what are we to do? Well we can use the の particle:
+Because this is the /possessive particle/ we can use this in another slightly different way. 「あか」 has an /adjectival/ form in 「あかい」, but not all colours have this form. The Japanese for pink, 「ピンクいる」 (lit: pink-colour) doesn't have an adjectival form in 「ピンクいろい」, nor can we use it as a secondary engine with な. So what are we to do? Well we can use the の-particle:
 #+BEGIN_QUOTE
 ピンクいる*の*どれすが - The pink dress (literally: The dress belonging to the class of pink things)
 #+END_QUOTE
@@ -257,8 +258,10 @@ Because this is the /possessive particle/ we can use this in another slightly di
 Just as before, there's no need to worry about misusing の and な, no-one listening is going to misunderstand what you're saying and it's a very typical beginner mistake to make.
 
 Using these techniques we can make all kinds of sentences that can become very complex, especially with verbal adjectives in which we can use whole sentences in an adjectival manner.
-* Lesson 7: Negative verbs and adjective "conjugations"
-The fundamental basis of negatives is the adjective ない. This adjective means 'non-exist'. The word for exist (for any inanimate thing) is ある. If we want to say that something exists:
+
+* Lesson 7: Negatives and adjective "conjugations"
+** Negative nouns
+The fundamental basis of negatives is the adjective 「ない」. This adjective means 'non-exist'. The word for exist (for any inanimate thing) is ある. If we want to say that something exists:
 #+BEGIN_QUOTE
 ぺんがある
 #+END_QUOTE
@@ -276,10 +279,10 @@ Above we have said 'There is no pen', how do we say 'This is not a pen'?
 これはぺんではない - As for this, as for being a pen, it's not. (Note: で is the て-form of だ)
 #+END_QUOTE
 
-Now let's look at negative verbs. To make a verb negative we must attach ない to the あ-stem of the verb. How do we do this?
+** Negative verbs and the Japanese stem system
+Now let's look at negative verbs. To make a verb negative we must attach 「ない」 to the あ-stem of the verb. How do we do this?
 
-** The Japanese stem system
-Note: these stems apply to Godan verbs. For Ichidan verbs we simply drop the る and add ない. Remember, all ichidan verbs end in る but not all る ending verbs are ichidan verbs.
+Note: these stems apply to Godan verbs. For Ichidan verbs we simply drop the る and add 「ない」. Remember, all ichidan verbs end in る but not all る ending verbs are ichidan verbs.
 #+BEGIN_QUOTE
 たべる ー> たべない
 #+END_QUOTE
@@ -297,16 +300,15 @@ Here is the kana-grid, presented on its side. Every verb ends in one of the う-
 
 As we can see there are four other ways in which the verb could end. These are the verb stems. For now we're only looking at the あ-stem as this is the one we need for the negative.
 
-To from the あ-stem we simply shift the final kana from the う-row to the あ-row. There is one only exception and this is the only exception in the entire stem system. This exception is that う itself does not become あ but わ. This is because, take for example a verb like かう, かあ would not be as easy to say as かわ. Every other う-row kana is simply changed to its あ-row equivalent.
-# TODO: You cannot underline kana apparently
-| _*わ*_ | い | *う* | え | お |
-| _か_   | き | *く* | け | こ |
-| _さ_   | し | *す* | せ | そ |
-| _た_   | ち | *つ* | て | と |
-| _な_   | に | *ぬ* | ね | の |
-| _ば_   | び | *ぶ* | べ | ぼ |
-| _ま_   | み | *む* | め | も |
-| _ら_   | り | *る* | れ | ろ |
+To from the あ-stem we simply shift the final kana from the う-row to the あ-row. There is one only exception and this is the only exception in the entire stem system. This exception is that う itself does not become あ but わ. This is because, take for example a verb like 「かう」, 「かあ」 would not be as easy to say as 「かわ」. Every other う-row kana is simply changed to its あ-row equivalent.
+| **わ** | い | *う* | え | お |
+| *か*   | き | *く* | け | こ |
+| *さ*   | し | *す* | せ | そ |
+| *た*   | ち | *つ* | て | と |
+| *な*   | に | *ぬ* | ね | の |
+| *ば*   | び | *ぶ* | べ | ぼ |
+| *ま*   | み | *む* | め | も |
+| *ら*   | り | *る* | れ | ろ |
 
 So to form the negative form of a verb convert it to the あ-stem and add ない.
 #+BEGIN_QUOTE
@@ -316,28 +318,27 @@ So to form the negative form of a verb convert it to the あ-stem and add ない
 はなす ー> はなさない
 #+END_QUOTE
 
-** Negative adjectives (and adjective "conjugations")
-The adjective stem is simple, just drop the い and add く. This is how we make the て form, あかい ー> あかくて, and it's also the way we make the negative, あかい ー> あかくない.
+** Negative adjectives and adjective "conjugations"
+The adjective stem is simple, just drop the い and add く. This is how we make the て form, 「あかい」 ー> 「あかくて」, and it's also the way we make the negative, 「あかい」 ー> 「あかくない」.
 
 If we want to put an adjective into the past tense we drop the い and add かった.
 #+BEGIN_QUOTE
 こわい ー> こわかった - Was scary
 #+END_QUOTE
 
-Because ない is also an adjective, the past tense of it is just なかった.
-# I need to find a font that is uniform width for Japanese and Latin
+Because 「ない」 is also an adjective, the past tense of it is just 「なかった」.
 | Non-past             | Past                     |          |
 |----------------------+--------------------------+----------|
 | さくらがはしる       | さくらがはしった         | Positive |
 | さくらがはし*ら*ない | さくらがはし*ら*なかった | Negative |
 
-Now as we know さくらがはしる is not very natural Japanese, instead we would say さくらがはしっている. For this, all we need to do is put the いる into the past tense:
+Now as we know 「さくらがはしる」 is not very natural Japanese, instead we would say 「さくらがはしっている」. For this, all we need to do is put the 「いる」 into the past tense:
 #+BEGIN_QUOTE
 さくらがはしっている -> さくらがはしっていた - Sakura was running
 #+END_QUOTE
 
 ** The only exceptions
-There are only two real exceptions to what has been covered in this lesson. They are the helper verb ます which makes words formal by adding it to the い-stem of a verb. When we put ます into the negative it does not become まさない as we would expect, but becomes ません, because it is formal it is a bit old-fashioned and uses the old Japanese negative せん instead of ない.
+There are only two real exceptions to what has been covered in this lesson. They are the helper verb 「ます」 which makes words formal by adding it to the い-stem of a verb. When we put 「ます」 into the negative it does not become 「まさない」 as we would expect, but becomes 「ません」, because it is formal it is a bit old-fashioned and uses the old Japanese negative 「せん」 instead of 「ない」.
 
 The only other exception is いい (is good), which has an older form, which is still widely used in よい. When we morph いい it becomes よい again:
 #+BEGIN_QUOTE
@@ -346,22 +347,20 @@ The only other exception is いい (is good), which has an older form, which is 
 #+BEGIN_QUOTE
 いい ー> よかった - Was-good
 #+END_QUOTE
+- Note: 「よかった」 is a common phrase: 「∅がよかった」 - /It was good (That went well, it turned out great etc.)/
 
-Note: よかった is a common phrase: ∅がよかった - /It was good (That went well, it turned out great etc.)/
-* Extra: The secret to all Japanese "conjugations"
-Uncovered. Partially covered in previous lesson. Will be covered if required in future lessons.
 * Lesson 8: Location, purpose and transformation (に and へ particles).
-We already know that in a logical sentence the に particle marks the ultimate target of an action. If we are going somewhere, or sending something somewhere, or putting something somewhere, we use に.
+We already know that in a logical sentence the に-particle marks the ultimate target of an action. If we are going somewhere, or sending something somewhere, or putting something somewhere, we use に.
 #+BEGIN_QUOTE
 ∅がみせ*に*いく - (I) will go to the shop
 #+END_QUOTE
-We can also mark a more subtler kind of target:
+We can also mark a more subtle kind of target:
 #+BEGIN_QUOTE
 ∅がみせ*に*たまごをかい*に*いく - (I) will go to the shop to buy eggs
 #+END_QUOTE
-Note: かい is the い stem of かう, to buy.
+- Note: かい is the い stem of かう, to buy.
 
-If we recall, logical particles (が, に, を) can only mark nouns. The い stem of a verb is the equivalent noun form of it. Just as in English 'I like swimming', /swimming/ is a noun, 'I go to the shop for the purpose of buying eggs', this /buying/ is also a noun.
+If we recall, the logical particles (が, に, を) can only mark nouns. The い stem of a verb is the equivalent noun form of it. Just as in English 'I like swimming', /swimming/ is a noun, 'I go to the shop for the purpose of buying eggs', this /buying/ is also a noun.
 
 に gives us the target of an action in the literal sense, and also the target in a volitional sense, i.e. the aim of our action.
 
@@ -369,13 +368,13 @@ As well as identifying a place we will go to, に can also specify a place we ar
 #+BEGIN_QUOTE
 ∅がみせ*に*いる - (I am) at the shop
 #+END_QUOTE
-This に is still marking a target, just not a future target. In order for something to be somewhere it must've gotten there, and so に specifies the target or some past action. We can also use this for inanimate objects:
+This に is still marking a target, just not a future target. In order for something to be somewhere it must've gotten there, and so に specifies the target of some past action. We can also use this for inanimate objects:
 #+BEGIN_QUOTE
-ほんは∅テーベルのうえ*に*ある - As for the book, (it) exists (is) on-at the table.
+ほんは∅がテーベルのうえ*に*ある - As for the book, (it) exists (is) on-at the table.
 #+END_QUOTE
-Note: うえ is a noun, meaning the on/top of something.
+- Note: うえ is a noun, meaning the on/top of something.
 
-Finally, に can also mark a transformation. If /a/ becomes /b/, then に also marks /b/, the thing a is becomming.
+Finally, に can also mark a transformation. If /a/ becomes /b/, then に also marks /b/, the thing a is becoming.
 # I think the actual sentence is missing here
 #+BEGIN_QUOTE
 さくらは∅がかえる*に*なった - Sakura became a frog
@@ -392,8 +391,11 @@ For adjectives things work slightly differently:
 #+BEGIN_QUOTE
 さくらがうつくしい - Sakura is beautiful
 #+END_QUOTE
-If we want to say 'Sakura became beautiful' we can't use に because うつくしい isn't a noun, (referring back to our metaphor), it's not a carriage, it's an engine. All we need to do is turn the adjective into its stem by removing い and adding く (refer back to lesson 6).
-# TODO: I don't actually see anything discussing this in lesson 6, go back and check sometime
+If we want to say 'Sakura became beautiful' we can't use に because うつくしい isn't a noun, (referring back to our metaphor), it's not a carriage, it's an engine. All we need to do is turn the adjective into its stem by removing い and adding く refering back to lesson 7:
+
+#+BEGIN_EXAMPLE
+The adjective stem is simple, just drop the い and add く. This is how we make the て form, 「あかい」 ー> 「あかくて」, and it's also the way we make the negative, 「あかい」 ー> 「あかくない」.
+#+END_EXAMPLE
 #+BEGIN_QUOTE
 さくらがうつくしくなった - Sakura became beautiful
 #+END_QUOTE
@@ -412,7 +414,7 @@ A logical particle tells us how the sentence logically holds together. It tells 
 
 Logical particles *always* attach to a noun. If we see a logical particle attached to anything else then we know that that word is functionally a noun.
 
-The noun and the particle attached to it are an inseperable pair. We must view the two together, they are a question and an answer which form a fundamental unit of the Japanese sentence.
+The noun and the particle attached to it are an inseparable pair. We must view the two together, they are a question and an answer which form a fundamental unit of the Japanese sentence.
 
 There cannot be a sentence without が, even if sometimes you can't see it. が can work in A is B sentences, descriptive sentences. The other particles can *only* work in A does B sentences, that is sentences with a verb engine.
 - が - Who (or what) did it?
@@ -423,11 +425,10 @@ There cannot be a sentence without が, even if sometimes you can't see it. が 
 #+BEGIN_QUOTE
 ∅がこうえん*に*いる - I am in the park
 #+END_QUOTE
-# I think this is supposed to be asondeiru
 #+BEGIN_QUOTE
-∅がこうえん*で*あるんでいる - I am playing in the park
+∅がこうえん*で*あそんでいる - I am playing in the park
 #+END_QUOTE
-Remember, あそんで is the て form of あそぶ and is a secondary engine, modifying いる. I am => I am playing.
+Remember, 「あそんで」 is the て form of 「あそぶ」 and is a secondary engine, modifying 「いる」. /I am/ -> /I am playing/.
 #+BEGIN_QUOTE
 ∅がこうえん*に*いく - I go to the park
 #+END_QUOTE

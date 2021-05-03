@@ -436,9 +436,9 @@ Remember, 「あそんで」 is the て form of 「あそぶ」 and is a seconda
 ∅がバス*で*こうえんいいく - I go to the park by bus
 #+END_QUOTE
 If we say 'I went by bus' or 'I ate with chopsticks' we use で for the thing we did it with, the means by which we performed the action.
-* Lesson 9: Japanese: No 1 secret and expressing desire
-** The No 1 secret
-English is an /ego-centric/ language. Japanese is a more /animist/ language. What this means is that English always wants a person, preferably I, but if not I then someone else, or perhaps it will settle for an animal, but always wanting an animate being to be acting. Japanese is not this way:
+* Lesson 9: 'Ego-centrism' and expressing desire
+** Ego-centrism
+English is an /ego-centric/ language. Japanese is a more /animist/ language. What this means is that English always wants a person, preferably /I/, but if not I then someone else, or perhaps it will settle for an animal, but always wanting an animate being to be acting. Japanese is not this way:
 #+BEGIN_QUOTE
 わたしはコーヒがすきだ
 #+END_QUOTE
@@ -450,7 +450,7 @@ The English 'I like coffee' is an /A does B/ sentence. The Japanese is an /A is 
 
 すき is a *noun*. An adjectival noun, but still a noun. It is not a verb like in English.
 
-If this sentence were 1-1 with the common English meaning given, then every single part of it would be misdescribed by the particles.
+If this sentence were 1-1 with the common English meaning given, then every single part of it would be miss-described by the particles.
 - は does not mark an actor
 - が does not mark an object
 - だ does not mark a verb
@@ -458,25 +458,26 @@ If this sentence were 1-1 with the common English meaning given, then every sing
 #+BEGIN_QUOTE
 わたしはほんがわかる
 #+END_QUOTE
+
 ** Expressing desire
 #+BEGIN_QUOTE
 わたしは(optional)こねこがほしい - As for me, a kitten is wanted
 #+END_QUOTE
-ほしい is often translated in English as 'want', but again, it is not a verb, it is an adjective. Again, /I/ is not the actor of the sentence, it is the cat, and it is the cat that is wanted, not 'I want a cat'.
+「ほしい」 is often translated in English as 'want', but again, it is not a verb, it is an adjective. Again, /I/ is not the actor of the sentence, it is the cat, and it is the cat that is wanted, not 'I want a cat'.
 
 In Japanese the way that wanting to *do* something is expressed is different to the way that wanting to *have* something is expressed.
 
-The way this is done is with the い-stem again. To express that we want to do something, we must add the /helper adjective/ たい to the い-stem of the verb. たい doesn't mean 'want' in the English sense, it can't, again, because *want* is a verb, and たい is an *adjective*.
+The way this is done is with the い-stem again. To express that we want to do something, we must add the /helper adjective/ 「たい」 to the い-stem of the verb. 「たい」 doesn't mean 'want' in the English sense, it can't, again, because *want* is a verb, and 「たい」 is an *adjective*.
 #+BEGIN_QUOTE
-わたしは(optional)クレープガたべたい
+(わたしは)クレープガたべたい
 #+END_QUOTE
-The common English translation for this is 'I want to eat crepes', but as we see the pattern is just the same as in the other cases, the desireability of the crepes is not a verb, it is an adjective.
+The common English translation for this is 'I want to eat crepes', but as we see the pattern is just the same as in the other cases, the desire-ability of the crepes is not a verb, it is an adjective.
 
 There is no truly good translation of this into English. We shouldn't be thinking in terms of 'awkward English' or 'natural English' when it comes to constructing and understanding these sentences. We should be thinking in terms of Japanese. The 'awkward' translations of the Japanese are only there to give a *grasp* of the structure of Japanese.
 
-Now, what if we took this sentence, わたしはクレープガたべたい and removed the optional parts so that we just had たべたい (∅がたべたい)? In this case, the meaning of the sentence would be what the common English translation is. ∅ defaults to I, and so the translation is 'I eat-wanting am' => 'I am wanting to eat' => 'I want to eat'. Because there is no eat-inducing subject here, the want to eat is attributed directly to I.
+Now, what if we took this sentence, 「わたしはクレープガたべたい and removed the optional parts so that we just had 「たべたい? In this case, the meaning of the sentence would be what the common English translation is. ∅ defaults to I, and so the translation is 'I eat-wanting am' -> 'I am wanting to eat' -> 'I want to eat'. Because there is no eat-inducing subject here, the want to eat is attributed directly to I.
 
-So what is たい? Is it an adjective describing the /condition of something/ making you want to do something, or is it an adjective describing /my desire/? Well, it can be either. This is very common throughout Japanese. こわい can mean scared or scary.
+So what is 「たい」? Is it an adjective describing the /condition of something/ making you want to do something, or is it an adjective describing /my desire/? Well, it can be either. This is very common throughout Japanese. 「こわい」 can mean scared or scary:
 #+BEGIN_QUOTE
 おばけがこわい - Ghosts are scary
 #+END_QUOTE
@@ -486,26 +487,26 @@ So what is たい? Is it an adjective describing the /condition of something/ ma
 This isn't confusing because が tells us what to do.
 
 ** A final note to help keep things clear
-We cannot use these adjectives of desire (or any emotion) about anyone other than ourselves. If we say たべたい and there is no context to give the subject, then we must be talking about ourselves, and never the person we are speaking to or anyone else. Japanese simply doesn't allow us to use たい or こわい or ほしい or anything else about anyone other than ourselves.
+We cannot use these adjectives of desire (or any emotion) about anyone other than ourselves. If we say 「たべたい」 and there is no context to give the subject, then we must be talking about ourselves, and never the person we are speaking to or anyone else. Japanese simply doesn't allow us to use 「たい」 or 「こわい」 or 「ほしい」 or anything else about anyone other than ourselves.
 
-If we wanted to say that someone else wants something then, because Japanese is such a logical language it doesn't allow us to say something that we cannot know for sure. One thing that we cannot know for sure is someone's inner feelings. We might think that Sakura wants to eat cake, but we can't know for sure. So if I want to talk about her desire to eat cake, we can't just use たい. We need to add to たい (or こわい, or ほしい or anything else) the helper verb がる.
+If we wanted to say that someone else wants something then, because Japanese is such a logical language it doesn't allow us to say something that we cannot know for sure. One thing that we cannot know for sure is someone's inner feelings. We might think that Sakura wants to eat cake, but we can't know for sure. So if I want to talk about her desire to eat cake, we can't just use 「たい」. We need to add to 「たい」 (or 「こわい」, or 「ほしい」 or anything else) the helper verb がる.
 
-To do this we take the い off of the adjective and add the helper verb がる.
+To do this we take the い off of the adjective and add the helper verb 「がる」.
 - たがる
 - こわかる
 - ほしがる
 
-  がる means 'to show signs of', 'to look as if it's the case'.
+「がる」 means 'to show signs of', 'to look as if it's the case'.
 #+BEGIN_QUOTE
 さくらがケーキをほしがる - Sakura is showing signs of wanting cake
 #+END_QUOTE
-Even if Sakura has actually told me she wants cake, we must still use がる. All I know is what she's said, I still don't know her feelings absolutely.
+Even if Sakura has actually told me she wants cake, we must still use 「がる」. All I know is what she's said, I still don't know her feelings absolutely.
 
-Why do we use a verb for other people and an adjective for ourselves? I can't describe someone else's feelings because I don't know about them, I can only describe their actions, and their actions are a verb.
+Why do we use a verb for other people and an adjective for ourselves? I can't describe someone-else's feelings because I don't know about them, I can only describe their actions, and their actions are a verb.
 * Lesson 10: Japanese "conjugation" and potential form
-What textbooks typically refer to as "conjugations" are really just helper-verbs attached to the four verb stems.
+What textbooks typically refer to as "conjugations" are really just /helper-verbs/ attached to the four verb stems.
 
-We have already looked at the helper-adjectives ない and たい, as well as the helper-verb がる. Now for the potential helper-verb which attaches to the え-stem of a verb.
+We have already looked at the helper-adjectives 「ない」 and 「たい」, as well as the helper-verb 「がる」. Now for the potential helper-verb which attaches to the え-stem of a verb.
 | あ | い | *う* | *え* | お |
 | か | き | *く* | *け* | こ |
 | さ | し | *す* | *せ* | そ |
@@ -515,9 +516,9 @@ We have already looked at the helper-adjectives ない and たい, as well as th
 | ま | み | *む* | *め* | も |
 | ら | り | *る* | *れ* | ろ |
 
-The potential helper verb has two forms, for godan verbs る, and for ichidan verbs られる.
+The potential helper verb has two forms, for godan verbs 「る」, and for ichidan verbs 「られる」.
 
-There are only two exceptions, くる and する.
+There are only two exceptions, 「くる」 and 「する」.
 #+BEGIN_QUOTE
 くる -> こられる
 #+END_QUOTE
@@ -529,13 +530,13 @@ There is only one difficult spot with the potential form, and it is similar to t
 #+BEGIN_QUOTE
 わたしは(optional)ほんがよめる - As for me, the book is readable
 #+END_QUOTE
-A common translation of this would be 'I can read the book', however again the が is on the book, not on I. If we wanted to say 'I can read the book', the book would need to bemarked by を as it is the target of our reading, and 'I' would have to be marked by が as I is the actor.
+A common translation of this would be 'I can read the book', however again the が is on the book, not on I. If we wanted to say 'I can read the book', the book would need to be marked by を as it is the target of our reading, and 'I' would have to be marked by が as I is the actor.
 #+BEGIN_QUOTE
 わたしがほんをよめる - I can read the book
 #+END_QUOTE
-This is perfectly fine, but it's not what is usually done. Remember, Japanese is not /egocentric/.
+This is perfectly fine, but it's not what is usually done. Remember, Japanese is not /ego-centric/.
 
-As we're using a helper-verb, the past, non-past, negative-past and negative-non-past conjugation rules are the same as regular verbs, for あるける (can walk):
+As we're using a helper-verb, the past, non-past, negative-past and negative-non-past conjugation rules are the same as regular verbs, for 「あるける」 (can walk):
 - あるける - non-past
 - あるけた - past
 - あるけない - negative-non-past

@@ -1428,3 +1428,67 @@ When it comes to the difference between そう and らしい with respect to a s
 #+BEGIN_QUOTE
 こどもっぽい - Childish
 #+END_QUOTE
+* Lesson 26: Similes - のように、 のような、 みたい
+「ようだ」 forms the far end of a sliding scale of 'likeness' expressions:
+| Objectivity        |                                | Subjectivity    |
+| そうだ             | らしい                         | ようだ + みたい |
+| Hearsay/conjecture | Observation/quality comparison | Pure simile     |
+
+Each of these expressions can be placed at the end of a complete logical sentence to express that the sentence is either something we've heard or some conjecture from the information available.
+
+When we attach them to individual words then we have this sliding scale of meaning.
+- そうだ - Conjecture of what the quality of something is: 「おいしいそうだ」 - It looks delicious
+- らしい - Has a much greater degree of subjectivity. 「らしい」 overlaps with 「そうだ」 in many respects but it can also do things that 「そうだ」 cannot. 「らしい」 can compare things to other things that we know they aren't: 「ウサギらしい」 - Rabbit-like (even though we know it isn't a rabbit). 「こどもらしい」 - Childlike (whether they are a child or not)
+- ようだ - 「ようだ」 can be much more subjective still, going as far as a /metaphor/ or /simile/
+
+#+BEGIN_QUOTE
+山のようだ - Like a mountain
+#+END_QUOTE
+#+BEGIN_QUOTE
+風のように走る - Runs like the wind
+#+END_QUOTE
+
+Often when 「ようだ」 is being used as a metaphor/simile it is used alongside 「まるで」:
+#+BEGIN_QUOTE
+日の丸 - Circle of the sun
+#+END_QUOTE
+- まるで (usually does not use まる kanji) - roundly/wholly
+
+#+BEGIN_QUOTE
+まるで風のように走た - Wholly like the wind ran
+#+END_QUOTE
+- Note: This is hyperbole. Hyperbole in this fashion is common in many languages. In English: 'I /literally/ froze to death'. We really mean: 'I /figuratively/ froze to death'; The hyperbole is to give emphasis.
+
+We *cannot* use 「まるで」 with 「そうだ」 and we *shouldn't* use it with 「らしい」.
+
+- のよう*だ* - Clause-end adjectival
+- のよう*な* - Pre-noun adjectival
+- のよう*に* - Adverb
+
+「ようだ」 has a special usage that the other likening phrases don't have. As with the other two we can attach it to the end of a sentence with the meaning of 'seems/appears'. We can also attach it to a complete sentence for another purpose. We can use 「ようだ」 to turn an entire sentence into a simile:
+#+BEGIN_QUOTE
+まるで[1]ゆうれいを見た[2]か[3]のような[4]顔をした[5] - [5]Did (had) a face [1]exactly [4]as [3]if [2](she) saw a ghost - She made a face exactly as if she'd seen a ghost
+#+END_QUOTE
+- Note: [2] is an entire sentence being used as a simile for (her) face.
+- Note: か is an as-yet uncovered particle roughly meaning 'if'. か bundles a statement into a kind of question.
+
+We start with 「まるで」 indicating that we are going to use a simile. Then we make our completed statement. か turns our statement into a question, it gives us our 'if', she hasn't actually seen a ghost, it's a potentiality, so it's an 'if'. 「のように」 takes this and turns it into a simile 'as' i.e. 'as strong as...', 'as if...'. Finally we are describing her face we use the な connective form.
+
+# There are some notes here about か nominalising the statement preceding it, but I don't think it's too relevant rn
+
+# TODO: Is it か specifically or is it just the normalisati of an entire sentence in to a simile?
+Using か in this way is something we can't do this with any of the other likening phrases. Even 「みたい」 which can do most of the things that 「のよう」 can do, can't do this.
+
+「みたい」 is the less formal cousin of 「よう」 and means 'looks like...', 'looks' not necessarily referring to solely literal vision:
+#+BEGIN_QUOTE
+山みたいだ
+#+END_QUOTE
+#+BEGIN_QUOTE
+山みたいな人
+#+END_QUOTE
+#+BEGIN_QUOTE
+風みたいに走る
+#+END_QUOTE
+「みたい」 can also make true similes using 「まるで」 just like 「ように」. The main things to remember about 「みたい」 vs. 「ようだ」 is that 「みたい」 is less formal, and that we *can't* use it with a completed sentence. We *can* use it with a complete sentence for /conjecture/, but not to create a /simile/.
+
+Because 「みたい」 is so casual, often the だ or 「です」 gets left off the sentence.

@@ -1492,3 +1492,53 @@ Using か in this way is something we can't do this with any of the other likeni
 「みたい」 can also make true similes using 「まるで」 just like 「ように」. The main things to remember about 「みたい」 vs. 「ようだ」 is that 「みたい」 is less formal, and that we *can't* use it with a completed sentence. We *can* use it with a complete sentence for /conjecture/, but not to create a /simile/.
 
 Because 「みたい」 is so casual, often the だ or 「です」 gets left off the sentence.
+* Lesson 27: Bakari - ばかり
+「ばかり」 is essentially a noun, it is used だ and as we know we can only use だ with nouns, although we will find that sometimes the だ/です is left off in casual speech.
+
+「ばかり」 simply means 'just' or 'nothing but'. One of the most common uses is to place it after a past-tense statement to say that something has 'just' taken place. This is just the same as in English.
+#+BEGIN_QUOTE
+来たばかり(だ) - I just came
+#+END_QUOTE
+Why do we use the word 'just' in this way (in English and in Japanese)? It's another case of /hyperbole/, just like in the last lesson. When we say 'just' we mean 'nothing else can have happened in so short a time', obviously this isn't literally true.
+
+We can only attach 「ばかり」 to past-tense actions because in order for something to have 'just' happened it must have well, happened.
+# Note: We can do this in English though? Why, and why not in Japanese?
+
+The next use of 「ばかり」 expresses that there is a great deal of something. Is this 'opposite' use just random? Once again we do the same thing in English.
+
+We can say that someone or something does 'nothing but' an action by adding 「ばかり」 to the て-form of the word.
+#+BEGIN_QUOTE
+泣い[1]て[2]ばかり[3] - do[2] nothing but[3] cry[1]
+#+END_QUOTE
+This example could be literal. It could also be exclusively figurative:
+#+BEGIN_QUOTE
+ゴルフをしてばかり - Only plays golf - Just plays golf (In reality they play an awful lot but not /only/)
+#+END_QUOTE
+
+A conjunctions is something that connect two complete logical clauses in a compound sentence.
+#+BEGIN_QUOTE
+∅がうたった - Sentence 1
+#+END_QUOTE
+#+BEGIN_QUOTE
+∅がおどった - Sentence 2
+#+END_QUOTE
+#+BEGIN_QUOTE
+∅がうたったばかりかおどった - (A) not only [Sentence 1] but also [Sentence 2]
+#+END_QUOTE
+There is a sense of unexpected or impressive positive or negative cumulation here.
+
+The only only extra thing to understand here is the use of the か-particle. As covered in the last lesson か turns the statement it is attached to into an hypothesis or question. か can also, and especially in colloquial usage turn things into a negative. This is also done in English:
+#+BEGIN_QUOTE
+Do you think I'm going to do that? - I'm not going to do that!
+#+END_QUOTE
+This is the same in Japanese. Sometimes we put か after something to say that it isn't the case.
+#+BEGIN_QUOTE
+∅がうたったばかりかおどった - (They) sing just don't, (also) dance. - They don't just sing (but also) dance. - Not only do they sing, they also dance.
+#+END_QUOTE
+
+The other common conjunction made with 「ばかり」 is 「ばらいに」. に itself can something be added to form a conjunction, like with 「のに」. 「ばかりに」 is an /explanatory/ conjunction. It says 'something happened because...'. The most common explanatory conjunctions are 「から」 and 「ので」 but 「ばかりに」 has a special implication, it's not simply saying that one thing happened because of something, it's saying that something happened *just* because of something.
+# TODO: Cover extra lesson
+#+BEGIN_QUOTE
+みみか大きいばかりに誰もあそんでくれない - Just because my ears are big no one will play with me
+#+END_QUOTE
+# There is a brief bit here about recognising this case because it doesn't come at the end of a sentence but I don't think it's necessary to write down

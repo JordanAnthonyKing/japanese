@@ -1542,3 +1542,33 @@ The other common conjunction made with 「ばかり」 is 「ばらいに」. �
 みみか大きいばかりに誰もあそんでくれない - Just because my ears are big no one will play with me
 #+END_QUOTE
 # There is a brief bit here about recognising this case because it doesn't come at the end of a sentence but I don't think it's necessary to write down
+* Extra: のに and なのに
+「のに」 and 「なのに」 are often used as a sentence ending as well as a conjunction.
+
+「のに」 is a conjunction, something that joins two clauses, each of which could be a complete sentence in of themselves, to form one compound sentence. 「のに」 is an /opposing conjunction/, the main /opposing conjunction/ in English is 'but'. We use an opposing conjunction when the second clause stands in opposition to the first clause. The other opposing conjunctions in Japanese are 「けど」 and 「が」.
+#+BEGIN_QUOTE
+お店に行った*が/けど*パンがなかった - I went to the shops but there was no bread.
+#+END_QUOTE
+
+「のに」 is a bit different to these two as it tends to (but doesn't always) imply that the second clause is unsatisfactory, and personally disappointing to the speaker.
+#+BEGIN_QUOTE
+パンがおいしいのにお客さんが來ない - Even though the bread is delicious, the customers don't come.
+#+END_QUOTE
+
+How does this conjunction become a sentence ender? Grammatically speaking it doesn't. 「のに」 is still always a conjunction, but sometimes the second clause isn't given. These are called /trailing statements/, statements that leave the conclusion unstated (but implied). These are very common in casual speech. Similarly we may often see sentences end with the て-form, grammatically this is wrong as the て-form is also a conjunction, but it's often done nonetheless.
+#+BEGIN_QUOTE
+赤ちゃんがうるさくて - The baby is/was noisy and so...
+#+END_QUOTE
+What this means exactly depends on context, it may mean that we couldn't sleep, or it was embarrassing.
+
+#+BEGIN_QUOTE
+さくらが約束したのに - Even though Sakura promised... (she hasn't done something)
+#+END_QUOTE
+
+What about 「なのに」? The reason sentences end in 「なのに」is that when we use の we have to use the conjunctive form of だ or 「です」. So when that first clause ends in だ, we have to change it to な in order to put a の after it.
+#+BEGIN_QUOTE
+∅が晴れた日曜日*だ* - It is a sunny Sunday (lit: it is a sunday that became sunny)
+#+END_QUOTE
+#+BEGIN_QUOTE
+∅が晴れた日曜日*な*のに - It is a sunny Sunday but... (I can't go outside etc.) - Even though it is a sunny Sunday (I need to finish my homework etc.)
+#+END_QUOTE

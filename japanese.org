@@ -1572,3 +1572,55 @@ What about 「なのに」? The reason sentences end in 「なのに」is that w
 #+BEGIN_QUOTE
 ∅が晴れた日曜日*な*のに - It is a sunny Sunday but... (I can't go outside etc.) - Even though it is a sunny Sunday (I need to finish my homework etc.)
 #+END_QUOTE
+* Lesson 28: ようになる, ようにする, ことになる, ことにする
+When we use a noun followed by 「になる」 we mean that something turns into that noun:
+#+BEGIN_QUOTE
+さくらは∅がかえるになった - Sakura became a from
+#+END_QUOTE
+
+「よう」 indicates a likeness to something:
+#+BEGIN_QUOTE
+山のようだ - Like a mountain
+#+END_QUOTE
+
+When we use 「ようになる」 and the other phrases we don't add them to a noun, but to a complete logical clause:
+#+BEGIN_QUOTE
+(∅が)[かれを信じる]ようになった - (I) came to [believe him] - I became the state of believing him
+#+END_QUOTE
+
+This is often used with the potential helper verb:
+#+BEGIN_QUOTE
+日本語のマンガが読*める*ようになった - Japanese manga became readable to me
+#+END_QUOTE
+
+In both cases the state of something is changing. (My) state of not believing became a state of believing, the manga's state of being unreadable became a state of being readable.
+
+「ようにする」 is the /other-move/ version of the 「なる」 construction, to make something enter a state:
+#+BEGIN_QUOTE
+まじょがさくらをかえるにした - Witch sakura frog-into did - Witch /turned/ Sakura into a frog
+#+END_QUOTE
+#+BEGIN_QUOTE
+よく見えるようにする - Make (someone/something) look good
+#+END_QUOTE
+
+「ようにする」 also has an extended use meaning 'make sure':
+#+BEGIN_QUOTE
+ドアにかぎをかけるようにしてください - Please make it so that (you) lock the door
+#+END_QUOTE
+Related to this is saying something about something that oneself does regularly:
+#+BEGIN_QUOTE
+毎日歩くようにする - (I) try to make it so that (I) walk every day
+#+END_QUOTE
+Unlike 「ことにする」 (which will be covered next lesson) 「ようにする」 leaves a little wiggle-room or doubt. It's not something guaranteed, but it is the intent, hence 'try to'.
+
+「ように」 can also be used as a conjunction to show /cause-and-effect/. This isn't a separate grammatical usage, it only seems that way from the English translation:
+#+BEGIN_QUOTE
+よく見えるように口べにをつける - Look better, in order that, apply lipstick - Apply lipstick in order to look better
+#+END_QUOTE
+In 「よく見えるようにする」 we're saying to make someone look better without specifying the means, we're just using the catch-all verb 「する」. In the conjunction example, the second clause is simply replacing the catch-all 「する」 with the actual means by which the first clause was accomplished.
+
+One final note is that sometimes ように can be seen on the end of a sentence:
+#+BEGIN_QUOTE
+日本に行けますように - I wish (someone) could go to Japan
+#+END_QUOTE
+This is most typically seen with 「ます」 sentences, and particularly in prayers or petitions. This is a shortening of 「ようにする」 or 「ようにしてください」.

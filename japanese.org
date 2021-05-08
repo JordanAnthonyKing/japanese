@@ -1206,6 +1206,7 @@ The second おく here (ておく) is in a sense the second half of てある:
 #+END_QUOTE
 In many cases this is used to mean 'doing something in advance' but it is not the only meaning, as we see here. What is literally means is putting the action in place.
 * Lesson 22: Te-wa, te-mo - Topic/comment magic
+# mark
 #+BEGIN_QUOTE
 でも、びんは 空っぽ だった - But the jar was empty
 #+END_QUOTE
@@ -1572,7 +1573,7 @@ What about 「なのに」? The reason sentences end in 「なのに」is that w
 #+BEGIN_QUOTE
 ∅が晴れた日曜日*な*のに - It is a sunny Sunday but... (I can't go outside etc.) - Even though it is a sunny Sunday (I need to finish my homework etc.)
 #+END_QUOTE
-* Lesson 28: ようになる, ようにする, ことになる, ことにする
+* Lesson 28: ようになる, ようにする
 When we use a noun followed by 「になる」 we mean that something turns into that noun:
 #+BEGIN_QUOTE
 さくらは∅がかえるになった - Sakura became a from
@@ -1624,3 +1625,30 @@ One final note is that sometimes ように can be seen on the end of a sentence:
 日本に行けますように - I wish (someone) could go to Japan
 #+END_QUOTE
 This is most typically seen with 「ます」 sentences, and particularly in prayers or petitions. This is a shortening of 「ようにする」 or 「ようにしてください」.
+* Lesson 29: ことになる, ことにする
+As we know 「こと」 refers to an /abstract/ thing i.e. a situation or circumstance.
+#+BEGIN_QUOTE
+(∅が)(∅を)けっこんすることにした - (It) became the thing of getting married
+#+END_QUOTE
+What is 'it'? It is the same thing it might be in English, the situation/circumstance in which getting married is the thing.
+
+We have to use 「こと」 here because we cannot attach the logical particle に (or any logical particle) to anything but a noun. So we use 「けっこんする」 as a modifier for 「こと」 in order to give a noun for the situation/circumstance of getting married.
+
+What does this really mean?
+#+BEGIN_QUOTE
+(∅が)(∅を)けっこんすることにした - We decided to get married - We brought about the situation of getting married - We brought about the situation in which getting married was the thing
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+(∅が)フランスで留学する(∅が)ことになった - (I) France study (it) thing-in turned into - It became the thing of studying in France - It came about that I studied in France
+#+END_QUOTE
+Because 「ことにする」 is a deliberate act, it is taken in many cases to imply a deliberate decision. Notice however there is no actual decision being made by anyone. 「ことになる」 on the other hand implies that something came about without our control:
+#+BEGIN_QUOTE
+(∅が)(∅を)けっこんすることになた - (It) came about that we're getting married
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+(∅が)たいへんあことになった - (It) became a terrible thing
+#+END_QUOTE
+This time 「ことに」 is not being used on a logical clause, just a single word and so does not carry the implication of a decision being made anywhere, as there is no action to be decided on.
+

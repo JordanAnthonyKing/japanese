@@ -1652,3 +1652,32 @@ Because 「ことにする」 is a deliberate act, it is taken in many cases to 
 #+END_QUOTE
 This time 「ことに」 is not being used on a logical clause, just a single word and so does not carry the implication of a decision being made anywhere, as there is no action to be decided on.
 
+* Lesson 30: Japanese conditionals: と
+A /conditional/ is a statement like 'if' or 'when'. In Japanese there are many conditionals, in this lesson we will just cover と. We've already covered と as the /exclusive-and/ particle. This is exactly the same と as is used for conditionals. It's not the same と as the quotation-particle, but knowing that it is the same と as the exclusive-and particle makes understanding the conditional grammar much clearer.
+
+と is a particle, but it's not a logical particle. It's also not a non-logical particle. Remember that it is an /a-logical/ particle, meaning that it carries the meaning of the logical particle attached to the second of the two nouns it connects. In the case of conditionals however, と doesn't attach to a noun, but to a logical clause.
+#+BEGIN_QUOTE
+冬になる*と*寒くなる - When it becomes winter it becomes cold
+#+END_QUOTE
+Why is this connected by と? We're saying that when/if something happens, there is only one result.
+
+と can also be used in a hyperbolic fashion.
+#+BEGIN_QUOTE
+(∅が)それを食べる*と*病気になる - Eat that and (you'll) get sick
+#+END_QUOTE
+It is possible that someone might not get sick, but this is a hyperbole, we're trying to say to someone that 'if you eat that you *will* get sick'. 'If you keep playing those games you *will* fail the exam'.
+
+We can also use this と to indicate that something is necessary:
+#+BEGIN_QUOTE
+行かない*と*ダメ - If I don't go it will be bad
+#+END_QUOTE
+#+BEGIN_QUOTE
+勉強しないといけない - If I don't study it won't go - If I don't study it won't do - I must study
+#+END_QUOTE
+
+We may even here the 'if' on it's own without the 'then':
+#+BEGIN_QUOTE
+逃げないと! - If we don't run... (something bad will happen) - We must run! - Run!
+#+END_QUOTE
+
+Because と is exclusive, it's a bit more absolute and also a bit more colloquial than other conditionals like ば (to be covered later).

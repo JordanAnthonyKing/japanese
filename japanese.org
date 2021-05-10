@@ -1681,3 +1681,65 @@ We may even here the 'if' on it's own without the 'then':
 #+END_QUOTE
 
 Because と is exclusive, it's a bit more absolute and also a bit more colloquial than other conditionals like ば (to be covered later).
+
+* Lesson 31: ば, れば conditional helpers
+The と conditional's particular characteristic was its exclusiveness, in many cases we can use the conditionals interchangeably without much changing in terms of meaning, but each conditional does still have its own unique qualities.
+
+The ば/れば conditional is a helper that attached to the え-stem of a verb:
+| あ | い | *う* | *え* | お |
+| か | き | *く* | *け* | こ |
+| さ | し | *す* | *せ* | そ |
+| た | ち | *つ* | *て* | と |
+| な | に | *ぬ* | *ね* | の |
+| ば | び | *ぶ* | *べ* | ぼ |
+| ま | み | *む* | *め* | も |
+| ら | り | *る* | *れ* | ろ |
+
+Godan:
+- かう -> かえ*ば*
+- きく -> きけ*ば*
+- はなす -> はなせ*ば*
+- もつ ->  もて*ば*
+- しぬ ->  しね*ば*
+- とぶ ->  とべ*ば*
+- のむ ->  のめ*ば*
+- とる ->  とれ*ば*
+Ichidan:
+- たべる たべ*れば*
+Irregular:
+- する -> すれば
+- くる -> くれば
+
+For adjectives remove the い and add the helper 「ければ」. 「ない」 -> 「なければ」.
+
+The special characteristic of ば/れば is that is used for /hypotheticals/. They always mean 'if' and can't ever mean 'when', because we never know for sure if the condition will take place. Consequently, if we use it about something that happened in the past it has to be something that didn't happen, because if it had happened we would be dealing with a hypothetical.
+
+This hypothetical nature allows ば/れば to be used in many common Japanese expressions:
+#+BEGIN_QUOTE
+どうすればいい？ - How if I act will be good? How act if good? <-> Good if act how?
+#+END_QUOTE
+- Note: the most apt translation of する most of the time is really 'act', not 'do':
+#+BEGIN_QUOTE
+しずかにする - Act quietly
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+かさを持ってくればよかった - If I had brought an umbrella, that would've been good - I should have brought an umbrella
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+勉強しなければいけない - If I don't study it won't go/it won't do - I must/should study
+#+END_QUOTE
+- Note: There isn't actually a word for 'must' in Japanese, so we always use this 'If I don't do x it will be bad' construction.
+
+Because this is a long winded way of saying something it often gets cut down:
+#+BEGIN_QUOTE
+。。。しなければ
+#+END_QUOTE
+#+BEGIN_QUOTE
+。。。しなけば
+#+END_QUOTE
+Even in very casual speech it is still often said in full to emphasise the 'must':
+#+BEGIN_QUOTE
+なぜいかなければいけない - Why must I come?
+#+END_QUOTE

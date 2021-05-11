@@ -1743,3 +1743,35 @@ Even in very casual speech it is still often said in full to emphasise the 'must
 #+BEGIN_QUOTE
 なぜいかなければいけない - Why must I come?
 #+END_QUOTE
+* Lesson 32: たら, なら conditionals
+The 「たら/だら」 conditional is particularly easy to form, all we do is form a verb or an adjective into its 「た/だ」 past form and add ら. 「たら/だら」 is the only conditional that can be used about past events. Of course, if we are referring to something in the past it's not really a conditional. We aren't saying 'if' here, we're saying 'when'. We know that the condition has been fulfilled because it's already happened. What 「たら」 does is show that the event that happened in the past was unexpected or surprising. This is because, rather than using on of the more regular means of showing that one event followed another such as using the て-form or 「から」, we're using an /if-type conditional/. We're stressing the fact that what did happen might well not have happened, and that the thing not having happened might've been more inline with what we'd have expected.
+#+BEGIN_QUOTE
+家に帰ったらさくらがいた - When I returned to the house, Sakura was there (surprisingly). (She doesn't even have a key, she must've climbed in through the window. Sakura does that kind of thing from time to time y'know)
+#+END_QUOTE
+
+We can also use 「たら」 on future events. Doing so tends to add stress on what will happen if the condition is fulfilled, as opposed to 「れば」 which poses more stress onto whether or not the condition will be fulfilled, or even the fact that it wasn't fulfilled. Again, 「たら」 is more 'when' than 'if'.
+
+Sometimes the forms 「ったら」 and 「ってば」 to indicate exasperation.
+#+BEGIN_QUOTE
+さくらったら
+#+END_QUOTE
+#+BEGIN_QUOTE
+さくらってば
+#+END_QUOTE
+What this literally means is a contraction of 「といたら」 or 「といえば」, in other words: 'When you speak of Sakura' i.e. 'Oh you Sakura...', 'When it's Sakura it's always like this...'. It's not flattering, it is critical, but it's not very strongly so. It can be quite humorous or joking. 「ってば」 is more likely to express real exasperation and can be put onto more things than just a person's name.
+#+BEGIN_QUOTE
+もう言ったってば - I've already said that haven't I?...
+#+END_QUOTE
+
+「なら」 is an easy to use particle like helper. All we do is put なら after what we say, which turns it into a conditional. We can put it after nouns and complete logical clauses. If used after a noun we don't need to use the copula (だ) probably because the な of 「なら」 has its roots in the copula itself.
+
+「なら」 can be used on present and future conditionals that aren't in any real doubt at all. For example, if Sakura is worried that something may not be possible to her, we might say:
+#+BEGIN_QUOTE
+さくらなら、できる - If it's Sakura, it will be possible
+#+END_QUOTE
+Of course we know it's Sakura, we're talking to Sakura. So what we're really saying is 'Since it's Sakura, it will be possible'.
+#+BEGIN_QUOTE
+Q. 駅はどこですか - Where is the station
+A. 駅なら、 あそくです - If it's the station you're asking for, it's over there
+#+END_QUOTE
+Of course there isn't any real doubt that it's the station that we're asking for, so again, 'since'.

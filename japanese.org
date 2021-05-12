@@ -1775,3 +1775,47 @@ Q. 駅はどこですか - Where is the station
 A. 駅なら、 あそくです - If it's the station you're asking for, it's over there
 #+END_QUOTE
 Of course there isn't any real doubt that it's the station that we're asking for, so again, 'since'.
+
+* Lesson 33: Japanese limiting terms: だけ, しか, ばかり, のみ
+** だけ
+「だけ」 means 'limit'. Often this is translated as 'only' and in it's most basic form 'only' is what we'd say in English, however it's important to realise that in order to understand some of its other uses, it really means 'limit'.
+#+BEGIN_QUOTE
+1000 円だけ持っている - (I) hold limit-of 1000 yen - I have only 1000 yen
+#+END_QUOTE
+- Note: Implication neutral
+「だけ」 functions essentially as a noun. In the set uses given here its particle (in this case を) can be dropped. In many other uses it takes a particle like any other noun.
+
+#+BEGIN_QUOTE
+できるだけ勉強します - To the limit of the possibility I will study - I will study if I can/as much as I can
+#+END_QUOTE
+At this point if we think of 「だけ」 as 'only' we will begin to get confused. 「できろだけ」 means 'to the limit of possibility'.
+
+#+BEGIN_QUOTE
+留学しただけあって英語はうまい - Because of the limit of the fact (I) studied abroad, (my) English is excellent.
+#+END_QUOTE
+This 「あって」 is the connective (て-form) form of 「ある」. The because in the sentence being the て form which remember often implies the cause of the following effect. A common translation of 「だけあって」 is 'not for nothing' but what's actually being said here is 'precisely because and only because (I) studied abroad (my) English is excellent'.
+
+#+BEGIN_QUOTE
+安いだけあってすぐに壊れちゃった - Because of the limit of it being cheap it quickly broke - Precisely because it was cheap, it broke quickly
+#+END_QUOTE
+「だけ」 is being used for its ability to limit something down to something precise. Out of all the possible reasons that it could've broken, it is the reason that it is cheap. We have limited the possibilities down to just one. Again, 'only'.
+#+BEGIN_QUOTE
+留学しただけあって英語はうまい - Only by studying abroad did I get that good at English
+#+END_QUOTE
+#+BEGIN_QUOTE
+留学しただけあって英語はうまい - Only something really cheap would break that quickly
+#+END_QUOTE
+
+** しか
+「しか」 is often confusing because people are given the impression that it means more or less the same thing as 「だけ」.
+#+BEGIN_QUOTE
+1000 円だけ持っいない - (I) don't hold more than 1000 ten
+#+END_QUOTE
+- Note: Implication
+「しか」 means 'more than', so long as we understand this it is very simple. 「しか」 is only ever used in negative sentences, there is always a 「ない」 or an 「ありません」 when we use 「しか」, so it ends up saying 'not more than'.
+
+「だけ」 doesn't imply that 1000 yen is a lot or a little, it only says that that is what we have and nothing else. 「しか」 implies that the 1000 yen we hold is not enough. 'I don't have any more than 1000 yen' places emphasis on the 1000 yen and it being too little or that if someone wants more they aren't going to get it.
+
+#+BEGIN_QUOTE
+にげるしかない - There's noting more (we can do) than run - There's nothing for it but to run - There's no other action but to run
+#+END_QUOTE

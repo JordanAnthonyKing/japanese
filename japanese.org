@@ -1819,3 +1819,22 @@ This 「あって」 is the connective (て-form) form of 「ある」. The beca
 #+BEGIN_QUOTE
 にげるしかない - There's noting more (we can do) than run - There's nothing for it but to run - There's no other action but to run
 #+END_QUOTE
+
+** ばかり
+#+BEGIN_QUOTE
+あのお店はパンだけうる - The shop only sells bread
+#+END_QUOTE
+#+BEGIN_QUOTE
+あのお店はパンしかうらない - That shops doesn't sell anything but bread
+#+END_QUOTE
+#+BEGIN_QUOTE
+あのお店はパンばかりうる - That shop sells an awful lot of bread
+#+END_QUOTE
+「ばかり」 and 「だけ」 have the same literally meaning (only/just) but as we learned in the lesson on ばかり, it's a hyperbole, we don't literally mean it only sells bread. Just that it sells bread far more than anything else.
+
+** のみ
+「のみ」 is just 「だけ」 in its simplest sense i.e. 'only'.
+#+BEGIN_QUOTE
+あのお店はパンのみうる - The shop only sells bread
+#+END_QUOTE
+「のみ」 is typically used in polite or formal contexts, otherwise 「だけ」 is used.

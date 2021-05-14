@@ -1838,3 +1838,34 @@ This 「あって」 is the connective (て-form) form of 「ある」. The beca
 あのお店はパンのみうる - The shop only sells bread
 #+END_QUOTE
 「のみ」 is typically used in polite or formal contexts, otherwise 「だけ」 is used.
+* Lesson 34: Understand any sentence
+As we know the fundamental core of Japanese is what we covered in the very first lesson. There is always an A carriage (a noun) marked by が (which we may not be able to see) and a B (う/だ/い) engine that we can always see.
+
+In English these are called the Subject and the Predicate, in Japanese the 主語(しゅご) and the 述語(じゅつご).
+
+** How do we know when a logical clause ends? (How do we identify a logical clause?)
+# There are some notes here about compounding factors
+Sentences where there is more than one logical clause *must* be contain some kind of conjunction. There are many kinds of conjunction, many we have covered already:
+- If/When ~ たら、 なら、 ば
+- And/but ~ そして、 けど
+- Because ~ から、 ので
+
+We also need to look out for the verb/adjective clause conjunctions:
+- て-form
+- い-stem
+
+Remember the い-stem of a verb is the main conjunctive stem out of the four verb stems. It can connect nouns to verbs, other verbs to verbs, and various helpers to verbs. It can also connect one logical clause to another.
+
+# There's a lot of reiteration about が being invisible here
+
+In Japanese a sentence has to end with an engine:
+- う (A verb)
+- い (an adjective)
+- だ (the copula, can't be な because then it's modifying a noun, not powering a sentence)
+
+The sentence will always end with an engine except for if there are one or two /sentence ender particles/ (They are not part of the logical sentence).
+
+How do we find, or how do we eliminate the possibility of a compound sentence? Just as before, a logical clause must end with an engine, and if the sentence is compound it must end also with a connector.
+
+# TODO: Copy out this example
+# There is a really good example of finding things that /could/ be logical clauses but aren't because they have no conjunction

@@ -1869,3 +1869,74 @@ How do we find, or how do we eliminate the possibility of a compound sentence? J
 
 # TODO: Copy out this example
 # There is a really good example of finding things that /could/ be logical clauses but aren't because they have no conjunction
+* Lesson 35: より, の ほう, いっぽう
+#+BEGIN_QUOTE
+マアリ*より*さくら*のほう*がきれいだ - Sakura is prettier than Mary
+#+END_QUOTE
+# There are some notes here about this example that uses both yori and nohou being a poor way to learn their use, but I'll leave it here anyway
+
+** より
+「より」 is a non-logical particle (it doesn't have to be attached to a noun). It can go after just about anything, a complete logical clause, a noun, an adjective, whatever. It's most basic meaning is 'from':
+#+BEGIN_QUOTE
+さくらより - From Sakura
+#+END_QUOTE
+
+「より」 means 'from', we already have another word meaning 'from', 「から」. The difference between the two is that 「から」 marks the 'A' in 'A from B' in such a way that it is treating 'A' as the starting point, or point of origin:
+#+BEGIN_QUOTE
+日本からきました - I came/come from Japan - Japan is my point of origin
+#+END_QUOTE
+This often gains the metaphorical meaning of 'because', as 'some event' is the point of origin for 'some other event':
+#+BEGIN_QUOTE
+さむいからコートをきる - Because it's cold I wear a coat
+#+END_QUOTE
+
+「より」 means 'from' in a very different sense. The directional metaphor is concentrating not on the origin of 'A from B' but in the distance/difference of 'A from B'.
+#+BEGIN_QUOTE
+さくらはメアリよりきれいだ - From Mary, Sakura is pretty - Distinguished from Mary, Sakura is pretty
+#+END_QUOTE
+We are still using 「メアリ」 as the 'base point', the point of comparison, and because of this comparative nature we're *not* saying that 'Sakura is pretty while Mary isn't', we're saying that 'taking Mary as the point of comparison, Sakura is pretty (therefore more pretty i.e. prettier)'. Notice how this has the same meaning as the original sentence 「マアリ*より*さくら*のほう*がきれいだ」 without needing to use 「ほう」.
+
+We can also use 「より」 in other contexts:
+#+BEGIN_QUOTE
+今年の冬はいつもより寒い - Comparing from always, this year's winter is cold - This year's winter is colder than usual.
+#+END_QUOTE
+- Note: 'always' is a kind of hyperbole in a way
+
+#+BEGIN_QUOTE
+さくらは人より傾い - Sakura is clever compared to people - Sakura is clever compared to (most) people - Sakura is smarter than most
+#+END_QUOTE
+
+** ほう
+「ほう」 is quite different from 「より」 and 「から」. It's not a particle, it is a noun, hence 「のほう」. It's literal meaning is 'direction' or 'side'. When it means 'side' it means 'side' in the sense of direction, not in the sense of 'edge'.
+
+# There are some examples of ほう given here but there're a little hard to transcribe, the point is just that ほう divides something into two halves
+
+The idea of 'side' isn't limited to physical spaces, but concepts as well. Also, by nature of there being 'a' side it is implied that there is another side to contrast with. Two sides of a coin and all that.
+
+「ほう」 can follow a noun as in 「さくらのほう」 or we can put it after a verb or adjective, in which case the verb/adjective is describing 「ほう」.
+#+BEGIN_QUOTE
+Q. メアリがきれいだと思う？ - Do you think Mary is pretty
+A. さくらの*ほう*がきれいだ。- The side of Sakura is pretty - I think Sakura is prettier
+#+END_QUOTE
+Once again this is a /comparative/ structure, we're *not* saying that Sakura is pretty and Mary isn't, only that 'the side of' Sakura is prettier than 'the side of' Mary.
+
+Notice again how we don't need 「より」 here, just as before we didn't need 「ほう」 to express the same thing.
+
+A lot of the time 「より」 and 「ほう」 will be used individually. When they're being used together it's usually either formal or adding emphasis.
+
+** いっぽう 一方
+Another use of 「ほう」 is in the expression 「いっぽう」 which means 'one side' or 'one direction'. Often we see this in narrative, sometimes at the very start of a sentence, or even the start of a paragraph or entire chapter.
+
+What 「いっぽう」 is doing is essentially the same as the English 'meanwhile'. 「いっぽう」 does *not* mean 'meanwhile' because it doesn't. 'Meanwhile' is a /time-expression/ meaning 'at the same time'. 「いっぽう」 while performing the same function does it quite differently. It's really saying, 'All that (the previous sentence/paragraph/chapter) was one side, now we're going to look at the other side'.
+
+Just like 「でも」 it wraps up whatever came before it with で which is the て-form of 「です」 (all that was existing), with the contrastive function of も to give 'but'. 「いっぽう」 often drops the copula で however.
+
+#+BEGIN_QUOTE
+この辺りは静かな一方で不便だ - It's quiet around here, but it's inconvenient - On one hand it's quiet, but on the other it's inconvenient
+#+END_QUOTE
+- Note: Remember な is the connective form of だ.
+
+Another use of 「いっぽう」 is that it can also be used after a complete verbal clause to show that something that is happening is continuing in one direction.
+#+BEGIN_QUOTE
+この村の人口が減る一方 - This village's population is declining (and declining and declining) - This village's population just keeps on declining
+#+END_QUOTE

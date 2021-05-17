@@ -1940,3 +1940,53 @@ Another use of 「いっぽう」 is that it can also be used after a complete v
 #+BEGIN_QUOTE
 この村の人口が減る一方 - This village's population is declining (and declining and declining) - This village's population just keeps on declining
 #+END_QUOTE
+
+* Lesson 36: ところ - The Japanese concept of place
+「ところ」 「所」 means 'place'. It means a literal place and also takes on slightly metaphorical uses like: 「わたしのところ」 - My place - My apartment (etc.).
+
+In Japanese the /figurative/ sense of place goes a lot further than it does in English. For example
+#+BEGIN_QUOTE
+さくらのどこが好きなの？ - lit: Sakura's where do (you) like - What place of Sakura do (you) like?
+#+END_QUOTE
+An appropriate answer to this might be 「やさしだ」 - 'She's gentle' i.e. 'The place that I like about her is that she's gentle', '(One of) Sakura's good places is that she's gentle'. 'Place' here doesn't mean anything at all like a physical location, it means an aspect of something, even if that aspect is very abstract.
+
+#+BEGIN_QUOTE
+Q. わかりましたか？ - Did you understand it?
+A. 分かるところがあったが分からないところもありました - There were places I understood and places I didn't understand
+#+END_QUOTE
+Notice that this is closer to a usage of 'place' we have in English. Don't get mixed up however, we aren't saying 'there were times I didn't understand', we're saying 'there were aspects/subtleties I didn't understand'.
+
+Place is also often used to mean a place not in space but in time. We can use 「ところ」 with 'A does B' sentences in all three tenses.
+#+BEGIN_QUOTE
+昼ごはんを食べるところだ - I'm just about to eat lunch - (It (The present time) is) (I'm) just about to eat lunch place.
+#+END_QUOTE
+- Note: This is an 'A is B' sentence with a だ-engine, but the original sentence the construction comes from is an 'A does B' sentence 「∅が昼ごはんを食べる」
+# There are some notes here about the train structure
+
+#+BEGIN_QUOTE
+昼ごはんを食べているところだ - I'm eating lunch right now
+#+END_QUOTE
+#+BEGIN_QUOTE
+昼ごはんを食べたところだ - I just ate lunch
+#+END_QUOTE
+- Note: In all of these examples the 「ところだ」 is adding an immediateness to the place in time something is/will/was happening. I *just* ate, I'm eating *right now*, I'm *just about to* eat.
+
+We could easily also say:
+#+BEGIN_QUOTE
+昼ごはんを食べたばかりだ - I just ate lunch
+#+END_QUOTE
+# There are some examples here of ばかり vs ところ but I think they're just for emphasising the failures of other teaching methods
+
+Sometimes a few corners of this structure are cut. As with many regular set expressions 「だ」 can be cut off. 「ところ」 can also be shortened to just 「とこ」.
+#+BEGIN_QUOTE
+なごやに着陸したとこ - I just landed at Nagoya
+#+END_QUOTE
+
+Remember: Even though we've been covering examples of time, 「ところ」 does still mean place.
+#+BEGIN_QUOTE
+いいところに来たね! - You came to a good place didn't you!
+#+END_QUOTE
+But it can mean either:
+#+BEGIN_QUOTE
+いいところに来たね! - You came at a good time didn't you!
+#+END_QUOTE

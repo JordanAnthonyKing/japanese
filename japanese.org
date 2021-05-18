@@ -1990,3 +1990,40 @@ But it can mean either:
 #+BEGIN_QUOTE
 いいところに来たね! - You came at a good time didn't you!
 #+END_QUOTE
+* Lesson 37: Structure, な vs の, なる & たる adjectives
+** する verbs
+#+BEGIN_QUOTE
+勉強をする - To do studying
+#+END_QUOTE
+- Note: 'Do' (する) acting on the noun of 'studying'.
+#+BEGIN_QUOTE
+勉強する - Study
+#+END_QUOTE
+- Note: する and 勉強 fused together to form a 'true' verb
+
+# Some reiteration on the non-existence of な-adjectives (really adjectival nouns)
+
+** なる & たる 'adjectives'
+#+BEGIN_QUOTE
+華麗なる探偵 - Magnificent detectives
+#+END_QUOTE
+「華麗」 is an adjectival noun so it could've been used with な, but the author has chosen to use 「なる」 instead. 「なる」 is not the same 「なる」 that means 'become', it is a contraction of 「のある」.
+# TODO: Watch が particle become の video
+#+BEGIN_QUOTE
+華麗がある探偵 -> 華麗のある探偵 -> 華麗なる探偵 - Detectives possessing magnificence lit: Magnificence exists detectives
+#+END_QUOTE
+What does the choice of 「なる」 over な actually mean? In modern texts the only reason to choose 「なる」 over な is just that it sounds a bit more old-fashioned or a bit more literary.
+
+「たる」 is a contraction of 「とある」, meaning that the 「ある」 is belonging to the thing that is being described, rather than the thing describing it.
+#+BEGIN_QUOTE
+らんらんたる目 - Blazing eyes
+#+END_QUOTE
+The subtle difference is that 「なる」 means 'is magnificent', whereas 「たる」 means 'in a blazing manner'.
+# There are some structural notes here
+
+** All-kanji groups
+(Most of the time) we can assume that any word with no おくりがな (that is kana following a set of kanji) is a noun. What is happening when there are large groups of just kanji?
+
+Most of the time this is one noun modifying another noun. We have seen ways in which nouns modify each-other via な-の-なる-たる. They can also modify each-other directly i.e. 「日本」 + 「語」 = 「日本語」. This works in just the same way as English: 'Book' + 'Shelf' = 'Bookshelf'. Japanese goes much further with this and has many many combinations that don't exist in English.
+
+* TODO Extra: が particle becomes の in subordinate clauses

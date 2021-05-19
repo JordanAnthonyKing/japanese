@@ -2026,4 +2026,27 @@ The subtle difference is that 「なる」 means 'is magnificent', whereas 「�
 
 Most of the time this is one noun modifying another noun. We have seen ways in which nouns modify each-other via な-の-なる-たる. They can also modify each-other directly i.e. 「日本」 + 「語」 = 「日本語」. This works in just the same way as English: 'Book' + 'Shelf' = 'Bookshelf'. Japanese goes much further with this and has many many combinations that don't exist in English.
 
-* TODO Extra: が particle becomes の in subordinate clauses
+* Extra: が particle becomes の in subordinate clauses
+The の particle can replace the が particle in 'subordinate clauses'.
+
+Remember, the の particle the the possessive particle, and is the only particle that has an exact equivalent in English: /'s/.
+#+BEGIN_QUOTE
+さくら*の*ぼうし - Sakura*'s* hat
+#+END_QUOTE
+
+Let's look at a sentence where の can replace が.
+#+BEGIN_QUOTE
+私がたべたケーキは(∅が)おいしかった - The cake I ate was delicious
+#+END_QUOTE
+Remember, The が particle marks the thing doing/being something in the sentence. 'I' am eating the cake, so 'I' am marked by が. In this sentence, the main が is not actually visible, it is the invisible ∅-pronoun 'it' (the cake).
+
+This is the kind of sentence in which we can use の in place of が. We *can't* use の for the main が of a sentence, we can only use it for an /adjectival が/.
+
+Let's look at an English equivalent:
+#+BEGIN_QUOTE
+Sakura's shouting at the waiter upset me
+#+END_QUOTE
+'Sakura's shouting at the waiter' is a noun, and it is the thing that did the act of upsetting me. The shouting belongs to Sakura because she is the one that did it. This is very similar to the Japanese, only the Japanese doesn't turn the logical clause into a noun but into an adjective:
+#+BEGIN_QUOTE
+私のたべたケーキは(∅が)おいしかった - My eaten cake is delicious
+#+END_QUOTE

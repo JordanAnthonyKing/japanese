@@ -2050,3 +2050,72 @@ Sakura's shouting at the waiter upset me
 #+BEGIN_QUOTE
 私のたべたケーキは(∅が)おいしかった - My eaten cake is delicious
 #+END_QUOTE
+
+* Lesson 38: じゃない, ではない
+Japanese often contains what appears to be negative statements, when what is meant are really positive statements. For example:
+#+BEGIN_QUOTE
+さくらじゃない - That isn't Sakura
+#+END_QUOTE
+Really this means:
+#+BEGIN_QUOTE
+さくらじゃない - That's Sakura isn't it? - That *is* Sakura
+#+END_QUOTE
+
+What is 「じゃない」?  「じゃない」 is a contraction of 「ではない」 which is the negative of the copula (だ).
+#+BEGIN_QUOTE
+これは(∅が)ペンではない - As for this, as for being a pen (ペンだ), isn't
+#+END_QUOTE
+
+So, grammatically 「さくらじゃない」 is in fact a negative statement. Negative questions are used in most languages:
+#+BEGIN_QUOTE
+Nice day, *isn't* it?
+#+END_QUOTE
+
+A question like 'Are you Sakura', is neutral, there is no suggestion of whether we expect them to or not to be Sakura. 'You're Sakura aren't you?' however shows that we expect the person to be in fact Sakura.
+
+The confusing part is that only in formal speech would we explicitly mark the question i.e:
+#+BEGIN_QUOTE
+さくらじゃないですか
+#+END_QUOTE
+か is not used as a sentence-ending question marker in this way in non-formal Japanese.
+
+「さくらじゃない」therefore has three possible meanings, a statement, a question, or a third meaning, each indicated by tone.
+#+BEGIN_QUOTE
+さくらじゃない - Not Sakura
+#+END_QUOTE
+#+BEGIN_QUOTE
+さくらじゃない - Sakura isn't it?
+#+END_QUOTE
+#+BEGIN_QUOTE
+さくらじゃない - If it isn't Sakura!
+#+END_QUOTE
+This use of tone (./?/!) is just the same in English.
+
+「じゃない」 can also be used as a negative-question sentence-ender in a similar sense as ね:
+#+BEGIN_QUOTE
+暑いじゃない - It's hot isn't it (expecting agreement)
+#+END_QUOTE
+#+BEGIN_QUOTE
+暑いね - It's hot isn't it (expecting agreement)
+#+END_QUOTE
+- Note: 「暑いじゃない」 is not the negative of 「暑い」 which is 「暑くない」
+
+「じゃない」 can also be used after verbs:
+#+BEGIN_QUOTE
+もう言ったじゃない - I already said that didn't I?
+#+END_QUOTE
+
+「じゃない」 itself is often reduced to just 「じゃん」
+#+BEGIN_QUOTE
+寒いじゃん - It's cold isn't it
+#+END_QUOTE
+
+All of these expressions are very colloquial and aren't in fact grammatically correct. Remember, 「じゃない」 = 「ではない」 which is the negative form of the copula だ, and だ can only be used with nouns.
+
+There are of course more formal ways of using 「ではない」 as a positive statement but these of course tidy up the grammar
+#+BEGIN_QUOTE
+その理論が間違っている*の*ではないでしょうか - Might that theory not be in error?
+#+END_QUOTE
+- Note: This may be used as an assertion. Once we have definitively proven something, we may finish with this as a short of challenge.
+
+# There are some notes here about の as a normaliser

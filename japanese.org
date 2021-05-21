@@ -2119,3 +2119,70 @@ There are of course more formal ways of using 「ではない」 as a positive s
 - Note: This may be used as an assertion. Once we have definitively proven something, we may finish with this as a short of challenge.
 
 # There are some notes here about の as a normaliser
+* Lesson 39: Buried questions
+か is used to mark questions, but not what we might usually think of as a question. For example
+#+BEGIN_QUOTE
+さくらが来るかわからない - I don't know if Sakura will come - Sakura will come? I don't know
+#+END_QUOTE
+#+BEGIN_QUOTE
+さくらが来るか知っていますか - Do you know if Sakura is coming?
+#+END_QUOTE
+
+か displaces logical particles much of the time:
+Normal structure:
+- XX が分からない
+- XX を知っています
+Logical particles displaced by か:
+- XX か分からない
+- XX か知っています
+
+か is also used in the common expression 「かどうか」 which means 'whether or not':
+#+BEGIN_QUOTE
+さくらが来るかどうか分からない - I don't know whether Sakura's coming or not
+#+END_QUOTE
+Precisely 「かどうか」 means '...? how? ...' i.e. 「さくらが来るかどうか分からない」 - I don't know if Sakura's coming or how it will be.
+
+From this usage we can see how we can use か to mean 'or':
+#+BEGIN_QUOTE
+お茶かコーヒーどちらがいい？ - Which is good, tea or coffee?
+#+END_QUOTE
+
+** かもしれない - Maybe
+- XX か - The question/proposition XX
+- も - As much as
+- しれ - え-stem of 知る (know) indicating potential (lesson 10)
+- ない - Negative helper adjective
+-> The question of XX, I cannot go so far as to know = Maybe XX
+
+** かな - I wonder
+#+BEGIN_QUOTE
+さくらが来るかな - I wonder if Sakura will come
+#+END_QUOTE
+- か bundles the question
+- な address the question to oneself
+
+
+** か is a nominaliser
+#+BEGIN_QUOTE
+まるで[ゆうれいを見た]*かの*ような顔をした - A face as if one had seen a ghost
+#+END_QUOTE
+Notice how か has turned 「ゆうれいを見た」 into a quasi-noun that can take の.
+
+** もんか & ものですか
+In certain expressions か calls into question (denies) a proposition
+#+BEGIN_QUOTE
+格好に行くもんか - I'm not going to school
+#+END_QUOTE
+
+「ものですか」 and 「もんか」 literally mean 'Is that a thing', this is the same kind of negativising question we have in English i.e. 'Do you think I'm going to do that?'
+
+Note how this is one of the few uses of か as a sentence ending question marker in non-formal speech. This is because of it's purposefully rough nature.
+# Possible elaborate on this some time
+
+Another place we often see か as a negativising question marker is in 「どころか」. Remember 「どころ」is a form of 「ところ」 and means place/time/circumstance/condition. When said as 「どころ」it's usually negative.
+#+BEGIN_QUOTE
+漢字が読めるどころかひらがなも読めない - Far from kanji being possible (for me) to read, even hiragana isn't read-possible - Not only can't I read kanji, I can't even read hiragana
+#+END_QUOTE
+What is 「どころ」 doing here? It's dealing with the concept of reading kanji and negativising it. 'The circumstances in which I could read kanji aren't', 'Not only has the situation not reached this far place, it hasn't even read this near place'.
+
+* Extra: Sentence ender particles

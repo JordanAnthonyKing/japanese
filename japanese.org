@@ -2186,3 +2186,31 @@ Another place we often see か as a negativising question marker is in 「どこ
 What is 「どころ」 doing here? It's dealing with the concept of reading kanji and negativising it. 'The circumstances in which I could read kanji aren't', 'Not only has the situation not reached this far place, it hasn't even read this near place'.
 
 * Extra: Sentence ender particles
+** ね
+ね is a marker for information that the speaker assume the listener to know already. It is the marker for shared information/feelings.
+
+# Lots of notes here on Japanese culture that I don't think are necessary
+
+** よ
+よ is the opposite of ね. ね marks information that one assumes the listener to already know, よ marks information that one assumes the listener doesn't already know.
+
+よ can be assertive, and can be used to contradict, but most of the time it's a friendly particle that introduces some information the listener doesn't know but you think they will be interested in.
+
+** よね
+This might seem a little confusing at first, notice however it's よね, you can't say ねよ. The reason for this is that you're introducing the listener to something that they don't know, and then immediately treating that information as shared.
+
+** な
+な is not really a particle in terms of Japanese grammar, it's /technically/ an exclamation, but it functions in much the same way. In a previous lesson many sentence-enders involving な were discussed, in each of these cases な was the connective for of だ. This な is different.
+
+While ね marks information known to the listener, よ marks information unknown to the listener, な marks a remark that is addressed to oneself.
+#+BEGIN_QUOTE
+暑いな - Gosh it's hot
+#+END_QUOTE
+One may be intending to share this statement with someone else.
+
+な can also be used within a sentence, hence why even though technically an exclamation it functions like a particle, marking that something is directed at oneself.
+
+There are also occasions where men will use な where women would use ね. In these cases the difference in meaning is 'You agree with me don't you' for ね and 'Well that's what I think and I don't care if you agree with me or not' for な.
+
+** かな
+'I wonder'. XX か(question)な(directs question at oneself).

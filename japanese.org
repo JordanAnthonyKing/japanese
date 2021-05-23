@@ -2214,3 +2214,42 @@ There are also occasions where men will use な where women would use ね. In th
 
 ** かな
 'I wonder'. XX か(question)な(directs question at oneself).
+
+* Lesson 40: Japanese structure pitfalls
+** で
+で as we know is a logical particle that like all logical particles marks a noun and tells us that that noun is the means by which some action was accomplished of the place at which some action occurred.
+
+There is another で however which is *not* a particle, and is also used very frequently with adjectival nouns:
+#+BEGIN_QUOTE
+さくらがきれい*で*やさしい - Sakura is pretty *and* kind
+#+END_QUOTE
+「きれい」 is an adjectival noun (な-adjective):
+#+BEGIN_QUOTE
+きれいだ - is pretty
+#+END_QUOTE
+#+BEGIN_QUOTE
+花がきれいだ - Flower is pretty
+#+END_QUOTE
+#+BEGIN_QUOTE
+きれいな花 - Pretty flower
+#+END_QUOTE
+#+BEGIN_QUOTE
+花がきれいで - Flower is pretty and...
+#+END_QUOTE
+The final of these example is the て-form of だ.
+
+With a true adjective we also use the て-form, but of the adjective, not of だ (だ is for nouns).
+#+BEGIN_QUOTE
+さくらが美しくてやさしい - Sakura is beautiful and kind
+#+END_QUOTE
+
+Some more examples:
+#+BEGIN_QUOTE
+お元気で - Keep well
+#+END_QUOTE
+The particle で doesn't make any sense here. Remember the て-form is often used to make an imperitive, to tell or ask someone to do something: 「待って!」 - Wait!
+
+#+BEGIN_QUOTE
+無事でよかったね - It's good that you weren't hurt
+#+END_QUOTE
+Here is an example of the て-form of だ being used as a connective: 'You weren't hurt - that's good'

@@ -2253,3 +2253,25 @@ The particle で doesn't make any sense here. Remember the て-form is often use
 無事でよかったね - It's good that you weren't hurt
 #+END_QUOTE
 Here is an example of the て-form of だ being used as a connective: 'You weren't hurt - that's good'
+
+** が
+As we know the が particle is in every japanese sentence, whether we can see it or not.
+
+There is a second が, which functions as a (usually contrastive) clause connector:
+#+BEGIN_QUOTE
+お店に行った*が*パンがなかった - I went to the shops *but* there wasn't any bread.
+#+END_QUOTE
+
+It isn't possible to confuse these two が s because the particle が can only ever mark a noun, and the clause connector が can only mark a complete clause (which cannot end in a noun).
+
+が doesn't have to be contrastive, most of the time it is, but it can be used just as a regular, non-contrastive conjunction.
+
+Also: sometimes this が will be used at the end of a sentence to soften a request.
+#+BEGIN_QUOTE
+コーヒーがほしいが - I'd like some coffee - I'd like some coffee but (if it's any trouble it's not necessary)
+#+END_QUOTE
+
+** に
+に is the targeting particle. There is also another に that functions the same as と (and). This に is more prevalent in older Japanese texts.
+
+It is further used in certain expressions like 「それに」 (furthermore) leveraging the 'and' quality of に to be a clause connector.

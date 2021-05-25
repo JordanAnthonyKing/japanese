@@ -2275,3 +2275,33 @@ Also: sometimes this が will be used at the end of a sentence to soften a reque
 に is the targeting particle. There is also another に that functions the same as と (and). This に is more prevalent in older Japanese texts.
 
 It is further used in certain expressions like 「それに」 (furthermore) leveraging the 'and' quality of に to be a clause connector.
+* Lesson 41: Japanese structure key facts
+# This lesson serves as mostly a refresher
+
+New info:
+- する nouns (verbs) can drop the を particle to form a 'true' する verb
+
+** Adverbial nouns
+Adverbial nouns can make に or と disappear when used as an adverb. Often (but not always) these nouns end in り.
+
+As we know, any noun that can be used adverbially can be done so using the particle に. 「しずかにする」 - Act quietly. With an adverbial noun we don't need the に:
+#+BEGIN_QUOTE
+ゆっくりにする - Act leisurely
+#+END_QUOTE
+#+BEGIN_QUOTE
+ゆっくりする - Act leisurely
+#+END_QUOTE
+
+「あまり」 is a noun that means 'excess'. We can use it in a literal sense: 「ごはんのあまり」 - The excess rice.
+#+BEGIN_QUOTE
+悲しみのあまりに泣いた - From sadness's excess, cried
+#+END_QUOTE
+#+BEGIN_QUOTE
+悲しみのあまり泣いた - From sadness's excess, cried
+#+END_QUOTE
+#+BEGIN_QUOTE
+あまり勉強しない - lit: (I) don't study too much. read: (I) don't study /very/ much
+#+END_QUOTE
+- Note: This under-exaggeration is another case of hyperbole (or rather inverse-hyperbole).
+
+「ずいぶん」 means 'sufficiently'. In English 'sufficiently' isn't a noun, but in Japanese it is. Like 「あまり」 is often used with some inverse-hyperbole i.e. sufficiently = more than sufficient.

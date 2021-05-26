@@ -2305,3 +2305,41 @@ As we know, any noun that can be used adverbially can be done so using the parti
 - Note: This under-exaggeration is another case of hyperbole (or rather inverse-hyperbole).
 
 「ずいぶん」 means 'sufficiently'. In English 'sufficiently' isn't a noun, but in Japanese it is. Like 「あまり」 is often used with some inverse-hyperbole i.e. sufficiently = more than sufficient.
+* Lesson 42: まま
+「まま」 is a noun. What 'thing' is it? It's an unchanged condition:
+#+BEGIN_QUOTE:
+自然のままの森 - Nature's unchanged-condition's forest - A forest in its natural state
+#+END_QUOTE
+#+BEGIN_QUOTE:
+そのままで食べられるの？ - That unchanged state-being, eat-able-does? - Can you eat them just as they are?
+#+END_QUOTE
+- Note: This で is the copula (だ)
+#+BEGIN_QUOTE:
+そのまま食べられるの？ - That unchanged state-being, eat-able-does? - Can you eat them just as they are?
+#+END_QUOTE
+- Note: we can drop the で see the previous lesson
+
+「まま」 being an unchanged state, in cases where the state could change (like uncooked food becoming cooked) we're essentially using as a time period. Therefore we can ignore the copula like a time expression:
+#+BEGIN_QUOTE:
+そのまま食べられるの？ - While they're uncooked, can they be eaten?
+#+END_QUOTE
+
+#+BEGIN_QUOTE:
+パジャマのまま朝ごはんを食べる - Pyjama's unchanged state eat breakfast - Eat breakfast while still in pyjamas
+#+END_QUOTE
+
+#+BEGIN_QUOTE:
+いつまでも若いままでいたい - Forever young unchanged-state-be exist-desire - I'd like to stay young forever
+#+END_QUOTE
+Notice how the adjective 「わかい」 is modifying 「まま」 (because it's a noun).
+
+「思いのまま」 and 「心のまま」 are common uses of 「まま」. What this means is 'The unchanged condition that's in our thoughts/heart'. This phrase is always applied to something outside of our thoughts/heart (i.e. not imaginary), and expresses that that thing is the same as how we 'think/feel'. What this means therefore is making the outside world conform to our thoughts/desires.
+#+BEGIN_QUOTE:
+思いのままに動けない - In unchanged state of my thoughts, move-possible-not - I cannot move in the way I think I should
+#+END_QUOTE
+Remember: Sometimes 「思い」 does imply desire:
+#+BEGIN_QUOTE:
+片思い - One-sided-thought (unrequited love)
+#+END_QUOTE
+
+# There are some notes here about 'wagamama' meaning selfishness

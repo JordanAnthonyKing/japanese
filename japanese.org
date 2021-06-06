@@ -592,7 +592,7 @@ For the first clause we do not know what in what tense the action is taking plac
 #+BEGIN_QUOTE
 アリスは 言った - Alice said
 #+END_QUOTE
-The intesting thing to note is the particle between these two, the と particle. There are two と particles, one means 'and', and one marks a quotation. When we quote someone as saying something or as thinking something we use this と particle. We also use these square brackets which are the equivalent of English quotation marks, but in speech we cannot see these, so we also use と (and clearly use と in writing regardless also).
+The interesting thing to note is the particle between these two, the と particle. There are two と particles, one means 'and', and one marks a quotation. When we quote someone as saying something or as thinking something we use this と particle. We also use these square brackets which are the equivalent of English quotation marks, but in speech we cannot see these, so we also use と (and clearly use と in writing regardless also).
 #+BEGIN_QUOTE
 「おもしろい ことが ない」 と アリスは 言った - Nothing interesting is happening said Alice
 #+END_QUOTE
@@ -615,7 +615,7 @@ The intesting thing to note is the particle between these two, the と particle.
 #+BEGIN_QUOTE
 ふつうの ウサギでは なくて - Not an ordinary rabbit
 #+END_QUOTE
-# TODO: Add a note here about では
+では here is the て-form of the copula だ, meaning 'as for being (an ordinary rabbit)'
 #+BEGIN_QUOTE
 チョッキを きて いる ウサギ だった。- It was a rabbit that was wearing a vest (it was a wearing a vest rabbit)
 #+END_QUOTE
@@ -624,7 +624,7 @@ The intesting thing to note is the particle between these two, the と particle.
 #+BEGIN_QUOTE
 ウサギは かいちゅうどけいを 見て 「おそい!おおい!」と言って、はしり だした。
 #+END_QUOTE
-- かいちゅうどけい is the combination of かいちゅう (inside pocket) and どけい (watch) meaning pocketwatch. An interesting note here is that とけい becomes どけい (I may write up a full explanation of why anothe time).
+- かいちゅうどけい is the combination of かいちゅう (inside pocket) and どけい (watch) meaning pocket-watch. An interesting note here is that とけい becomes どけい (I may write up a full explanation of why another time).
 
 #+BEGIN_QUOTE
 「おそい!おおい!」と
@@ -701,7 +701,7 @@ Why is the dog being marked by に? Let's look at a larger sentence:
 
 Who is the actor? It's not Sakura, she's marked by は. It's not the 'someone' as they're marked by に. The bag is the actor of the sentence, the bag /did/ 'got'.
 
-What is に doing here? に marks the ultimate target of an action. So what is the target of getting stolen? To whome is the stolen item going? It is the 'someone' who stole it.
+What is に doing here? に marks the ultimate target of an action. So what is the target of getting stolen? To whom is the stolen item going? It is the 'someone' who stole it.
 
 Note: Cure Dolly uses a /push-pull/ analogy here, which I think is unnecessary.
 
@@ -764,7 +764,7 @@ Note again how our verb 走る has been converted to the て form signifying an 
 アリス*も* ウサギの 穴に とび こんだ。 - Alice also jumped into the rabbit hole.
 #+END_QUOTE
 
-も is another non-logical topic-marking particle. も marks the topic of the sentence in the same way that は does. The difference is that while は can mark the topic of the sentence and *can* also change the topic of the sentence, も decalares the topic of the sentence but can *only* change the topic of the sentence. We cannot use も unless we are changing the topic of the sentence. Up until this point the topic of our conversation has been the rabbit, now we are switching to talk about Alice.
+も is another non-logical topic-marking particle. も marks the topic of the sentence in the same way that は does. The difference is that while は can mark the topic of the sentence and *can* also change the topic of the sentence, も declares the topic of the sentence but can *only* change the topic of the sentence. We cannot use も unless we are changing the topic of the sentence. Up until this point the topic of our conversation has been the rabbit, now we are switching to talk about Alice.
 
 When we change topic with も we're saying that the comment about the previous topic (the rabbit and that it jumped) is the same as our new topic (Alice). When we change the topic with は we are doing the opposite, we are drawing a distinction between the two.
 
@@ -777,8 +777,8 @@ When we change topic with も we're saying that the comment about the previous t
 #+BEGIN_QUOTE
 でも、 おどろいたことに ゆっくり ゆっくり 落さた。 - But, the surprising thing was that she slowly slowly fell/ But, surprisingly she fell slowly.
 #+END_QUOTE
-- おどろいたこと doesn't mean 'A surprised thing', it means 'the surprising thing' (surprisingly). The に attached is again to turn it into an adverb. So: 'She fell surprisingly'. Of course, it isn't surprising that she fell, but it is suprising that she fell ゆっくり ゆっくり (slowly slowly).
-- ゆっくり is slightly unusual in that it is fundamentall a noun, but we can use it as an adjective without adding に to it. We will see ゆっくり very often.
+- おどろいたこと doesn't mean 'A surprised thing', it means 'the surprising thing' (surprisingly). The に attached is again to turn it into an adverb. So: 'She fell surprisingly'. Of course, it isn't surprising that she fell, but it is surprising that she fell ゆっくり ゆっくり (slowly slowly).
+- ゆっくり is slightly unusual in that it is fundamentally a noun, but we can use it as an adjective without adding に to it. We will see ゆっくり very often.
 
 * Lesson 15: Transitivity
 /Transitive/ and /intransitive/ aren't as big of a misnomer as some of the things we've seen so far, but a better pair of terms would be /Self-move/ and /Other-move/.

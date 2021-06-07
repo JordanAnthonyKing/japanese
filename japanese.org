@@ -814,7 +814,7 @@ Is there anything we can do to simplify this: える version have the opposite o
 
 * Lesson 16: て-みる, 'try doing', や-particle, から-particle, exclusive-'and'
 #+BEGIN_QUOTE
-落ちる 間に ひもが たっぷり あって まわりを ゆっくり 見まわせた。
+落ちる 間に ひまが たっぷり あって まわりを ゆっくり 見まわせた。
 #+END_QUOTE
 - 落ちる - fall
 - 間に - during
@@ -899,7 +899,7 @@ Is there anything we can do to simplify this: える version have the opposite o
 
 *The や-particle*
 
-When putting to clauses together we use the て-form as an equivalent to 'and'. When putting two things together we can use the と (exclusive 'and') and や (non-exclusive 'and') particles.
+When putting two clauses together we use the て-form as an equivalent to 'and'. When putting two things together we can use the と (exclusive 'and') and や (non-exclusive 'and') particles.
 
 ---
 
@@ -910,7 +910,7 @@ When putting to clauses together we use the て-form as an equivalent to 'and'. 
 * Lesson 17: Form Japanese: です/ます + volitional
 ます is a (helper) verb that attaches to the い stem of another verb. It doesn't change the meaning of the verb in anyway, it just makes it formal. ます is highly irregular:
 - The past tense is normal, it ends just like any す verb - ました
-- The past tense is not ませない, it is ません - This is the only verb that does this in modern Japanese
+- The negative past tense is not ませない, it is ません - This is the only verb that does this in modern Japanese
 - The negative past is ませんでした
 
 です is the formal version of だ and works exactly the same aside from one quirk, unlike with だ which we do not attach to adjectives, we do attach です in formal speech. It doesn't mean or do anything, but it's done all the same.

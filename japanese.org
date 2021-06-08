@@ -1162,10 +1162,10 @@ Lengthening the final sound of こ/そ/あ/ど is talking about the way somethin
 The いう here is not referring to the fact we've said anything. The いう refers to the description of the thing.
 * Lesson 21: Te oku/te aru
 #+BEGIN_QUOTE
-その びんいは ラベルが 貼って あって 「オレンジ•マーマレード」と 書いて あった
+その びんは ラベルが 貼って あって 「オレンジ•マーマレード」と 書いて あった
 #+END_QUOTE
 #+BEGIN_QUOTE
-その びんいは ラベルが 貼って あって - A label was pasted to the bottle
+その びんは ラベルが 貼って あって - A label was pasted to the bottle
 #+END_QUOTE
 貼って ある is something not yet covered. We've used the て-form of a verb + いる meaning to be in the state of doing that verb. て ある also means to be in the state of that verb, however there is a difference:
 #+BEGIN_QUOTE
@@ -1179,7 +1179,7 @@ What is the difference? いる simply means is open, however ある carries anot
 Notice how we're using いる, the verb for animate objects to describe the openness of an inanimate object. Because we have used the self-move verb the inanimate object is an honorary 'willed being' with a state of its own. In the example with ある the state has been caused externally, and so the window maintains its inanimateness.
 
 #+BEGIN_QUOTE
-その びんいは ラベルが 貼って あって - The jar existed in the state of having a label stuck to it and...
+その びんは ラベルが 貼って あって - The jar existed in the state of having a label stuck to it and...
 #+END_QUOTE
 
 #+BEGIN_QUOTE
@@ -1232,7 +1232,7 @@ This is a new usage of も, there are many similar usages of this particle:
 #+BEGIN_QUOTE
 下へ 落としては 悪いと 思った
 #+END_QUOTE
-落としては now we have て from + は topic marker. While も is the additive, including particle, は is the subtractive, excluding particle. So, while も means 'as much as', は means 'as little as'. We tend to use でも in positive contexts, and では in negative contexts. Often this ては gets contracted into just ちゃ.
+落としては now we have て-form + は topic marker. While も is the additive, including particle, は is the subtractive, excluding particle. So, while も means 'as much as', は means 'as little as'. We tend to use でも in positive contexts, and では in negative contexts. Often this ては gets contracted into just ちゃ.
 
 We can use ては as the connector between two clauses, and it implies that the second clause is unwanted:
 #+BEGIN_QUOTE

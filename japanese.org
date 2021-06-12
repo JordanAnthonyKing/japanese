@@ -1296,7 +1296,7 @@ Firstly, /somebody said/:
 #+END_QUOTE
 Note: This usage usually has a childish, or somewhat argumentative tone.
 
-Why does this mean 'but'? What're we're doing is taking the thing that was just said and adding だ to it. Then quoting what they just said: だって - You say that (Sakura is pretty), and the implication is that something contradictory will follow.
+Why does this mean 'but'? What we're doing is taking the thing that was just said and adding だ to it. Then quoting what they just said: だって - You say that (Sakura is pretty), and the implication is that something contradictory will follow.
 
 # There is some explanation here of standalone phrases like ですね but I don't think it's necessary
 
@@ -1494,7 +1494,7 @@ Using か in this way is something we can't do this with any of the other likeni
 
 Because 「みたい」 is so casual, often the だ or 「です」 gets left off the sentence.
 * Lesson 27: Bakari - ばかり
-「ばかり」 is essentially a noun, it is used だ and as we know we can only use だ with nouns, although we will find that sometimes the だ/です is left off in casual speech.
+「ばかり」 is essentially a noun, it is used with だ and as we know we can only use だ with nouns, although we will find that sometimes the だ/です is left off in casual speech.
 
 「ばかり」 simply means 'just' or 'nothing but'. One of the most common uses is to place it after a past-tense statement to say that something has 'just' taken place. This is just the same as in English.
 #+BEGIN_QUOTE
@@ -1516,7 +1516,7 @@ This example could be literal. It could also be exclusively figurative:
 ゴルフをしてばかり - Only plays golf - Just plays golf (In reality they play an awful lot but not /only/)
 #+END_QUOTE
 
-A conjunctions is something that connect two complete logical clauses in a compound sentence.
+A conjunction is something that connects two complete logical clauses in a compound sentence.
 #+BEGIN_QUOTE
 ∅がうたった - Sentence 1
 #+END_QUOTE

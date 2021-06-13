@@ -1712,7 +1712,7 @@ Irregular:
 
 For adjectives remove the い and add the helper 「ければ」. 「ない」 -> 「なければ」.
 
-The special characteristic of ば/れば is that is used for /hypotheticals/. They always mean 'if' and can't ever mean 'when', because we never know for sure if the condition will take place. Consequently, if we use it about something that happened in the past it has to be something that didn't happen, because if it had happened we would be dealing with a hypothetical.
+The special characteristic of ば/れば is that is used for /hypotheticals/. They always mean 'if' and can't ever mean 'when', because we never know for sure if the condition will take place. Consequently, if we use it about something that happened in the past it has to be something that didn't happen, because if it had happened we wouldn't be dealing with a hypothetical.
 
 This hypothetical nature allows ば/れば to be used in many common Japanese expressions:
 #+BEGIN_QUOTE
@@ -1744,7 +1744,7 @@ Even in very casual speech it is still often said in full to emphasise the 'must
 なぜいかなければいけない - Why must I come?
 #+END_QUOTE
 * Lesson 32: たら, なら conditionals
-The 「たら/だら」 conditional is particularly easy to form, all we do is form a verb or an adjective into its 「た/だ」 past form and add ら. 「たら/だら」 is the only conditional that can be used about past events. Of course, if we are referring to something in the past it's not really a conditional. We aren't saying 'if' here, we're saying 'when'. We know that the condition has been fulfilled because it's already happened. What 「たら」 does is show that the event that happened in the past was unexpected or surprising. This is because, rather than using on of the more regular means of showing that one event followed another such as using the て-form or 「から」, we're using an /if-type conditional/. We're stressing the fact that what did happen might well not have happened, and that the thing not having happened might've been more inline with what we'd have expected.
+The 「たら/だら」 conditional is particularly easy to form, all we do is form a verb or an adjective into its 「た/だ」 past form and add ら. 「たら/だら」 is the only conditional that can be used about past events. Of course, if we are referring to something in the past it's not really a conditional. We aren't saying 'if' here, we're saying 'when'. We know that the condition has been fulfilled because it's already happened. What 「たら」 does is show that the event that happened in the past was unexpected or surprising. This is because, rather than using one of the more regular means of showing that one event followed another such as using the て-form or 「から」, we're using an /if-type conditional/. We're stressing the fact that what did happen might well not have happened, and that the thing not having happened might've been more inline with what we'd have expected.
 #+BEGIN_QUOTE
 家に帰ったらさくらがいた - When I returned to the house, Sakura was there (surprisingly). (She doesn't even have a key, she must've climbed in through the window. Sakura does that kind of thing from time to time y'know)
 #+END_QUOTE
@@ -1830,7 +1830,7 @@ This 「あって」 is the connective (て-form) form of 「ある」. The beca
 #+BEGIN_QUOTE
 あのお店はパンばかりうる - That shop sells an awful lot of bread
 #+END_QUOTE
-「ばかり」 and 「だけ」 have the same literally meaning (only/just) but as we learned in the lesson on ばかり, it's a hyperbole, we don't literally mean it only sells bread. Just that it sells bread far more than anything else.
+「ばかり」 and 「だけ」 have the same literal meaning (only/just) but as we learned in the lesson on ばかり, it's a hyperbole, we don't literally mean it only sells bread. Just that it sells bread far more than anything else.
 
 ** のみ
 「のみ」 is just 「だけ」 in its simplest sense i.e. 'only'.

@@ -2343,3 +2343,8 @@ Remember: Sometimes 「思い」 does imply desire:
 #+END_QUOTE
 
 # There are some notes here about 'wagamama' meaning selfishness
+
+* Lesson 43: Cut through the confusion
+This is a good lesson but not much worth taking notes on.
+
+The general gist is that Japanese does not make much distinction between the actor of a sentence and the receiver. Things that are passive/non-passive can be the other depending on what is being spoken about. Often the concept of there being an 'object' and an 'actor' or an inducer and an induced is meaningless, as the act is a shared thing between the two.

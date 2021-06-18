@@ -2369,3 +2369,53 @@ We also use this about future things, with a similar feeling as 'done' is used f
 # She's reading a story, I'm not going to translate it all.
 
 # TODO: check the referenced extras
+
+* Lesson 46: Japanese word order
+As sentences become more and more complex, understanding word order becomes more necessary to understand what is going on.
+
+English is a Subject-Verb-Object (SVO) language. 'Susan hit Mary' does not have the same meaning as 'Mary hit Susan'. In Japanese the question of who did what to whom is answered by the logical particles, not by the order of the words in the sentence.
+
+As we have learned however there are still rules about what order words must come in Japanese sentences. This order is according to two simple rules:
+1. The 'engine' always goes at the end of the sentence
+   a. any engine that does not come at the end of a sentence must be modifying a noun
+2. Anything that modifies any noun always comes before it
+
+Point 2 is similar to English in simple cases. 'Warm day', 'nice dress', but in complex cases the modifier comes after the noun: '(the) dress I bought on Saturday'. In Japanese the modifiers *always* come before the noun.
+
+Point 1a:
+#+BEGIN_QUOTE
+いちばで(∅が)青いドレスを買った - I bought a blue dress at the market
+#+END_QUOTE
+We know this is a complete logical clause because of rule 1.
+
+#+BEGIN_QUOTE
+いちばで(∅が)買ったドレス - The dress that I bought at the market...
+#+END_QUOTE
+Not a logical clause, but a modified noun
+
+#+BEGIN_QUOTE
+(∅が)ドレスを買ったいちばで - The market at which I bought the dress...
+#+END_QUOTE
+Again, not a logical clause but a modified noun
+
+* Lesson 47: Secret weapon for breaking down sentences
+# Probably another lesson with not a lot to take note on
+The gist is that A and B (as in A is B or A does B) are themselves the entire sentence (a logical clause), nothing else is really going on than what A is or what A does. Everything else in the sentence is just extra information about the thing that is or is doing and the thing that it is or is being done.
+
+# I should probably write up all the ways a logical clause to end.
+
+There is an addendum to last week's lesson:
+2. Anything that modifies any +noun+ thing (noun or head-verb) always comes before it
+
+If the が marked A isn't visible, then there is nothing modifying it (sounds obvious but this hadn't clicked until it had been said).
+
+The structure of every sentence, in order goes:
+1. Modifiers of the A car (optional (if there is a visible A car))
+2. The A car (may not be visible)
+3. Modifiers of the B engine (optional)
+4. The B engine
+
+
+Remember: the 4 logical particles aside from が (に、 で、 を、 へ) all modify the B engine, if we see them before the A car, then they must be part of a clause modifying the A car.
+# Is this strictly true?
+Remember: modifiers can be entire clauses in their own right.

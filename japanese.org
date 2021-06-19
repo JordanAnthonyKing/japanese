@@ -2419,3 +2419,13 @@ The structure of every sentence, in order goes:
 Remember: the 4 logical particles aside from が (に、 で、 を、 へ) all modify the B engine, if we see them before the A car, then they must be part of a clause modifying the A car.
 # Is this strictly true?
 Remember: modifiers can be entire clauses in their own right.
+
+* Lesson 48: Dealing with ambiguity
+Japanese has a reputation of being ambiguous.
+
+The first thing that makes japanese confusing to foreigners is the ∅ pronoun. The ∅ pronoun is really no more confusing than English 'it', both require context to know what they are.
+
+There are three rules for busting ambiguity (and they are not different than the rules we use in English):
+1. Context
+2. Probability
+3. Absurdity

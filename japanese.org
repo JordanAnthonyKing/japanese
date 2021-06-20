@@ -2429,3 +2429,40 @@ There are three rules for busting ambiguity (and they are not different than the
 1. Context
 2. Probability
 3. Absurdity
+* Lesson 49: Japanese point-of-view - もらう, てもらう
+「もらう」 means to 'download'.
+
+# There are some notes here on how morau is usually taught alongside kureru and ageru, and also how ageru and kureru are not actually polite speech, despite that being their origin.
+
+When used with a noun it does not imply a giver of the thing we are receiving, unlike kureru and ageru which are bound to a particular giver and receiver.
+
+When used with a verb, kureru implies that the giver took the initiative, whereas morau implies that the receiver took the initiative.
+
+Even though no giver is implied, when a giver is mentioned, the giver is marked by に, this is the same as the receptive helper verb れる/られる, もらう like the receptive helper verb are 'pull' actions rather than 'pull' actions, in a push sentence the に marks the indirect object, the ultimate receiver of the action, whereas in a pull sentence the に marks the source of the action.
+#+BEGIN_QUOTE
+∅がメイリーにボールを投げた - I threw the ball *at* Mary
+#+END_QUOTE
+- に marks the target of が-marked subject's action
+#+BEGIN_QUOTE
+∅がメイリーにボールを投げられた - I throw-received the ball *from* Mary
+#+END_QUOTE
+- に marks the source of が-marked subject's action
+
+---
+
+#+BEGIN_QUOTE
+∅がお医者さんに見てもらう - (I) will have a doctor see me
+#+END_QUOTE
+- Doctor does seeing
+- が-marked actor does receiving
+
+#+BEGIN_QUOTE
+散髪をしてもらう - Receive a haircut
+#+END_QUOTE
+- No implication of from whom
+
+The person もらう-ing does not have to be the speaker:
+#+BEGIN_QUOTE
+散髪をしてもらったほうがいい - (You) should get your haircut
+#+END_QUOTE
+Kureru cannot be used for someone other than oneself/one's group, but もらう is not.

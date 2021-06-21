@@ -2466,3 +2466,47 @@ The person もらう-ing does not have to be the speaker:
 散髪をしてもらったほうがいい - (You) should get your haircut
 #+END_QUOTE
 Kureru cannot be used for someone other than oneself/one's group, but もらう is not.
+* Lesson 50: させてもらう
+There are many expressions that combine 「てもらう」 (see previous lesson) with the causative helper verb 「せる/させる」, 「させてもらう」.
+
+** The hidden secret of the causative helper
+Refer to lesson 19 for a recap of the causative helper verb. There is one extra aspect that will be covered here:
+
+When we attach the causative helper verb to another verb, what we are saying is that someone caused someone to do that verb. Something that confuses English speakers is that this can mean to allow someone to do it, or to make/compel someone to do it. The causative verb in-of-itself doesn't draw a distinction between those two. The causative helper can mean make, and it can mean allow, and it can mean either. It simply means 'cause'. It does not specify the means by which someone is 'caused'.
+
+There is a note here about there being no 'cause' expression in English, which is sometimes made up for with 'let' as in: 'let me know':
+#+BEGIN_QUOTE
+知る - to know
+知らせる - cause to know (let know)
+#+END_QUOTE
+The causative can be used in many other ways that mean neither 'make' nor 'allow':
+#+BEGIN_QUOTE
+聞かせる - cause to hear
+#+END_QUOTE
+#+BEGIN_QUOTE
+あとで聞かせよう - Tomorrow will cause you to hear (I'll tell you tomorrow)
+#+END_QUOTE
+#+BEGIN_QUOTE
+読み聞かせる - Read and cause to hear (Read aloud)
+#+END_QUOTE
+
+** させてもらう
+#+BEGIN_QUOTE
+聞か-せて-もら-え-ます-か - hear-cause-receive-possible-formal-question - Is it possible to receive (your) causing (me) to hear, kind sir? (Can you tell me?)
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+学生でも下宿させてもらえませんか - Student even-if, caused-to-lodge receive-possible is not, good madam? Even if one is a student, is it not possible to receive being caused to lodge here? (Do you take students?)
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+∅がメガネを合わせてもらった - (I) glasses caused-to-fit received (I was fitted for glasses)
+#+END_QUOTE
+
+Sometimes this can mean 'allow':
+#+BEGIN_QUOTE
+帰らせてもらいます - (I) will receive (your) allowing (me) to go home
+#+END_QUOTE
+
+** 敬語 (polite)
+All though we aren't yet covering polite speech, the polite form of もらう is いただく (or as this is polite speech is usually used with ます so) いただきます. We are used to this phrase before eating, but what it really means is something like 'I humbly receive'.

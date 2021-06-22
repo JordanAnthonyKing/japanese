@@ -2510,3 +2510,32 @@ Sometimes this can mean 'allow':
 
 ** 敬語 (polite)
 All though we aren't yet covering polite speech, the polite form of もらう is いただく (or as this is polite speech is usually used with ます so) いただきます. We are used to this phrase before eating, but what it really means is something like 'I humbly receive'.
+* Lesson 51: How to read a Japanese Kaidan (ghost story)
+# Not sure if there will be much worth nothing this lesson. This seems like it'll be rather practical.
+
+#+BEGIN_QUOTE:
+それは ある女の子が先輩のアパートで行われた飲み会に参加した日
+#+END_QUOTE
+- それは is the equivalent of English 'it was'. There is no 'it' in Japanese, so when we want to introduce a scene (like in the start of a story) and say 'it was a cold night' or something similar we use 'that' -- 'as for that...' = 'it was...'
+- 日 It is not immediately clear what the engine of this sentence is, there is no だ, no adjective and no verb. However, since it ends in a noun we can know that this is an A is B sentence, and that the copula (だ) has been dropped. This happens very often in casual speech.
+- The sentence is tenseless (no copula to tell), we can tell the tense however because the purpose of this sentence is to set the scene for a story, so it'd be in the past tense.
+- Sentence core: 'It was a day'
+
+#+BEGIN_QUOTE:
+ある女の子が先輩のアパートで行われた飲み会に
+#+END_QUOTE
+# Is it a fact that in a sentence with a は and a が if the は and が are on different things there is also an invisible ∅が? I don't think so
+- This entire block is a single modifier for the day. We know this because a verb (the engine of the clause) connects directly to a noun.
+  # Is it the case that in A is B sentences there are no logical particles than が and だ? The particles only give us more information about the engine or something?
+- The core of this clause is clearly 「女の子が参加した」 - Girl who took part
+- Remember ある here means 'a certain'
+- 飲み会 - drinking party
+- 先輩のアパートで - at (the action 行う was made possible by) Senpai's apartment
+- 行われた - perform/do/conduct (held)
+
+#+BEGIN_QUOTE:
+ある女の子が先輩のアパートで行われた飲み会に参加した - A certain girl took part in a drinking party held at Senpai's apartment
+#+END_QUOTE
+#+BEGIN_QUOTE:
+それは ある女の子が先輩のアパートで行われた飲み会に参加した日 - It was the day when a certain girl attended a drinking party held at Senpai's apartment
+#+END_QUOTE

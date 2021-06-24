@@ -2588,3 +2588,41 @@ In 「ことに気付いた」 why is に used and not を? The Japanese-English
 - ところが is a common expression in narrative. The が is not the particle but the contrastive conjunction 'but'. ところ which means place can also mean a place in time, so the combined meaning is 'at that time, then...', 'But then'.
 - そのまま - (In) that unchanged state... 'Because the door was unlocked...' in that (her) unchanged state (just like that) '... she went in'
   + 'Because the door was unlocked she went in *just like that*'
+
+* Lesson 53: Enjoy Japanese Horror (more sentence analysis)
+#+BEGIN_QUOTE
+部屋の中は電気がついておらず
+#+END_QUOTE
+- 電気をつける - Turn on the lights
+  + おらず - おる = いる - ず = ない
+    - Both this おる and ず are old fashioned (or けいご (polite) (and sometimes dialectical)) japanese
+      + 電気がついておらず - The electricity existed in a state of not having been switched on - The lights were off
+
+-----
+
+#+BEGIN_QUOTE
+どうやら先輩はもう寝てしまたらしい
+#+END_QUOTE
+- どうやら - It seems/It appears, working in tandem with the らしい at the end of the sentence, somehow ... it appeared
+
+-----
+
+#+BEGIN_QUOTE
+無用心だな、と思った彼女は電気をつけて先輩を起こそうかと思ったが、
+#+END_QUOTE
+- 無用心 - Acting without caution esp. w.r.t. crime or danger (examples given include walking down a dark street at night or leaving valuables on display in one's car)
+  + だな - As we know な is the particle used for directing a comment at oneself
+- 起こそうかと思った - 起こす (wake, other-move) - 起こそう (volitional form (will to do)) - She thought about possibly waking [senpai]
+- が - but (end of a clause, can't be the other が)
+
+-----
+
+#+BEGIN_QUOTE
+先輩がかなり酔っていたのを思い出し、そっとしておくことにした。
+#+END_QUOTE
+- かなり is an adverbial noun (one that doesn't need に or と to modify a verb/adjective) meaning sufficiently/pretty/very
+- の bundles everything that came before it into a noun
+  + 思い出し - Remembered, Note: い-stem as a clause-connector
+- そとする means to act quietly, そと (quiet) + する (act (do))
+  + おく means to put something in a place, but as we know the japanese concept of 'place' is very loose, so そとしておく means 'put in place acting quietly' (fairly close to a common English expression)
+

@@ -1,37 +1,37 @@
 
 # Table of Contents
 
-1.  [Structure](#org231e273)
-    1.  [Core sentence](#org3dccd34)
-    2.  [Tense](#orgd9ec372)
-        1.  [Non-past (future) tense](#org7829f2e)
-        2.  [Present (continuous)](#org77561f7)
-        3.  [Past](#orge6f677e)
-        4.  [Time expressions](#orgb3023d8)
-    3.  [て-form](#org7287559)
-    4.  [Adjectives](#org8f5cf41)
-        1.  [い-adjectives](#org5b65ea8)
-        2.  [Verb-adjectives](#org922bc76)
-        3.  [Noun-adjectives](#org1a5c6b6)
-    5.  [Verb stems](#org22ebb2a)
-2.  [Particles](#org1de7981)
-    1.  [Logical particles](#orgfb1bb8d)
-        1.  [が (*ga*) - Subject ](#org449daab)
-        2.  [だ ](#orgd8f80b7)
-        3.  [を (*o/wo*) - (Direct) Object](#org8c2f8eb)
-        4.  [に (*ni*) - Target (Indirect Object)](#org99297ce)
-        5.  [の (*no*) - Possessive](#org3ffcea9)
-    2.  [Non-logical particles](#orgf7df448)
-        1.  [は *wa*](#org7def562)
-    3.  [Sentence ender particles](#org375c267)
+1.  [Structure](#org76b49a6)
+    1.  [Core sentence](#orgaa38aa2)
+    2.  [Tense](#orgc368679)
+        1.  [Non-past (future) tense](#org5ddd7ce)
+        2.  [Present (continuous)](#orgb2d6eae)
+        3.  [Past](#orgebc864b)
+        4.  [Time expressions](#orge51783a)
+    3.  [て-form](#orgea8d6ad)
+    4.  [Adjectives](#orgc696aba)
+        1.  [い-adjectives](#org895f389)
+        2.  [Verb-adjectives](#org6318d71)
+        3.  [Noun-adjectives](#org6b8f571)
+    5.  [Verb stems](#org85e7cd9)
+2.  [Particles](#org41d10cb)
+    1.  [Logical particles](#org00230dc)
+        1.  [が (*ga*) - Subject ](#org0fc8da5)
+        2.  [だ ](#orga24bbbe)
+        3.  [を (*o/wo*) - (Direct) Object](#org85bd2df)
+        4.  [に (*ni*) - Target (Indirect Object)](#org94547bb)
+        5.  [の (*no*) - Possessive](#org513f020)
+    2.  [Non-logical particles](#org46424d9)
+        1.  [は *wa*](#org914cd14)
+    3.  [Sentence ender particles](#org78cff1e)
 
 
-<a id="org231e273"></a>
+<a id="org76b49a6"></a>
 
 # Structure
 
 
-<a id="org3dccd34"></a>
+<a id="orgaa38aa2"></a>
 
 ## Core sentence
 
@@ -50,11 +50,11 @@ There are three possible engines:
 
 -   Verb - A does B
 -   だ-marked noun - A is B
--   い-*&ldquo;Adjective&rdquo;*<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup> - A is B
+-   い-/&ldquo;Adjective&rdquo;/([1.4](#orgc696aba)) - A is B
 
-The engine **always** comes at the end of the sentence (with the exception of sentence ender particles<sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup>
+The engine **always** comes at the end of the sentence (with the exception of sentence ender particles([2.3](#org78cff1e))
 
-<a id="orgd6aadf2"></a>
+<a id="org52804f1"></a>
 The が-marked noun is not always visible in the sentence. It is still present as part of the core of the sentence however. The closest English equivalent to this invisible が is &rsquo;it&rsquo;. Take this example English sentence:
 
 > The ball rolled down the hill. When the ball got to the bottom the ball hit a sharp stone and the ball was punctured and all the air came out of the ball.
@@ -65,8 +65,8 @@ This is not a sentence we would ever say in English, once we have established th
 
 If we were to completely omit &rsquo;it&rsquo; the sentence would still be easy to understand, we don&rsquo;t **need** to use this it marker each time, but English grammar **demands** it. Japanese does not, hence the &rsquo;invisible&rsquo; が carriage.
 
-<a id="org93ce158"></a>
-&rsquo;It&rsquo; by itself doesn&rsquo;t really mean anything, we know what it means from context. All of the pronouns I/it/we/he/they can be replaced by an invisible logical particle<sup><a id="fnr.3" class="footref" href="#fn.3">3</a></sup> (most often が) marked *∅ pronoun*. It is important to remember that the が-marked noun **is still there**.
+<a id="org9008a4f"></a>
+&rsquo;It&rsquo; by itself doesn&rsquo;t really mean anything, we know what it means from context. All of the pronouns I/it/we/he/they can be replaced by an invisible logical particle([2.1](#org00230dc)) (most often が) marked *∅ pronoun*. It is important to remember that the が-marked noun **is still there**.
 
 > [∅が]さくらだ - (I) am Sakura
 
@@ -78,20 +78,20 @@ By default &rsquo;I&rsquo; is the default value of this ∅ pronoun. However, if
 From context it is clear that ∅ and &rsquo;it&rsquo; mean &rsquo;today&rsquo;.
 
 
-<a id="orgd9ec372"></a>
+<a id="orgc368679"></a>
 
 ## Tense
 
 In Japanese the tenses are not the same past, present and future tenses we&rsquo;re familiar with from English.
 
 
-<a id="org7829f2e"></a>
+<a id="org5ddd7ce"></a>
 
 ### Non-past (future) tense
 
 The basic, dictionary-form of verbs are in the *non-past* tense. The Japanese non-past tense is very similar to the English non-past tense. What is the *English* non-past tense? It is again the plain dictionary form of a verb: *eat*, *run*, *walk* etc. It is unnatural in English to say &rsquo;I eat cake&rsquo;, to mean &rsquo;I am eating cake&rsquo;. It is natural however to use the non-past tense to say &rsquo;Sometimes I eat cake&rsquo; or, in the explicitly future tense &rsquo;I will eat cake&rsquo;. Japanese is just the same as English in this way. It is rare we use this form for talking about things actually happening right now, except in cases like literary descriptions.
 
-Just as the ∅ pronoun<sup><a id="fnr.4" class="footref" href="#fn.4">4</a></sup> defaults to &rsquo;I&rsquo;, the non-past tense defaults to the future.
+Just as the ∅ pronoun([1.1](#org9008a4f)) defaults to &rsquo;I&rsquo;, the non-past tense defaults to the future.
 
 > さくらが歩く - Sakura will walk
 
@@ -100,11 +100,11 @@ Just as the ∅ pronoun<sup><a id="fnr.4" class="footref" href="#fn.4">4</a></su
 &rsquo;Sakura walks&rsquo; is possible, but isn&rsquo;t the most natural way.
 
 
-<a id="org77561f7"></a>
+<a id="orgb2d6eae"></a>
 
 ### Present (continuous)
 
-In order to say something like &rsquo;Sakura is walking&rsquo; we need to combine the verb 「歩く」 - *to walk* with the verb 「いる」 -  *to be*. This is done by putting the verb into the て-form<sup><a id="fnr.5" class="footref" href="#fn.5">5</a></sup>.
+In order to say something like &rsquo;Sakura is walking&rsquo; we need to combine the verb 「歩く」 - *to walk* with the verb 「いる」 -  *to be*. This is done by putting the verb into the て-form([1.3](#orgea8d6ad)).
 
 > さくらが歩いている - Sakura is walking
 
@@ -113,16 +113,16 @@ In order to say something like &rsquo;Sakura is walking&rsquo; we need to combin
 The core sentence here is &rsquo;Sakura is existing&rsquo;, the て-form verb, what we shall call a *secondary engine* which modifies the main engine. In what state is Sakura existing? She is existing in the state of eating.
 
 
-<a id="orge6f677e"></a>
+<a id="orgebc864b"></a>
 
 ### Past
 
-To form the past tense of a verb we need to take the verb stem<sup><a id="fnr.6" class="footref" href="#fn.6">6</a></sup> and add た.
+To form the past tense of a verb we need to take the verb stem([1.5](#org85e7cd9)) and add た.
 
 > 犬がたべた - The dog ate
 
 
-<a id="orgb3023d8"></a>
+<a id="orge51783a"></a>
 
 ### Time expressions
 
@@ -139,7 +139,7 @@ For *non-relative*, i.e. *absolute* time expressions we must use the に-particl
 We must attach に in all the same places we would attach on/in/at in English. &rsquo;On Tuesday&rsquo;, &rsquo;in March&rsquo;, &rsquo;at 12 o&rsquo;clock&rsquo;. Fortunately in Japanese we only need to use the one particle.
 
 
-<a id="org7287559"></a>
+<a id="orgea8d6ad"></a>
 
 ## て-form
 
@@ -163,18 +163,18 @@ There are only two irregular verbs, くる and する. いく, is partly irregul
 These are the only exceptions
 
 
-<a id="org8f5cf41"></a>
+<a id="orgc696aba"></a>
 
 ## Adjectives
 
 Japanese adjectives are not the same as English adjectives. As we have learned Japanese sentences come in three kinds, depending on the type of engine they have. All three of these engines can be used like adjectives.
 
--   Verb<sup><a id="fnr.7" class="footref" href="#fn.7">7</a></sup> - A **does** B
--   だ-marked noun<sup><a id="fnr.8" class="footref" href="#fn.8">8</a></sup> - A **is** B
--   い-*&ldquo;Adjective&rdquo;*[fn::[1.4.1](#org5b65ea8)) - A **is** B
+-   Verb([1.4.2](#org6318d71)) - A **does** B
+-   だ-marked noun([1.4.3](#org6b8f571)) - A **is** B
+-   い-/&ldquo;Adjective&rdquo;/([1.4.1](#org895f389)) - A **is** B
 
 
-<a id="org5b65ea8"></a>
+<a id="org895f389"></a>
 
 ### い-adjectives
 
@@ -189,7 +189,7 @@ If we swap the order of 「ぺんが」 and 「あかい」 then we can take thi
 > あかいぺんがちいさい - Red pen is small
 
 
-<a id="org922bc76"></a>
+<a id="org6318d71"></a>
 
 ### Verb-adjectives
 
@@ -204,11 +204,11 @@ Any verb in any tense can be used like an adjective:
 Verbal adjectives can create very complex sentences in which we can use entire other-sentences (clauses) in an adjectival manner.
 
 
-<a id="org1a5c6b6"></a>
+<a id="org6b8f571"></a>
 
 ### Noun-adjectives
 
-<a id="org7fa7ffe"></a>
+<a id="orge933ecb"></a>
 
 > いぬがやんちゃだ - The dog is naughty
 
@@ -218,39 +218,39 @@ We can turn 「やんちゃ」 into an adjective too, but there is one important
 
 > やんちゃないぬがねている - The dog who is naughty is sleeping
 
-An important note is that we cannot do this with *all* nouns, only nouns which are frequently used in an adjectival way. This group of nouns is what are referred to as &rsquo;な-adjectives&rsquo;. We can use all nouns as adjectives, but for the rest we need to use a different technique, *の-adjectives*<sup><a id="fnr.9" class="footref" href="#fn.9">9</a></sup>.
+An important note is that we cannot do this with *all* nouns, only nouns which are frequently used in an adjectival way. This group of nouns is what are referred to as &rsquo;な-adjectives&rsquo;. We can use all nouns as adjectives, but for the rest we need to use a different technique, /の-adjectives/([2.1.5](#orgf44094e)).
 
 
-<a id="org22ebb2a"></a>
+<a id="org85e7cd9"></a>
 
 ## TODO Verb stems
 
 
-<a id="org1de7981"></a>
+<a id="org41d10cb"></a>
 
 # Particles
 
-No particles other than が and だ can ever be part of the core sentence<sup><a id="fnr.10" class="footref" href="#fn.10">10</a></sup> and only が is present in every sentence (even if invisible<sup><a id="fnr.11" class="footref" href="#fn.11">11</a></sup>.
+No particles other than が and だ can ever be part of the core sentence([1.1](#orgaa38aa2)) and only が is present in every sentence (even if invisible\*([1.1](#org52804f1)).
 
 
-<a id="orgfb1bb8d"></a>
+<a id="org00230dc"></a>
 
 ## Logical particles
 
 All logical particles attach to nouns, they **cannot** attach to anything but nouns.
 
 
-<a id="org449daab"></a>
+<a id="org0fc8da5"></a>
 
-### TODO が (*ga*) - Subject <a id="orgd1d588e"></a>
-
-
-<a id="orgd8f80b7"></a>
-
-### TODO だ <a id="org9de4b68"></a>
+### TODO が (*ga*) - Subject <a id="org6e0675c"></a>
 
 
-<a id="org8c2f8eb"></a>
+<a id="orga24bbbe"></a>
+
+### TODO だ <a id="org4fb5118"></a>
+
+
+<a id="org85bd2df"></a>
 
 ### を (*o/wo*) - (Direct) Object
 
@@ -265,7 +265,7 @@ The core sentence here is &rsquo;I eat&rsquo;. The extra を particle marked nou
 The core sentence is &rsquo;I threw&rsquo;, and the extra を particle marked noun tells us what we threw i.e. the ball.
 
 
-<a id="org99297ce"></a>
+<a id="org94547bb"></a>
 
 ### に (*ni*) - Target (Indirect Object)
 
@@ -285,10 +285,10 @@ Sakura is the destination, the target. It is important to note here that the log
 
 Obviously this final example doesn&rsquo;t make any sense (although we might want to say something nonsensical like this in a fantasy novel or something) but we can say whatever we like in Japanese so long as we use the right logical particles.
 
-See also use of に in *time expressions*<sup><a id="fnr.12" class="footref" href="#fn.12">12</a></sup>.
+See also use of に in /time expressions/([1.2.4](#orge51783a)).
 
 
-<a id="org3ffcea9"></a>
+<a id="org513f020"></a>
 
 ### の (*no*) - Possessive
 
@@ -300,7 +300,7 @@ The の particle, or the *possessive particle* functions just like the English *
 
 Luckily in Japanese we don&rsquo;t have to worry about his/her/my/their, we just use の.
 
-<a id="org3e326f5"></a>
+<a id="orgf44094e"></a>
 Because this is the *possessive particle* we can use this in another slightly different way. 「あか」 has an *adjectival* form in 「あかい」, but not all colours have this form. The Japanese for pink, 「ピンクいる」 (lit: pink-colour) doesn&rsquo;t have an adjectival form in 「ピンクいろい」, nor can we use it as a secondary engine with な. So what are we to do? Well we can use the の-particle:
 
 > ピンクいる\*の\*どれすが - The pink dress (literally: The dress belonging to the class of pink things)
@@ -308,14 +308,14 @@ Because this is the *possessive particle* we can use this in another slightly di
 > うさぎ\*の\*OSCAR - Oscar the rabbit (literally: Oscar belonging to the class of rabbit)
 
 
-<a id="orgf7df448"></a>
+<a id="org46424d9"></a>
 
 ## Non-logical particles
 
 Non-logical particles are not part of the logical structure of a sentence. They are neither the thing we are saying something about, nor what we are saying about it. They also do not tell us more about the engine of the sentence as the other logical particles do.
 
 
-<a id="org7def562"></a>
+<a id="org914cd14"></a>
 
 ### は *wa*
 
@@ -327,7 +327,7 @@ A commonly mistranslated sentence is:
 
 > わたしは日本人だ - <del>I am Japanese</del>
 
-Referring back to the core sentence<sup><a id="fnr.13" class="footref" href="#fn.13">13</a></sup> we can see that the が-marked noun so we don&rsquo;t actually know who or what the subject is. One may ask *&rsquo;well why don&rsquo;t we just treat the は particle as if it is marking the subject&rsquo;*. In this example it is obvious that the topic marked by は is the same as the subject marked by が, but there are many more cases where this is not true, leading to much confusion down the road. Let&rsquo;s look at a similar sentence. You are at a restaurant, the waitress is asking what you would like:
+Referring back to the core sentence([1.1](#orgaa38aa2)) we can see that the が-marked noun so we don&rsquo;t actually know who or what the subject is. One may ask *&rsquo;well why don&rsquo;t we just treat the は particle as if it is marking the subject&rsquo;*. In this example it is obvious that the topic marked by は is the same as the subject marked by が, but there are many more cases where this is not true, leading to much confusion down the road. Let&rsquo;s look at a similar sentence. You are at a restaurant, the waitress is asking what you would like:
 
 > わたしはうなぎだ - <del>I am an eel</del>
 
@@ -341,40 +341,10 @@ Treating は as &rsquo;I am&rsquo; doesn&rsquo;t work. As we now know the defaul
 
 > ぼーるはわたしがさくらに[∅を]なける - As for the ball, I threw (it) at Sakura
 
-This time the を marked noun (not the が marked noun) has become invisible<sup><a id="fnr.14" class="footref" href="#fn.14">14</a></sup>, because what we&rsquo;re throwing is now marked by the は particle, ∅ here has taken the value of &rsquo;it&rsquo;. Even without は we might already know what &rsquo;it&rsquo; was that was thrown from context. The important thing to understand here is that as we change the logical particles from one noun to another we change the meaning of the sentence, but when we change the non-logical particle は from one noun to another it makes no difference to the logic of the sentence. It may make some difference to the emphasis, but it makes no difference to who is doing what or what they&rsquo;re doing it to.
+This time the を marked noun (not the が marked noun) has become invisible([1.1](#org52804f1)), because what we&rsquo;re throwing is now marked by the は particle, ∅ here has taken the value of &rsquo;it&rsquo;. Even without は we might already know what &rsquo;it&rsquo; was that was thrown from context. The important thing to understand here is that as we change the logical particles from one noun to another we change the meaning of the sentence, but when we change the non-logical particle は from one noun to another it makes no difference to the logic of the sentence. It may make some difference to the emphasis, but it makes no difference to who is doing what or what they&rsquo;re doing it to.
 
 
-<a id="org375c267"></a>
+<a id="org78cff1e"></a>
 
 ## TODO Sentence ender particles
 
-
-# Footnotes
-
-<sup><a id="fn.1" href="#fnr.1">1</a></sup> [1.4](#org8f5cf41)
-
-<sup><a id="fn.2" href="#fnr.2">2</a></sup> [2.3](#org375c267)
-
-<sup><a id="fn.3" href="#fnr.3">3</a></sup> [2.1](#orgfb1bb8d)
-
-<sup><a id="fn.4" href="#fnr.4">4</a></sup> [1.1](#org93ce158)
-
-<sup><a id="fn.5" href="#fnr.5">5</a></sup> [1.3](#org7287559)
-
-<sup><a id="fn.6" href="#fnr.6">6</a></sup> [1.5](#org22ebb2a)
-
-<sup><a id="fn.7" href="#fnr.7">7</a></sup> [1.4.2](#org922bc76)
-
-<sup><a id="fn.8" href="#fnr.8">8</a></sup> [1.4.3](#org1a5c6b6)
-
-<sup><a id="fn.9" href="#fnr.9">9</a></sup> [2.1.5](#org3e326f5)
-
-<sup><a id="fn.10" href="#fnr.10">10</a></sup> [1.1](#org3dccd34)
-
-<sup><a id="fn.11" href="#fnr.11">11</a></sup> [1.1](#orgd6aadf2)
-
-<sup><a id="fn.12" href="#fnr.12">12</a></sup> [1.2.4](#orgb3023d8)
-
-<sup><a id="fn.13" href="#fnr.13">13</a></sup> [1.1](#org3dccd34)
-
-<sup><a id="fn.14" href="#fnr.14">14</a></sup> [1.1](#orgd6aadf2)

@@ -16,7 +16,7 @@
    There are three possible engines:
    - Verb - A does B
    - だ-marked noun - A is B
-   - い-"Adjective" ([[*Adjectives]]) - A is B
+   - い-"Adjective"[fn:: [[*Adjectives]]] - A is B
 
    The engine *always* comes at the end of the sentence (with the exception of sentence ender particles ([[*Sentence ender particles]]).
 
@@ -203,67 +203,67 @@
 * Tense
    In Japanese the tenses are not the same past, present and future tenses we're familiar with from English.
 
-*** Non-past (future) tense
-    The basic, dictionary-form of verbs are in the /non-past/ tense. The Japanese non-past tense is very similar to the English non-past tense. What is the /English/ non-past tense? It is again the plain dictionary form of a verb: /eat/, /run/, /walk/ etc. It is unnatural in English to say 'I eat cake', to mean 'I am eating cake'. It is natural however to use the non-past tense to say 'Sometimes I eat cake' or, in the explicitly future tense 'I will eat cake'. Japanese is just the same as English in this way. It is rare we use this form for talking about things actually happening right now, except in cases like literary descriptions.
+** Non-past (future) tense
+   The basic, dictionary-form of verbs are in the /non-past/ tense. The Japanese non-past tense is very similar to the English non-past tense. What is the /English/ non-past tense? It is again the plain dictionary form of a verb: /eat/, /run/, /walk/ etc. It is unnatural in English to say 'I eat cake', to mean 'I am eating cake'. It is natural however to use the non-past tense to say 'Sometimes I eat cake' or, in the explicitly future tense 'I will eat cake'. Japanese is just the same as English in this way. It is rare we use this form for talking about things actually happening right now, except in cases like literary descriptions.
 
-    Just as the ∅ pronoun ([[∅ pronoun]]) defaults to 'I', the non-past tense defaults to the future.
-    #+BEGIN_QUOTE
-    さくらが歩く - Sakura will walk
-    #+END_QUOTE
-    #+BEGIN_QUOTE
-    犬がたべる - Dog will eat
-    #+END_QUOTE
-    'Sakura walks' is possible, but isn't the most natural way.
+   Just as the ∅ pronoun ([[∅ pronoun]]) defaults to 'I', the non-past tense defaults to the future.
+   #+BEGIN_QUOTE
+   さくらが歩く - Sakura will walk
+   #+END_QUOTE
+   #+BEGIN_QUOTE
+   犬がたべる - Dog will eat
+   #+END_QUOTE
+   'Sakura walks' is possible, but isn't the most natural way.
 
-*** Present (continuous)
-    In order to say something like 'Sakura is walking' we need to combine the verb 「歩く」 - /to walk/ with the verb 「いる」 -  /to be/. This is done by putting the verb into the て-form ([[*て-form]]).
-    #+BEGIN_QUOTE
-    さくらが歩いている - Sakura is walking
-    #+END_QUOTE
-    #+BEGIN_QUOTE
-    犬がたべている - Dog is eating
-    #+END_QUOTE
-    The core sentence here is 'Sakura is existing', the て-form verb, what we shall call a /secondary engine/ which modifies the main engine. In what state is Sakura existing? She is existing in the state of eating.
+** Present (continuous)
+   In order to say something like 'Sakura is walking' we need to combine the verb 「歩く」 - /to walk/ with the verb 「いる」 -  /to be/. This is done by putting the verb into the て-form ([[*て-form]]).
+   #+BEGIN_QUOTE
+   さくらが歩いている - Sakura is walking
+   #+END_QUOTE
+   #+BEGIN_QUOTE
+   犬がたべている - Dog is eating
+   #+END_QUOTE
+   The core sentence here is 'Sakura is existing', the て-form verb, what we shall call a /secondary engine/ which modifies the main engine. In what state is Sakura existing? She is existing in the state of eating.
 
-    # TODO Add a link here to the expanded secondary engine write-up (if one gets written)
+   # TODO Add a link here to the expanded secondary engine write-up (if one gets written)
 
-*** Past
-    <<Verb past>>
-    To form the past tense of a verb we need to take the verb stem([[*Verb stems]]) and add た.
-    #+BEGIN_QUOTE
-    犬がたべた - The dog ate
-    #+END_QUOTE
+** Past
+   <<Verb past>>
+   To form the past tense of a verb we need to take the verb stem([[*Verb stems]]) and add た.
+   #+BEGIN_QUOTE
+   犬がたべた - The dog ate
+   #+END_QUOTE
 
-    <<Adjective past>>
-    If we want to put an adjective into the past tense we drop the い and add かった.
-    #+BEGIN_QUOTE
-    こわい ー> こわかった - Was scary
-    #+END_QUOTE
+   <<Adjective past>>
+   If we want to put an adjective into the past tense we drop the い and add かった.
+   #+BEGIN_QUOTE
+   こわい ー> こわかった - Was scary
+   #+END_QUOTE
 
-*** Negatives
-    Because 「ない」 is also an adjective, the past tense of it is just 「なかった」.
-    | Non-past             | Past                     |          |
-    |----------------------+--------------------------+----------|
-    | さくらがはしる       | さくらがはしった         | Positive |
-    | さくらがはし*ら*ない | さくらがはし*ら*なかった | Negative |
+** Negatives
+   Because 「ない」 is also an adjective, the past tense of it is just 「なかった」.
+   | Non-past             | Past                     |          |
+   |----------------------+--------------------------+----------|
+   | さくらがはしる       | さくらがはしった         | Positive |
+   | さくらがはし*ら*ない | さくらがはし*ら*なかった | Negative |
 
-    As we know 「さくらがはしる」 is not very natural Japanese, instead we would say 「さくらがはしっている」. For this, all we need to do is put the 「いる」 into the past tense:
-    #+BEGIN_QUOTE
-    さくらがはしっている -> さくらがはしっていた - Sakura was running
-    #+END_QUOTE
+   As we know 「さくらがはしる」 is not very natural Japanese, instead we would say 「さくらがはしっている」. For this, all we need to do is put the 「いる」 into the past tense:
+   #+BEGIN_QUOTE
+   さくらがはしっている -> さくらがはしっていた - Sakura was running
+   #+END_QUOTE
 
-*** Time expressions
-    If we want to make it clear that we are talking about a future event we can add a time expression. By prefixing a sentence with あした (tomorrow), we can make it clear that what we will be doing, we will be doing tomorrow.
-    #+BEGIN_QUOTE
-    あした[∅が]ケーキをたべる - Tomorrow I will eat cake
-    #+END_QUOTE
-    Note how we simply preface the sentence with 'tomorrow', just like we would in English. This is the case with all /relative-time nouns/, 'yesterday', 'tomorrow', 'the day after tomorrow', 'next week', next month', 'next year'.
+** Time expressions
+   If we want to make it clear that we are talking about a future event we can add a time expression. By prefixing a sentence with あした (tomorrow), we can make it clear that what we will be doing, we will be doing tomorrow.
+   #+BEGIN_QUOTE
+   あした[∅が]ケーキをたべる - Tomorrow I will eat cake
+   #+END_QUOTE
+   Note how we simply preface the sentence with 'tomorrow', just like we would in English. This is the case with all /relative-time nouns/, 'yesterday', 'tomorrow', 'the day after tomorrow', 'next week', next month', 'next year'.
 
-    For /non-relative/, i.e. /absolute/ time expressions we must use the に-particle:
-    #+BEGIN_QUOTE
-    火曜日​*に*​[∅が]ケーキをたべる - On Tuesday I will eat cake
-    #+END_QUOTE
-    We must attach に in all the same places we would attach on/in/at in English. 'On Tuesday', 'in March', 'at 12 o'clock'. Fortunately in Japanese we only need to use the one particle.
+   For /non-relative/, i.e. /absolute/ time expressions we must use the に-particle:
+   #+BEGIN_QUOTE
+   火曜日​*に*​[∅が]ケーキをたべる - On Tuesday I will eat cake
+   #+END_QUOTE
+   We must attach に in all the same places we would attach on/in/at in English. 'On Tuesday', 'in March', 'at 12 o'clock'. Fortunately in Japanese we only need to use the one particle.
 
 * て-form
     Japanese verbs fall into three groups: /Ichidan/, /Godan/, and /irregular/
@@ -315,7 +315,7 @@
     | ら | り | *る* | れ | ろ |
     As we can see there are four other ways in which the verb could end. These are the verb stems. For now we're only looking at the あ-stem as this is the one we need for the negative.
 
-    To from the あ-stem we simply shift the final kana from the う-row to the あ-row. There is one only exception and this is the only exception in the entire stem system. This exception is that う itself does not become あ but わ. This is because, take for example a verb like 「かう」, 「かあ」 would not be as easy to say as 「かわ」. Every other う-row kana is simply changed to its あ-row equivalent.
+    To form the あ-stem we simply shift the final kana from the う-row to the あ-row. There is one only exception and this is the only exception in the entire stem system. This exception is that う itself does not become あ but わ. This is because, take for example a verb like 「かう」, 「かあ」 would not be as easy to say as 「かわ」. Every other う-row kana is simply changed to its あ-row equivalent.
     | **わ** | い | *う* | え | お |
     | *か*   | き | *く* | け | こ |
     | *さ*   | し | *す* | せ | そ |
@@ -344,48 +344,48 @@
    - だ-marked noun ([[*Noun-adjectives]]) - A *is* B
    - い-"Adjective" ([[*い-adjectives]]) - A *is* B
 
-*** い-adjectives
-   Let's start with the first one, the one we refer to as an adjective in English, the い-engine:
-   #+BEGIN_QUOTE
-   ぺんがあかい - Pen is red
-   #+END_QUOTE
-   An important note, 「あかい」 does not mean 'red', it means 'is red'. 「あか」 means red.
+** い-adjectives
+  Let's start with the first one, the one we refer to as an adjective in English, the い-engine:
+  #+BEGIN_QUOTE
+  ぺんがあかい - Pen is red
+  #+END_QUOTE
+  An important note, 「あかい」 does not mean 'red', it means 'is red'. 「あか」 means red.
 
-   If we swap the order of 「ぺんが」 and 「あかい」 then we can take this い-engine, and now use it not as the primary engine, but as a secondary engine. This would not be a complete sentence however without a new engine, for example, a new (primary) い engine.
-   #+BEGIN_QUOTE
-   あかいぺんがちいさい - Red pen is small
-   #+END_QUOTE
+  If we swap the order of 「ぺんが」 and 「あかい」 then we can take this い-engine, and now use it not as the primary engine, but as a secondary engine. This would not be a complete sentence however without a new engine, for example, a new (primary) い engine.
+  #+BEGIN_QUOTE
+  あかいぺんがちいさい - Red pen is small
+  #+END_QUOTE
 
-*** Verb-adjectives
-   Any verb in any tense can be used like an adjective:
-   #+BEGIN_QUOTE
-   しょうじょがうたった - Girl sang
-   #+END_QUOTE
-   #+BEGIN_QUOTE
-   うたったしょうじょが... - The girl who sang... (Note: this sentence is not yet complete, it lacks a primary engine).
-   #+END_QUOTE
-   #+BEGIN_QUOTE
-   うたったしょうじょがねている - The girl who sang is sleeping
-   #+END_QUOTE
+** Verb-adjectives
+  Any verb in any tense can be used like an adjective:
+  #+BEGIN_QUOTE
+  しょうじょがうたった - Girl sang
+  #+END_QUOTE
+  #+BEGIN_QUOTE
+  うたったしょうじょが... - The girl who sang... (Note: this sentence is not yet complete, it lacks a primary engine).
+  #+END_QUOTE
+  #+BEGIN_QUOTE
+  うたったしょうじょがねている - The girl who sang is sleeping
+  #+END_QUOTE
 
-   Verbal adjectives can create very complex sentences in which we can use entire other-sentences (clauses) in an adjectival manner.
-   # TODO Show an example
+  Verbal adjectives can create very complex sentences in which we can use entire other-sentences (clauses) in an adjectival manner.
+  # TODO Show an example
 
-*** Noun-adjectives
-   <<な-adjectives>>
-   #+BEGIN_QUOTE
-   いぬがやんちゃだ - The dog is naughty
-   #+END_QUOTE
-   We can turn 「やんちゃ」 into an adjective too, but there is one important thing to note. Just as we have to add だ to a noun to use it as an engine, here we must add な to the noun to use it as an adjective. な is in fact the connective form of だ. Don't be fooled by so-called 'な-adjectives', they're simply nouns! /Adjectival/ nouns.
-   #+BEGIN_QUOTE
-   やんちゃ​*な*​いぬが... - The dog who is naughty... (Note: this sentence is not yet complete, it lacks a primary engine).
-   #+END_QUOTE
-   #+BEGIN_QUOTE
-   やんちゃ​*な*​いぬがねている - The dog who is naughty is sleeping
-   #+END_QUOTE
+** Noun-adjectives
+  <<な-adjectives>>
+  #+BEGIN_QUOTE
+  いぬがやんちゃだ - The dog is naughty
+  #+END_QUOTE
+  We can turn 「やんちゃ」 into an adjective too, but there is one important thing to note. Just as we have to add だ to a noun to use it as an engine, here we must add な to the noun to use it as an adjective. な is in fact the connective form of だ. Don't be fooled by so-called 'な-adjectives', they're simply nouns! /Adjectival/ nouns.
+  #+BEGIN_QUOTE
+  やんちゃ​*な*​いぬが... - The dog who is naughty... (Note: this sentence is not yet complete, it lacks a primary engine).
+  #+END_QUOTE
+  #+BEGIN_QUOTE
+  やんちゃ​*な*​いぬがねている - The dog who is naughty is sleeping
+  #+END_QUOTE
 
-   An important note is that we cannot do this with /all/ nouns, only nouns which are frequently used in an adjectival way. This group of nouns is what are referred to as 'な-adjectives'. We can use all nouns as adjectives, but for the rest we need to use a different technique, /の-adjectives/ ([[の-adjectives]]).
-   # TODO use org's duplication function here for の-adjectives
+  An important note is that we cannot do this with /all/ nouns, only nouns which are frequently used in an adjectival way. This group of nouns is what are referred to as 'な-adjectives'. We can use all nouns as adjectives, but for the rest we need to use a different technique, /の-adjectives/ ([[の-adjectives]]).
+  # TODO use org's duplication function here for の-adjectives
 
 * Adjective stem, adjective て-form, negative adjectives
    The adjective stem is simple, just drop the い and add く. This is how we make the て form, 「あかい」 ー> 「あかくて」, and it's also the way we make the negative, 「あかい」 ー> 「あかくない」.

@@ -624,7 +624,8 @@ The interesting thing to note is the particle between these two, the と particl
 #+BEGIN_QUOTE
 ウサギは かいちゅうどけいを 見て 「おそい!おおい!」と言って、はしり だした。
 #+END_QUOTE
-- かいちゅうどけい is the combination of かいちゅう (inside pocket) and どけい (watch) meaning pocket-watch. An interesting note here is that とけい becomes どけい (I may write up a full explanation of why another time).
+- かいちゅうどけい is the combination of かいちゅう (inside pocket) and どけい (watch) meaning pocket-watch. An interesting note here is that とけい becomes どけい
+  # TODO (I may write up a full explanation of why another time).
 
 #+BEGIN_QUOTE
 「おそい!おおい!」と

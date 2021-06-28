@@ -198,7 +198,7 @@
 ** Non-logical particles
    Non-logical particles are not part of the logical structure of a sentence. They are neither the thing we are saying something about, nor what we are saying about it. They also do not tell us more about the engine of the sentence as the other logical particles do.
 
-*** は /wa/
+*** は /wa/ topic exclusive
     The は-particle can be thought of as a /flag/. It simply marks something as the topic of the sentence, but doesn't say anything about it.
 
     An exact translation of the は particle would be 'As for /x/'. 「わたしは」 therefore means 'As for me', *not* 'I am' (わたしが).
@@ -226,6 +226,16 @@
     ぼーる​*は*​わたしがさくらに[∅を]なける - As for the ball, I threw (it) at Sakura
     #+END_QUOTE
     This time the を marked noun (not the が marked noun) has become invisible([[Invisible が]]), because what we're throwing is now marked by the は particle, ∅ here has taken the value of 'it'. Even without は we might already know what 'it' was that was thrown from context. The important thing to understand here is that as we change the logical particles from one noun to another we change the meaning of the sentence, but when we change the non-logical particle は from one noun to another it makes no difference to the logic of the sentence. It may make some difference to the emphasis, but it makes no difference to who is doing what or what they're doing it to.
+
+*** も /mo/ topic inclusive (also)
+    も is another non-logical topic-marking particle. も marks the topic of the sentence in the same way that は does. The difference is that while は can mark the topic of the sentence and *can* also change the topic of the sentence, も declares the topic of the sentence but can *only* change the topic of the sentence. We cannot use も unless we are changing the topic of the sentence.
+
+    For context, up until this point the topic of our conversation has been the rabbit, now we are switching to talk about Alice.
+    #+BEGIN_QUOTE
+    アリス​*も*​ ウサギの 穴に とび こんだ。 - Alice also jumped into the rabbit hole.
+    #+END_QUOTE
+
+    When we change topic with も we're saying that the comment about the previous topic (the rabbit and that it jumped) is the same as our new topic (Alice). When we change the topic with は we are doing the opposite, we are drawing a distinction between the two.
 
 ** Alogical particles
 *** と (/to/) - And
@@ -403,6 +413,38 @@
     #+END_QUOTE
 
     # TODO Add link to jyanai secrion
+* Verbs (transitive and intransitive)
+  /Transitive/ and /intransitive/ are better thought of as /Self-move/ and /Other-move/.
+
+  In japanese, a move-word 「動詞」 (どうし) is a word that denotes an action or a movement. So a self-move verb is a verb that moves itself. If I 'stand-up' that's a self-move action. But throwing a ball is an 'other-move' action, one is not throwing themselves, they are throwing a ball. It's as simple as that.
+
+  Japanese has a lot of pairs of words, these could be called forms, or just closely related words, that give the self-move and other-move variations of the verb. For example:
+  - 「出る」 (でる) - leave, exit, come out - Self-move
+  - 「出す」 (だす) - take out, bring out - Other-move
+
+  Most of the time we can tell which is a self-move word and which is an other-move word by following a few simple rules.
+
+  The first thing to know is that there is a root word for self-move and a root word for other-mode:
+  - ある (to be) - Self-move
+  - する (to do) - Other-move
+
+  Knowing this there are three laws of move-word pairs.
+  1. す and せる (え-stem) ending verbs are other-move
+  2. あ-stem + る (aru) ending verbs are self-move
+  3. え-stem + る (eru) flip self/other-move either way
+
+  Honorary members of the す family:
+  - む -> める is always other-move
+  - ぶ -> べる is always other-move
+  - つ -> てる is always other-move
+
+  The only wildcards left are:
+  - く/ぐ -> ける/げる
+  - う ー> える
+  - Some る-ending verbs not covered by the first two laws
+
+  Is there anything we can do to simplify this: える version have the opposite of the standard word.
+
 * Verb stems
    Note: these stems apply to godan verbs. For ichidan verbs just drop the る.
 
@@ -488,13 +530,16 @@
    うたったしょうじょがねている - The girl who sang is sleeping
    #+END_QUOTE
 
-   Verbal adjectives can create very complex sentences in which we can use entire other-sentences (clauses) in an adjectival manner.
-   # TODO Show an example
-
    #+BEGIN_QUOTE
    ある 日 アリスは 川の そばに いた。- On a certain day, alice was beside a river.
    #+END_QUOTE
    ある means 'exists' (of inanimate things) or, more accurately in English: 'a certain'. ある日 therefore means 'on a certain day'. Note also that this is the same as how we use might use Today, Yesterday, Tomorrow etc. but not how we might use 'On Saturday' ([[*Time expressions]]).
+
+   Verbal adjectives can create very complex sentences in which we can use entire other-sentences (clauses) in an adjectival manner.
+   #+BEGIN_QUOTE
+   しゃべる ウサギを 見た ことが ない。
+   #+END_QUOTE
+   Here 「しゃべる」 is being used as an adjective just as any verb can be. 「しゃべるウサギ」 - Talkative/talking rabbit. 「見た」 is the past tense of 「見る」 to see. It is modifying 「こと」, an abstract thing, meaning 'The fact of having seen'. 「見たことがない」 means 'The fact of having seen doesn't exist'. The talking rabbit is the object of the engine of the sentence, 'The fact of having seen'. So: 'The fact of having seen a talking rabbit doesn't exist' -> (Alice) had never seen a talking rabbit. This is another example of the un-egocentric ([[Egocentrism]]) nature of Japanese; Alice is not the actor of this sentence, it is the 'thing' that does not exist.
 
 ** Noun-adjectives
   <<な-adjectives>>
@@ -533,9 +578,14 @@
   さくらがうつくしくなった - Sakura became beautiful
   #+END_QUOTE
 
+* Adverbs
+  #+BEGIN_QUOTE
+  ウサギは 早く 走る
+  #+END_QUOTE
+  「早い」 is an adjective. If we want to say the rabbit is fast we simply say 「ウサギが早い」. But if we want to say that the rabbit's *movement* is fast we must use an adverb. In Japanese we can turn any adjective into an adverb by simply removing the い and replacing it with く. 「早い」 -> 「早く」.
 * Helper adjectives
 ** ない - Negative
-   See: negative nouns ([[*Negative nouns]]), negative verbs ([[*Negative verbs]]) and ([[Negative adjectives]]).
+   See: /negative nouns/ ([[*Negative nouns]]), /negative verbs/ ([[*Negative verbs]]) and /negative adjectives/ ([[Negative adjectives]]).
 ** たい - Desire (to do something)
    :PROPERTIES:
    :Keywords: want, desire
@@ -665,3 +715,14 @@
 
 * TODO です/ます form
    # TODO Add the bit from notes 'the only exceptions'
+* TODO Adjectival nouns
+  # This all needs compiling
+#+BEGIN_QUOTE
+穴の 中は たて穴 だった。 アリスは すぐ下に 落さた。- The inside of the hole was a vertical hole. Alice fell straight (directly) down the hole.
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+でも、 おどろいたことに ゆっくり ゆっくり 落さた。 - But, the surprising thing was that she slowly slowly fell/ But, surprisingly she fell slowly.
+#+END_QUOTE
+- おどろいたこと doesn't mean 'A surprised thing', it means 'the surprising thing' (surprisingly). The に attached is again to turn it into an adverb. So: 'She fell surprisingly'. Of course, it isn't surprising that she fell, but it is surprising that she fell ゆっくり ゆっくり (slowly slowly).
+- ゆっくり is slightly unusual in that it is fundamentally a noun, but we can use it as an adjective without adding に to it. We will see ゆっくり very often.

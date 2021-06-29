@@ -184,6 +184,11 @@
     うさぎ​*の*​OSCAR - Oscar the rabbit (literally: Oscar belonging to the class of rabbit)
     #+END_QUOTE
 
+    # TODO: As a normaliser, I don't think I have notes on this, I may have omitted writing them lesson 16
+    # #+BEGIN_QUOTE
+    # 目に 止まるのは - Eye-at as for stopped-thing - The thing that stopped her eye - The thing that caught her eye
+    # #+END_QUOTE
+
 *** へ (/e/) - Direction
     This is a very simple particle, it duplicates a single use of に. When we say /a is going to b/ we can freely substitute に with へ. This is *all* is can do, it cannot even mark the case where something /is/, only where it is /going/.
 *** で (/de/) - Means
@@ -238,12 +243,18 @@
     When we change topic with も we're saying that the comment about the previous topic (the rabbit and that it jumped) is the same as our new topic (Alice). When we change the topic with は we are doing the opposite, we are drawing a distinction between the two.
 
 ** Alogical particles
-*** と (/to/) - And
+*** と (/to/) - And (exclusive)
     Alogical particles aren't simply markers. The と particle 'ands' two nouns together. It is therefore doing something in the sentence, it is joining a noun to another noun and inheriting its logical particle, but the と particle has no function of its own.
     #+BEGIN_QUOTE
     さくら​*と*​メイリー​*が*​あるいていた - Sakura *and* Mary were walking
     #+END_QUOTE
 
+*** や (/ya/) - And (inclusive)
+    When putting two clauses together we use the て-form as an equivalent to 'and'. When putting two things together we can use the と (exclusive 'and') and や (non-exclusive 'and') particles. や lists things but not exhaustively, there may be more: 'fish and chips (and stuff)'.
+
+    #+BEGIN_QUOTE
+    ぎっしり ならんだ とだな や 本だな だった。- tightly lined-up cupboards-and bookshelves-was
+    #+END_QUOTE
 *** と (/to/) - Quotation
     # TODO Is this the right place for this particle?
     #+BEGIN_QUOTE
@@ -258,13 +269,72 @@
     #+END_QUOTE
     The と particle marks a quotation. When we quote someone as saying something or as thinking something we use this と particle. We also use these square brackets which are the equivalent of English quotation marks, but in speech we cannot see these, so we also use と (and clearly use と in writing regardless also).
 
-    What と does structurally, is it takes whatever it marks which could be a simple word or phrase, to a whole paragraph, to anything with all sorts of grammar going on, and turns what it is marking it into a single noun. This is used not only to mark things people say and people think, but to mark all sorts of things. This と structure can therefore make a quotation act as a modifier to whatever follows, in the previous example it is modifying 言う (to say), or to think or feel, but could be many things.
-    # TODO put an example here
+    What と does structurally, is it takes whatever it marks which could be a simple word or phrase, to a whole paragraph, to anything with all sorts of grammar going on, and turns what it is marking it into a single noun. This is used not only to mark things people say and people think, but to mark all sorts of things. This と structure can therefore make a quotation act as a modifier to whatever follows, in the previous example it is modifying 言う (to say), or to think or feel, but could be many things:
+    #+BEGIN_QUOTE
+    ホッとする
+    #+END_QUOTE
+    Note 「ホッ」 is the sound effect for a sigh of relief. We aren't saying here that someone breathed a sigh of relief. What we're saying is that they /enacted what was expressed by the sound effect/ i.e. They were relieved. In 「山にのぼろうとする」 we're enacting the feeling of setting out to climb the mountain.
 
     #+BEGIN_QUOTE
     でも ウサギは ピョンピョン​*と*​ はしり つづけた。 - But as for the rabbit, (it) kept on running in a /pyonpyon/ manner
     #+END_QUOTE
     「ピョンピョン」 - The sound of a small thing jumping along (an onomatopoeia hence katakana). Once again we're using the quotation particle と to describe the way in which the rabbit ran, it ran in the way it sounds, it ran like a small thing jumping along (Note there are no quotation marks around onomatopoeia).
+
+     The most basic thing that can follow と is 言う in which case it can be used as a literal quotation of something that's been said (as we've already seen) but can also be used as a way of saying how something is said or what it's called:
+     #+BEGIN_QUOTE
+     ふしぎの国のアリスという本 - The book called 「ふしぎの国のアリス」
+     #+END_QUOTE
+     Note: という is usually written in Kana when it precedes something
+
+     という can be reduced down as far as just って. という -> っていう -> って:
+     #+BEGIN_QUOTE
+     ふしぎの国のアリスっていう本 - The book called 「ふしぎの国のアリス」
+     #+END_QUOTE
+     #+BEGIN_QUOTE
+     ふしぎの国のアリスって本 - The book called 「ふしぎの国のアリス」
+     #+END_QUOTE
+
+
+**** とする - Trying to do something, how we regard something, as something, as subject
+     <<Trying to do something>>
+     #+BEGIN_QUOTE
+     山にのぼろうとする - Try to climb the mountain
+     #+END_QUOTE
+     Note: に is normal here because we are climbing to the /target/ of the summit.
+
+     See again how we're using the と quotation particle once again. と is encapsulating, not the words or thoughts of someone, but the meaning of 「山にのぼろう」 and putting that meaning into action (する). Why does this mean 'try'? A precise translation may be derived from 「のぼろう」 - have the will to climb, and 「する」 to do. I have the will to climb the mountain, and I will do it, (but I may not have the ability). Hence, /try/.
+
+     <<Regard something>>
+     #+BEGIN_QUOTE
+     ∅が さくらを *日本人と* する - We Sakura "Japanese person" enact - We assume/take Sakura to be Japanese
+     #+END_QUOTE
+     We are thinking/acting according what is expressed by the quote.
+
+     #+BEGIN_QUOTE
+     かばんを *まくらと* する - Use bag as a pillow
+     #+END_QUOTE
+     Not literally: turn bag into a pillow.
+
+     <<As something>>
+     #+BEGIN_QUOTE
+     会長*として* - As President...
+     #+END_QUOTE
+     The closest equivalent to this in English is 'as'. i.e. 'My opinion /as/ a private person'.
+
+     We can also use it as 'for':
+     #+BEGIN_QUOTE
+     アメリカジン*として*小さい - She's small for an American. (As an American, she's small).
+     #+END_QUOTE
+
+     <<As subject>>
+     Remember the は particle is the topic marking particle:
+     #+BEGIN_QUOTE
+     さくらは ∅が 日本人だ - As for Sakura, (she) is a Japanese person
+     #+END_QUOTE
+     #+BEGIN_QUOTE
+     さくらって ∅が 日本人だ - Speaking of Sakura, (she) is a Japanese person
+     #+END_QUOTE
+     This is a very casual use, we can't use 「という」 in place of は but we can use って. The point is that this is still very logical.
 
 ** TODO Sentence ender particles
 * Tense
@@ -393,6 +463,15 @@
 
 ** て-form of だ
    See: /copula て-form/ ([[Copula て-form]]).
+** て-みる 'try doing'
+   #+BEGIN_QUOTE
+   まずは、下を 見てみた - First (she) tried looking down
+   #+END_QUOTE
+
+   「見てみた」: When we add みる to the て-form of another verb we're saying to 'try' doing something. We're literally saying 'do it and see'. 「食べてみろ」 = Try eating (it) and see. 「やってみろ」 = do and see (give it a try). 「見てみた」 = Take a look and see.
+
+   See also: /Trying to do something with と/ ([[Trying to do something]]).
+
 * Negative nouns
     The fundamental basis of negatives is the adjective 「ない」. This adjective means 'non-exist'. The word for exist (for any inanimate thing) is ある. If we want to say that something exists:
     #+BEGIN_QUOTE
@@ -713,8 +792,98 @@
    #+END_QUOTE
    Here the core of the sentence is now 'Sakura got'. What did she get? She got the unfortunate nuisance action of だれかに かばんを ぬすむ, someone stealing (her) bag. /Sakura got her bag stolen by someone/ *not* /Sakura's bag got stolen by someone/.
 
-* TODO です/ます form
-   # TODO Add the bit from notes 'the only exceptions'
+** せる/させる - Causative
+   The /causative helper verb/ indicates that we are causing someone to do the verb to which is is attached. The causative helper verb is 「せる」 for Godan verbs and attaches to the あ-stem of a verb ([[*Verb stems]]):
+   | *わ* | い | *う* | え | お |
+   | *か* | き | *く* | け | こ |
+   | *さ* | し | *す* | せ | そ |
+   | *た* | ち | *つ* | て | と |
+   | *な* | に | *ぬ* | ね | の |
+   | *ば* | び | *ぶ* | べ | ぼ |
+   | *ま* | み | *む* | め | も |
+   | *ら* | り | *る* | れ | ろ |
+
+   For ichidan verbs 「させる」.
+
+   #+BEGIN_QUOTE
+   ∅が 犬を 食べ させた - I caused the dog to eat (causative)
+   #+END_QUOTE
+   - Core action: verb 「させる」 (cause), actor ∅ (I)
+   - Secondary action: verb 「たべる」 (eat), actor 「犬」 (dog)
+   - Implicit sub-clause: 「犬が 食べた」
+
+   「せる」/「させる」 can mean to /compel/make/force/, or it can mean to /allow/. But it can also mean neither of those. The best way to translate it is with the rather non-native sounding 'cause'. 'I caused the dog to eat' doesn't mean 'I forced the dog to eat', it just means that I did something that had the result of the dog eating, whether that be intentional, accidental, or forceful.
+
+   Sometimes the person or thing we are causing to do something can be marked by を and sometimes it can be marked by に. Remember the particles are always consistent. If we are forcing someone to do something, then we're treating them like an object (を), if we're treating them as a target, then this is more mutual and goes with /allowing/ over /compelling/ and so に.
+
+   That said the use of を and に is not the main indicator of if we mean allowing or compelling. There is no precise English analogy with the causative helper verb, so trying to determine if it means exactly cause or exactly allow is misguided, remember, it can mean neither. It's sort of a sliding scale between the two, more subtle. Beyond that, when the action that is being compelled has itself an を marked object we can see that in the sub(ordinate) sentence the meat is the object of the dog's action, and the dog is the thing that is being caused to do the action:
+   #+BEGIN_QUOTE
+   ∅が犬に にくを 食べ させた - I caused the dog to eat meat
+   #+END_QUOTE
+   - Core action: verb 「させる」 (cause), actor ∅ (I)
+   - Secondary action: verb 「たべる」 (eat), actor 犬 (dog)
+   - Implicit sub-clause: 「犬が にくを 食べた」
+
+   に expresses relation to core clause. を expresses relation to sub clause.
+
+   In these types of sentences Japanese does not allow us to use the を particle twice. If we could use を twice then in some sentences we might end up with some doubt as to which を marks the object associated with 「食べる」 and which を marks the object associated with 「せる」/「させる」.
+
+** Causative receptive
+   Causative-receptive (what most call the causative passive) means to get made to do. Remembering that helper verbs are ichidan verbs, to add the receptive helper verb to the causative helper verb we simple remove the る and add 「られる」:
+   - せる/させる - る + られる = せられる/させられる
+
+   We now have three verbs in a sentence:
+   #+BEGIN_QUOTE
+   わたしは ∅が ブロコリを 食べ(1) させ^2 られた^2 - I got^3 compelled^2 to eat^1 broccoli
+   #+END_QUOTE
+   - Core action: verb 「られる」 (get), actor ∅ (I)
+   - Secondary action: verb 「させる」 (compel), actor unspecified
+   - Tertiary action: verb 「食べる」 (eat), actor ∅ (I)
+
+   Note: The first and third actor are always the same. The second actor always different.
+** ます - Polite
+   See /です/ます form/ ([[Polite]])
+** う/よう - Volitional
+   The volitional form is one of the few uses of the お-stem. The godan volitional helper is just う, attached to the お stem it simply lengths the お sound. The ichidan form is to as usual remove the る, and add よう.
+
+   The volitional form of 「ます」 and 「です」 are 「ましょう」 and 「でしょう」.
+
+   | あ | い | *う* | え | *お* |
+   | か | き | *く* | け | *こ* |
+   | さ | し | *す* | せ | *そ* |
+   | た | ち | *つ* | て | *と* |
+   | な | に | *ぬ* | ね | *の* |
+   | ば | び | *ぶ* | べ | *ぼ* |
+   | ま | み | *む* | め | *も* |
+   | ら | り | *る* | れ | *ろ* |
+
+   Volition means will, the volitional form expresses or invokes the will of the speaker. The most usual use of it is setting the will of a group of people in a particular direction.
+   #+BEGIN_QUOTE
+   いきましょう - Let's go.
+   #+END_QUOTE
+
+   There are many uses of the volitional form in combination with various particles but they will be covered in due time. One of note for now is the volitional copula 「だろう」/「でしょう」 which when added to any ordinary sentence adds the extra meaning of /probably/, i.e. it adds doubt/conjecture.
+   #+BEGIN_QUOTE
+   赤いでしょう - Probably red
+   #+END_QUOTE
+   #+BEGIN_QUOTE
+   さくらがくるでしょう - Sakura's probably coming.
+   #+END_QUOTE
+   
+* です/ます form
+  <<Polite>>
+  # TODO Add the bit from notes 'the only exceptions'
+  「ます」 is a (helper) verb that attaches to the い-stem  ([[*Verb stems]]) of another verb. It doesn't change the meaning of the verb in anyway, it just makes it formal. 「ます」 is highly irregular:
+  - The past tense is normal, it ends just like any す verb - 「ました」
+  - The negative is not 「ませない」, it is 「ません」 - This is the only verb that does this in modern Japanese
+  - The negative past is 「ませんでした」
+
+  「です」 is the formal version of だ and works exactly the same aside from one quirk, unlike with だ which we do not attach to adjectives, we do attach 「です」 in formal speech. It doesn't mean or do anything, but it's done all the same.
+
+  A useful note, we can use ません and ないです interchangeably:
+  - 「さくらが話しません」
+  - 「さくらが話しないです」
+
 * TODO Adjectival nouns
   # This all needs compiling
 #+BEGIN_QUOTE

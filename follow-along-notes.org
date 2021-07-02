@@ -1469,10 +1469,9 @@ We *cannot* use 「まるで」 with 「そうだ」 and we *shouldn't* use it w
 
 「ようだ」 has a special usage that the other likening phrases don't have. As with the other two we can attach it to the end of a sentence with the meaning of 'seems/appears'. We can also attach it to a complete sentence for another purpose. We can use 「ようだ」 to turn an entire sentence into a simile:
 #+BEGIN_QUOTE
-まるで[1]ゆうれいを見た[2]か[3]のような[4]顔をした[5] - [5]Did (had) a face [1]exactly [4]as [3]if [2](she) saw a ghost - She made a face exactly as if she'd seen a ghost
+まるで^{1}ゆうれいを見た^{2}か^{3}のような^{4}顔をした^{5} - Did (had) a face^{5} exactly^{1} as^{4} if^{3} (she) saw a ghost^{2} - She made a face exactly as if she'd seen a ghost
 #+END_QUOTE
-- Note: [2] is an entire sentence being used as a simile for (her) face.
-- Note: か is an as-yet uncovered particle roughly meaning 'if'. か bundles a statement into a kind of question.
+Note that [2] is an entire sentence being used as a simile for (her) face.
 
 We start with 「まるで」 indicating that we are going to use a simile. Then we make our completed statement. か turns our statement into a question, it gives us our 'if', she hasn't actually seen a ghost, it's a potentiality, so it's an 'if'. 「のように」 takes this and turns it into a simile 'as' i.e. 'as strong as...', 'as if...'. Finally we are describing her face we use the な connective form.
 
@@ -1539,7 +1538,6 @@ This is the same in Japanese. Sometimes we put か after something to say that i
 #+END_QUOTE
 
 The other common conjunction made with 「ばかり」 is 「ばらいに」. に itself can something be added to form a conjunction, like with 「のに」. 「ばかりに」 is an /explanatory/ conjunction. It says 'something happened because...'. The most common explanatory conjunctions are 「から」 and 「ので」 but 「ばかりに」 has a special implication, it's not simply saying that one thing happened because of something, it's saying that something happened *just* because of something.
-# TODO: Cover extra lesson
 #+BEGIN_QUOTE
 みみか大きいばかりに誰もあそんでくれない - Just because my ears are big no one will play with me
 #+END_QUOTE

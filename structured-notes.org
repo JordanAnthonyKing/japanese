@@ -416,6 +416,13 @@
    #+END_QUOTE
    In this example we aren't saying anything contradictory to someone else but it still has the implication of /even/.
 
+** か
+   <<か>>
+   As covered in the last lesson か turns the statement it is attached to into an hypothesis or question. か can also, and especially in colloquial usage turn things into a negative. This is also done in English:
+#+BEGIN_QUOTE
+Do you think I'm going to do that? - I'm not going to do that!
+#+END_QUOTE
+
 * Tense
   In Japanese the tenses are not the same past, present and future tenses we're familiar with from English.
 
@@ -768,6 +775,8 @@
   ウサギは 早く 走る
   #+END_QUOTE
   「早い」 is an adjective. If we want to say the rabbit is fast we simply say 「ウサギが早い」. But if we want to say that the rabbit's *movement* is fast we must use an adverb. In Japanese we can turn any adjective into an adverb by simply removing the い and replacing it with く. 「早い」 -> 「早く」.
+
+  # TODO stuff about に
 * Helper adjectives
 ** ない - Negative
    See: /negative nouns/ ([[*Negative nouns]]), /negative verbs/ ([[*Negative verbs]]) and /negative adjectives/ ([[Negative adjectives]]).
@@ -854,7 +863,7 @@
    #+BEGIN_QUOTE
    こどもっぽい - Childish
    #+END_QUOTE
-   
+
 * Helper verbs
 ** がる - Seems/appears
    <<がる>>
@@ -1193,3 +1202,126 @@
 
 * TODO ば
   <<Conditional form>>
+
+* ようだ、 ように and みたい - Metaphors and similes
+  「ようだ」 forms the far end of a sliding scale of 'likeness' expressions:
+  | Objectivity        |                                | Subjectivity    |
+  | そうだ             | らしい ([[らしい]])            | ようだ + みたい |
+  | Hearsay/conjecture | Observation/quality comparison | Pure simile     |
+
+  Each of these expressions can be placed at the end of a complete logical sentence to express that the sentence is either something we've heard or some conjecture from the information available:
+  - そうだ - Conjecture of what the quality of something is: 「おいしいそうだ」 - It looks delicious
+  - らしい - Has a much greater degree of subjectivity. 「らしい」 overlaps with 「そうだ」 in many respects but it can also do things that 「そうだ」 cannot. 「らしい」 can compare things to other things that we know they aren't: 「ウサギらしい」 - Rabbit-like (even though we know it isn't a rabbit). 「こどもらしい」 - Childlike (whether they are a child or not)
+  - ようだ - 「ようだ」 can be much more subjective still, going as far as a /metaphor/ or /simile/
+
+  #+BEGIN_QUOTE
+  山のようだ - Like a mountain
+  #+END_QUOTE
+  #+BEGIN_QUOTE
+  風のように走る - Runs like the wind
+  #+END_QUOTE
+
+  Often when 「ようだ」 is being used as a metaphor/simile it is used alongside 「まるで」 meaning 'roundly' or 'wholly'
+  #+BEGIN_QUOTE
+  まるで風のように走た - Wholly like the wind ran
+  #+END_QUOTE
+  Note that this is hyperbole. Hyperbole in this fashion is common in many languages. In English: 'I /literally/ froze to death'. We really mean: 'I /figuratively/ froze to death'; The hyperbole is to give emphasis.
+
+  We *cannot* use 「まるで」 with 「そうだ」 and we *shouldn't* use it with 「らしい」.
+  - のよう*だ* - Clause-end adjectival
+  - のよう*な* - Pre-noun adjectival
+  - のよう*に* - Adverb ([[*Adverbs]])
+
+  「ようだ」 has a special usage that the other likening phrases don't have. As with the other two we can attach it to the end of a sentence with the meaning of 'seems/appears'. We can also attach it to a complete sentence for another purpose. We can use 「ようだ」 to turn an entire sentence into a simile:
+  #+BEGIN_QUOTE
+  まるで^{1}ゆうれいを見た^{2}か^{3}のような^{4}顔をした^{5} - Did (had) a face^{5} exactly^{1} as^{4} if^{3} (she) saw a ghost^{2} - She made a face exactly as if she'd seen a ghost
+  #+END_QUOTE
+  # TODO Add a link here for the potentials (not potential form the か and stuff)
+  Note that [2] is an entire sentence being used as a simile for (her) face. We start with 「まるで」 indicating that we are going to use a simile. Then we make our completed statement. か turns our statement into a question, it gives us our 'if', she hasn't actually seen a ghost, it's a potentiality, so it's an 'if'. 「のように」 takes this and turns it into a simile 'as' i.e. 'as strong as...', 'as if...'. Finally we are describing her face we use the な connective form.
+
+  Using か in this way is something we can't do this with any of the other likening phrases. Even 「みたい」 which can do most of the things that 「のよう」 can do, can't do this.
+
+  「みたい」 is the less formal cousin of 「よう」 and means 'looks like...', 'looks' not necessarily referring to solely literal vision:
+  #+BEGIN_QUOTE
+  山みたいだ - Like a mount
+  #+END_QUOTE
+  #+BEGIN_QUOTE
+  山みたいな人 - A mountain-like person
+  #+END_QUOTE
+  #+BEGIN_QUOTE
+  風みたいに走る - Runs like the wind
+  #+END_QUOTE
+  「みたい」 can also make true similes using 「まるで」 just like 「ように」. The main things to remember about 「みたい」 vs. 「ようだ」 is that 「みたい」 is less formal, and that we *can't* use it with a completed sentence. We *can* use it with a complete sentence for /conjecture/, but not to create a simile.
+
+  Because 「みたい」 is so casual, often the だ or 「です」 gets left off the sentence.
+* ばかり - Just/nothing but
+  「ばかり」 is essentially a noun, it is used with だ and as we know we can only use だ with nouns, although we will find that sometimes the だ/です is left off in casual speech.
+
+  「ばかり」 simply means 'just' or 'nothing but'. One of the most common uses is to place it after a past-tense statement to say that something has 'just' taken place. This is just the same as in English.
+  #+BEGIN_QUOTE
+  来たばかり(だ) - I just came
+  #+END_QUOTE
+  Why do we use the word 'just' in this way (in English and in Japanese)? It's another case of /hyperbole/, just like in the last lesson. When we say 'just' we mean 'nothing else can have happened in so short a time', obviously this isn't literally true.
+
+  We can only attach 「ばかり」 to past-tense actions because in order for something to have 'just' happened it must have well, happened.
+
+  The next use of 「ばかり」 expresses that there is a great deal of something. Is this 'opposite' use just random? Once again we do the same thing in English.
+
+  We can say that someone or something does 'nothing but' an action by adding 「ばかり」 to the て-form of the word.
+  #+BEGIN_QUOTE
+  泣い^{1}て^{2}ばかり^{3} - do^{2} nothing but^{3} cry^{1}
+  #+END_QUOTE
+  This example could be literal. It could also be exclusively figurative:
+  #+BEGIN_QUOTE
+  ゴルフをしてばかり - Only plays golf - Just plays golf (In reality they play an awful lot but not /only/)
+  #+END_QUOTE
+
+  「ばかり」 can also function as a conjunction:
+  #+BEGIN_QUOTE
+  ∅がうたったばかりかおどった - (∅) not only [Sentence 1] but also [Sentence 2]
+  #+END_QUOTE
+  There is a sense of unexpected or impressive positive or negative cumulation here.
+
+  The only only extra thing to understand here is the use of the か-particle. Sometimes we put か after something to say that it isn't the case ([[か]]).
+  #+BEGIN_QUOTE
+  ∅がうたったばかりかおどった - (They) sing just don't, (also) dance. - They don't just sing (but also) dance. - Not only do they sing, they also dance.
+  #+END_QUOTE
+
+  # TODO List all ways of saying because
+  <<Because>>
+  The other common conjunction made with 「ばかり」 is 「ばかりに」. に itself can something be added to form a conjunction, like with 「のに」. 「ばかりに」 is an /explanatory/ conjunction. It says 'something happened because...'. The most common explanatory conjunctions are 「から」 and 「ので」 but 「ばかりに」 has a special implication, it's not simply saying that one thing happened because of something, it's saying that something happened *just* because of something.
+  #+BEGIN_QUOTE
+  みみか大きいばかりに誰もあそんでくれない - Just because my ears are big no one will play with me
+  #+END_QUOTE
+
+* のに、 なのに - Opposing conjunction (but)
+  「のに」 and 「なのに」 are often used as a sentence ending as well as a conjunction.
+
+  「のに」 is a conjunction, something that joins two clauses, each of which could be a complete sentence in of themselves, to form one compound sentence. 「のに」 is an /opposing conjunction/, the main /opposing conjunction/ in English is 'but'. We use an opposing conjunction when the second clause stands in opposition to the first clause. The other opposing conjunctions in Japanese are 「けど」 and 「が」.
+  # TODO けど and か
+  #+BEGIN_QUOTE
+  お店に行った​*が/けど*​パンがなかった - I went to the shops but there was no bread.
+  #+END_QUOTE
+
+  「のに」 is a bit different to these two as it tends to (but doesn't always) imply that the second clause is unsatisfactory, and personally disappointing to the speaker.
+  #+BEGIN_QUOTE
+  パンがおいしいのにお客さんが來ない - Even though the bread is delicious, the customers don't come.
+  #+END_QUOTE
+
+  How does this conjunction become a sentence ender? Grammatically speaking it doesn't. 「のに」 is still always a conjunction, but sometimes the second clause isn't given. These are called /trailing statements/, statements that leave the conclusion unstated (but implied). These are very common in casual speech. Similarly we may often see sentences end with the て-form, grammatically this is wrong as the て-form is also a conjunction, but it's often done nonetheless.
+  #+BEGIN_QUOTE
+  赤ちゃんがうるさくて - The baby is/was noisy and so...
+  #+END_QUOTE
+  What this means exactly depends on context, it may mean that we couldn't sleep, or it was embarrassing.
+
+  #+BEGIN_QUOTE
+  さくらが約束したのに - Even though Sakura promised... (she hasn't done something)
+  #+END_QUOTE
+
+  What about 「なのに」? The reason sentences end in 「なのに」is that when we use の we have to use the conjunctive form of だ or 「です」. So when that first clause ends in だ, we have to change it to な in order to put a の after it.
+  #+BEGIN_QUOTE
+  ∅が晴れた日曜日*だ* - It is a sunny Sunday (lit: it is a sunday that became sunny)
+  #+END_QUOTE
+  #+BEGIN_QUOTE
+  ∅が晴れた日曜日*な*のに - It is a sunny Sunday but... (I can't go outside etc.) - Even though it is a sunny Sunday (I need to finish my homework etc.)
+  #+END_QUOTE

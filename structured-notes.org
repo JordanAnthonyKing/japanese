@@ -258,6 +258,7 @@
     See also /でも/ ([[でも]]).
 ** Alogical particles
 *** と (/to/) - And (exclusive)
+    <<と and>>
     Alogical particles aren't simply markers. The と particle 'ands' two nouns together. It is therefore doing something in the sentence, it is joining a noun to another noun and inheriting its logical particle, but the と particle has no function of its own.
     #+BEGIN_QUOTE
     さくら​*と*​メイリー​*が*​あるいていた - Sakura *and* Mary were walking
@@ -350,6 +351,37 @@
      さくらって ∅が 日本人だ - Speaking of Sakura, (she) is a Japanese person
      #+END_QUOTE
      This is a very casual use, we can't use 「という」 in place of は but we can use って. The point is that this is still very logical.
+
+*** と (/to/) - Conditional
+  <<と conditional>>
+  A /conditional/ is a statement like 'if' or 'when'. In Japanese there are many conditionals. We've already covered と as the /exclusive-and/ particle ([[と and]]). This is exactly the same と as is used for conditionals. It's not the same と as the quotation-particle, but knowing that it is the same と as the exclusive-and particle makes understanding the conditional grammar much clearer.
+
+  と is a particle, but it's not a logical particle. It's also not a non-logical particle. Remember that it is an /a-logical/ particle, meaning that it carries the meaning of the logical particle attached to the second of the two nouns it connects. In the case of conditionals however, と doesn't attach to a noun, but to a logical clause.
+  #+BEGIN_QUOTE
+  冬になる*と*寒くなる - When it becomes winter it becomes cold
+  #+END_QUOTE
+  Why is this connected by と? We're saying that when/if something happens, there is only one result.
+
+  と can also be used in a hyperbolic fashion.
+  #+BEGIN_QUOTE
+  (∅が)それを食べる*と*病気になる - Eat that and (you'll) get sick
+  #+END_QUOTE
+  It is possible that someone might not get sick, but this is a hyperbole, we're trying to say to someone that 'if you eat that you *will* get sick'. 'If you keep playing those games you *will* fail the exam'.
+
+  We can also use this と to indicate that something is necessary:
+  #+BEGIN_QUOTE
+  行かない*と*ダメ - If I don't go it will be bad
+  #+END_QUOTE
+  #+BEGIN_QUOTE
+  勉強しないといけない - If I don't study it won't go - If I don't study it won't do - I must study
+  #+END_QUOTE
+
+  We may even here the 'if' on it's own without the 'then':
+  #+BEGIN_QUOTE
+  逃げないと! - If we don't run... (something bad will happen) - We must run! - Run!
+  #+END_QUOTE
+
+  Because と is exclusive, it's a bit more absolute and also a bit more colloquial than other conditionals like ば ([[ば conditional]]).
 
 ** TODO Sentence ender particles
 ** ても/でも
@@ -603,6 +635,7 @@ Do you think I'm going to do that? - I'm not going to do that!
 
     # TODO Add link to jyanai secrion
 * Verbs (transitive and intransitive)
+  <<other-move>>
   /Transitive/ and /intransitive/ are better thought of as /Self-move/ and /Other-move/.
 
   In japanese, a move-word 「動詞」 (どうし) is a word that denotes an action or a movement. So a self-move verb is a verb that moves itself. If I 'stand-up' that's a self-move action. But throwing a ball is an 'other-move' action, one is not throwing themselves, they are throwing a ball. It's as simple as that.
@@ -1214,6 +1247,7 @@ Do you think I'm going to do that? - I'm not going to do that!
   - らしい - Has a much greater degree of subjectivity. 「らしい」 overlaps with 「そうだ」 in many respects but it can also do things that 「そうだ」 cannot. 「らしい」 can compare things to other things that we know they aren't: 「ウサギらしい」 - Rabbit-like (even though we know it isn't a rabbit). 「こどもらしい」 - Childlike (whether they are a child or not)
   - ようだ - 「ようだ」 can be much more subjective still, going as far as a /metaphor/ or /simile/
 
+  <<ようだ>>
   #+BEGIN_QUOTE
   山のようだ - Like a mountain
   #+END_QUOTE
@@ -1254,6 +1288,90 @@ Do you think I'm going to do that? - I'm not going to do that!
   「みたい」 can also make true similes using 「まるで」 just like 「ように」. The main things to remember about 「みたい」 vs. 「ようだ」 is that 「みたい」 is less formal, and that we *can't* use it with a completed sentence. We *can* use it with a complete sentence for /conjecture/, but not to create a simile.
 
   Because 「みたい」 is so casual, often the だ or 「です」 gets left off the sentence.
+
+* ようになる, ようにする, ことになる, ことにする
+  <<ようになる>>
+  When we use a noun followed by 「になる」 we mean that something turns into that noun:
+  #+BEGIN_QUOTE
+  さくらは∅がかえるになった - Sakura became a from
+  #+END_QUOTE
+
+  「よう」 indicates a likeness to something ([[ようだ]]):
+  #+BEGIN_QUOTE
+  山のようだ - Like a mountain
+  #+END_QUOTE
+
+  When we use 「ようになる」 and the other phrases we don't add them to a noun, but to a complete logical clause:
+  #+BEGIN_QUOTE
+  (∅が)[かれを信じる]ようになった - (I) came to [believe him] - I became the state of believing him
+  #+END_QUOTE
+
+  This is often used with the potential helper verb:
+  #+BEGIN_QUOTE
+  日本語のマンガが読*める*ようになった - Japanese manga became readable to me
+  #+END_QUOTE
+
+  In both cases the state of something is changing. (My) state of not believing became a state of believing, the manga's state of being unreadable became a state of being readable.
+
+  <<ようにする>>
+  「ようにする」 is the /other-move/([[other-move]]) version of the 「なる」 construction, to make something enter a state:
+  #+BEGIN_QUOTE
+  まじょがさくらをかえるにした - Witch sakura frog-into did - Witch /turned/ Sakura into a frog
+  #+END_QUOTE
+  #+BEGIN_QUOTE
+  よく見えるようにする - Make (someone/something) look good
+  #+END_QUOTE
+
+  「ようにする」 also has an extended use meaning 'make sure':
+  #+BEGIN_QUOTE
+  ドアにかぎをかけるようにしてください - Please make it so that (you) lock the door
+  #+END_QUOTE
+  Related to this is saying something about something that oneself does regularly:
+  #+BEGIN_QUOTE
+  毎日歩くようにする - (I) try to make it so that (I) walk every day
+  #+END_QUOTE
+  Unlike 「ことにする」 ([[ことにする]]) 「ようにする」 leaves a little wiggle-room or doubt. It's not something guaranteed, but it is the intent, hence 'try to'.
+
+  「ように」 can also be used as a conjunction to show /cause-and-effect/. This isn't a separate grammatical usage, it only seems that way from the English translation:
+  #+BEGIN_QUOTE
+  よく見えるように口べにをつける - Look better, in order that, apply lipstick - Apply lipstick in order to look better
+  #+END_QUOTE
+  In 「よく見えるようにする」 we're saying to make someone look better without specifying the means, we're just using the catch-all verb 「する」. In the conjunction example, the second clause is simply replacing the catch-all 「する」 with the actual means by which the first clause was accomplished.
+
+  One final note is that sometimes ように can be seen on the end of a sentence:
+  #+BEGIN_QUOTE
+  日本に行けますように - I wish (someone) could go to Japan
+  #+END_QUOTE
+  This is most typically seen with 「ます」 sentences, and particularly in prayers or petitions. This is a shortening of 「ようにする」 or 「ようにしてください」.
+
+  <<ことになる>>
+  As we know 「こと」 refers to an /abstract/ thing i.e. a situation or circumstance.
+  #+BEGIN_QUOTE
+  (∅が)(∅を)けっこんすることにした - (It) became the thing of getting married
+  #+END_QUOTE
+  What is 'it'? It is the same thing it might be in English, the situation/circumstance in which getting married is the thing.
+
+  We have to use 「こと」 here because we cannot attach the logical particle に (or any logical particle) to anything but a noun. So we use 「けっこんする」 as a modifier for 「こと」 in order to give a noun for the situation/circumstance of getting married.
+
+  What does this really mean?
+  #+BEGIN_QUOTE
+  (∅が)(∅を)けっこんすることにした - We decided to get married - We brought about the situation of getting married - We brought about the situation in which getting married was the thing
+  #+END_QUOTE
+
+  <<ことにする>>
+  #+BEGIN_QUOTE
+  (∅が)フランスで留学する(∅が)ことになった - (I) France study (it) thing-in turned into - It became the thing of studying in France - It came about that I studied in France
+  #+END_QUOTE
+  Because 「ことにする」 is a deliberate act, it is taken in many cases to imply a deliberate decision. Notice however there is no actual decision being made by anyone. 「ことになる」 on the other hand implies that something came about without our control:
+  #+BEGIN_QUOTE
+  (∅が)(∅を)けっこんすることになた - (It) came about that we're getting married
+  #+END_QUOTE
+
+  #+BEGIN_QUOTE
+  (∅が)たいへんあことになった - (It) became a terrible thing
+  #+END_QUOTE
+  This time 「ことに」 is not being used on a logical clause, just a single word and so does not carry the implication of a decision being made anywhere, as there is no action to be decided on.
+
 * ばかり - Just/nothing but
   「ばかり」 is essentially a noun, it is used with だ and as we know we can only use だ with nouns, although we will find that sometimes the だ/です is left off in casual speech.
 
@@ -1295,33 +1413,117 @@ Do you think I'm going to do that? - I'm not going to do that!
   #+END_QUOTE
 
 * のに、 なのに - Opposing conjunction (but)
-  「のに」 and 「なのに」 are often used as a sentence ending as well as a conjunction.
+   「のに」 and 「なのに」 are often used as a sentence ending as well as a conjunction.
 
-  「のに」 is a conjunction, something that joins two clauses, each of which could be a complete sentence in of themselves, to form one compound sentence. 「のに」 is an /opposing conjunction/, the main /opposing conjunction/ in English is 'but'. We use an opposing conjunction when the second clause stands in opposition to the first clause. The other opposing conjunctions in Japanese are 「けど」 and 「が」.
-  # TODO けど and か
-  #+BEGIN_QUOTE
-  お店に行った​*が/けど*​パンがなかった - I went to the shops but there was no bread.
-  #+END_QUOTE
+   「のに」 is a conjunction, something that joins two clauses, each of which could be a complete sentence in of themselves, to form one compound sentence. 「のに」 is an /opposing conjunction/, the main /opposing conjunction/ in English is 'but'. We use an opposing conjunction when the second clause stands in opposition to the first clause. The other opposing conjunctions in Japanese are 「けど」 and 「が」.
+   # TODO けど and か
+   #+BEGIN_QUOTE
+   お店に行った​*が/けど*​パンがなかった - I went to the shops but there was no bread.
+   #+END_QUOTE
 
-  「のに」 is a bit different to these two as it tends to (but doesn't always) imply that the second clause is unsatisfactory, and personally disappointing to the speaker.
-  #+BEGIN_QUOTE
-  パンがおいしいのにお客さんが來ない - Even though the bread is delicious, the customers don't come.
-  #+END_QUOTE
+   「のに」 is a bit different to these two as it tends to (but doesn't always) imply that the second clause is unsatisfactory, and personally disappointing to the speaker.
+   #+BEGIN_QUOTE
+   パンがおいしいのにお客さんが來ない - Even though the bread is delicious, the customers don't come.
+   #+END_QUOTE
 
-  How does this conjunction become a sentence ender? Grammatically speaking it doesn't. 「のに」 is still always a conjunction, but sometimes the second clause isn't given. These are called /trailing statements/, statements that leave the conclusion unstated (but implied). These are very common in casual speech. Similarly we may often see sentences end with the て-form, grammatically this is wrong as the て-form is also a conjunction, but it's often done nonetheless.
-  #+BEGIN_QUOTE
-  赤ちゃんがうるさくて - The baby is/was noisy and so...
-  #+END_QUOTE
-  What this means exactly depends on context, it may mean that we couldn't sleep, or it was embarrassing.
+   How does this conjunction become a sentence ender? Grammatically speaking it doesn't. 「のに」 is still always a conjunction, but sometimes the second clause isn't given. These are called /trailing statements/, statements that leave the conclusion unstated (but implied). These are very common in casual speech. Similarly we may often see sentences end with the て-form, grammatically this is wrong as the て-form is also a conjunction, but it's often done nonetheless.
+   #+BEGIN_QUOTE
+   赤ちゃんがうるさくて - The baby is/was noisy and so...
+   #+END_QUOTE
+   What this means exactly depends on context, it may mean that we couldn't sleep, or it was embarrassing.
 
-  #+BEGIN_QUOTE
-  さくらが約束したのに - Even though Sakura promised... (she hasn't done something)
-  #+END_QUOTE
+   #+BEGIN_QUOTE
+   さくらが約束したのに - Even though Sakura promised... (she hasn't done something)
+   #+END_QUOTE
 
-  What about 「なのに」? The reason sentences end in 「なのに」is that when we use の we have to use the conjunctive form of だ or 「です」. So when that first clause ends in だ, we have to change it to な in order to put a の after it.
-  #+BEGIN_QUOTE
-  ∅が晴れた日曜日*だ* - It is a sunny Sunday (lit: it is a sunday that became sunny)
-  #+END_QUOTE
-  #+BEGIN_QUOTE
-  ∅が晴れた日曜日*な*のに - It is a sunny Sunday but... (I can't go outside etc.) - Even though it is a sunny Sunday (I need to finish my homework etc.)
-  #+END_QUOTE
+   What about 「なのに」? The reason sentences end in 「なのに」is that when we use の we have to use the conjunctive form of だ or 「です」. So when that first clause ends in だ, we have to change it to な in order to put a の after it.
+   #+BEGIN_QUOTE
+   ∅が晴れた日曜日*だ* - It is a sunny Sunday (lit: it is a sunday that became sunny)
+   #+END_QUOTE
+   #+BEGIN_QUOTE
+   ∅が晴れた日曜日*な*のに - It is a sunny Sunday but... (I can't go outside etc.) - Even though it is a sunny Sunday (I need to finish my homework etc.)
+   #+END_QUOTE
+* Conditionals
+** と
+  See と-conditional ([[と conditional]]).
+
+** ば/れば conditional helpers
+   The と conditional's particular characteristic was its exclusiveness, in many cases we can use the conditionals interchangeably without much changing in terms of meaning, but each conditional does still have its own unique qualities.
+
+   The special characteristic of ば/れば ([[ば conditional]]) is that is used for /hypotheticals/. They always mean 'if' and can't ever mean 'when', because we never know for sure if the condition will take place. Consequently, if we use it about something that happened in the past it has to be something that didn't happen, because if it had happened we wouldn't be dealing with a hypothetical.
+
+   The ば/れば conditional is a helper that attached to the え-stem of a verb ([[verb stems]]):
+   | あ | い | *う* | *え* | お |
+   | か | き | *く* | *け* | こ |
+   | さ | し | *す* | *せ* | そ |
+   | た | ち | *つ* | *て* | と |
+   | な | に | *ぬ* | *ね* | の |
+   | ば | び | *ぶ* | *べ* | ぼ |
+   | ま | み | *む* | *め* | も |
+   | ら | り | *る* | *れ* | ろ |
+
+   For adjectives remove the い and add the helper 「ければ」. 「ない」 -> 「なければ」.
+
+   This hypothetical nature allows ば/れば to be used in many common Japanese expressions:
+   #+BEGIN_QUOTE
+   どうすればいい？ - How if I act will be good? How act if good? <-> Good if act how?
+   #+END_QUOTE
+   - Note: the most apt translation of する most of the time is really 'act', not 'do':
+   #+BEGIN_QUOTE
+   しずかにする - Act quietly
+   #+END_QUOTE
+
+   #+BEGIN_QUOTE
+   かさを持ってくればよかった - If I had brought an umbrella, that would've been good - I should have brought an umbrella
+   #+END_QUOTE
+
+   #+BEGIN_QUOTE
+   勉強しなければいけない - If I don't study it won't go/it won't do - I must/should study
+   #+END_QUOTE
+   - Note: There isn't actually a word for 'must' in Japanese, so we always use this 'If I don't do x it will be bad' construction.
+
+   Because this is a long winded way of saying something it often gets cut down:
+   #+BEGIN_QUOTE
+   。。。しなければ
+   #+END_QUOTE
+   #+BEGIN_QUOTE
+   。。。しなけば
+   #+END_QUOTE
+   Even in very casual speech it is still often said in full to emphasise the 'must':
+   #+BEGIN_QUOTE
+   なぜいかなければいけない - Why must I come?
+   #+END_QUOTE
+
+** たら/だら conditional
+   The 「たら/だら」 conditional is particularly easy to form, all we do is form a verb or an adjective into its 「た/だ」 past form and add ら. 「たら/だら」 is the only conditional that can be used about past events. Of course, if we are referring to something in the past it's not really a conditional. We aren't saying 'if' here, we're saying 'when'. We know that the condition has been fulfilled because it's already happened. What 「たら」 does is show that the event that happened in the past was unexpected or surprising. This is because, rather than using one of the more regular means of showing that one event followed another such as using the て-form or 「から」, we're using an /if-type conditional/. We're stressing the fact that what did happen might well not have happened, and that the thing not having happened might've been more inline with what we'd have expected.
+   #+BEGIN_QUOTE
+   家に帰ったらさくらがいた - When I returned to the house, Sakura was there (surprisingly). (She doesn't even have a key, she must've climbed in through the window. Sakura does that kind of thing from time to time y'know)
+   #+END_QUOTE
+
+   We can also use 「たら」 on future events. Doing so tends to add stress on what will happen if the condition is fulfilled, as opposed to 「れば」 which poses more stress onto whether or not the condition will be fulfilled, or even the fact that it wasn't fulfilled. Again, 「たら」 is more 'when' than 'if'.
+
+   Sometimes the forms 「ったら」 and 「ってば」 to indicate exasperation.
+   #+BEGIN_QUOTE
+   さくらったら
+   #+END_QUOTE
+   #+BEGIN_QUOTE
+   さくらってば
+   #+END_QUOTE
+   What this literally means is a contraction of 「といたら」 or 「といえば」, in other words: 'When you speak of Sakura' i.e. 'Oh you Sakura...', 'When it's Sakura it's always like this...'. It's not flattering, it is critical, but it's not very strongly so. It can be quite humorous or joking. 「ってば」 is more likely to express real exasperation and can be put onto more things than just a person's name.
+   #+BEGIN_QUOTE
+   もう言ったってば - I've already said that haven't I?...
+   #+END_QUOTE
+
+** なら conditional
+   「なら」 is an easy to use particle like helper. All we do is put なら after what we say, which turns it into a conditional. We can put it after nouns and complete logical clauses. If used after a noun we don't need to use the copula (だ) probably because the な of 「なら」 has its roots in the copula itself.
+
+   「なら」 can be used on present and future conditionals that aren't in any real doubt at all. For example, if Sakura is worried that something may not be possible to her, we might say:
+   #+BEGIN_QUOTE
+   さくらなら、できる - If it's Sakura, it will be possible
+   #+END_QUOTE
+   Of course we know it's Sakura, we're talking to Sakura. So what we're really saying is 'Since it's Sakura, it will be possible'.
+   #+BEGIN_QUOTE
+   Q. 駅はどこですか - Where is the station
+   A. 駅なら、 あそくです - If it's the station you're asking for, it's over there
+   #+END_QUOTE
+   Of course there isn't any real doubt that it's the station that we're asking for, so again, 'since'.

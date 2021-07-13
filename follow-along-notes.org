@@ -1781,8 +1781,7 @@ Of course there isn't any real doubt that it's the station that we're asking for
 #+BEGIN_QUOTE
 1000 円だけ持っている - (I) hold limit-of 1000 yen - I have only 1000 yen
 #+END_QUOTE
-- Note: Implication neutral
-「だけ」 functions essentially as a noun. In the set uses given here its particle (in this case を) can be dropped. In many other uses it takes a particle like any other noun.
+Note: Implication neutral. 「だけ」 functions essentially as a noun. In the set uses given here its particle (in this case を) can be dropped. In many other uses it takes a particle like any other noun.
 
 #+BEGIN_QUOTE
 できるだけ勉強します - To the limit of the possibility I will study - I will study if I can/as much as I can
@@ -1810,7 +1809,7 @@ This 「あって」 is the connective (て-form) form of 「ある」. The beca
 #+BEGIN_QUOTE
 1000 円だけ持っいない - (I) don't hold more than 1000 ten
 #+END_QUOTE
-- Note: Implication
+Note: Implication of not being enough.
 「しか」 means 'more than', so long as we understand this it is very simple. 「しか」 is only ever used in negative sentences, there is always a 「ない」 or an 「ありません」 when we use 「しか」, so it ends up saying 'not more than'.
 
 「だけ」 doesn't imply that 1000 yen is a lot or a little, it only says that that is what we have and nothing else. 「しか」 implies that the 1000 yen we hold is not enough. 'I don't have any more than 1000 yen' places emphasis on the 1000 yen and it being too little or that if someone wants more they aren't going to get it.

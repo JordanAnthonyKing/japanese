@@ -91,6 +91,31 @@
 
 *** TODO が (/ga/) - Subject <<が>>
 # I may need to dig out the episode to cover this particle
+**** が particle becomes の in subordinate clauses
+     The の particle can replace the が particle in 'subordinate clauses'.
+
+     Remember, the の particle the the possessive particle, and is the only particle that has an exact equivalent in English: /'s/.
+     #+BEGIN_QUOTE
+     さくら*の*ぼうし - Sakura*'s* hat
+     #+END_QUOTE
+
+     Let's look at a sentence where の can replace が.
+     #+BEGIN_QUOTE
+     私がたべたケーキは(∅が)おいしかった - The cake I ate was delicious
+     #+END_QUOTE
+     Remember, The が particle marks the thing doing/being something in the sentence. 'I' am eating the cake, so 'I' am marked by が. In this sentence, the main が is not actually visible, it is the invisible ∅-pronoun 'it' (the cake).
+
+     This is the kind of sentence in which we can use の in place of が. We *can't* use の for the main が of a sentence, we can only use it for an /adjectival が/.
+
+     Let's look at an English equivalent:
+     #+BEGIN_QUOTE
+     Sakura's shouting at the waiter upset me
+     #+END_QUOTE
+     'Sakura's shouting at the waiter' is a noun, and it is the thing that did the act of upsetting me. The shouting belongs to Sakura because she is the one that did it. This is very similar to the Japanese, only the Japanese doesn't turn the logical clause into a noun but into an adjective:
+     #+BEGIN_QUOTE
+     私のたべたケーキは(∅が)おいしかった - My eaten cake is delicious
+     #+END_QUOTE
+
 *** だ (/da/) - Copula <<だ>>
     For basic use of だ see /core sentence/ ([[*Core sentence]]).
 
@@ -256,6 +281,37 @@
     - 少しもない - Not even a little
 
     See also /でも/ ([[でも]]).
+*** より /yori/ from (comparison)
+    <<より>>
+    「より」 is a non-logical particle (it doesn't have to be attached to a noun). It can go after just about anything, a complete logical clause, a noun, an adjective, whatever. It's most basic meaning is 'from':
+    #+BEGIN_QUOTE
+    さくらより - From Sakura
+    #+END_QUOTE
+
+    「より」 means 'from', we already have another word meaning 'from', 「から」. The difference between the two is that 「から」 marks the 'A' in 'A from B' in such a way that it is treating 'A' as the starting point, or point of origin:
+    #+BEGIN_QUOTE
+    日本からきました - I came/come from Japan - Japan is my point of origin
+    #+END_QUOTE
+    This often gains the metaphorical meaning of 'because', as 'some event' is the point of origin for 'some other event':
+    #+BEGIN_QUOTE
+    さむいからコートをきる - Because it's cold I wear a coat
+    #+END_QUOTE
+
+    「より」 means 'from' in a very different sense. The directional metaphor is concentrating not on the origin of 'A from B' but in the distance/difference of 'A from B'.
+    #+BEGIN_QUOTE
+    さくらはメアリよりきれいだ - From Mary, Sakura is pretty - Distinguished from Mary, Sakura is pretty
+    #+END_QUOTE
+    We are still using 「メアリ」 as the 'base point', the point of comparison, and because of this comparative nature we're *not* saying that 'Sakura is pretty while Mary isn't', we're saying that 'taking Mary as the point of comparison, Sakura is pretty (therefore more pretty i.e. prettier)'. Notice how this has the same meaning as the original sentence 「マアリ*より*さくら*のほう*がきれいだ」 without needing to use 「ほう」.
+
+    We can also use 「より」 in other contexts:
+    #+BEGIN_QUOTE
+    今年の冬はいつもより寒い - Comparing from always, this year's winter is cold - This year's winter is colder than usual.
+    #+END_QUOTE
+    - Note: 'always' is a kind of hyperbole in a way
+
+    #+BEGIN_QUOTE
+    さくらは人より傾い - Sakura is clever compared to people - Sakura is clever compared to (most) people - Sakura is smarter than most
+    #+END_QUOTE
 ** Alogical particles
 *** と (/to/) - And (exclusive)
     <<と and>>
@@ -454,6 +510,35 @@
 #+BEGIN_QUOTE
 Do you think I'm going to do that? - I'm not going to do that!
 #+END_QUOTE
+
+
+** Extra: Sentence ender particles
+*** ね
+   ね is a marker for information that the speaker assume the listener to know already. It is the marker for shared information/feelings.
+
+*** よ
+    よ is the opposite of ね. ね marks information that one assumes the listener to already know, よ marks information that one assumes the listener doesn't already know.
+
+    よ can be assertive, and can be used to contradict, but most of the time it's a friendly particle that introduces some information the listener doesn't know but you think they will be interested in.
+
+*** よね
+    This might seem a little confusing at first, notice however it's よね, you can't say ねよ. The reason for this is that you're introducing the listener to something that they don't know, and then immediately treating that information as shared.
+
+*** な
+    な is not really a particle in terms of Japanese grammar, it's /technically/ an exclamation, but it functions in much the same way. In a previous lesson many sentence-enders involving な were discussed, in each of these cases な was the connective for of だ. This な is different.
+
+    While ね marks information known to the listener, よ marks information unknown to the listener, な marks a remark that is addressed to oneself.
+    #+BEGIN_QUOTE
+    暑いな - Gosh it's hot
+    #+END_QUOTE
+    One may be intending to share this statement with someone else.
+
+    な can also be used within a sentence, hence why even though technically an exclamation it functions like a particle, marking that something is directed at oneself.
+
+    There are also occasions where men will use な where women would use ね. In these cases the difference in meaning is 'You agree with me don't you' for ね and 'Well that's what I think and I don't care if you agree with me or not' for な.
+
+*** かな
+    See: ([[かな]])
 
 * Tense
   In Japanese the tenses are not the same past, present and future tenses we're familiar with from English.
@@ -781,6 +866,23 @@ Do you think I'm going to do that? - I'm not going to do that!
 
   An important note is that we cannot do this with /all/ nouns, only nouns which are frequently used in an adjectival way. This group of nouns is what are referred to as 'な-adjectives'. We can use all nouns as adjectives, but for the rest we need to use a different technique, /の-adjectives/ ([[の-adjectives]]).
   # TODO use org's duplication function here for の-adjectives
+
+** なる & たる 'adjectives'
+   #+BEGIN_QUOTE
+   華麗なる探偵 - Magnificent detectives
+   #+END_QUOTE
+   「華麗」 is an adjectival noun so it could've been used with な, but the author has chosen to use 「なる」 instead. 「なる」 is not the same 「なる」 that means 'become', it is a contraction of 「のある」.
+   # TODO: Watch が particle become の video
+   #+BEGIN_QUOTE
+   華麗がある探偵 -> 華麗のある探偵 -> 華麗なる探偵 - Detectives possessing magnificence lit: Magnificence exists detectives
+   #+END_QUOTE
+   What does the choice of 「なる」 over な actually mean? In modern texts the only reason to choose 「なる」 over な is just that it sounds a bit more old-fashioned or a bit more literary.
+
+   「たる」 is a contraction of 「とある」, meaning that the 「ある」 is belonging to the thing that is being described, rather than the thing describing it.
+   #+BEGIN_QUOTE
+   らんらんたる目 - Blazing eyes
+   #+END_QUOTE
+   The subtle difference is that 「なる」 means 'is magnificent', whereas 「たる」 means 'in a blazing manner'.
 
 * Adjective stem, adjective て-form, negative adjectives
   <<Negative adjectives>>
@@ -1372,7 +1474,51 @@ Do you think I'm going to do that? - I'm not going to do that!
   #+END_QUOTE
   This time 「ことに」 is not being used on a logical clause, just a single word and so does not carry the implication of a decision being made anywhere, as there is no action to be decided on.
 
-* ばかり - Just/nothing but
+* Lesson 33: Japanese limiting terms: だけ, しか, ばかり, のみ
+** だけ - Limit (only)
+   「だけ」 means 'limit'. Often this is translated as 'only' and in it's most basic form 'only' is what we'd say in English, however it's important to realise that in order to understand some of its other uses, it really means 'limit'.
+   #+BEGIN_QUOTE
+   1000 円だけ持っている - (I) hold limit-of 1000 yen - I have only 1000 yen
+   #+END_QUOTE
+   Note: Implication neutral. 「だけ」 functions essentially as a noun. In the set uses given here its particle (in this case を) can be dropped. In many other uses it takes a particle like any other noun.
+
+   #+BEGIN_QUOTE
+   できるだけ勉強します - To the limit of the possibility I will study - I will study if I can/as much as I can
+   #+END_QUOTE
+   At this point if we think of 「だけ」 as 'only' we will begin to get confused. 「できろだけ」 means 'to the limit of possibility'.
+
+   #+BEGIN_QUOTE
+   留学しただけあって英語はうまい - Because of the limit of the fact (I) studied abroad, (my) English is excellent.
+   #+END_QUOTE
+   This 「あって」 is the connective (て-form) form of 「ある」. The because in the sentence being the て form which remember often implies the cause of the following effect. A common translation of 「だけあって」 is 'not for nothing' but what's actually being said here is 'precisely because and only because (I) studied abroad (my) English is excellent'.
+
+   #+BEGIN_QUOTE
+   安いだけあってすぐに壊れちゃった - Because of the limit of it being cheap it quickly broke - Precisely because it was cheap, it broke quickly
+   #+END_QUOTE
+   「だけ」 is being used for its ability to limit something down to something precise. Out of all the possible reasons that it could've broken, it is the reason that it is cheap. We have limited the possibilities down to just one. Again, 'only'.
+   #+BEGIN_QUOTE
+   留学しただけあって英語はうまい - Only by studying abroad did I get that good at English
+   #+END_QUOTE
+   #+BEGIN_QUOTE
+   留学しただけあって英語はうまい - Only something really cheap would break that quickly
+   #+END_QUOTE
+
+** しか - More than
+   「しか」 is often confusing because people are given the impression that it means more or less the same thing as 「だけ」.
+   #+BEGIN_QUOTE
+   1000 円だけ持っいない - (I) don't hold more than 1000 ten
+   #+END_QUOTE
+   「しか」 means 'more than', so long as we understand this it is very simple. 「しか」 is only ever used in negative sentences, there is always a 「ない」 or an 「ありません」 when we use 「しか」, so it ends up saying 'not more than'.
+
+   「だけ」 doesn't imply that 1000 yen is a lot or a little, it only says that that is what we have and nothing else. 「しか」 implies that the 1000 yen we hold is not enough. 'I don't have any more than 1000 yen' places emphasis on the 1000 yen and it being too little or that if someone wants more they aren't going to get it.
+
+   #+BEGIN_QUOTE
+   にげるしかない - There's noting more (we can do) than run - There's nothing for it but to run - There's no other action but to run
+   #+END_QUOTE
+
+** ばかり
+   「ばかり」 and 「だけ」 have the same *literal* meaning (only/just) but as we learned in the lesson on ばかり, it's a hyperbole, we don't literally mean it only sells bread. Just that it sells bread far more than anything else.
+
   「ばかり」 is essentially a noun, it is used with だ and as we know we can only use だ with nouns, although we will find that sometimes the だ/です is left off in casual speech.
 
   「ばかり」 simply means 'just' or 'nothing but'. One of the most common uses is to place it after a past-tense statement to say that something has 'just' taken place. This is just the same as in English.
@@ -1411,6 +1557,13 @@ Do you think I'm going to do that? - I'm not going to do that!
   #+BEGIN_QUOTE
   みみか大きいばかりに誰もあそんでくれない - Just because my ears are big no one will play with me
   #+END_QUOTE
+
+** のみ
+   「のみ」 is just 「だけ」 in its simplest sense i.e. 'only'.
+   #+BEGIN_QUOTE
+   あのお店はパンのみうる - The shop only sells bread
+   #+END_QUOTE
+   「のみ」 is typically used in polite or formal contexts, otherwise 「だけ」 is used.
 
 * のに、 なのに - Opposing conjunction (but)
    「のに」 and 「なのに」 are often used as a sentence ending as well as a conjunction.
@@ -1527,3 +1680,240 @@ Do you think I'm going to do that? - I'm not going to do that!
    A. 駅なら、 あそくです - If it's the station you're asking for, it's over there
    #+END_QUOTE
    Of course there isn't any real doubt that it's the station that we're asking for, so again, 'since'.
+
+* Conjunctions
+  Sentences where there is more than one logical clause *must* be contain some kind of conjunction. There are many kinds of conjunction, many we have covered already:
+  - If/When ~ たら、 なら、 ば
+  - And/but ~ そして、 けど
+  - Because ~ から、 ので
+
+  We also need to look out for the verb/adjective clause conjunctions:
+  - て-form
+  - い-stem
+
+  Remember the い-stem of a verb is the main conjunctive stem out of the four verb stems. It can connect nouns to verbs, other verbs to verbs, and various helpers to verbs. It can also connect one logical clause to another.
+
+  # There's a lot of reiteration about が being invisible here
+
+  In Japanese a sentence has to end with an engine:
+  - う (A verb)
+  - い (an adjective)
+  - だ (the copula, can't be な because then it's modifying a noun, not powering a sentence)
+
+  The sentence will always end with an engine except for if there are one or two /sentence ender particles/ (They are not part of the logical sentence).
+
+  How do we find, or how do we eliminate the possibility of a compound sentence? Just as before, a logical clause must end with an engine, and if the sentence is compound it must end also with a connector.
+
+* ほう (comparison)
+  「ほう」 is quite different from 「より」 ([[より]]) and 「から」. It's not a particle, it is a noun, hence 「のほう」. It's literal meaning is 'direction' or 'side'. When it means 'side' it means 'side' in the sense of direction, not in the sense of 'edge'.
+
+  The idea of 'side' isn't limited to physical spaces, but concepts as well. Also, by nature of there being 'a' side it is implied that there is another side to contrast with. Two sides of a coin and all that.
+
+  「ほう」 can follow a noun as in 「さくらのほう」 or we can put it after a verb or adjective, in which case the verb/adjective is describing 「ほう」.
+  #+BEGIN_QUOTE
+  Q. メアリがきれいだと思う？ - Do you think Mary is pretty
+  A. さくらの*ほう*がきれいだ。- The side of Sakura is pretty - I think Sakura is prettier
+  #+END_QUOTE
+  Once again this is a /comparative/ structure, we're *not* saying that Sakura is pretty and Mary isn't, only that 'the side of' Sakura is prettier than 'the side of' Mary.
+
+  Notice again how we don't need 「より」 here, just as before we didn't need 「ほう」 to express the same thing.
+
+  A lot of the time 「より」 and 「ほう」 will be used individually. When they're being used together it's usually either formal or adding emphasis.
+
+** いっぽう 一方
+   Another use of 「ほう」 is in the expression 「いっぽう」 which means 'one side' or 'one direction'. Often we see this in narrative, sometimes at the very start of a sentence, or even the start of a paragraph or entire chapter.
+
+   What 「いっぽう」 is doing is essentially the same as the English 'meanwhile'. 「いっぽう」 does *not* mean 'meanwhile' because it doesn't. 'Meanwhile' is a /time-expression/ meaning 'at the same time'. 「いっぽう」 while performing the same function does it quite differently. It's really saying, 'All that (the previous sentence/paragraph/chapter) was one side, now we're going to look at the other side'.
+
+   Just like 「でも」 it wraps up whatever came before it with で which is the て-form of 「です」 (all that was existing), with the contrastive function of も to give 'but'. 「いっぽう」 often drops the copula で however.
+
+   #+BEGIN_QUOTE
+   この辺りは静かな一方で不便だ - It's quiet around here, but it's inconvenient - On one hand it's quiet, but on the other it's inconvenient
+   #+END_QUOTE
+   - Note: Remember な is the connective form of だ.
+
+   Another use of 「いっぽう」 is that it can also be used after a complete verbal clause to show that something that is happening is continuing in one direction.
+   #+BEGIN_QUOTE
+   この村の人口が減る一方 - This village's population is declining (and declining and declining) - This village's population just keeps on declining
+   #+END_QUOTE
+
+* ところ - The Japanese concept of place
+  「ところ」 means 'place'. It means a literal place and also takes on slightly metaphorical uses like: 「わたしのところ」 - my place - my apartment (etc.).
+
+  In japanese the /figurative/ sense of place goes a lot further than it does in english. for example
+  #+begin_quote
+  さくらのどこが好きなの？ - lit: Sakura's where do (you) like - what place of sakura do (you) like?
+  #+end_quote
+  An appropriate answer to this might be 「やさしだ」 - 'she's gentle' i.e. 'the place that i like about her is that she's gentle', '(one of) sakura's good places is that she's gentle'. 'Place' here doesn't mean anything at all like a physical location, it means an aspect of something, even if that aspect is very abstract.
+
+  #+begin_quote
+  Q. わかりましたか？ - did you understand it?
+  A. 分かるところがあったが分からないところもありました - there were places i understood and places i didn't understand
+  #+end_quote
+  Notice that this is closer to a usage of 'place' we have in english. Don't get mixed up however, we aren't saying 'there were times i didn't understand', we're saying 'there were aspects/subtleties i didn't understand'.
+
+  Place is also often used to mean a place not in space but in time. We can use 「ところ」 with 'a does b' sentences in all three tenses.
+  #+begin_quote
+  昼ごはんを食べるところだ - i'm just about to eat lunch - (it (the present time) is) (i'm) just about to eat lunch place.
+  #+end_quote
+  Note: this is an 'a is b' sentence with a だ-engine, but the original sentence the construction comes from is an 'a does b' sentence 「∅が昼ごはんを食べる」
+
+  #+begin_quote
+  昼ごはんを食べているところだ - I'm eating lunch right now
+  #+end_quote
+  #+begin_quote
+  昼ごはんを食べたところだ - I just ate lunch
+  #+end_quote
+  Note: in all of these examples the 「ところだ」 is adding an immediateness to the place in time something is/will/was happening. I *just* ate, I'm eating *right now*, i'm *just about to* eat.
+
+  We could easily also say:
+  #+begin_quote
+  昼ごはんを食べたばかりだ - i just ate lunch
+  #+end_quote
+
+  Sometimes a few corners of this structure are cut. As with many regular set expressions 「だ」 can be cut off. 「ところ」 can also be shortened to just 「とこ」.
+  #+begin_quote
+  なごやに着陸したとこ - i just landed at nagoya
+  #+end_quote
+
+  Remember: even though we've been covering examples of time, 「ところ」 does still mean place.
+  #+begin_quote
+  いいところに来たね! - you came to a good place didn't you!
+  #+end_quote
+  But it can mean either:
+  #+begin_quote
+  いいところに来たね! - you came at a good time didn't you!
+  #+end_quote
+
+* じゃない, ではない
+  Japanese often contains what appears to be negative statements, when what is meant are really positive statements. For example:
+  #+BEGIN_QUOTE
+  さくらじゃない - That isn't Sakura
+  #+END_QUOTE
+  Really this means:
+  #+BEGIN_QUOTE
+  さくらじゃない - That's Sakura isn't it? - That *is* Sakura
+  #+END_QUOTE
+
+  What is 「じゃない」?  「じゃない」 is a contraction of 「ではない」 which is the negative of the copula (だ).
+  #+BEGIN_QUOTE
+  これは(∅が)ペンではない - As for this, as for being a pen (ペンだ), isn't
+  #+END_QUOTE
+
+  So, grammatically 「さくらじゃない」 is in fact a negative statement. Negative questions are used in most languages:
+  #+BEGIN_QUOTE
+  Nice day, *isn't* it?
+  #+END_QUOTE
+
+  A question like 'Are you Sakura', is neutral, there is no suggestion of whether we expect them to or not to be Sakura. 'You're Sakura aren't you?' however shows that we expect the person to be in fact Sakura.
+
+  The confusing part is that only in formal speech would we explicitly mark the question i.e:
+  #+BEGIN_QUOTE
+  さくらじゃないですか
+  #+END_QUOTE
+  か is not used as a sentence-ending question marker in this way in non-formal Japanese.
+
+  「さくらじゃない」therefore has three possible meanings, a statement, a question, or a third meaning, each indicated by tone.
+  #+BEGIN_QUOTE
+  さくらじゃない - Not Sakura
+  #+END_QUOTE
+  #+BEGIN_QUOTE
+  さくらじゃない - Sakura isn't it?
+  #+END_QUOTE
+  #+BEGIN_QUOTE
+  さくらじゃない - If it isn't Sakura!
+  #+END_QUOTE
+  This use of tone (./?/!) is just the same in English.
+
+  「じゃない」 can also be used as a negative-question sentence-ender in a similar sense as ね:
+  #+BEGIN_QUOTE
+  暑いじゃない - It's hot isn't it (expecting agreement)
+  #+END_QUOTE
+  #+BEGIN_QUOTE
+  暑いね - It's hot isn't it (expecting agreement)
+  #+END_QUOTE
+  - Note: 「暑いじゃない」 is not the negative of 「暑い」 which is 「暑くない」
+
+  「じゃない」 can also be used after verbs:
+  #+BEGIN_QUOTE
+  もう言ったじゃない - I already said that didn't I?
+  #+END_QUOTE
+
+  「じゃない」 itself is often reduced to just 「じゃん」
+  #+BEGIN_QUOTE
+  寒いじゃん - It's cold isn't it
+  #+END_QUOTE
+
+  All of these expressions are very colloquial and aren't in fact grammatically correct. Remember, 「じゃない」 = 「ではない」 which is the negative form of the copula だ, and だ can only be used with nouns.
+
+  There are of course more formal ways of using 「ではない」 as a positive statement but these of course tidy up the grammar
+  #+BEGIN_QUOTE
+  その理論が間違っている*の*ではないでしょうか - Might that theory not be in error?
+  #+END_QUOTE
+  - Note: This may be used as an assertion. Once we have definitively proven something, we may finish with this as a short of challenge.
+
+* Questions
+  か is used to mark questions, but not what we might usually think of as a question. For example
+  #+BEGIN_QUOTE
+  さくらが来るかわからない - I don't know if Sakura will come - Sakura will come? I don't know
+  #+END_QUOTE
+  #+BEGIN_QUOTE
+  さくらが来るか知っていますか - Do you know if Sakura is coming?
+  #+END_QUOTE
+
+  か displaces logical particles much of the time:
+  Normal structure:
+  - XX が分からない
+  - XX を知っています
+  Logical particles displaced by か:
+  - XX か分からない
+  - XX か知っています
+
+  か is also used in the common expression 「かどうか」 which means 'whether or not':
+  #+BEGIN_QUOTE
+  さくらが来るかどうか分からない - I don't know whether Sakura's coming or not
+  #+END_QUOTE
+  Precisely 「かどうか」 means '...? how? ...' i.e. 「さくらが来るかどうか分からない」 - I don't know if Sakura's coming or how it will be.
+
+  From this usage we can see how we can use か to mean 'or':
+  #+BEGIN_QUOTE
+  お茶かコーヒーどちらがいい？ - Which is good, tea or coffee?
+  #+END_QUOTE
+
+** かもしれない - Maybe
+   - XX か - The question/proposition XX
+   - も - As much as
+   - しれ - え-stem of 知る (know) indicating potential (lesson 10)
+   - ない - Negative helper adjective
+   - The question of XX, I cannot go so far as to know = Maybe XX
+
+** かな - I wonder
+   <<かな>>
+   #+BEGIN_QUOTE
+   さくらが来るかな - I wonder if Sakura will come
+   #+END_QUOTE
+   - か bundles the question
+   - な address the question to oneself
+
+** か is a nominaliser
+   #+BEGIN_QUOTE
+   まるで[ゆうれいを見た]*かの*ような顔をした - A face as if one had seen a ghost
+   #+END_QUOTE
+   Notice how か has turned 「ゆうれいを見た」 into a quasi-noun that can take の.
+
+** もんか & ものですか
+   In certain expressions か calls into question (denies) a proposition
+   #+BEGIN_QUOTE
+   格好に行くもんか - I'm not going to school
+   #+END_QUOTE
+
+   「ものですか」 and 「もんか」 literally mean 'Is that a thing', this is the same kind of negativising question we have in English i.e. 'Do you think I'm going to do that?'
+
+   Note how this is one of the few uses of か as a sentence ending question marker in non-formal speech. This is because of it's purposefully rough nature.
+   # Possible elaborate on this some time
+
+   Another place we often see か as a negativising question marker is in 「どころか」. Remember 「どころ」is a form of 「ところ」 and means place/time/circumstance/condition. When said as 「どころ」it's usually negative.
+   #+BEGIN_QUOTE
+   漢字が読めるどころかひらがなも読めない - Far from kanji being possible (for me) to read, even hiragana isn't read-possible - Not only can't I read kanji, I can't even read hiragana
+   #+END_QUOTE
+   What is 「どころ」 doing here? It's dealing with the concept of reading kanji and negativising it. 'The circumstances in which I could read kanji aren't', 'Not only has the situation not reached this far place, it hasn't even read this near place'.

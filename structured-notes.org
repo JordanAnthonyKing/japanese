@@ -137,6 +137,8 @@
     #+END_QUOTE
     The core sentence is 'I threw', and the extra を particle marked noun tells us what we threw i.e. the ball.
 
+    する nouns (verbs) can drop the を particle to form a 'true' する verb
+
 *** に (/ni/) - Target (Indirect Object)
     The に-particle marks the target (indirect object) of an engine. Along with が and を:
     - が tells us who does the doing
@@ -828,6 +830,11 @@ Do you think I'm going to do that? - I'm not going to do that!
   あかいぺんがちいさい - Red pen is small
   #+END_QUOTE
 
+  With a true adjective we also use the て-form ([[て-form]]) of the adjective
+  #+BEGIN_QUOTE
+  さくらが美しくてやさしい - Sakura is beautiful and kind
+  #+END_QUOTE
+
 ** Verb-adjectives
    Any verb in any tense can be used like an adjective:
    #+BEGIN_QUOTE
@@ -912,6 +919,30 @@ Do you think I'm going to do that? - I'm not going to do that!
   「早い」 is an adjective. If we want to say the rabbit is fast we simply say 「ウサギが早い」. But if we want to say that the rabbit's *movement* is fast we must use an adverb. In Japanese we can turn any adjective into an adverb by simply removing the い and replacing it with く. 「早い」 -> 「早く」.
 
   # TODO stuff about に
+
+  Adverbial nouns can make に or と disappear when used as an adverb. Often (but not always) these nouns end in り.
+
+  As we know, any noun that can be used adverbially can be done so using the particle に. 「しずかにする」 - Act quietly. With an adverbial noun we don't need the に:
+  #+BEGIN_QUOTE
+  ゆっくりにする - Act leisurely
+  #+END_QUOTE
+  #+BEGIN_QUOTE
+  ゆっくりする - Act leisurely
+  #+END_QUOTE
+
+  「あまり」 is a noun that means 'excess'. We can use it in a literal sense: 「ごはんのあまり」 - The excess rice.
+  #+BEGIN_QUOTE
+  悲しみのあまりに泣いた - From sadness's excess, cried
+  #+END_QUOTE
+  #+BEGIN_QUOTE
+  悲しみのあまり泣いた - From sadness's excess, cried
+  #+END_QUOTE
+  #+BEGIN_QUOTE
+  あまり勉強しない - lit: (I) don't study too much. read: (I) don't study /very/ much
+  #+END_QUOTE
+  Note: This under-exaggeration is another case of hyperbole (or rather inverse-hyperbole).
+
+  「ずいぶん」 means 'sufficiently'. In English 'sufficiently' isn't a noun, but in Japanese it is. Like 「あまり」 is often used with some inverse-hyperbole i.e. sufficiently = more than sufficient.
 * Helper adjectives
 ** ない - Negative
    See: /negative nouns/ ([[*Negative nouns]]), /negative verbs/ ([[*Negative verbs]]) and /negative adjectives/ ([[Negative adjectives]]).
@@ -1100,6 +1131,7 @@ Do you think I'm going to do that? - I'm not going to do that!
    Here the core of the sentence is now 'Sakura got'. What did she get? She got the unfortunate nuisance action of だれかに かばんを ぬすむ, someone stealing (her) bag. /Sakura got her bag stolen by someone/ *not* /Sakura's bag got stolen by someone/.
 
 ** せる/させる - Causative
+    <<causative>>
    The /causative helper verb/ indicates that we are causing someone to do the verb to which is is attached. The causative helper verb is 「せる」 for Godan verbs and attaches to the あ-stem of a verb ([[*Verb stems]]):
    | *わ* | い | *う* | え | お |
    | *か* | き | *く* | け | こ |
@@ -1134,6 +1166,7 @@ Do you think I'm going to do that? - I'm not going to do that!
    に expresses relation to core clause. を expresses relation to sub clause.
 
    In these types of sentences Japanese does not allow us to use the を particle twice. If we could use を twice then in some sentences we might end up with some doubt as to which を marks the object associated with 「食べる」 and which を marks the object associated with 「せる」/「させる」.
+
 
 ** Causative receptive
    Causative-receptive (what most call the causative passive) means to get made to do. Remembering that helper verbs are ichidan verbs, to add the receptive helper verb to the causative helper verb we simple remove the る and add 「られる」:
@@ -1704,6 +1737,28 @@ Do you think I'm going to do that? - I'm not going to do that!
 
   How do we find, or how do we eliminate the possibility of a compound sentence? Just as before, a logical clause must end with an engine, and if the sentence is compound it must end also with a connector.
 
+** が (Conjunction)
+As we know the が particle is in every japanese sentence, whether we can see it or not.
+
+There is a second が, which functions as a (usually contrastive) clause connector:
+#+BEGIN_QUOTE
+お店に行った*が*パンがなかった - I went to the shops *but* there wasn't any bread.
+#+END_QUOTE
+
+It isn't possible to confuse these two が s because the particle が can only ever mark a noun, and the clause connector が can only mark a complete clause (which cannot end in a noun).
+
+が doesn't have to be contrastive, most of the time it is, but it can be used just as a regular, non-contrastive conjunction.
+
+Also: sometimes this が will be used at the end of a sentence to soften a request.
+#+BEGIN_QUOTE
+コーヒーがほしいが - I'd like some coffee - I'd like some coffee but (if it's any trouble it's not necessary)
+#+END_QUOTE
+
+** に
+に is the targeting particle. There is also another に that functions the same as と (and). This に is more prevalent in older Japanese texts.
+
+It is further used in certain expressions like 「それに」 (furthermore) leveraging the 'and' quality of に to be a clause connector.
+
 * ほう (comparison)
   「ほう」 is quite different from 「より」 ([[より]]) and 「から」. It's not a particle, it is a noun, hence 「のほう」. It's literal meaning is 'direction' or 'side'. When it means 'side' it means 'side' in the sense of direction, not in the sense of 'edge'.
 
@@ -1917,3 +1972,144 @@ Do you think I'm going to do that? - I'm not going to do that!
    漢字が読めるどころかひらがなも読めない - Far from kanji being possible (for me) to read, even hiragana isn't read-possible - Not only can't I read kanji, I can't even read hiragana
    #+END_QUOTE
    What is 「どころ」 doing here? It's dealing with the concept of reading kanji and negativising it. 'The circumstances in which I could read kanji aren't', 'Not only has the situation not reached this far place, it hasn't even read this near place'.
+* まま
+  「まま」 is a noun. What 'thing' is it? It's an unchanged condition:
+  #+BEGIN_QUOTE:
+  自然のままの森 - Nature's unchanged-condition's forest - A forest in its natural state
+  #+END_QUOTE
+  #+BEGIN_QUOTE:
+  そのままで食べられるの？ - That unchanged state-being, eat-able-does? - Can you eat them just as they are?
+  #+END_QUOTE
+  Note: This で is the copula (だ)
+  #+BEGIN_QUOTE:
+  そのまま食べられるの？ - That unchanged state-being, eat-able-does? - Can you eat them just as they are?
+  #+END_QUOTE
+  Note: we can drop the で see the previous lesson
+
+  「まま」 being an unchanged state, in cases where the state could change (like uncooked food becoming cooked) we're essentially using as a time period. Therefore we can ignore the copula like a time expression:
+  #+BEGIN_QUOTE:
+  そのまま食べられるの？ - While they're uncooked, can they be eaten?
+  #+END_QUOTE
+
+  #+BEGIN_QUOTE:
+  パジャマのまま朝ごはんを食べる - Pyjama's unchanged state eat breakfast - Eat breakfast while still in pyjamas
+  #+END_QUOTE
+
+  #+BEGIN_QUOTE:
+  いつまでも若いままでいたい - Forever young unchanged-state-be exist-desire - I'd like to stay young forever
+  #+END_QUOTE
+  Notice how the adjective 「わかい」 is modifying 「まま」 (because it's a noun).
+
+  「思いのまま」 and 「心のまま」 are common uses of 「まま」. What this means is 'The unchanged condition that's in our thoughts/heart'. This phrase is always applied to something outside of our thoughts/heart (i.e. not imaginary), and expresses that that thing is the same as how we 'think/feel'. What this means therefore is making the outside world conform to our thoughts/desires.
+  #+BEGIN_QUOTE:
+  思いのままに動けない - In unchanged state of my thoughts, move-possible-not - I cannot move in the way I think I should
+  #+END_QUOTE
+  Remember: Sometimes 「思い」 does imply desire:
+  #+BEGIN_QUOTE:
+  片思い - One-sided-thought (unrequited love)
+  #+END_QUOTE
+
+* Chau, Chatta, ちゃう、 ちゃった
+  「ちゃう」 and 「ちゃった」 are contractions of the verb 「しまう」 meaning to finish/complete:
+  。。。てしまう -> ちゃう
+  。。。 てしまった -> ちゃった
+
+  「しまう」 can be formed into the い-stem 「しまい」 making it a noun, meaning 'the finish'/'the ending'. This past tense of this is 「しまった」 which can be used all on its own as an expression meaning 'something's gone very wrong'​/'this is not at all satisfactory'.
+
+  We can use this expression as a helper verb that we can attach to the て-form of another verb. This て + 「しまった」 gets contracted to ちゃった. If the て-form is で instead of て then 「ちゃった」 becomes 「じゃった」 just as 「では」 becomes 「じゃ」.
+
+  This can be used for a much wider range of things than just regret. To help understand all the varies uses of this expression, think of the English word 'totally.
+
+  We also use this about future things, with a similar feeling as 'done' is used for the past.
+
+* Japanese word order
+  As sentences become more and more complex, understanding word order becomes more necessary to understand what is going on.
+
+  English is a Subject-Verb-Object (SVO) language. 'Susan hit Mary' does not have the same meaning as 'Mary hit Susan'. In Japanese the question of who did what to whom is answered by the logical particles, not by the order of the words in the sentence.
+
+  As we have learned however there are still rules about what order words must come in Japanese sentences. This order is according to two simple rules:
+  1. The 'engine' always goes at the end of the sentence
+     a. any engine that does not come at the end of a sentence must be modifying a noun
+  2. Anything that modifies any thing (noun or head-verb) always comes before it
+
+  Point 2 is similar to English in simple cases. 'Warm day', 'nice dress', but in complex cases the modifier comes after the noun: '(the) dress I bought on Saturday'. In Japanese the modifiers *always* come before the noun.
+
+  Point 1a:
+  #+BEGIN_QUOTE
+  いちばで(∅が)青いドレスを買った - I bought a blue dress at the market
+  #+END_QUOTE
+  We know this is a complete logical clause because of rule 1.
+
+  #+BEGIN_QUOTE
+  いちばで(∅が)買ったドレス - The dress that I bought at the market...
+  #+END_QUOTE
+  Not a logical clause, but a modified noun
+
+  #+BEGIN_QUOTE
+  (∅が)ドレスを買ったいちばで - The market at which I bought the dress...
+  #+END_QUOTE
+  Again, not a logical clause but a modified noun
+
+  If the が marked A isn't visible, then there is nothing modifying it (sounds obvious but this hadn't clicked until it had been said).
+
+  The structure of every sentence, in order goes:
+  1. Modifiers of the A car (optional (if there is a visible A car))
+  2. The A car (may not be visible)
+  3. Modifiers of the B engine (optional)
+  4. The B engine
+
+
+  Remember: the 4 logical particles aside from が (に、 で、 を、 へ) all modify the B engine, if we see them before the A car, then they must be part of a clause modifying the A car.
+  # Is this strictly true?
+  Remember: modifiers can be entire clauses in their own right.
+
+* もらう
+  # TODO Notes on kureru and ageru?
+  「もらう」 means to 'download'. When used with a noun it does not imply a giver of the thing we are receiving, unlike kureru and ageru which are bound to a particular giver and receiver. When used with a verb, kureru implies that the giver took the initiative, whereas morau implies that the receiver took the initiative.
+
+  Even though no giver is implied, when a giver is mentioned, the giver is marked by に, this is the same as the receptive helper verb れる/られる, もらう like the receptive helper verb are 'pull' actions rather than 'pull' actions, in a push sentence the に marks the indirect object, the ultimate receiver of the action, whereas in a pull sentence the に marks the source of the action.
+  #+BEGIN_QUOTE
+  ∅がメイリーにボールを投げた - I threw the ball *at* Mary
+  #+END_QUOTE
+  Note: に marks the target of が-marked subject's action.
+  #+BEGIN_QUOTE
+  ∅がメイリーにボールを投げられた - I throw-received the ball *from* Mary
+  #+END_QUOTE
+  Note: に marks the source of が-marked subject's action.
+
+  #+BEGIN_QUOTE
+  ∅がお医者さんに見てもらう - (I) will have a doctor see me
+  #+END_QUOTE
+  The Doctor does seeing and the が-marked actor does receiving.
+
+  #+BEGIN_QUOTE
+  散髪をしてもらう - Receive a haircut
+  #+END_QUOTE
+  No implication of from whom.
+
+  The person もらう-ing does not have to be the speaker:
+  #+BEGIN_QUOTE
+  散髪をしてもらったほうがいい - (You) should get your haircut
+  #+END_QUOTE
+  Kureru cannot be used for someone other than oneself/one's group, but もらう can.
+
+  The polite form of もらう is いただく (or as this is polite speech is usually used with ます so) いただきます. We are used to this phrase before eating, but what it really means is something like 'I humbly receive'.
+
+** させてもらう
+   See also: /causative helper verb/ ([[causative]])
+#+BEGIN_QUOTE
+聞か-せて-もら-え-ます-か - hear-cause-receive-possible-formal-question - Is it possible to receive (your) causing (me) to hear, kind sir? (Can you tell me?)
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+学生でも下宿させてもらえませんか - Student even-if, caused-to-lodge receive-possible is not, good madam? Even if one is a student, is it not possible to receive being caused to lodge here? (Do you take students?)
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+∅がメガネを合わせてもらった - (I) glasses caused-to-fit received (I was fitted for glasses)
+#+END_QUOTE
+
+Sometimes this can mean 'allow':
+#+BEGIN_QUOTE
+帰らせてもらいます - (I) will receive (your) allowing (me) to go home
+#+END_QUOTE

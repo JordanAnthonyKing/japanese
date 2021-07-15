@@ -2624,3 +2624,38 @@ In 「ことに気付いた」 why is に used and not を? The Japanese-English
 - そとする means to act quietly, そと (quiet) + する (act (do))
   + おく means to put something in a place, but as we know the japanese concept of 'place' is very loose, so そとしておく means 'put in place acting quietly' (fairly close to a common English expression)
 
+
+* Lesson 54: Irregularities in Japanese
+This lesson will cover みる みられる みれる みえる and 聞く 聞ける 聞こえる
+
+These are the basic dictionary forms: みる 聞く, The regular potential forms: みられる みれる 聞ける and one alternative/exceptional/irregular potential variant: みえる, 聞こえる
+
+The conventional wisdom is that there are only two irregular verbs, する and くる but there are a few minor irregularities.
+
+Why is みれる not an irregular form when the 'correct' form is みられる? This is a common phenomenon called らぬき where the ら is frequently removed from the ichidan potential helper. This is very common but not official grammar.
+
+What is the difference between the regular and the irregular potential forms? In each of these cases the regular potential form is the 'force self-move' form. The potential form is usually self-move.
+
+#+BEGIN_QUOTE
+わたしは本が読める - As for me, book readable-does - I can read the book
+#+END_QUOTE
+This is self-move, the book is the actor and it is acting upon itself, making itself readable. We must get used to the fact that Japanese is very happy to treat states of being as verbal actions. We also have:
+#+BEGIN_QUOTE
+わたしは[∅が]読める - As for me, read-can - I can read
+#+END_QUOTE
+It also possible to use the potential in other-move concepts, usually this happens in modifying clauses:
+#+BEGIN_QUOTE
+さくらを見られる日を楽しみにしている - I'm looking forward to the day I can see Sakura
+#+END_QUOTE
+「さくらを見られる」 is the modifying clause. Here we can see みられる being used with を, making it an other-move verb, the object being さくら. We can't do this with みえる or きこえる, they are forced to be self-move verbs.
+
+There is a nuance here in that みえる implies literally being 'able' to see something, whereas みられる implies the 'opportunity' to see something. i.e. I have the opportunity to go see a play vs (The lady infront of me has taken off her hat and now) I am able to see the play. The only difference between these two in japanese would be the form of helper verb.
+
+This alone isn't the sole reason for these two forms surviving into modern japanese, the important reason is that the very nature of seeing and hearing, and expressions we use in connection with seeing and hearing are both used in places where in English we would say something looks or sounds like something. You cannot use the regular versions for this, you have to use the irregular.
+#+BEGIN_QUOTE
+さくらはカエルに見える - Sakura looks like a frog
+#+END_QUOTE
+#+BEGIN_QUOTE
+奇妙に聞こえる - Sounds peculiar
+#+END_QUOTE
+The way something sounds or looks always has to be self move, because we're not doing anything to the sound or image, it is the sound or image that is doing the act of seeming a certain way.

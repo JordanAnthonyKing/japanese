@@ -572,7 +572,7 @@ Do you think I'm going to do that? - I'm not going to do that!
 
 ** Past
    <<Verb past>>
-   To form the past tense of a verb we need to take the verb stem([[*Verb stems]]) and add た.
+   To form the past tense of a verb we need to take the verb stem([[*Verb stems]]) and add た for ichidan and った for godan.
    #+BEGIN_QUOTE
    犬がたべた - The dog ate
    #+END_QUOTE

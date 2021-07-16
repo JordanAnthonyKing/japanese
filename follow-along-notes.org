@@ -2659,3 +2659,74 @@ This alone isn't the sole reason for these two forms surviving into modern japan
 奇妙に聞こえる - Sounds peculiar
 #+END_QUOTE
 The way something sounds or looks always has to be self move, because we're not doing anything to the sound or image, it is the sound or image that is doing the act of seeming a certain way.
+* Lesson 55: Secrets of the で particle
+  /Drilling deeper into Japanese structure/
+
+  As we know, almost all Japanese words divide into three kinds, nouns, verbs and adjectives, most 'other types' are structurally nouns. There is however another way of dividing words which is used in Japanese grammar, this is to divide them into static 'body words' (体言) and active 'use-words' (用言). Static words essentially boil down to nouns.
+
+  By active words, what is meant is those words that can transform, i.e. the final kana can morph or vanish. This applies to both adjectives and verbs. As we know, verbs and adjectives cannot end in a kanji, they must end in a kana. For Godan verbs the final kana is always an う-row kana, and can become the equivalent kana from one of the other 4 rows. For Ichidan verbs the る kana is dropped. For adjectives we can change the い to く、 か or け, or we can drop the い altogether and add something else.
+
+  Static words (nouns) on the other hand cannot be modified at all (grammatically), we just add logical particles or the copula to them. It is important to understand that when we join a logical particle and a noun together we must regard those two things as a single unit.
+  # There are some more notes here on な-adjectives and how a noun + な itself could be 'properly' called a な adjective
+
+  Once we have added the copula (だ) to a noun that unit is not an 'active' word, i.e. we *can* modify it, for instance, as we know, the copula has a て-form which is で, we have modified the final kana of the unit. This is also how we do the past tense of nouns.
+
+  This means that all three engines are 用言, active words/units.
+
+  Understanding this we can take a deeper look at the particle で.
+
+  Unlike what was said when we covered で earlier, で is not absolutely restricted to 'a does b' verb sentences (though most of the time it's used in verb sentences). What で is really restricted to is clauses that modify 用言, and as we have just learned a 用言 can be a verb, can be an adjective, but can also be a noun+copula.
+  # TODO Update structured notes with this information
+
+  So what is で actually doing?
+
+  As we know, there are three 'positional' logical particles, they are:
+  - に - Where something goes to or where it is once its got there
+  - え - Directional particle
+  - で - The boundary or limit within which something happens
+
+  Usually the limit described by で is a physical area, though it doesn't have to be. で tells us the boundary within which an action or (here's the new part) a state of being takes place. In other words, it can be adjectival.
+
+  #+BEGIN_QUOTE
+  世界で一番おいしいラメン - The most delicious ramen in the world
+  #+END_QUOTE
+  Why are using で in this case? 「世界で」 is defining the limit within which something is happening, in this case it's defining the limit within which the state of being applies. We are talking about the most delicious ramen in the world, the limit of the state of being the most delicious ramen is the world.
+  #+BEGIN_QUOTE
+  この町で一番おいしいラメン - The most delicious ramen in this town
+  #+END_QUOTE
+
+  # How does this relate to means tho?
+  # TODO: Redo で lesson
+
+  We could say:
+  #+BEGIN_QUOTE
+  世界の一番おいしいラメン - The world's most delicious ramen
+  #+END_QUOTE
+  But this isn't modifying the quality of おいしい (putting a limit on おいしい) in the same way that で is. It is modifying ラメン.
+
+  We can also say:
+  #+BEGIN_QUOTE
+  このラメンは世界で一番おいしい - This ramen is the most delicious in the world
+  #+END_QUOTE
+  But we can't say:
+  #+BEGIN_QUOTE
+  このラメンは世界の一番おいしい - This ramen is the most delicious in the world
+  #+END_QUOTE
+  Because in Japanese words can only modify words that come after them, they can't modify words that come before them, の cannot modify おいしい which is an adjective, it can only modify ラメン which is another noun, and because ラメン  is on the wrong side of it, we can't use it.
+
+  Finally, since we now know that a noun+copula functions as a 用言 (an active element) we can also say:
+  #+BEGIN_QUOTE
+  世界で一番有名なアンドロイド - The most famous android in the world
+  #+END_QUOTE
+  世界で couldn't modify 有名 on its own because 有名 is a noun, but joined with な (the connective form of the copula だ) it can.
+
+  The same thing is happened when we say:
+  #+BEGIN_QUOTE
+  みんあで踊る - We all dance
+  #+END_QUOTE
+  #+BEGIN_QUOTE
+  二人で踊る - The two of us dance
+  #+END_QUOTE
+  #+BEGIN_QUOTE
+  一人で踊る - Dance alone
+  #+END_QUOTE

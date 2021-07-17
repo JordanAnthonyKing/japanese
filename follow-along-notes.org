@@ -2730,3 +2730,33 @@ The way something sounds or looks always has to be self move, because we're not 
   #+BEGIN_QUOTE
   一人で踊る - Dance alone
   #+END_QUOTE
+* Lesson 56: Deeper secrets of は and の particles
+  Japanese is a 'topic prominent' language. Topic-comment structure is a very fundamental aspect of Japanese in a way that it isn't in English. It is for this reason that we so often say 'as for x' when that isn't how we would say something in English.
+  #+BEGIN_QUOTE
+  アフリカはライオンはいるがトラはいない
+  #+END_QUOTE
+  In this sentence we have three はs in a very short space. These are *all* topic markers. The first は is the overall topic marker, it's saying 'speaking of Africa', everything that follows is going to be a comment on the topic of Africa. Everything that follows must be a logical clause, it doesn't matter how small the clause is, but is must be a logical clause. What we have in this example is a sentence consisting of two logical clauses, each of which contains a 'sub-topic'. Each logical clause also has a topic statement preceding it. In full:
+  #+BEGIN_QUOTE
+  アフリカはライオンは[∅が]いるがトラは[∅が]いない
+  #+END_QUOTE
+  Note how there is the contrastive conjunction は used in this sentence. You can tell that it is this が and not the other because it follows a verb (いる) and the logical particle が can only mark nouns.
+
+  Why are they doing this?
+
+  It is because は is used to distinguish things.
+  #+BEGIN_QUOTE
+  アフリカはライオンはいるがトラはいない - Speaking of Africa, speaking of lions, they exist but speaking of tigers, they don't exist.
+  #+END_QUOTE
+  We would never say something like this in English, because the topic marker は is very /agile/, but the methods of introducing a topic in English are not, so they seem forceful or cumbersome.
+
+  When we introduce something using は we are implicitly saying that the comment on the new topic is different from the comment on the old topic. If we wanted to say that the comment is the same we would use the topic marker も.
+
+  -----
+
+  A similar example with の that isn't structurally very complicated, but is very unlike what would be said in English. This comes from the song 'the bells of notre dame':
+  #+BEGIN_QUOTE
+  朝のパリに響くのは鐘だよ
+  #+END_QUOTE
+  Where are the A and the B of this sentence? This is an A is B sentence. The は-marked topic is 「朝のパリに響くの」 so の is bundling 「朝のパリに響く」 into a single noun which we're talking about, 'Resounds in morning paris' -> 'That which resounds in morning Paris'. The A or が marked topic is that which has just been defined for us by の (the resounding thing in a parisian morning).
+
+  Why is it being put this way? Because it /can/ be. Again, it is cumbersome in English, but not in Japanese.

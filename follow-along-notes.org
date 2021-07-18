@@ -2760,3 +2760,15 @@ The way something sounds or looks always has to be self move, because we're not 
   Where are the A and the B of this sentence? This is an A is B sentence. The は-marked topic is 「朝のパリに響くの」 so の is bundling 「朝のパリに響く」 into a single noun which we're talking about, 'Resounds in morning paris' -> 'That which resounds in morning Paris'. The A or が marked topic is that which has just been defined for us by の (the resounding thing in a parisian morning).
 
   Why is it being put this way? Because it /can/ be. Again, it is cumbersome in English, but not in Japanese.
+* Lesson 57: 込む - The secret of multi-meaning Japanese words
+  Often in japanese-english dictionaries there words that seem to have a whole range of different and ostensibly unconnected meanings. Not homophones, where the kanji are different but the sound is the same, these are multiple meanings all for the same exact word. The important thing to understand is that normally there's going to be a 'base' concrete meaning, and from that a number of metaphorical meanings.
+
+  Human language whenever it discusses in abstract uses words that are based in concrete physical metaphors, even if we forget that they are metaphors. i.e. we talk about time in terms of space, going forwards and backwards, and existing on a line. This is true for all abstractions. When we come across words in Japanese that seem to have disparate meanings we need to understand the basic metaphor in use.
+
+  One of these words is the word 込む (こむ). 込む does not have an exact meaning in English, but we can see what it does mean by looking at the kanji. The kanji is essentially the kanji of 入 from 入る (enter/put in) and the free radical meaning 'road', some say it looks like a waterslide, Cure Dolly says a fast road. This is the meaning of 込む to cram in in large quantities, put in rapidly, put in vigorously.
+
+  We may encounter this initially in very simple meanings such as '込んでいる' - the state of being 込む i.e. crowded. It can have more abstract meanings like 'complicated' which is essentially the same, a lot of ideas/concepts all crammed in.
+
+  It then becomes attached as a helper verb to the い-stem of other verbs. 飛び込む which means 'jump in'. Either literally or metaphorically.
+
+  # There are more examples given

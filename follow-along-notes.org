@@ -2772,3 +2772,33 @@ The way something sounds or looks always has to be self move, because we're not 
   It then becomes attached as a helper verb to the い-stem of other verbs. 飛び込む which means 'jump in'. Either literally or metaphorically.
 
   # There are more examples given
+
+* Lesson 58: Particle combinations
+  There's really no such thing as double particles or particle combinations as such, the particles are really just doing what they do all the time.
+
+  It is important to remember the distinction between logical and non-logical particles.
+
+  You can't combine any of the logical particles with any of the others, because logical particles mark nouns with their function in the sentence. What you can combine them with is the non-logical particles, notably the two non-logical topic markers は and も. Combining in this way doesn't clash at all logically as は and も don't tell us anything about what a noun is doing in the sentence.
+
+  The two primary logical particles が and を don't combine with the non-logical particles because any sentence that is directly transitive, that is a sentence where the actor acts upon an object directly. 'I eat' for example is intransitive, but 'I eat bread' is intransitive.
+
+  # There are some notes here on English propositions and other examples
+
+  Any sentence with the を particle is directly transitive, the use of any other particle i.e. と or に is indirectly transitive.
+
+  Because of the directness of が (the thing acting) and を (the thing being acted upon) they can't have a non-logical particle appended to them. If you wanted to attach a non-logical particle you would simply leave the logical particle out, and because が and を are so fundamental they would be understood by the hearer in Japanese.
+
+  We can pair the remaining logical particles with any non-logical particle, the reason for which isn't to make any kind of unusual pair-combination, but to simply use the functions of both particles at the same time.
+  #+BEGIN_QUOTE
+  ∅が冬には雪だるまを作る - As for in the winter, we make snowman
+  #+END_QUOTE
+  We don't need this は, but we can choose to use it to make 'in winter' the subject of the sentence. は also differentiates winter from the other seasons, implying we only make snowmen then.
+  #+BEGIN_QUOTE
+  ∅が春にも雪だるまを作る - We make a snowman in the spring as well
+  #+END_QUOTE
+  We do need に so that the topic is about *in* winter.
+
+  #+BEGIN_QUOTE
+  学校には行く - Going to school
+  #+END_QUOTE
+  This sentence carries the implication that we're going to school but not going somewhere else (because of the exclusiveness of the は particle).

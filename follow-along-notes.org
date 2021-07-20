@@ -2624,7 +2624,6 @@ In 「ことに気付いた」 why is に used and not を? The Japanese-English
 - そとする means to act quietly, そと (quiet) + する (act (do))
   + おく means to put something in a place, but as we know the japanese concept of 'place' is very loose, so そとしておく means 'put in place acting quietly' (fairly close to a common English expression)
 
-
 * Lesson 54: Irregularities in Japanese
 This lesson will cover みる みられる みれる みえる and 聞く 聞ける 聞こえる
 
@@ -2802,3 +2801,11 @@ The way something sounds or looks always has to be self move, because we're not 
   学校には行く - Going to school
   #+END_QUOTE
   This sentence carries the implication that we're going to school but not going somewhere else (because of the exclusiveness of the は particle).
+* Lesson 59: Untranslatable Japanese
+# Not sure if there will be much to take notes on in this lesson
+
+# Lots of reiteration of japanese using verbs for what we would use as adjectives and how the things we would descrivbe in English are actualy doing the action in japanese, i.e. the book does readable
+
+There is a group of verbs in Japanese that are defined by their English translations, but the definition isn't real. These are the 'become' verbs:
+- 濡れる - Do (state of) wet (become wet)
+- 濁る - Do (state of) cloudy/muddy (become cloudy/muddy)

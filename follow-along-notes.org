@@ -2809,3 +2809,59 @@ The way something sounds or looks always has to be self move, because we're not 
 There is a group of verbs in Japanese that are defined by their English translations, but the definition isn't real. These are the 'become' verbs:
 - 濡れる - Do (state of) wet (become wet)
 - 濁る - Do (state of) cloudy/muddy (become cloudy/muddy)
+
+* Lesson 60: Non-logical structure
+  Japanese is very topic-comment focused.
+
+  Just as with が, every sentence also has a は marked topic, whether we can see it or not
+  - アメリカ人です
+  - ∅がアメリカ人です
+  - ∅は∅がアメリカ人です
+  - (I) am the topic, (I) am the subject, and (I) am an American
+
+  Just as a sentence isn't /logically complete/ without a が-marked subject (invisible or otherwise) a sentence isn't /grammatically complete/ without a は-marked topic (invisible or otherwise).
+
+  As with が the default value of ∅ is 'I'.
+
+  The topic is usually a noun, and the comment must be a complete logical clause.
+
+* Lesson 61: が and は deeper secrets
+  Topic-comment structure is fundamental to Japanese. Every sentence has a topic marked by は, and a comment consisting of a complete logical clause, a が marked subject and some engine. Both the topic and the subject can be invisible.
+
+  In sentences where both the topic and the subject are the same thing, we can use one or both particles. Choice of particle depends on whether we want to emphasise that the thing at hand is the subject or the topic. For instance, if the person we are speaking to isn't aware of who/what something is, it is bast to introduce that thing with が first to explain what it is/does.
+
+  A topic marker can only mark *old* information. This is important because old-information is unimportant information. New information is the thing we're actually trying to convey to someone. は therefore cannot mark new information.
+
+  There is an example here (in English) about 'I fed the iguana', if we used は people would ask 'what iguana' because you hadn't mentioned it yet. The same is true in English, you would have to say 'I fed my' or 'I fed an'. Keep in mind, there are limits to this. For instance, in English it's very common to say 'I fed the dog', to someone, even if they don't know you have a dog, because it's very normal to own a dog, less so to own an Iguana.
+
+  #+BEGIN_QUOTE
+  本を買った - (I) bought a book
+  #+END_QUOTE
+  This is the most normal way to say 'I bought a book'. As we know the ∅ defaults to 'I' when the context isn't telling us that it's anything else. There is no emphasis, it is just a mutual 'I bought a book'. In this sentence I is the subject and the topic.
+  #+BEGIN_QUOTE
+  私は本を買った - What I did was buy a book (you might have bought something else or nothing at all, but /I/ bought a book)
+  #+END_QUOTE
+  If we choose to stress 'I' as the topic we are making わたし into the old information, and the buying of the book into the new information. は has a distinguishing function. When we use は we are either establishing or changing the topic. We know は not only changes the topic to whatever it marks, but it also implies that the comment on the new topic is different to the comment on the old topic. Even if there wasn't an old topic it still implies that the comment is different than the comment on other possible topics. This means that the sentence is implicitly an answer to the question (even if it wasn't asked) 'what did you do?'.
+  #+BEGIN_QUOTE
+  私が本を買った - It is I who bought the book
+  #+END_QUOTE
+  Here we have reversed the emphasis. The old information is now the buying of the book and the new information is /I/. Why would we say this? Perhaps someone is looking at an empty space in the bookshelf and wondering what happened. Then we would place the emphasis on it being 'I' who removed the book (by buying it). The book being gone (i.e. bought) is known information by both parties here, even if the exact reason for the books disappearance isn't known. Though, if you're in a bookstore the most likely reason is that it was bought.
+
+  は and が can also mark particularities, as well as generalities:
+  #+BEGIN_QUOTE
+  花はきれいだ - More likely to mean flowers in general
+  #+END_QUOTE
+  Flowers are old information, we all know what flowers are, so flowers in general.
+  #+BEGIN_QUOTE
+  花がきれいだ - More likely to mean these particular flowers
+  #+END_QUOTE
+  Flowers are new information, so it must be some non-general flowers.
+
+  These are all tendencies however. There is no structural reason for any of these differences. They come entirely from expectations.
+
+  は also adds emphasis forwards:
+  #+BEGIN_QUOTE
+  おまえみたいな半人前に休みはない - For trainees like you, there are no rests - (More accurately) As for traineers like you, as for rests, there are none
+  #+END_QUOTE
+  The topic is 「おまえみたいな半人前に」 but the writer has chosen to deemphasise this topic, and introduce a subtopic that is やすみ, 'rests'. This places the emphases on the not existing of the tests.
+  # I'd like a better example than this.

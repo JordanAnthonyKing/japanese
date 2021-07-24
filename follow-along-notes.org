@@ -2865,3 +2865,17 @@ There is a group of verbs in Japanese that are defined by their English translat
   #+END_QUOTE
   The topic is 「おまえみたいな半人前に」 but the writer has chosen to deemphasise this topic, and introduce a subtopic that is やすみ, 'rests'. This places the emphases on the not existing of the tests.
   # I'd like a better example than this.
+* Lesson 62: て-おく vs て-しまう, Helper verb secrets
+Japanese people are very fond of helper verbs and attach them very often depending on circumstance. We do the same thing in English, but not with verbs, with prepositions. Particularly with 'up' and 'out':
+- Make up - Make out
+- Speak up - Speak out
+- Throw up - Throw out
+- Eat up - Eat out
+- Wake up
+- Try out
+
+  Japanese doesn't have any prepositions, but uses helper verbs in place of them.
+
+  Remember, おく means 'place/put' and ておく means to put something in place (for some reason). That is to say, the use of ておく implies a reason for the action, even if not stated.
+
+  # There's many examples given here but I don't feel like writing them, they just need to be picked up by immersion

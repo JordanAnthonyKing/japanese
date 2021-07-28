@@ -2879,3 +2879,24 @@ Japanese people are very fond of helper verbs and attach them very often dependi
   Remember, おく means 'place/put' and ておく means to put something in place (for some reason). That is to say, the use of ておく implies a reason for the action, even if not stated.
 
   # There's many examples given here but I don't feel like writing them, they just need to be picked up by immersion
+* Lesson 63: Sentence enders in real life Japanese
+** かい
+   かい is simply a softened and colloquial form of か. In casual speech we don't use か as a sentence-ender question marker very often (though we do use it in other positions). Usually we will just use a rising intonation (or a question mark on its own in typed speech), we may use の (which is ambiguous because it can mark a question or an explanation), but we can occasionally use かい. かい is a predominantly masculine (though older women may use it) and rather 'folksy' way of marking a question.
+
+** だい
+   だい is just だ+かい. This is the form of かい we use in copula-ending sentences. Everything about かい applies to だい except a particularly common colloquialism which is 「どうだい」 meaning 'how is [something]'.
+
+** ちょうだい
+   This isn't related to かい or だい but is an informal equivalent to ください, so usually it is added to the て-form of a verb to ask someone to do something. It is slightly feminine but not exclusively.
+
+** Emphasisers
+   - せ - verbal exclamation mark that adds force - masculine - far more common in anime and manga than in real life
+   - そ - verbal exclamation mark that adds force - masculine - far more common in anime and manga than in real life
+   - さ - more common verbal exclamation mark, slightly masculine but not exclusively. Very likely to hear in real life
+
+** pseudo-sentence enders
+   Often sentences end in conjunctions. This has been covered previously.
+
+   # There are some notes here about how kara can add force
+
+   し is very similar to から, it's most common and regular use is to combine reasons. There is an example here, it essentiall goes: reason a し reason b し therefore... you can therefore use し with only one reason to imply that there are other reasons also. し has the effect of softening a reason, so saying something like 'because riding a bike is forbidden here' + し sounds a bit friendlier. This tactic of 'vaguing' things up is common in English using words like 'like' and 'kinda'

@@ -2900,3 +2900,46 @@ Japanese people are very fond of helper verbs and attach them very often dependi
    # There are some notes here about how kara can add force
 
    し is very similar to から, it's most common and regular use is to combine reasons. There is an example here, it essentiall goes: reason a し reason b し therefore... you can therefore use し with only one reason to imply that there are other reasons also. し has the effect of softening a reason, so saying something like 'because riding a bike is forbidden here' + し sounds a bit friendlier. This tactic of 'vaguing' things up is common in English using words like 'like' and 'kinda'
+* Lesson 64: もの and こと secrets
+When first introduced もの and こと where explained as being for tangible, and abstract things separately. This is a good explanation for an early learner, but is not the whole picture:
+#+BEGIN_QUOTE
+愛はすばらしいいものだ - Love is a wonderful thing
+#+END_QUOTE
+Obviously love is abstract, so why are we using もの? もの is used for /nouns/. A noun representing a physical thing or a noun representing an abstract thing.
+
+#+BEGIN_QUOTE
+日本に行ったことがある - (I) have been to Japan
+#+END_QUOTE
+Notice how this is a very different statement to 'I went to Japan'. 'I went' speaks of one particular instance, whereas 'I have' could mean once, or many times. It is the general fact of having been. '(As for me) the thing (the activity/the fact) of 'went to Japan' exists'.
+#+BEGIN_QUOTE
+日本に行くことがある - The fact of my *going* to Japan exists - I sometimes go to Japan
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+どんな人にも失敗することがある - Everybody sometimes makes mistakes - Whatever kind of person it may be, the fact of making mistakes exists.
+#+END_QUOTE
+
+** もの as a sentence ender
+Sometimes もの is used in a way that looks like a sentence-ender. The first way is when ものだ is added to a complete logical clause. What this means, is that, the logical clause that we're speaking about, as a generalisation, is reality (is a thing).
+#+BEGIN_QUOTE
+冬は寒いものだ - Winter is cold, and that's just a thing (fact)
+#+END_QUOTE
+
+# There are some notes here on the strict grammaticality of this construction.
+
+#+BEGIN_QUOTE
+子供のころには、よくこちらに来たものだ - When I was a child, coming here was a thing.
+#+END_QUOTE
+Note that such a statement has a nostalgic ring to it, and a sense of personalness. As well as an implicit statement that we no longer come.
+
+What is the difference between:
+#+BEGIN_QUOTE
+日本に行ったことがある - (I) have been to Japan
+#+END_QUOTE
+#+BEGIN_QUOTE
+日本に行ったものだ - (I) used to go to Japan
+#+END_QUOTE
+Note the latter is far more emotional.
+
+** こと as a sentence ender
+こと is used as a sentence ender for lists of rules. Even a single statement, if followed by こと shows that that thing is a rule/regulation. こと shows that the statement is a decision that has been made. Refer to lessons 28 and 29.

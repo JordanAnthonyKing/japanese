@@ -2943,3 +2943,21 @@ Note the latter is far more emotional.
 
 ** こと as a sentence ender
 こと is used as a sentence ender for lists of rules. Even a single statement, if followed by こと shows that that thing is a rule/regulation. こと shows that the statement is a decision that has been made. Refer to lessons 28 and 29.
+
+* Lesson 65: て行く and て来る, coming and going
+There are some notes here on the differences between kuru and iku and their English translations of come and go
+Essentially Kuru just means movement from somewhere else to where I am, Iku on the other hand is not quite so strict
+There are also some examples of Iku being used as a time metaphor
+
+#+BEGIN_QUOTE
+勉強すれば、だんだん数学が分かってくる - If you study, you will come to understand mathematics
+#+END_QUOTE
+(Noting the above comments) It is not possible to use くる to speak about 'coming' to somewhere you aren't currently. You can only 'go' to somewhere you aren't currently. So what's going on? This is because 分かる does not mean 'understand', it means 'understandable', so what we're really saying is that the understanding will come to us (from away from us).
+
+いく represents either movement away from us, or from one spot to another that doesn't involve us. This applies also to metaphors. くる can only mean towards us, or involving/relating to us, physically, temporally, or emotionally.
+#+BEGIN_QUOTE
+寒くなってきた - It became cold to me/us (directly involves us)
+#+END_QUOTE
+#+BEGIN_QUOTE
+寒くなっていった - It became cold (objectively speaking)
+#+END_QUOTE

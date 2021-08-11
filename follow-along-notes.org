@@ -2961,3 +2961,6 @@ There are also some examples of Iku being used as a time metaphor
 #+BEGIN_QUOTE
 寒くなっていった - It became cold (objectively speaking)
 #+END_QUOTE
+* Lesson 66: Hidden subjects
+Sometimes Japanese may not define the ∅ pronoun. We do this sometimes in English too: 'I hear they're putting a man on mars next year'. Who's 'they', we can't tell from the sentence, we just have to use our wider knowledge to conclude NASA (or Mr. Musk, Russians or the ESA or the Chinese). This is quite common in Japanese.
+# There's an example given but I don't think it's super necessary, nor are the extra explanations arount he topic

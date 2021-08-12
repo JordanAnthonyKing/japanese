@@ -2964,3 +2964,60 @@ There are also some examples of Iku being used as a time metaphor
 * Lesson 66: Hidden subjects
 Sometimes Japanese may not define the ∅ pronoun. We do this sometimes in English too: 'I hear they're putting a man on mars next year'. Who's 'they', we can't tell from the sentence, we just have to use our wider knowledge to conclude NASA (or Mr. Musk, Russians or the ESA or the Chinese). This is quite common in Japanese.
 # There's an example given but I don't think it's super necessary, nor are the extra explanations arount he topic
+
+* Lesson 67: もう and まだ
+まだ situates the present time inside a time segment that stretches back into the past and is either expected to end, or at the last the possibility of its ending is being considered. There was some expected point at which the time segment would end, however this is not when it ended, it has extended beyond this point into the present, and is now expected to actually end in the future. This essentially means 'still'.
+#+BEGIN_QUOTE
+宿題は​*まだ*​しなかった - I haven't done my homework yet/I still haven't done my homework - The time segment of me not having done my homework is still ongoing, it should've finished (I should've done my homework already), but it will end (I will do my homework (or at least it's possible that I'll do it))
+#+END_QUOTE
+#+BEGIN_QUOTE
+さくらはまだ若い - Sakura is still young
+#+END_QUOTE
+#+BEGIN_QUOTE
+さくらはまだ大人ではない - Sakura is not yet grown up - Sakura is still not an adult
+#+END_QUOTE
+Note: negatives do not have to be explicit:
+#+BEGIN_QUOTE
+1. 日本語はうまいね - Your Japanese is very good isn't it
+2. いえまだまだです - Not yet i.e. We're still in the time period where our Japanese isn't good
+#+END_QUOTE
+
+With もう the dictionary definitions get more confusing, but really it's no different to まだ, only in reverse. Instead of a time segment that should've ended in the past extending into the future, we have a time segment that should've started in the future, but actually started in the past (and is still ongoing). The best translation into English would be 'already'.
+#+BEGIN_QUOTE
+*もう*​やったよ - I've already done it
+#+END_QUOTE
+There are some notes here on how もう (and まだ) means 'now' but how also 'already' in English means now, it's just down to how different languages prefer to use different words
+#+BEGIN_QUOTE
+*もう*​大丈夫 - I'm fine now (I'm already fine)
+#+END_QUOTE
+Just note how these are essentially the same statement, just noone would say 'I'm already fine' in English.
+
+もう is also used as an expression of annoyance:
+#+BEGIN_QUOTE
+*もう*​いい - Enough already
+#+END_QUOTE
+#+BEGIN_QUOTE
+*もう*​やめた - Stop that now (not later (it should've never started))
+#+END_QUOTE
+#+BEGIN_QUOTE
+*もう*​...! - Sheesh
+#+END_QUOTE
+
+There is actually a second (albeit similar) もう. It is related the particle も and has the same additive meaning.
+#+BEGIN_QUOTE
+*もう*​一つ - Another thing
+#+END_QUOTE
+
+もう (proper もう) is a time relation that means 'already', dictionaries also say that it means 'soon'. It only means soon in certain combinations:
+#+BEGIN_QUOTE
+*もう*​すぐ - Soon
+#+END_QUOTE
+This is a sort of double positive, すぐ by itself means soon, and もう means already, so we have 'already soon'. もう is emphasising the 'soon'. 'It is soon right now'.
+#+BEGIN_QUOTE
+*もう*​少し - (just) a little more - Already a little (We've come all this way and there's only a little bit left (time/effort/distance))
+#+END_QUOTE
+
+The additive もう is also often used to express time relations in much the same way as the regular もう.
+#+BEGIN_QUOTE
+*もう*二度来ないよ! - I'll never come again - lit: I won't come for another second time
+#+END_QUOTE

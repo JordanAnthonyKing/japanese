@@ -3021,3 +3021,62 @@ The additive もう is also often used to express time relations in much the sam
 #+BEGIN_QUOTE
 *もう*二度来ないよ! - I'll never come again - lit: I won't come for another second time
 #+END_QUOTE
+
+* Lesson 68: Japanese underlying logic, わけ、 そういうわけ、 わけが分からない、 わけない
+わけ is another word that is used in a variety of ways and situations in Japanese and that English dictionaries give a myriad of definitions for that seem very disjointed.
+
+わけ is a noun that's /original/ root meaning meant 'divide' or 'separate' as in わける and is also related to わかる (do understandable (understand)). The metaphor here is to break something down into constituent parts, this applies simply to 'divide' and also to 'understand' as 'do broken-down'.
+
+Of note: わけ is not tied to any one kanji, it is a fundamental Japanese word that predates kanji. There are in fact three kanji that can represent わけ (although it is usually written in kana) and each carries a different nuance to the same fundamental meaning.
+
+わけ means 'cause' or 'conclusion'. A cause and a conclusion are essentially the same thing, they just work in opposite directions. One reasons forwards, one reasons backwards.
+
+1. わけ is used to give a reason:
+#+BEGIN_QUOTE
+そういう​*わけ*​でベッドの下に隠れた - By so-said reasoning I hid under the bed - For that reason I hid under the bed
+#+END_QUOTE
+#+BEGIN_QUOTE
+そういう​*わけ*​でした - Thus-said reasoning was - So that's how it happened
+#+END_QUOTE
+#+BEGIN_QUOTE
+そんな​*わけ*​で宿題を忘れました
+#+END_QUOTE
+
+2. わけは分からない
+#+BEGIN_QUOTE
+わけは分からない - The reason doesn't do understandable - It doesn't make sense
+#+END_QUOTE
+
+3. わけではない - わけ used as 'it's not as if...' 'it doesn't mean that...'
+#+BEGIN_QUOTE
+A. She always eats in cheap restaurants
+B. お金が足りない​*わけ*​ではない - Money-is-insufficient reasoning is not - The conclusion isn't that she's low on money - It's not as if she doesn't have the money
+#+END_QUOTE
+- Remember any clause can modify a noun (the noun here is わけ)
+
+#+BEGIN_QUOTE
+嫉妬した​*わけ*​ではありません - It's not that I got jealous
+#+END_QUOTE
+
+4. わけがない/わけない - Strong denial
+- Y=Xわけではない - Proposition Y does not have the /reasoning/ of entailing proposition X - The circumstance we're talking about doesn't have *that* reason (for it to be)
+- Xわけがない - Proposition X does not have any reasoning (therefore it's not true) - *No* reasoning exists for that
+#+BEGIN_QUOTE
+さくらはうそをつく​*わけ*​がない - Sakura-tell-a-lie reasoning is non-existent - The reason for Sakura to lie doesn't exist - Sakura would never lie
+#+END_QUOTE
+Note, just because we can see /reasons/, it doesn't mean that those reasons are actually enough for someone to do something based on their character.
+
+#+BEGIN_QUOTE
+さくらを忘れる​*わけ*​がない - I won't forget (you) Sakura
+#+END_QUOTE
+
+5. わけがない - (Simply) there's no reason
+#+BEGIN_QUOTE
+そんなにお金のいる​*わけ*​がない - So-much-money needed reasoning is non-existent - There's no reason to have so much money - There's no need to have so much money
+#+END_QUOTE
+
+6. わけがない - Something is simple/easy (hyperbole)
+X has no reasoning (therefore is simple enough to exist without it (hyperbole))
+#+BEGIN_QUOTE
+日本語をはなすのわわけがないことだ - Speaking Japanese is easy (and there's no reason needed) - Japanese is a no-brainer
+#+END_QUOTE

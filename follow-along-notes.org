@@ -3080,3 +3080,13 @@ X has no reasoning (therefore is simple enough to exist without it (hyperbole))
 #+BEGIN_QUOTE
 日本語をはなすのわわけがないことだ - Speaking Japanese is easy (and there's no reason needed) - Japanese is a no-brainer
 #+END_QUOTE
+
+* Lesson 69: Kaidan 4
+# Just going to jot down any new details
+のだ sentence ender means something like 'it was that [whatever came before]'. Same for んです.
+
+おる is an old-fashioned/literary version of いる.
+
+い-stem of a verb is a more literary way of joining two clauses.
+
+見て欲しい means 'want someone to see'.

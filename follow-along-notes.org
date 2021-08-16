@@ -3090,3 +3090,66 @@ X has no reasoning (therefore is simple enough to exist without it (hyperbole))
 い-stem of a verb is a more literary way of joining two clauses.
 
 見て欲しい means 'want someone to see'.
+
+* Lesson 70: かける/かかる
+The core meaning of these two words is 'hang' or 'hook', though as has been covered previously the Japanese definition doesn't quite occupy the same meaning-space as the English. The two versions are just for self-move (かかる) and other-move (かける) usages.
+
+** かける
+Again, かける doesn't quite mean 'hang'/'hook'. When we cover something with a blanket we use かける:
+#+BEGIN_QUOTE
+毛布をかける - Put a blanket over [it]
+#+END_QUOTE
+In Japanese we don't 'put' as we would a cup on a table, we 'put' in such a way that it hangs down the sides.
+
+#+BEGIN_QUOTE
+メガネをかける - Put on glasses
+#+END_QUOTE
+Again, in English we would us 'put' here, but in Japanese they are 'hanging' from our ears and nose. Similarly a necklace would 'hang' from our neck (this is more similar to English).
+
+Also, when we shake something over food (say sugar or flour) we use (振り)かける. Again, this is because the ingredient covers and in a manner hangs from. It's not one solid sheet, it's a collection of particles, but the behaviour of covering and going over the sides is the same.
+
+As we're talking about things being in a sense stuck/caught on something (a necklace is hanging from a neck but it's also caught there and can't easily get away) this notion of putting something onto something in a way that it doesn't easily become dislodged can apply to putting an effect (magic spell, aesthetic, nuisance/annoyance etc) on someone:
+#+BEGIN_QUOTE
+魔法をかける - Put a magic (spell) [on...]
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+腰をかける - Hips hanging - Sat down
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+かぎをかける - Hang a lock - Lock the door (かぎ means both key and lock in Japanese)
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+はなしをかける - Hook-up a conversation - Start a conversation
+#+END_QUOTE
+
+かけた can be used to actions which haven't completed (have gotten caught):
+#+BEGIN_QUOTE
+食べかけたCookie - Part eaten cookie - A cookie that got caught on eating
+#+END_QUOTE
+
+** かかる
+As we're talking about things being in a sense stuck/caught on something (a necklace is hanging from a neck but it's also caught there and can't easily get away) the self-move version especially can have a meaning of 'caught in a trap':
+#+BEGIN_QUOTE
+詐欺にかかっている - Caught in (by) a swindle
+#+END_QUOTE
+
+Something rather untranslatable:
+#+BEGIN_QUOTE
+時間がかかる - Time hangs - Take time
+#+END_QUOTE
+#+BEGIN_QUOTE
+日本語を覚えるのに時間がかかる - Time is caught in the act of learning Japanese - Leaning Japanese hangs on time - Learning Japanese takes time
+#+END_QUOTE
+#+BEGIN_QUOTE
+お金がかかる - Money hangs - Take money
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+電話をかける - Hang a telephone - Hookup a phone call - Make a telephone call
+#+END_QUOTE
+#+BEGIN_QUOTE
+電話かかかる - The telephone hangs itself - Telephone got hooked up - Receive a telephone call
+#+END_QUOTE

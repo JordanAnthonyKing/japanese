@@ -3153,3 +3153,39 @@ Something rather untranslatable:
 #+BEGIN_QUOTE
 電話かかかる - The telephone hangs itself - Telephone got hooked up - Receive a telephone call
 #+END_QUOTE
+* Lesson 71: Japanese counters
+There are a lot of Japanese counters. Often we can avoid using them however by just using the native Japanese counting system of ひとつ、 ふたつ、 みっつ etc (for everything but people/animals).
+
+We don't really need to learn counters in order to understand what someone is saying. This is because counters come in the pattern of number-counter-thing. So if we hear いちりんのはな we can clearly see they mean 'one flower'.
+
+There are two ways of using counters. One is the standard that we might expect of English 'five-head of cattle'. The confusing one is something like:
+#+BEGIN_QUOTE
+ねこが3びきいる - Cats three-ly exist - There are three cats.
+#+END_QUOTE
+What kind of word is ひき? ひき is just a noun. Counters act as adverbial nouns that modify the verb (See lesson 41).
+#+BEGIN_QUOTE
+写真をさんまい撮った - I took photographs threely lit. three-flat-things-ly
+#+END_QUOTE
+
+-----
+
+We can just learn counters as we go, but what about the sound changes? Let's look at ひき, the counter for small animals:
+1. いっぴき
+2. にひき
+3. さんびき
+4. よんひき
+5. ごひき
+6. ろっぴき
+7. ななひき
+8. はっぴき
+9. きゅうひき
+10. じゅっぴき
+
+Rule 1. If the first kana of the counter can't take a ten-ten, then there will never be any sounds changes.
+
+Rule 2. All ten-tenable kana counters replace the second syllable of the number with small つ:
+- いちかい -> いっかい
+- いちさい -> いっさい
+- いちひき -> いっぴき
+
+Rule 3. Sometimes a ten-ten or maru is added to the counter, often this is optional

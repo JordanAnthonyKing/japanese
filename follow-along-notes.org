@@ -3189,3 +3189,29 @@ Rule 2. All ten-tenable kana counters replace the second syllable of the number 
 - いちひき -> いっぴき
 
 Rule 3. Sometimes a ten-ten or maru is added to the counter, often this is optional
+
+* Lesson 72: The great connector (い-stem)
+The japanese name for the い-stem of verbs is the 連用形 (れんようけい) connective-use form. Sometimes in English it is referred to as the masu-stem which isn't wholly inaccurate as it is used in です/ます form, but also a great many other things too.
+
+# There are some general notes here on the い-stem which I believe have all been covered before
+
+A small note: The い-stem connects verbs to dedicated helpers and non-dedicated helpers, whereas the て-form only connects verbs to non-dedicated helpers, other verbs that exist in their own right to form a new verb. The い-stem can join verbs to nouns to form new nouns, but the て-form cannot do this.
+
+Just as the て-form can cannot two logical clauses into a compound sentence, the い-stem can do the same thing:
+#+BEGIN_QUOTE
+お店に行ってパンを買った
+#+END_QUOTE
+#+BEGIN_QUOTE
+お店に行きパンを買った
+#+END_QUOTE
+
+There is one extra thing that the い-stem can do that the other stems, and the て form cannot do, which is /Nominalisation/ (in the same vein as の and こと), that is to say, the い-stem is the true 'noun-form' of verbs. の and こと and etc. don't turn a verb into a noun, they turn the entire clause (of which the verb is the engine) and turn that clause into a noun.
+
+In English the verb form and the noun form of a verb are usually (though not always) the same, this is not the case in Japanese as above.
+- verb - 休む - rest - I need *to* rest
+- noun - 休み - rest - I need *a* rest
+
+#+BEGIN_QUOTE
+お店に[1]パンを買いに[2]行く - Going to the shops to buy bread
+#+END_QUOTE
+[1] marks location target noun, [2] marks purpose target noun. Note how 'buy bread' is a noun (it has to be to be marked by に).

@@ -3215,3 +3215,34 @@ In English the verb form and the noun form of a verb are usually (though not alw
 お店に[1]パンを買いに[2]行く - Going to the shops to buy bread
 #+END_QUOTE
 [1] marks location target noun, [2] marks purpose target noun. Note how 'buy bread' is a noun (it has to be to be marked by に).
+* Lesson 73: 気 Ki
+気 is the fundamental spirit or fluid energy of a person or something else.
+
+# There are some notes here on words like genki, byouki and yaruki
+
+Japanese use 気をけて (attach your spirit) in the same way in English we say 'mind...' i.e. mind the step, be careful of the step, attach your spirit to the step.
+
+** 気になる 気にする
+Something becomes our spirit. In Japanese we /become/ an emotion, this isn't the case for English.
+#+BEGIN_QUOTE
+あの人は気になる - That person turns into my spirit - That person is occupying my feelings (concern/intrigue/love/etc.)
+#+END_QUOTE
+
+Neither 気になる 気にする mean anything on their own.
+
+#+BEGIN_QUOTE
+あの人を気にする - I am turning that person into my spirit - I am being concerned about that person
+#+END_QUOTE
+Now the doer of the action is I. There are two implications here, the first is that we are the one controlling our spirit, it isn't acting naturally. This gives it a slightly more negative meaning. It typically therefore means worried. The other implication is that we are in control of our spirit. 気にしないで - Don't turn it into your spirit - Don't worry about it.
+
+** 気がする
+Here it is the spirit itself that's acting. Our spirit, or a certain aspect of it is acting. Remember that in Japanese things can 'do' themselves i.e. いい匂いがする - A good smell is doing (smells (there is))
+#+BEGIN_QUOTE
+騙されているような気がする - I've got a feeling we're being tricked/deceived. - A deceiving-appearance-feeling is active (doing itself i.e. existing and)
+#+END_QUOTE
+
+** 気に入る
+#+BEGIN_QUOTE
+これを気に入る - I'm letting this into my soul
+#+END_QUOTE
+Of note, when describing what someone else likes, this pattern is much more polite than tai/garu/hoshii.

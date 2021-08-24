@@ -3246,3 +3246,36 @@ Here it is the spirit itself that's acting. Our spirit, or a certain aspect of i
 これを気に入る - I'm letting this into my soul
 #+END_QUOTE
 Of note, when describing what someone else likes, this pattern is much more polite than tai/garu/hoshii.
+* Lesson 74: Love and other mysteries of こと
+#+BEGIN_QUOTE
+あなたのことが好きだ - I like your thing(s) - I like thing(s) about you - I love you
+#+END_QUOTE
+
+こと is a very agile word in Japanese.
+
+#+BEGIN_QUOTE
+私のことが嫌いらしい - My koto (conduct/appearance/words (aspects of us)) seems dislikeable (to them)
+#+END_QUOTE
+
+When there isn't a cultural factor こと can be much easier to understand.
+#+BEGIN_QUOTE
+田中(たなか)さんのことはね。。。 - The affair concerning Tanaka-san (what we actually mean depends on what the hearer knows about ourselves and tanaka)
+#+END_QUOTE
+
+言う and こと in a way belong together, because a koto is a situation or circumstance, that by implication requires a bit of explanation. So the idea of an explanation and the idea of a koto have always been very close in Japanese. (There are some notes on Kanji here).
+
+#+BEGIN_QUOTE
+どう言うこと!？ - What sort of koto?
+#+END_QUOTE
+You will likely see this phrase say, in an anime when someone is teleported to a new location. 'どう言うこと!？' - What kind of place is this? - Explain what situation is going on here.
+
+#+BEGIN_QUOTE
+そう言うことでした - So that's how the situation was explained - I've solved it
+#+END_QUOTE
+Note: The explanation already exists, it's just that we've now discovered it, hence past tense.
+
+#+BEGIN_QUOTE
+いいえ、そんあこと。。。 - That's not true (politely refusing praise)
+そんあこと! - That thing (negative reaction)
+そんな! - That [thing] (protest)
+#+END_QUOTE

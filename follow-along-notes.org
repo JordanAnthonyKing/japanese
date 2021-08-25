@@ -3279,3 +3279,27 @@ Note: The explanation already exists, it's just that we've now discovered it, he
 そんあこと! - That thing (negative reaction)
 そんな! - That [thing] (protest)
 #+END_QUOTE
+* Lesson 75: How expression strategies differ
+# Much of this may be rehashing of earlier points
+1. Japanese doesn't have pronouns, わたし and ぼく are just nouns like any other. There is also no equivalent to 'it'. The usual way to say 'I' is ∅, the usual way to say 'you' is ∅, the usual way to say 'it' is ∅.
+
+2. かれ (he) and かのじょ (she) were originally introduced for translating western novels. They are used in regular Japanese, but not nearly as often as just ∅
+
+How would we say 'Sakura and *her* dog'? We could say:
+#+BEGIN_QUOTE
+さくらと彼女の犬
+#+END_QUOTE
+But the usual way would be:
+#+BEGIN_QUOTE
+さくらとその犬
+#+END_QUOTE
+We are taught early on that その means 'that', which it does, but as we know Japanese words don't exactly correspond to their English 'equivalents'. In Japanese 'that' goes further to include relations. さくらとその犬 - Sakura and a dog relating to her - Sakura and her dog. This can also be used for 'that place', as in, the place that would relate to whatever action we're talking about (without explicitly mentioning it).
+
+
+-----
+#+BEGIN_QUOTE
+ある日のこと - The affair (story) of a certain day
+#+END_QUOTE
+#+BEGIN_QUOTE
+ある村のこと - The affair of a certain village
+#+END_QUOTE

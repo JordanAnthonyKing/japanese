@@ -3303,3 +3303,18 @@ We are taught early on that その means 'that', which it does, but as we know J
 #+BEGIN_QUOTE
 ある村のこと - The affair of a certain village
 #+END_QUOTE
+* Lesson 76: Aku, akeru, hiraku, hirakeru
+開く and 開ける demonstrate some of the subtleties of self/other verbs in Japanese.
+
+In practice in Japanese we will hear things that are technically incorrect:
+#+BEGIN_QUOTE
+目を開く - Open one's eyes (eyes open themselves)
+#+END_QUOTE
+# There are some notes here on the Japanese perspective of this phrase
+
+What is the difference between あく and ひらく (they use the same kanji+kana spelling). あく is self-move, ひらく is both self-move and other-move. The difference between them is not about self-move vs. other-move, it's to do with the /kind/ of opening that is being talked about. Opening bottles, taking lids off of boxes etc is definitely あける, if we talk about a flower opening it's definitely ひらく. That is, anything that unfurls, unfolds or opens outwards is ひらく, anything that simple 'opens' is あく. There are cases where the two words are interchangeable, but even in these cases the choice of あく/ひらく stresses the kind of opening going on i.e. French doors.
+
+ひらける is a state of being, the state of being open, with the implication that this state will continue
+#+BEGIN_QUOTE
+運がひらける - Luck opens (and will stay that way)
+#+END_QUOTE

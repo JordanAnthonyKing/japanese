@@ -1634,11 +1634,12 @@ Do you think I'm going to do that? - I'm not going to do that!
   See と-conditional ([[と conditional]]).
 
 ** ば/れば conditional helpers
+   <<ば conditional>>
    The と conditional's particular characteristic was its exclusiveness, in many cases we can use the conditionals interchangeably without much changing in terms of meaning, but each conditional does still have its own unique qualities.
 
    The special characteristic of ば/れば ([[ば conditional]]) is that is used for /hypotheticals/. They always mean 'if' and can't ever mean 'when', because we never know for sure if the condition will take place. Consequently, if we use it about something that happened in the past it has to be something that didn't happen, because if it had happened we wouldn't be dealing with a hypothetical.
 
-   The ば/れば conditional is a helper that attached to the え-stem of a verb ([[verb stems]]):
+   The ば/れば conditional is a helper that attached to the え-stem of a verb ([[Verb stems]]):
    | あ | い | *う* | *え* | お |
    | か | き | *く* | *け* | こ |
    | さ | し | *す* | *せ* | そ |

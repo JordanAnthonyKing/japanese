@@ -3322,3 +3322,6 @@ What is the difference between あく and ひらく (they use the same kanji+kan
 * Lesson 77: Real Japanese structure vs Tae Kim
 # I may not make many notes on this
 There are no notes today
+
+* Lesson 78: Tae Kim vs the Copula
+Likely to not have any notes to take again. There is a brief note here further explaining the lack of Japanese verb "conjugations", in that a conjugated verb is still a verb, but Japanese verbs are transformed into (not conjugated into) verbs, and adjectives. たべない is not a conjugated verb, it's an adjective.

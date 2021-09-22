@@ -3325,3 +3325,8 @@ There are no notes today
 
 * Lesson 78: Tae Kim vs the Copula
 Likely to not have any notes to take again. There is a brief note here further explaining the lack of Japanese verb "conjugations", in that a conjugated verb is still a verb, but Japanese verbs are transformed into (not conjugated into) verbs, and adjectives. たべない is not a conjugated verb, it's an adjective.
+
+* Lesson 79: Deeper secrets of the copula
+English doesn't have a dedicated copula. Every language has a copula, it is the one-way equals sign that tells us A is B, but B is not necessarily A. To go a bit deeper, what the copula does is place things into sets. A belongs to the set of things B. The set may only be a set of one, i.e. That person is Sakura, then 'that person' (and that person only) is Sakura. English doesn't have a dedicated copula, English doubles up the verb of being (is, be, am, are, was, were, etc.) with the copula. These two completely different semantic functions are so closely packed that natives can't even tell them apart. This causes no issue for native speakers, but it does make it difficult for native English speakers to learn languages that do have a dedicated copula.
+
+# There are some notes here on the relation between 'sets' and 'being' (ontology) but I don't think it's worth taking note of

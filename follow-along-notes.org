@@ -3330,3 +3330,29 @@ Likely to not have any notes to take again. There is a brief note here further e
 English doesn't have a dedicated copula. Every language has a copula, it is the one-way equals sign that tells us A is B, but B is not necessarily A. To go a bit deeper, what the copula does is place things into sets. A belongs to the set of things B. The set may only be a set of one, i.e. That person is Sakura, then 'that person' (and that person only) is Sakura. English doesn't have a dedicated copula, English doubles up the verb of being (is, be, am, are, was, were, etc.) with the copula. These two completely different semantic functions are so closely packed that natives can't even tell them apart. This causes no issue for native speakers, but it does make it difficult for native English speakers to learn languages that do have a dedicated copula.
 
 # There are some notes here on the relation between 'sets' and 'being' (ontology) but I don't think it's worth taking note of
+
+* Lesson 80: Dropped particles and casual omissions
+There are fundamentally two different kinds of omission in language. Legal omission and illegal omission. Legal omission is perfectly grammatical. This happens in English: 'the night [that] we met'. It is not ungrammatical to do this. This happens in Japanese with the ∅ pronoun. This is perfectly grammatical Japanese. In the case of a simple statement like 'つかれた', since in Japanese we aren't allowed to talk about how someone else is, only how they appear, we know that this must mean '∅がつかれた'. This is a perfectly grammatical (legal) omission (at least in casual speech).
+
+There are three kinds of illegal omission.
+
+The first is leaving out bits of words or phrases, these range from /accepted/ (won't, shouldn't) to /slangy/ (wanna, gonna) to /very slangy/ (shmup):
+- している -> してる (accepted)
+- つまらない -> つまんない (slangy)
+- そんな -> んな (very slangy)
+
+Secondly, single-kana elements that attach to nouns (particles, だ) can get dropped where they are obvious from the logic of the sentence. Again, in casual but not formal speech:
+#+BEGIN_QUOTE
+わたし、アンドロイド = わたしはアンドロイドだ
+#+END_QUOTE
+At the casual level, since だ can always be dropped, (sometimes, depending on the person and how they use だ) the use of だ explicitly can be seen as an emphasis marker.
+
+Finally, the third kind of thing that gets dropped are 'trailing' sentences that imply, but do not state a second clause. These are relatively rare in English but common in Japanese:
+- Let's do it and...
+- It's rather big, therefore...
+- I'd like some but...
+- Afraid I can't because...
+- If we don't hurry...
+- You'd better do it or else...
+
+In Japanese this often takes the form of ending a sentence with the て form. This has been discussed before, but can be used to soften or strengthen a statement.

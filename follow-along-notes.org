@@ -3356,3 +3356,22 @@ Finally, the third kind of thing that gets dropped are 'trailing' sentences that
 - You'd better do it or else...
 
 In Japanese this often takes the form of ending a sentence with the て form. This has been discussed before, but can be used to soften or strengthen a statement.
+
+* Lesson 81: Global principle of all Japanese word forms
+We've already covered the Japanese stem system. Verbs simply make a small change to the final kana, from the う-row to another row, to which we then attach helper verbs and adjectives. The stem system goes much further than this. We already know about the て-form, but there's far more to it than just this.
+
+There are two kinds of words in Japanese. These are inert (unchangeable) words. These are in 99% of cases nouns, and in the remaining few cases things such as conjunctions. Then there are active (changeable) words. These cover the three engine-words, verbs, adjectives, and the copula.
+
+All of the words that can change, change in the exact same way. The only thing that changes in these words is the final kana. Nothing before that last kana can change, the rest of the word is as inert as a noun. They all change according to the stem-helper system. All the て-form was introduced as a 'form', it is infact a stem-helper system of its own. In real Japanese grammar as taught to natives た and て are regarded as helpers that attach to the stem of a word. In this way verbs have two stem-systems.
+
+What about adjectives? Adjectives have their own stem system. Adjectives have four stems, you can form the adjective stems by dropping the い, and attaching く, かっ, けれ and ∅ (dropping the い entirely as with ichidan verbs).
+
+The く-stem attaches the ない helper adjective, stands on its own as an adverb, and attaches て to form the て-form.
+
+The かっ-stem attaches the past-helper た. (たら and たり are listed here also but no explanation is given).
+
+The けれ-stem attaches the helper-conditional ば.
+
+When we drop the い altogether we can attach the そう helper 'seems', as well as helper verbs like がる and すぎる.
+
+The copula has a mini-stem system, becoming で (て-form) and な (connective-form). (There's again some notes here on だっ and だろ and how the final kana in these instances are morphed but it's a little unclear to me what these mean).

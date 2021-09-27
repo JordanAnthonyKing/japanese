@@ -3375,3 +3375,83 @@ The けれ-stem attaches the helper-conditional ば.
 When we drop the い altogether we can attach the そう helper 'seems', as well as helper verbs like がる and すぎる.
 
 The copula has a mini-stem system, becoming で (て-form) and な (connective-form). (There's again some notes here on だっ and だろ and how the final kana in these instances are morphed but it's a little unclear to me what these mean).
+
+* Lesson 82: なんて, なんか, など. 3 common words clarified
+These words have rather wide meaning-spectrums, meaning that dictionaries cannot accurately cover all of their meanings, especially given they're used in such colloquial ways.
+
+など essentially means what 'etcetera' means in English. It is used both in completely formal writing and in totally casual speech. An example dictionary definition for 車窓:
+#+BEGIN_QUOTE
+車窓： 自動車​*など*​の窓 - 車窓： The window of an automobile etc.
+#+END_QUOTE
+In informal Japanese など also has another use that overlaps with the other two. It can be used to denigrate or belittle the word that it is attached to:
+#+BEGIN_QUOTE
+タバコ​*など*​不要だ - I've no use for cigarettes - I don't need that kind of thing
+#+END_QUOTE
+#+BEGIN_QUOTE
+タバコ​*は*​不要だ - I've no use for cigarettes
+#+END_QUOTE
+- Note: など displaces other particles and carries that more dismissive tone.
+
+Both なんか and なんて can be used in this throwing-a-negative-light-on-the-noun-they-follow-way. The strongest and most colloquial is なんか, followed by なんて and then など which, as said we can use in formal contexts as well as casual.
+
+なんか is really a contraction of なにか (something), but it has quite a few colloquial uses.
+#+BEGIN_QUOTE
+お姉さん​*なんか*​大嫌い - I really hate stuff like my sister
+#+END_QUOTE
+Of course, she doesn't literally mean 'stuff like my sister', she means 'my sister', but using なんか adds this disparaging light.
+
+It can be less disparaging:
+#+BEGIN_QUOTE
+雨​*なんか*​へいきだ - I'm not bothered by rain
+#+END_QUOTE
+
+It is also often used towards oneself to stress an inferior or stressful position one finds oneself in:
+#+BEGIN_QUOTE
+私​*なんか*​まるで子供あつかいだ - I'm treated just like a child
+#+END_QUOTE
+
+Don't forget, the fundamental meaning of なんか is just a contraction of なにか and can be used just as such:
+#+BEGIN_QUOTE
+​*なんか*​心配はある？ - Is there some worry? - Is anything worrying you?
+#+END_QUOTE
+
+It can also therefore be used to preface things:
+#+BEGIN_QUOTE
+​*なんか*​誓う - Something's different
+#+END_QUOTE
+
+And from there goes on to mean 'somehow':
+#+BEGIN_QUOTE
+​*なんか*​つきじゃない - Somehow I don't like it
+#+END_QUOTE
+
+From here it gets worse and becomes even vaguer. In very casual speech なんか can be heard at the start of the sentence and then several times throughout the sentence, なんか this and なんか that. When used in this way it's being used really like 'kinda' or 'like' in English, and just as in English this is a /sloppy/ way of talking. It is not /good/ Japanese just as 'like' and 'kinda' aren't good English.
+
+なんて is essentially a contraction of 何って, which remember is itself a contraction of 何と or 何という.
+
+In its simplest use it is used for saying:
+#+BEGIN_QUOTE
+​*なんて*​いった - What did you say?
+#+END_QUOTE
+English natives would be tempted to say 何をいった, but this is not natural Japanese.
+
+なんて is also used as English 'what' in both expressions and questions:
+#+BEGIN_QUOTE
+​*なんて*​美しい景色だ - What a beautiful scenery
+#+END_QUOTE
+
+It is also used as we discussed before in this belittling manner:
+#+BEGIN_QUOTE
+試験​*なんて*​嫌いだ - I hate exams
+#+END_QUOTE
+
+It can also be used at the end of a complete statement to express surprise (This is similar to the 'what a x' we looked at just a moment ago):
+#+BEGIN_QUOTE
+からを立てる​*なんて*​きみらしくない - Getting angry, that's not like you
+#+END_QUOTE
+
+Finally, we can use なんて like the original meaning of なにという, but adding a bit of vagueness:
+#+BEGIN_QUOTE
+[Name]​*なんて*​人は知らない - I don't anyone called [Name]
+#+END_QUOTE
+# There is an example given here on the difference between the contraction and the original but it's not really clear to me what she actually means from it

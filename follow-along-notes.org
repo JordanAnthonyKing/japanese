@@ -3455,3 +3455,57 @@ Finally, we can use なんて like the original meaning of なにという, but 
 [Name]​*なんて*​人は知らない - I don't anyone called [Name]
 #+END_QUOTE
 # There is an example given here on the difference between the contraction and the original but it's not really clear to me what she actually means from it
+
+* Lesson 83: Commanding in Japanese
+Using the て-form can be an abbreviation of a command or request:
+#+BEGIN_QUOTE
+ちょっと待って = ちょっと待ってください
+#+END_QUOTE
+This is casual, but because it abbreviates the 'please' is also probably the least likely to be offensive.
+
+Sometimes, instead of ちょっと待って you'll hear:
+#+BEGIN_QUOTE
+ちょっと待ってて - Wait a little bit (and I'll be back) = ちょっと待っていて
+#+END_QUOTE
+- Note: implication of the waiting period will end fairly shortly
+As we know, ちょっと待っている means to exist in a state of waiting, ちょっと待っていて places ちょっと待っている and places it into the て-form, so what you're being asked to do is exist in a state of waiting.
+
+The other thing to know about the て-form, is that the negative helper adjective ない has (as well as the normal て-form) an irregular て-form in ないで:
+#+BEGIN_QUOTE
+泣かないで - [Please] don't cry
+#+END_QUOTE
+This is only used for 'do be without doing a' sentences, and in commands/requests, where it again abbreviates ください.
+
+Next is なさい. なさい attaches to the い-stem of verbs:
+- おきなさい - Get/wake up
+- おちつきなさい - Settle/calm down
+
+なさい is the sort of command given by parents to children, teachers to a class etc. It's not offensive if it's given by someone who's entitled to give it.
+
+Something that can be confusing is an abbreviation of なさい, which means the opposite of something else with the same sound: な. When we attach な to the い-stem of a verb, then we're actually abbreviating なさい. In statements where な isn't attached to the い-stem however it means the opposite, to not do something:
+#+BEGIN_QUOTE
+バカにするな! - Don't make fun of me!
+#+END_QUOTE
+#+BEGIN_QUOTE
+それをたべるな! - Don't eat that! (it could be poison)
+#+END_QUOTE
+This な attaches to entire logical clauses, not the the い-stem. This な is an older negative related to ない.
+
+Finally, is the 命令形 or Command form (imperative). This is formed by using the bare え-stem of a verb, attaching nothing. For ichidan, replace the る with ろ.
+#+BEGIN_QUOTE
+黙れ - Be quiet! (This is more forceful and potentially more offensive than うるさい)
+#+END_QUOTE
+This form isn't inherently offensive if someone has the right to be giving orders, and people who talk rough among friends may use it. In anime it is common also. It can also express urgency:
+#+BEGIN_QUOTE
+助けてくれ! - Help me! (I really need it soon)
+#+END_QUOTE
+- Note, this is almost exclusively used by men
+- Note, this くれ (from ください) is one of the only irregulars outside of する -> しろ and くる -> こい
+
+-----
+
+For the sake of completeness there are two other ways of commanding, but these are mostly used for other things.
+
+The first is the のだ/んだ ending placed onto a complete logical clause which has been covered previously. This ending has a wide range of uses, but one of them is a command.
+
+Also, ように (covered in lesson 28) can form commands.

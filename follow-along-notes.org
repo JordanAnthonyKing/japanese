@@ -2734,7 +2734,7 @@ The way something sounds or looks always has to be self move, because we're not 
   #+BEGIN_QUOTE
   アフリカはライオンはいるがトラはいない
   #+END_QUOTE
-  In this sentence we have three はs in a very short space. These are *all* topic markers. The first は is the overall topic marker, it's saying 'speaking of Africa', everything that follows is going to be a comment on the topic of Africa. Everything that follows must be a logical clause, it doesn't matter how small the clause is, but is must be a logical clause. What we have in this example is a sentence consisting of two logical clauses, each of which contains a 'sub-topic'. Each logical clause also has a topic statement preceding it. In full:
+  In this sentence we have three は s in a very short space. These are *all* topic markers. The first は is the overall topic marker, it's saying 'speaking of Africa', everything that follows is going to be a comment on the topic of Africa. Everything that follows must be a logical clause, it doesn't matter how small the clause is, but is must be a logical clause. What we have in this example is a sentence consisting of two logical clauses, each of which contains a 'sub-topic'. Each logical clause also has a topic statement preceding it. In full:
   #+BEGIN_QUOTE
   アフリカはライオンは[∅が]いるがトラは[∅が]いない
   #+END_QUOTE
@@ -3059,8 +3059,8 @@ B. お金が足りない​*わけ*​ではない - Money-is-insufficient reaso
 #+END_QUOTE
 
 4. わけがない/わけない - Strong denial
-- Y=Xわけではない - Proposition Y does not have the /reasoning/ of entailing proposition X - The circumstance we're talking about doesn't have *that* reason (for it to be)
-- Xわけがない - Proposition X does not have any reasoning (therefore it's not true) - *No* reasoning exists for that
+- Y=X わけではない - Proposition Y does not have the /reasoning/ of entailing proposition X - The circumstance we're talking about doesn't have *that* reason (for it to be)
+- X わけがない - Proposition X does not have any reasoning (therefore it's not true) - *No* reasoning exists for that
 #+BEGIN_QUOTE
 さくらはうそをつく​*わけ*​がない - Sakura-tell-a-lie reasoning is non-existent - The reason for Sakura to lie doesn't exist - Sakura would never lie
 #+END_QUOTE
@@ -3127,7 +3127,7 @@ As we're talking about things being in a sense stuck/caught on something (a neck
 
 かけた can be used to actions which haven't completed (have gotten caught):
 #+BEGIN_QUOTE
-食べかけたCookie - Part eaten cookie - A cookie that got caught on eating
+食べかけた Cookie - Part eaten cookie - A cookie that got caught on eating
 #+END_QUOTE
 
 ** かかる
@@ -3160,7 +3160,7 @@ We don't really need to learn counters in order to understand what someone is sa
 
 There are two ways of using counters. One is the standard that we might expect of English 'five-head of cattle'. The confusing one is something like:
 #+BEGIN_QUOTE
-ねこが3びきいる - Cats three-ly exist - There are three cats.
+ねこが 3 びきいる - Cats three-ly exist - There are three cats.
 #+END_QUOTE
 What kind of word is ひき? ひき is just a noun. Counters act as adverbial nouns that modify the verb (See lesson 41).
 #+BEGIN_QUOTE
@@ -3509,3 +3509,34 @@ For the sake of completeness there are two other ways of commanding, but these a
 The first is the のだ/んだ ending placed onto a complete logical clause which has been covered previously. This ending has a wide range of uses, but one of them is a command.
 
 Also, ように (covered in lesson 28) can form commands.
+* Lesson 84: What older copulas tell us
+であります, でごさる, でござる and どございます are all just forms of である. ござる is a outdated, polite form of ある. でございます is the keigo form used in shops and public announcements etc.
+
+である could be considered the 'straight copula'. だ sounds casual, です sounds polite, である is seen in all sorts of contexts where on is being objective.
+
+である is also used for another reason. As we know, だ and です can only be used at the end of a logical clause and can't be used to (pre)modify a noun. If we want to modify a noun with another noun marked by the copula, we can only do that with an adjectival noun, because adjectival nouns can use な.
+#+BEGIN_QUOTE
+花がきれいだ - flower is pretty
+#+END_QUOTE
+#+BEGIN_QUOTE
+きれいな花 - pretty-is flower
+#+END_QUOTE
+
+If we want to use a copula marked noun as a modifier, and that noun isn't an adjectival noun, we must use である. This isn't very common, as we can usually use の, but in some cases either の doesn't work, or it just isn't something that we want to do.
+
+Suppose we want to say 'Sakura, who is a university student':
+#+BEGIN_QUOTE
+大学生であるさくら - Sakura who is a university student
+#+END_QUOTE
+As opposed to:
+#+BEGIN_QUOTE
+大学生のさくら - University student Sakura
+#+END_QUOTE
+
+There are cases where we don't have a choice of which to use, for example, for state of beings:
+#+BEGIN_QUOTE
+円形であるさま - The state of being round
+#+END_QUOTE
+円形のさま doesn't really work here.
+
+Historically, だ is an abbreviation of である, and です is an abbreviation of であります. There are some notes here on how all this works but I'm not sure it's necessary.

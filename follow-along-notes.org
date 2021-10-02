@@ -3540,3 +3540,42 @@ There are cases where we don't have a choice of which to use, for example, for s
 円形のさま doesn't really work here.
 
 Historically, だ is an abbreviation of である, and です is an abbreviation of であります. There are some notes here on how all this works but I'm not sure it's necessary.
+
+* Lesson 85: まい the negative helper
+まい is a negative helper like ず and ぬ and is a relative of まい. Like ぬ and ず it isn't quite at home in modern Japanese.
+# TODO: Cover video as extra lesson
+
+The first unusual thing about まい is that is doesn't attach to one of the verb stems, in most cases it attaches to the complete verb. It can attach to the universal ichidan stem but often attaches to the full ichidan verb too. くる and する have irregular forms in こまい and しまい but they can also be くるまい and するまい.
+
+まい is a sister to ない. まい is the volitional form. Adjectives don't usually have volitional forms but in this case they do, and they have certain uses. まい is an adjective, but unlike any others it *does not* morph. There is no まくて or まかった or any other form, only the simple, unchanged form. This is actually the same as the (positive) volitional helper verb which also doesn't have a past form or a て-form etc.
+
+What does the negative volitional actually do? It can't be used in all the same ways as the positive, it cannot be used as a call to action. It can't be used for constructions that mean 'try to do [something]'.
+
+It's most usual use is to express one's subjective doubt:
+#+BEGIN_QUOTE
+そんあことはあるまい - Such a thing is most unlikely (to be)
+#+END_QUOTE
+#+BEGIN_QUOTE
+この振りではかれは来まい - In this downpour, I doubt if he'll come
+#+END_QUOTE
+
+This is rather similar to the other adjectives that have been covered that express subjectivities, such as ほしい and こわい. In this case it's out subjectivity about the likelihood of something.
+
+# There are some notes here on how the negative volitional attaches straight to the verb, but the positive uses the volitional copula to attach
+
+It is also used, in a way that is directly equivalent to the positive volitional, which is to strongly assert negative intent:
+#+BEGIN_QUOTE
+二度と行くまい - I won't go there a second time - I won't go there again.
+#+END_QUOTE
+
+There are a couple of other positive constructions in which まい is used.
+
+VようかVまいか is similar to ~かどうか but is restricted to verbs, and being volitional (will-based) is mostly used in relation to considering options.
+
+Another is in the combined use of し which as we know combines reasons for things, but can be used at the end of a sentence to imply more reasons than just those stated:
+#+BEGIN_QUOTE
+金持ちではあるまいし - (It's) not that we might be rich or anything
+#+END_QUOTE
+#+BEGIN_QUOTE
+世界が終わるわけがあるまいし - It isn't that the world might end of anything
+#+END_QUOTE

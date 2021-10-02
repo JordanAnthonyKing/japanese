@@ -1,169 +1,170 @@
 
 # Table of Contents
 
-1.  [Lesson 1: The core Japanese sentence](#org0666dcb)
-2.  [Lesson 2: Invisible が and the を-particle](#org125ba1c)
-    1.  [The invisible が carriage](#org80431cc)
-    2.  [The を-particle](#org7dc460c)
-3.  [Lesson 3: は-particle and に-particle](#org2d639fd)
-    1.  [は particle](#orgda5d3fa)
-    2.  [The に particle](#org1f1dc8e)
-4.  [Lesson 4: Japanese past, present and future tenses](#orgfc3f39c)
-5.  [Lesson 5: Japanese verb groups and て-form](#orgdf6a177)
-6.  [Lesson 6: Japanese &ldquo;adjectives&rdquo;](#org71e1a5d)
-    1.  [い-adjectives, verb adjectives, and な-adjectives](#org37a6f7c)
-    2.  [The の-particle](#org0ce49cf)
-7.  [Lesson 7: Negatives and adjective &ldquo;conjugations&rdquo;](#org14cfb83)
-    1.  [Negative nouns](#org24fe056)
-    2.  [Negative verbs and the Japanese stem system](#orgd94f05f)
-    3.  [Negative adjectives and adjective &ldquo;conjugations&rdquo;](#org6795f62)
-    4.  [The only exceptions](#org592d6c8)
-8.  [Lesson 8: Location, purpose and transformation (に and へ particles).](#orgbfe612e)
-    1.  [The へ car](#org1e0cdb9)
-9.  [Lesson 8b: Japanese particles explained](#orge5fd754)
-10. [Lesson 9: &rsquo;Ego-centrism&rsquo; and expressing desire](#orgd07b7d6)
-    1.  [Ego-centrism](#org6fd73b6)
-    2.  [Expressing desire](#org50d0b01)
-    3.  [A final note to help keep things clear](#org81b42ac)
-11. [Lesson 10: Japanese &ldquo;conjugation&rdquo; and potential form](#org2803516)
-12. [Lesson 11: Compound sentences, くれる, あげる, and more て form uses](#org2daa3f9)
-13. [Lesson 12: と quotation particle and compound verbs and compound nouns](#org1700951)
-14. [Lesson 13: Passive &ldquo;conjugation&rdquo; - Not passive and not a conjugation](#orgc6a2502)
-    1.  [The nuisance receptive](#orgc729cad)
-15. [Lesson 14: Adverbs and も-particle](#org71ccc0b)
-    1.  [The も flag](#org7691513)
-16. [Lesson 15: Transitivity](#org0ca8607)
-17. [Lesson 16: て-みる, &rsquo;try doing&rsquo;, や-particle, から-particle, exclusive-&rsquo;and&rsquo;](#orga32984e)
-18. [Lesson 17: Form Japanese: です/ます + volitional](#org320af05)
-19. [Lesson 18: Trying to do something; って = は? として、 と言う/という、 と する、 おう と する、 っていう](#org447ecdb)
-    1.  [Try - と する](#org2a59524)
-    2.  [How we regard something - と する](#org09b2f52)
-    3.  [See something in the light of being something - と して](#org2998023)
-    4.  [As a quotation -  と言う/という](#orgde33e6d)
-    5.  [って as は](#orgbb5dba0)
-20. [Lesson 19: Causative + &rsquo;causative passive&rsquo;](#orgb0fc5c2)
-    1.  [Causative receptive (causative passive)](#org44e993c)
-21. [Lesson 20: Sore/Sono/Sonna/Sou etc. Directional Words](#orgfe93af0)
-    1.  [れ-group (nouns)](#org00f5470)
-    2.  [の-group (adjectivals)](#org3296916)
-    3.  [な-group (real adjectives)](#org57efd26)
-    4.  [う/あ-group](#orgaa85512)
-22. [Lesson 21: Te oku/te aru](#orga872c66)
-    1.  [ておく](#org04f9b9a)
-23. [Lesson 22: Te-wa, te-mo - Topic/comment magic](#org05a6d22)
-24. [Extra: も particle combinations](#org9c91050)
-25. [Lesson 23: だって, だから, それ から](#org8fd2890)
-26. [Lesson 24: Hearsay and guesses: ~そうだ, ~そうです](#orgfb09b96)
-    1.  [Likeness](#orge1fbf8e)
-    2.  [Hearsay](#org4e1773d)
-27. [Lesson 25: らしい vs そうです](#orgf5458fa)
-    1.  [っぽい](#orgd1c2978)
-28. [Lesson 26: Similes - のように、 のような、 みたい](#orgd8d87bb)
-29. [Lesson 27: Bakari - ばかり](#orgfba7ebe)
-30. [Extra: のに and なのに](#org9381ef9)
-31. [Lesson 28: ようになる, ようにする](#orgf916c88)
-32. [Lesson 29: ことになる, ことにする](#org1998cf8)
-33. [Lesson 30: Japanese conditionals: と](#orgc013f42)
-34. [Lesson 31: ば, れば conditional helpers](#org0fed3a5)
-35. [Lesson 32: たら, なら conditionals](#org2e5134b)
-36. [Lesson 33: Japanese limiting terms: だけ, しか, ばかり, のみ](#orgc9dcab3)
-    1.  [だけ](#org3b7bbef)
-    2.  [しか](#org0abd1fc)
-    3.  [ばかり](#org0d797c8)
-    4.  [のみ](#org7a8a226)
-37. [Lesson 34: Understand any sentence](#orga4a3837)
-    1.  [How do we know when a logical clause ends? (How do we identify a logical clause?)](#org57d34db)
-38. [Lesson 35: より, の ほう, いっぽう](#org7fc5dd5)
-    1.  [より](#org1ca5c6e)
-    2.  [ほう](#org3d0305d)
-    3.  [いっぽう 一方](#org0bc760b)
-39. [Lesson 36: ところ - The Japanese concept of place](#org9b9c878)
-40. [Lesson 37: Structure, な vs の, なる & たる adjectives](#orga12c8d4)
-    1.  [する verbs](#orgaf5036a)
-    2.  [なる & たる &rsquo;adjectives&rsquo;](#org6f1a388)
-    3.  [All-kanji groups](#orgb3d7f43)
-41. [Extra: が particle becomes の in subordinate clauses](#orgf42bb3a)
-42. [Lesson 38: じゃない, ではない](#org4af200c)
-43. [Lesson 39: Buried questions](#org180392d)
-    1.  [かもしれない - Maybe](#org95a8557)
-    2.  [かな - I wonder](#orgdda0b8e)
-    3.  [か is a nominaliser](#org9892d42)
-    4.  [もんか & ものですか](#orgd061698)
-44. [Extra: Sentence ender particles](#org7f8acd1)
-    1.  [ね](#org3f0cfda)
-    2.  [よ](#org60880b5)
-    3.  [よね](#orgf782aef)
-    4.  [な](#org57a4f3f)
-    5.  [かな](#org6567dda)
-45. [Lesson 40: Japanese structure pitfalls](#orgb1e5ab4)
-    1.  [で](#org3979a59)
-    2.  [が](#org4c996e7)
-    3.  [に](#org809e606)
-46. [Lesson 41: Japanese structure key facts](#org443d87b)
-    1.  [Adverbial nouns](#orge8029b7)
-47. [Lesson 42: まま](#orgec98f9d)
-48. [Lesson 43: Cut through the confusion](#org5492772)
-49. [Lesson 44: Chau, Chatta, ちゃう、 ちゃった](#org32bba66)
-50. [Lesson 45: First-step guide into self immersion](#org10d5392)
-51. [Lesson 46: Japanese word order](#orge28e3bf)
-52. [Lesson 47: Secret weapon for breaking down sentences](#orge62a9d9)
-53. [Lesson 48: Dealing with ambiguity](#org87e1ca5)
-54. [Lesson 49: Japanese point-of-view - もらう, てもらう](#org3106a5c)
-55. [Lesson 50: させてもらう](#orgdbd7e0f)
-    1.  [The hidden secret of the causative helper](#orgfa03bf7)
-    2.  [させてもらう](#org783f099)
-    3.  [敬語 (polite)](#org7263417)
-56. [Lesson 51: How to read a Japanese Kaidan (ghost story)](#org2d26a02)
-57. [Lesson 52: In-depth japanese sentence analysis](#org1a4e807)
-58. [Lesson 53: Enjoy Japanese Horror (more sentence analysis)](#org89f58a2)
-59. [Lesson 54: Irregularities in Japanese](#org7fc31fb)
-60. [Lesson 55: Secrets of the で particle](#org0ab0578)
-61. [Lesson 56: Deeper secrets of は and の particles](#org93e190f)
-62. [Lesson 57: 込む - The secret of multi-meaning Japanese words](#org4def98e)
-63. [Lesson 58: Particle combinations](#org43b1fb8)
-64. [Lesson 59: Untranslatable Japanese](#org9101a32)
-65. [Lesson 60: Non-logical structure](#orge0fb39f)
-66. [Lesson 61: が and は deeper secrets](#org5501233)
-67. [Lesson 62: て-おく vs て-しまう, Helper verb secrets](#org372d57b)
-68. [Lesson 63: Sentence enders in real life Japanese](#org5b9b840)
-    1.  [かい](#org24141cb)
-    2.  [だい](#org022ca55)
-    3.  [ちょうだい](#orgdfb2528)
-    4.  [Emphasisers](#org43640cc)
-    5.  [pseudo-sentence enders](#org7c8943f)
-69. [Lesson 64: もの and こと secrets](#org36b1aec)
-    1.  [もの as a sentence ender](#orgf3c4946)
-    2.  [こと as a sentence ender](#org895b227)
-70. [Lesson 65: て行く and て来る, coming and going](#org3169cf9)
-71. [Lesson 66: Hidden subjects](#orgca350cb)
-72. [Lesson 67: もう and まだ](#orgbfc8b0f)
-73. [Lesson 68: Japanese underlying logic, わけ、 そういうわけ、 わけが分からない、 わけない](#orgde322a2)
-74. [Lesson 69: Kaidan 4](#orge99400a)
-75. [Lesson 70: かける/かかる](#orgd150e54)
-    1.  [かける](#org8ba4e6e)
-    2.  [かかる](#org26f5d1d)
-76. [Lesson 71: Japanese counters](#org31233ef)
-77. [Lesson 72: The great connector (い-stem)](#orgeea7567)
-78. [Lesson 73: 気 Ki](#org504e976)
-    1.  [気になる 気にする](#org1770eae)
-    2.  [気がする](#orgbb259be)
-    3.  [気に入る](#org9b2cf92)
-79. [Lesson 74: Love and other mysteries of こと](#org3155f0b)
-80. [Lesson 75: How expression strategies differ](#org589497d)
-81. [Lesson 76: Aku, akeru, hiraku, hirakeru](#org4bcd288)
-82. [Lesson 77: Real Japanese structure vs Tae Kim](#org57dbe36)
-83. [Lesson 78: Tae Kim vs the Copula](#org4655418)
-84. [Lesson 79: Deeper secrets of the copula](#orgc2df536)
-85. [Lesson 80: Dropped particles and casual omissions](#org0f0b94a)
-86. [Lesson 81: Global principle of all Japanese word forms](#org24000e1)
-87. [Lesson 82: なんて, なんか, など. 3 common words clarified](#orgd83930b)
-88. [Lesson 83: Commanding in Japanese](#org7dba8c3)
-89. [Lesson 84: What older copulas tell us](#org56d5b20)
+1.  [Lesson 1: The core Japanese sentence](#org96893ba)
+2.  [Lesson 2: Invisible が and the を-particle](#org220ad2c)
+    1.  [The invisible が carriage](#org430d5f5)
+    2.  [The を-particle](#orgddcfa4a)
+3.  [Lesson 3: は-particle and に-particle](#org16e1cef)
+    1.  [は particle](#org9fbd17a)
+    2.  [The に particle](#org91fe878)
+4.  [Lesson 4: Japanese past, present and future tenses](#orgacb9776)
+5.  [Lesson 5: Japanese verb groups and て-form](#orga67f931)
+6.  [Lesson 6: Japanese &ldquo;adjectives&rdquo;](#org824e333)
+    1.  [い-adjectives, verb adjectives, and な-adjectives](#orgf08bf55)
+    2.  [The の-particle](#orgf98bb0f)
+7.  [Lesson 7: Negatives and adjective &ldquo;conjugations&rdquo;](#org7df1e4d)
+    1.  [Negative nouns](#orgd269c74)
+    2.  [Negative verbs and the Japanese stem system](#org461ef31)
+    3.  [Negative adjectives and adjective &ldquo;conjugations&rdquo;](#org3b226ec)
+    4.  [The only exceptions](#orga80ce80)
+8.  [Lesson 8: Location, purpose and transformation (に and へ particles).](#orgaba8b69)
+    1.  [The へ car](#org7e313fa)
+9.  [Lesson 8b: Japanese particles explained](#org303bd07)
+10. [Lesson 9: &rsquo;Ego-centrism&rsquo; and expressing desire](#org1cfa5e7)
+    1.  [Ego-centrism](#org80ede2e)
+    2.  [Expressing desire](#org7bf5bef)
+    3.  [A final note to help keep things clear](#orgb175da0)
+11. [Lesson 10: Japanese &ldquo;conjugation&rdquo; and potential form](#org12f50a9)
+12. [Lesson 11: Compound sentences, くれる, あげる, and more て form uses](#orgc6a821a)
+13. [Lesson 12: と quotation particle and compound verbs and compound nouns](#orgef25744)
+14. [Lesson 13: Passive &ldquo;conjugation&rdquo; - Not passive and not a conjugation](#org3e181d3)
+    1.  [The nuisance receptive](#org88cb4a3)
+15. [Lesson 14: Adverbs and も-particle](#org93e045a)
+    1.  [The も flag](#org83c5fc7)
+16. [Lesson 15: Transitivity](#orgd1b3c7f)
+17. [Lesson 16: て-みる, &rsquo;try doing&rsquo;, や-particle, から-particle, exclusive-&rsquo;and&rsquo;](#org1cad6f2)
+18. [Lesson 17: Form Japanese: です/ます + volitional](#org299a128)
+19. [Lesson 18: Trying to do something; って = は? として、 と言う/という、 と する、 おう と する、 っていう](#orgf802baa)
+    1.  [Try - と する](#orgf71d154)
+    2.  [How we regard something - と する](#orge469133)
+    3.  [See something in the light of being something - と して](#orgcb8efbb)
+    4.  [As a quotation -  と言う/という](#orga5960aa)
+    5.  [って as は](#orgba3b748)
+20. [Lesson 19: Causative + &rsquo;causative passive&rsquo;](#org5b340e1)
+    1.  [Causative receptive (causative passive)](#orgeba5464)
+21. [Lesson 20: Sore/Sono/Sonna/Sou etc. Directional Words](#org4c9c7ac)
+    1.  [れ-group (nouns)](#org3731ca4)
+    2.  [の-group (adjectivals)](#orgdf05692)
+    3.  [な-group (real adjectives)](#org807c76c)
+    4.  [う/あ-group](#org82067fe)
+22. [Lesson 21: Te oku/te aru](#org56898f9)
+    1.  [ておく](#orgda64ed7)
+23. [Lesson 22: Te-wa, te-mo - Topic/comment magic](#org82cb1c8)
+24. [Extra: も particle combinations](#orgcea8a25)
+25. [Lesson 23: だって, だから, それ から](#org9ba8bc6)
+26. [Lesson 24: Hearsay and guesses: ~そうだ, ~そうです](#org307e754)
+    1.  [Likeness](#orgd3cfe71)
+    2.  [Hearsay](#org7cef75a)
+27. [Lesson 25: らしい vs そうです](#orgb99620c)
+    1.  [っぽい](#orgd81941b)
+28. [Lesson 26: Similes - のように、 のような、 みたい](#org58ece56)
+29. [Lesson 27: Bakari - ばかり](#orgb3ba12d)
+30. [Extra: のに and なのに](#org137a982)
+31. [Lesson 28: ようになる, ようにする](#org73bdcf0)
+32. [Lesson 29: ことになる, ことにする](#org2142b93)
+33. [Lesson 30: Japanese conditionals: と](#org68159fd)
+34. [Lesson 31: ば, れば conditional helpers](#org3c5275f)
+35. [Lesson 32: たら, なら conditionals](#orga705408)
+36. [Lesson 33: Japanese limiting terms: だけ, しか, ばかり, のみ](#orgca66c77)
+    1.  [だけ](#orgb80f819)
+    2.  [しか](#orgd49b33a)
+    3.  [ばかり](#org29daf28)
+    4.  [のみ](#org29a9923)
+37. [Lesson 34: Understand any sentence](#org77a2df4)
+    1.  [How do we know when a logical clause ends? (How do we identify a logical clause?)](#orgcbb9331)
+38. [Lesson 35: より, の ほう, いっぽう](#orgc42035c)
+    1.  [より](#org21c054a)
+    2.  [ほう](#orgf13557d)
+    3.  [いっぽう 一方](#org4965407)
+39. [Lesson 36: ところ - The Japanese concept of place](#org48c677b)
+40. [Lesson 37: Structure, な vs の, なる & たる adjectives](#orgda3c94b)
+    1.  [する verbs](#org1c1cd31)
+    2.  [なる & たる &rsquo;adjectives&rsquo;](#orgdc01391)
+    3.  [All-kanji groups](#orgc75e67f)
+41. [Extra: が particle becomes の in subordinate clauses](#org5ca2684)
+42. [Lesson 38: じゃない, ではない](#org54d852a)
+43. [Lesson 39: Buried questions](#org5b7428f)
+    1.  [かもしれない - Maybe](#org00ab86d)
+    2.  [かな - I wonder](#org6758e36)
+    3.  [か is a nominaliser](#org5045027)
+    4.  [もんか & ものですか](#orgec3cc27)
+44. [Extra: Sentence ender particles](#org9a01ca1)
+    1.  [ね](#orge2bc5f5)
+    2.  [よ](#orgfc32ab0)
+    3.  [よね](#orga5911ac)
+    4.  [な](#org65cb8de)
+    5.  [かな](#org53307cd)
+45. [Lesson 40: Japanese structure pitfalls](#org52c181a)
+    1.  [で](#org7fa55e1)
+    2.  [が](#orgda5122c)
+    3.  [に](#orgacac903)
+46. [Lesson 41: Japanese structure key facts](#org73269df)
+    1.  [Adverbial nouns](#org4b7aa07)
+47. [Lesson 42: まま](#org16f0482)
+48. [Lesson 43: Cut through the confusion](#org4e00998)
+49. [Lesson 44: Chau, Chatta, ちゃう、 ちゃった](#org0fc3f9a)
+50. [Lesson 45: First-step guide into self immersion](#org4c8b01d)
+51. [Lesson 46: Japanese word order](#orgbd1c1f9)
+52. [Lesson 47: Secret weapon for breaking down sentences](#org00f77bf)
+53. [Lesson 48: Dealing with ambiguity](#org490ea22)
+54. [Lesson 49: Japanese point-of-view - もらう, てもらう](#orgf861dd6)
+55. [Lesson 50: させてもらう](#org3030918)
+    1.  [The hidden secret of the causative helper](#orgeb0bb33)
+    2.  [させてもらう](#org617405a)
+    3.  [敬語 (polite)](#org470c8ba)
+56. [Lesson 51: How to read a Japanese Kaidan (ghost story)](#orgd3b5fb9)
+57. [Lesson 52: In-depth japanese sentence analysis](#org4a8b3bf)
+58. [Lesson 53: Enjoy Japanese Horror (more sentence analysis)](#org7e0c151)
+59. [Lesson 54: Irregularities in Japanese](#orgc1c99dd)
+60. [Lesson 55: Secrets of the で particle](#org4cbf647)
+61. [Lesson 56: Deeper secrets of は and の particles](#org3f085d7)
+62. [Lesson 57: 込む - The secret of multi-meaning Japanese words](#org155574b)
+63. [Lesson 58: Particle combinations](#orgef9b965)
+64. [Lesson 59: Untranslatable Japanese](#org1a79615)
+65. [Lesson 60: Non-logical structure](#orgcc56f0d)
+66. [Lesson 61: が and は deeper secrets](#org46513b8)
+67. [Lesson 62: て-おく vs て-しまう, Helper verb secrets](#orgdb54b15)
+68. [Lesson 63: Sentence enders in real life Japanese](#org4e4e1d8)
+    1.  [かい](#orgbe8e001)
+    2.  [だい](#orgef45dca)
+    3.  [ちょうだい](#org5215f7d)
+    4.  [Emphasisers](#org5c07ab2)
+    5.  [pseudo-sentence enders](#org2660640)
+69. [Lesson 64: もの and こと secrets](#org09ebf88)
+    1.  [もの as a sentence ender](#orga077f29)
+    2.  [こと as a sentence ender](#orgb908320)
+70. [Lesson 65: て行く and て来る, coming and going](#org3ccaffa)
+71. [Lesson 66: Hidden subjects](#orgd5a2679)
+72. [Lesson 67: もう and まだ](#org7acb251)
+73. [Lesson 68: Japanese underlying logic, わけ、 そういうわけ、 わけが分からない、 わけない](#org5d504e6)
+74. [Lesson 69: Kaidan 4](#org1bb89c6)
+75. [Lesson 70: かける/かかる](#orgacc463a)
+    1.  [かける](#orgdb46ff2)
+    2.  [かかる](#org7ef4082)
+76. [Lesson 71: Japanese counters](#orgb6ea678)
+77. [Lesson 72: The great connector (い-stem)](#orgd8c311a)
+78. [Lesson 73: 気 Ki](#org8c9481f)
+    1.  [気になる 気にする](#org71d070d)
+    2.  [気がする](#orga4265d9)
+    3.  [気に入る](#org311635f)
+79. [Lesson 74: Love and other mysteries of こと](#org2886dcb)
+80. [Lesson 75: How expression strategies differ](#orgfc62adc)
+81. [Lesson 76: Aku, akeru, hiraku, hirakeru](#org99bd673)
+82. [Lesson 77: Real Japanese structure vs Tae Kim](#orgbe8cf0f)
+83. [Lesson 78: Tae Kim vs the Copula](#org714bdd4)
+84. [Lesson 79: Deeper secrets of the copula](#orgab4f8c4)
+85. [Lesson 80: Dropped particles and casual omissions](#orgdb6c5d1)
+86. [Lesson 81: Global principle of all Japanese word forms](#org9307127)
+87. [Lesson 82: なんて, なんか, など. 3 common words clarified](#orga349760)
+88. [Lesson 83: Commanding in Japanese](#orge1f11f9)
+89. [Lesson 84: What older copulas tell us](#orgeab5a35)
+90. [Lesson 85: まい the negative helper](#org3e828a7)
 
 My follow-along notes from the Organic Japanese course on Youtube: <https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj>
 
 
-<a id="org0666dcb"></a>
+<a id="org96893ba"></a>
 
 # Lesson 1: The core Japanese sentence
 
@@ -233,12 +234,12 @@ To recap, all of these sentences begin with the subject, they are connected with
 -   い - *&ldquo;adjective&rdquo;* - A is B
 
 
-<a id="org125ba1c"></a>
+<a id="org220ad2c"></a>
 
 # Lesson 2: Invisible が and the を-particle
 
 
-<a id="org80431cc"></a>
+<a id="org430d5f5"></a>
 
 ## The invisible が carriage
 
@@ -267,7 +268,7 @@ If I say 「土曜日だ」 - *&rsquo;It is Saturday&rsquo;* it is clear that �
 Each of these sentences are complete grammatical sentences with a subject marked by が and an engine, but in each of these cases the が carriage is just invisible. It **is** still there. This may seem to be arbitrary, or over-complicated but it saves a lot of grief later on to model sentences this way. Without this information as sentences become more complex they&rsquo;re going to seem increasingly vague and hard to understand.
 
 
-<a id="org7dc460c"></a>
+<a id="orgddcfa4a"></a>
 
 ## The を-particle
 
@@ -313,12 +314,12 @@ Once again, we would often see this said as 「ケーキをたべる」. This is
 When we are saying 「ケーキをたべる」, what we are really saying is 「∅がケーキをたべる」. And the default value for ∅ is 「わたし」 - &rsquo;I&rsquo;.
 
 
-<a id="org2d639fd"></a>
+<a id="org16e1cef"></a>
 
 # Lesson 3: は-particle and に-particle
 
 
-<a id="orgda5d3fa"></a>
+<a id="org9fbd17a"></a>
 
 ## は particle
 
@@ -363,7 +364,7 @@ There is no が carriage. We don&rsquo;t know who the subject actually is. One m
 Treating は as &rsquo;I am&rsquo; doesn&rsquo;t work. As we now know the default value of the ∅ pronoun is &rsquo;I&rsquo;, but in this context it&rsquo;s clear that we&rsquo;re talking instead about *what* we want to eat. 「わたしはうなぎだ」 therefore means &rsquo;As for me, eel&rsquo;.
 
 
-<a id="org1f1dc8e"></a>
+<a id="org91fe878"></a>
 
 ## The に particle
 
@@ -478,7 +479,7 @@ As for the ball, I threw it (the ball) at Sakura.
 This time the を carriage has become invisible, because what we&rsquo;re throwing is now marked by the は particle, ∅ here has taken the value of &rsquo;it&rsquo;. Even without は we might already know what &rsquo;it&rsquo; was that was thrown from context. The important thing to understand here is that as we change the logical particles from one noun to another we change the meaning of the sentence, but when we change the non-logical particle は from one noun to another it makes no difference to the logic of the sentence. It may make some difference to the emphasis, but it makes no difference to who is doing what or what they&rsquo;re doing it to.
 
 
-<a id="orgfc3f39c"></a>
+<a id="orgacb9776"></a>
 
 # Lesson 4: Japanese past, present and future tenses
 
@@ -549,7 +550,7 @@ For *non-relative*, i.e. *absolute* time expressions we must use the に-particl
 We must attach に in all the same places we would attach on/in/at in English. &rsquo;On Tuesday&rsquo;, &rsquo;in March&rsquo;, &rsquo;at 12 o&rsquo;clock&rsquo;. Fortunately in Japanese we only need to use the one particle.
 
 
-<a id="orgdf6a177"></a>
+<a id="orga67f931"></a>
 
 # Lesson 5: Japanese verb groups and て-form
 
@@ -573,12 +574,12 @@ There are only two irregular verbs, くる and する. いく, is partly irregul
 These are the only exceptions
 
 
-<a id="org71e1a5d"></a>
+<a id="org824e333"></a>
 
 # Lesson 6: Japanese &ldquo;adjectives&rdquo;
 
 
-<a id="org37a6f7c"></a>
+<a id="orgf08bf55"></a>
 
 ## い-adjectives, verb adjectives, and な-adjectives
 
@@ -623,7 +624,7 @@ We can turn 「やんちゃ」 into an adjective too, but there is one important
 An important note is that we cannot do this with *all* nouns, only nouns which are frequently used in an adjectival way. This group of nouns is what the are referred to as &rsquo;な-adjectives&rsquo;. We can use all nouns as adjectives, but for the rest we need to use a different technique and for that we will have to learn about the の particle.
 
 
-<a id="org0ce49cf"></a>
+<a id="orgf98bb0f"></a>
 
 ## The の-particle
 
@@ -646,12 +647,12 @@ Just as before, there&rsquo;s no need to worry about misusing の and な, no-on
 Using these techniques we can make all kinds of sentences that can become very complex, especially with verbal adjectives in which we can use whole sentences in an adjectival manner.
 
 
-<a id="org14cfb83"></a>
+<a id="org7df1e4d"></a>
 
 # Lesson 7: Negatives and adjective &ldquo;conjugations&rdquo;
 
 
-<a id="org24fe056"></a>
+<a id="orgd269c74"></a>
 
 ## Negative nouns
 
@@ -672,7 +673,7 @@ Above we have said &rsquo;There is no pen&rsquo;, how do we say &rsquo;This is n
 > これはぺんではない - As for this, as for being a pen, it&rsquo;s not. (Note: で is the て-form of だ)
 
 
-<a id="orgd94f05f"></a>
+<a id="org461ef31"></a>
 
 ## Negative verbs and the Japanese stem system
 
@@ -871,7 +872,7 @@ So to form the negative form of a verb convert it to the あ-stem and add ない
 > はなす ー> はなさない
 
 
-<a id="org6795f62"></a>
+<a id="org3b226ec"></a>
 
 ## Negative adjectives and adjective &ldquo;conjugations&rdquo;
 
@@ -922,7 +923,7 @@ Now as we know 「さくらがはしる」 is not very natural Japanese, instead
 > さくらがはしっている -> さくらがはしっていた - Sakura was running
 
 
-<a id="org592d6c8"></a>
+<a id="orga80ce80"></a>
 
 ## The only exceptions
 
@@ -937,7 +938,7 @@ The only other exception is いい (is good), which has an older form, which is 
 -   Note: 「よかった」 is a common phrase: 「∅がよかった」 - *It was good (That went well, it turned out great etc.)*
 
 
-<a id="orgbfe612e"></a>
+<a id="orgaba8b69"></a>
 
 # Lesson 8: Location, purpose and transformation (に and へ particles).
 
@@ -986,7 +987,7 @@ If we want to say &rsquo;Sakura became beautiful&rsquo; we can&rsquo;t use に b
 > さくらがうつくしくなった - Sakura became beautiful
 
 
-<a id="org1e0cdb9"></a>
+<a id="org7e313fa"></a>
 
 ## The へ car
 
@@ -995,7 +996,7 @@ Note: when used as a particle へ is pronounced え.
 This is a very simple particle, it duplicates a single use of に. When we say *a is going to b* we can freely substitute に with へ. This is **all** is can do, it cannot even mark the case where something *is*, only where it is *going*.
 
 
-<a id="orge5fd754"></a>
+<a id="org303bd07"></a>
 
 # Lesson 8b: Japanese particles explained
 
@@ -1030,12 +1031,12 @@ Remember, 「あそんで」 is the て form of 「あそぶ」 and is a seconda
 If we say &rsquo;I went by bus&rsquo; or &rsquo;I ate with chopsticks&rsquo; we use で for the thing we did it with, the means by which we performed the action.
 
 
-<a id="orgd07b7d6"></a>
+<a id="org1cfa5e7"></a>
 
 # Lesson 9: &rsquo;Ego-centrism&rsquo; and expressing desire
 
 
-<a id="org6fd73b6"></a>
+<a id="org80ede2e"></a>
 
 ## Ego-centrism
 
@@ -1060,7 +1061,7 @@ If this sentence were 1-1 with the common English meaning given, then every sing
 > わたしはほんがわかる
 
 
-<a id="org50d0b01"></a>
+<a id="org7bf5bef"></a>
 
 ## Expressing desire
 
@@ -1089,7 +1090,7 @@ So what is 「たい」? Is it an adjective describing the *condition of somethi
 This isn&rsquo;t confusing because が tells us what to do.
 
 
-<a id="org81b42ac"></a>
+<a id="orgb175da0"></a>
 
 ## A final note to help keep things clear
 
@@ -1112,7 +1113,7 @@ Even if Sakura has actually told me she wants cake, we must still use 「がる�
 Why do we use a verb for other people and an adjective for ourselves? I can&rsquo;t describe someone-else&rsquo;s feelings because I don&rsquo;t know about them, I can only describe their actions, and their actions are a verb.
 
 
-<a id="org2803516"></a>
+<a id="org12f50a9"></a>
 
 # Lesson 10: Japanese &ldquo;conjugation&rdquo; and potential form
 
@@ -1234,7 +1235,7 @@ As we&rsquo;re using a helper-verb, the past, non-past, negative-past and negati
 -   あるけなっかた - negative-past
 
 
-<a id="org2daa3f9"></a>
+<a id="orgc6a821a"></a>
 
 # Lesson 11: Compound sentences, くれる, あげる, and more て form uses
 
@@ -1271,7 +1272,7 @@ Note again our two clauses:
 For the first clause we do not know what in what tense the action is taking place. In English we would place the tense marker on both clauses, in Japanese we only do this at the end. よんで いて could mean &rsquo;is reading&rsquo; and it could mean &rsquo;was reading&rsquo;. Because くれなかった is in the past tense, then the entire sentence is in the past tense.
 
 
-<a id="org1700951"></a>
+<a id="orgef25744"></a>
 
 # Lesson 12: と quotation particle and compound verbs and compound nouns
 
@@ -1343,7 +1344,7 @@ Note: Both よむ and よぶ conjugate to よんだ in the て form, fortunately
 Once again we&rsquo;re using the quotation particle と to describe the way in which it run, it ran in the way it sounds, it ran like a small thing jumping along (note there are no quotation marks around this).
 
 
-<a id="orgc6a2502"></a>
+<a id="org3e181d3"></a>
 
 # Lesson 13: Passive &ldquo;conjugation&rdquo; - Not passive and not a conjugation
 
@@ -1468,7 +1469,7 @@ What is に doing here? に marks the ultimate target of an action. So what is t
 Note: Cure Dolly uses a *push-pull* analogy here, which I think is unnecessary.
 
 
-<a id="orgc729cad"></a>
+<a id="org88cb4a3"></a>
 
 ## The nuisance receptive
 
@@ -1477,7 +1478,7 @@ Note: Cure Dolly uses a *push-pull* analogy here, which I think is unnecessary.
 Here the core of the sentence is now &rsquo;Sakura got&rsquo;. What did she get? She got the unfortunate (nuisance) action of だれかに かばんを ぬすむ, someone stealing (her) bag. *Sakura got her bag stolen by someone* **not** *Sakura&rsquo;s bag got stolen by someone*.
 
 
-<a id="org71ccc0b"></a>
+<a id="org93e045a"></a>
 
 # Lesson 14: Adverbs and も-particle
 
@@ -1523,7 +1524,7 @@ Note again how our verb 走る has been converted to the て form signifying an 
 > ウサギは 早く 走って、 急に ウサギの 穴に とび 込んだ。- The rabbit ran quickly and jumped into a rabbit hole.
 
 
-<a id="org7691513"></a>
+<a id="org83c5fc7"></a>
 
 ## The も flag
 
@@ -1543,7 +1544,7 @@ When we change topic with も we&rsquo;re saying that the comment about the prev
 -   ゆっくり is slightly unusual in that it is fundamentally a noun, but we can use it as an adjective without adding に to it. We will see ゆっくり very often.
 
 
-<a id="org0ca8607"></a>
+<a id="orgd1b3c7f"></a>
 
 # Lesson 15: Transitivity
 
@@ -1584,7 +1585,7 @@ The only wildcards left are:
 Is there anything we can do to simplify this: える version have the opposite of the standard word.
 
 
-<a id="orga32984e"></a>
+<a id="org1cad6f2"></a>
 
 # Lesson 16: て-みる, &rsquo;try doing&rsquo;, や-particle, から-particle, exclusive-&rsquo;and&rsquo;
 
@@ -1791,7 +1792,7 @@ When putting two clauses together we use the て-form as an equivalent to &rsquo
 > たなの 一つから びんを 取り下した。- (She) shelve&rsquo;s one-from jar take-lowered - From one of the shelves she took down a jar.
 
 
-<a id="org320af05"></a>
+<a id="org299a128"></a>
 
 # Lesson 17: Form Japanese: です/ます + volitional
 
@@ -1910,12 +1911,12 @@ There are many uses of the volitional form in combination with various particles
 -   さくらがくるでしょう - Sakura&rsquo;s probably coming.
 
 
-<a id="org447ecdb"></a>
+<a id="orgf802baa"></a>
 
 # Lesson 18: Trying to do something; って = は? として、 と言う/という、 と する、 おう と する、 っていう
 
 
-<a id="org2a59524"></a>
+<a id="orgf71d154"></a>
 
 ## Try - と する
 
@@ -1927,7 +1928,7 @@ There are many uses of the volitional form in combination with various particles
 Why does this mean &rsquo;try&rsquo;? A precise translation may be derived from のぼろう - have the will to climb, and する to do. I have the will to climb the mountain, and I will do it, (but I may not have the ability). Hence, *try*.
 
 
-<a id="org09b2f52"></a>
+<a id="orge469133"></a>
 
 ## How we regard something - と する
 
@@ -1954,7 +1955,7 @@ Compare this with:
 Not literally: turn bag into a pillow.
 
 
-<a id="org2998023"></a>
+<a id="orgcb8efbb"></a>
 
 ## See something in the light of being something - と して
 
@@ -1967,7 +1968,7 @@ We can also use it as &rsquo;for&rsquo;:
 > アメリカジン\*として\*小さい - She&rsquo;s small for an American. (As an American, she&rsquo;s small).
 
 
-<a id="orgde33e6d"></a>
+<a id="orga5960aa"></a>
 
 ## As a quotation -  と言う/という
 
@@ -1984,7 +1985,7 @@ The most basic thing that can follow と is 言う in which case it can be used 
 > ふしぎの国のアリスって本 - The book called 「ふしぎの国のアリス」
 
 
-<a id="orgbb5dba0"></a>
+<a id="orgba3b748"></a>
 
 ## って as は
 
@@ -1997,7 +1998,7 @@ Remember the は particle is the topic marking particle:
 This is a very casual use, we can&rsquo;t use という in place of は but we can use って. The point is that this is still very logical.
 
 
-<a id="orgb0fc5c2"></a>
+<a id="org5b340e1"></a>
 
 # Lesson 19: Causative + &rsquo;causative passive&rsquo;
 
@@ -2135,7 +2136,7 @@ That said the use of を and に is not the main indicator of if we mean allowin
 In these types of sentences Japanese does not allow us to use the を particle twice. If we could use を twice then in some sentences we might end up with some doubt as to which を marks the object associated with 食べる and which を marks the object associated with せる/させる.
 
 
-<a id="org44e993c"></a>
+<a id="orgeba5464"></a>
 
 ## Causative receptive (causative passive)
 
@@ -2154,7 +2155,7 @@ We now have three verbs in a sentence:
 Note: The first and third actor are always the same. The second actor always different.
 
 
-<a id="orgfe93af0"></a>
+<a id="org4c9c7ac"></a>
 
 # Lesson 20: Sore/Sono/Sonna/Sou etc. Directional Words
 
@@ -2196,7 +2197,7 @@ The most basic meaning:
 -   Often あそこ means away from both the speaker and the listener
 
 
-<a id="org00f5470"></a>
+<a id="org3731ca4"></a>
 
 ## れ-group (nouns)
 
@@ -2235,7 +2236,7 @@ The れ group act as nouns.
 These can get confused with the の-group as in English we use the same word for both of these types of words.
 
 
-<a id="org3296916"></a>
+<a id="orgdf05692"></a>
 
 ## の-group (adjectivals)
 
@@ -2286,7 +2287,7 @@ The の group act as adjectives.
 > この ペンは (∅が) 赤い - Here&rsquo;s pen as for (it) red-is - The pen that is here is red
 
 
-<a id="org57efd26"></a>
+<a id="org807c76c"></a>
 
 ## な-group (real adjectives)
 
@@ -2331,7 +2332,7 @@ The な used for adjectival nouns descriptive of a thing&rsquo;s qualities. Dist
 These are essentially comparing-adjectives. Saying that something is like something either in physical space or in a conceptual way.
 
 
-<a id="orgaa85512"></a>
+<a id="org82067fe"></a>
 
 ## う/あ-group
 
@@ -2356,7 +2357,7 @@ Lengthening the final sound of こ/そ/あ/ど is talking about the way somethin
 The いう here is not referring to the fact we&rsquo;ve said anything. The いう refers to the description of the thing.
 
 
-<a id="orga872c66"></a>
+<a id="org56898f9"></a>
 
 # Lesson 21: Te oku/te aru
 
@@ -2379,7 +2380,7 @@ Notice how we&rsquo;re using いる, the verb for animate objects to describe th
 > 「オレンジ•マーマレード」と 書いて あった - (it) was in the state of having &rsquo;Orange marmalade&rsquo; written on it
 
 
-<a id="org04f9b9a"></a>
+<a id="orgda64ed7"></a>
 
 ## ておく
 
@@ -2402,7 +2403,7 @@ The second おく here (ておく) is in a sense the second half of てある:
 In many cases this is used to mean &rsquo;doing something in advance&rsquo; but it is not the only meaning, as we see here. What is literally means is putting the action in place.
 
 
-<a id="org05a6d22"></a>
+<a id="org82cb1c8"></a>
 
 # Lesson 22: Te-wa, te-mo - Topic/comment magic
 
@@ -2450,7 +2451,7 @@ This is where でも itself, rightly translated as &rsquo;but&rsquo;, comes from
 と bundles the entire thing into a quotation, of Alice&rsquo;s thoughts (思て). The full sentence therefore is: &rsquo;Empty jar-is-even-though, downward drop (negative expectation) is bad, Alice thought.&rsquo; - &rsquo;Alice thought that even though the jar is empty, dropping it would be bad&rsquo;.
 
 
-<a id="org9c91050"></a>
+<a id="orgcea8a25"></a>
 
 # Extra: も particle combinations
 
@@ -2476,7 +2477,7 @@ What about でも? The で here is not the particle で, it is the て-form of �
 > かもしれません - As to whether that is true or not I can can&rsquo;t go as far as to know
 
 
-<a id="org8fd2890"></a>
+<a id="org9ba8bc6"></a>
 
 # Lesson 23: だって, だから, それ から
 
@@ -2524,12 +2525,12 @@ This has a different implication to わたしもできる which just means &rsqu
 In this example we aren&rsquo;t saying anything contradictory to someone else but it still has the implication of *even*.
 
 
-<a id="orgfb09b96"></a>
+<a id="org307e754"></a>
 
 # Lesson 24: Hearsay and guesses: ~そうだ, ~そうです
 
 
-<a id="orge1fbf8e"></a>
+<a id="orgd3cfe71"></a>
 
 ## Likeness
 
@@ -2562,7 +2563,7 @@ For verbs, in the case of ichidan we just remove る as usual, and in the case o
 -   Note: Again; logically だ must always be used with そう, but colloquially it is often left off.
 
 
-<a id="org4e1773d"></a>
+<a id="org7cef75a"></a>
 
 ## Hearsay
 
@@ -2575,7 +2576,7 @@ When talking about hearsay we use そうだ/そうです after the entire, compl
 So simply put そうだ at the end of any full statement.
 
 
-<a id="orgf5458fa"></a>
+<a id="orgb99620c"></a>
 
 # Lesson 25: らしい vs そうです
 
@@ -2615,7 +2616,7 @@ When it comes to the difference between そう and らしい with respect to a s
 > それはさくらしくない - That wasn&rsquo;t like (you) Sakura
 
 
-<a id="orgd1c2978"></a>
+<a id="orgd81941b"></a>
 
 ## っぽい
 
@@ -2632,7 +2633,7 @@ When it comes to the difference between そう and らしい with respect to a s
 > こどもっぽい - Childish
 
 
-<a id="orgd8d87bb"></a>
+<a id="org58ece56"></a>
 
 # Lesson 26: Similes - のように、 のような、 みたい
 
@@ -2722,7 +2723,7 @@ Using か in this way is something we can&rsquo;t do this with any of the other 
 Because 「みたい」 is so casual, often the だ or 「です」 gets left off the sentence.
 
 
-<a id="orgfba7ebe"></a>
+<a id="orgb3ba12d"></a>
 
 # Lesson 27: Bakari - ばかり
 
@@ -2769,7 +2770,7 @@ The other common conjunction made with 「ばかり」 is 「ばらいに」. �
 > みみか大きいばかりに誰もあそんでくれない - Just because my ears are big no one will play with me
 
 
-<a id="org9381ef9"></a>
+<a id="org137a982"></a>
 
 # Extra: のに and なのに
 
@@ -2798,7 +2799,7 @@ What about 「なのに」? The reason sentences end in 「なのに」is that w
 > ∅が晴れた日曜日\*な\*のに - It is a sunny Sunday but&#x2026; (I can&rsquo;t go outside etc.) - Even though it is a sunny Sunday (I need to finish my homework etc.)
 
 
-<a id="orgf916c88"></a>
+<a id="org73bdcf0"></a>
 
 # Lesson 28: ようになる, ようにする
 
@@ -2849,7 +2850,7 @@ One final note is that sometimes ように can be seen on the end of a sentence:
 This is most typically seen with 「ます」 sentences, and particularly in prayers or petitions. This is a shortening of 「ようにする」 or 「ようにしてください」.
 
 
-<a id="org1998cf8"></a>
+<a id="org2142b93"></a>
 
 # Lesson 29: ことになる, ことにする
 
@@ -2876,7 +2877,7 @@ Because 「ことにする」 is a deliberate act, it is taken in many cases to 
 This time 「ことに」 is not being used on a logical clause, just a single word and so does not carry the implication of a decision being made anywhere, as there is no action to be decided on.
 
 
-<a id="orgc013f42"></a>
+<a id="org68159fd"></a>
 
 # Lesson 30: Japanese conditionals: と
 
@@ -2907,7 +2908,7 @@ We may even here the &rsquo;if&rsquo; on it&rsquo;s own without the &rsquo;then&
 Because と is exclusive, it&rsquo;s a bit more absolute and also a bit more colloquial than other conditionals like ば (to be covered later).
 
 
-<a id="org0fed3a5"></a>
+<a id="org3c5275f"></a>
 
 # Lesson 31: ば, れば conditional helpers
 
@@ -3052,7 +3053,7 @@ Even in very casual speech it is still often said in full to emphasise the &rsqu
 > なぜいかなければいけない - Why must I come?
 
 
-<a id="org2e5134b"></a>
+<a id="orga705408"></a>
 
 # Lesson 32: たら, なら conditionals
 
@@ -3086,12 +3087,12 @@ Of course we know it&rsquo;s Sakura, we&rsquo;re talking to Sakura. So what we&r
 Of course there isn&rsquo;t any real doubt that it&rsquo;s the station that we&rsquo;re asking for, so again, &rsquo;since&rsquo;.
 
 
-<a id="orgc9dcab3"></a>
+<a id="orgca66c77"></a>
 
 # Lesson 33: Japanese limiting terms: だけ, しか, ばかり, のみ
 
 
-<a id="org3b7bbef"></a>
+<a id="orgb80f819"></a>
 
 ## だけ
 
@@ -3118,7 +3119,7 @@ This 「あって」 is the connective (て-form) form of 「ある」. The beca
 > 留学しただけあって英語はうまい - Only something really cheap would break that quickly
 
 
-<a id="org0abd1fc"></a>
+<a id="orgd49b33a"></a>
 
 ## しか
 
@@ -3134,7 +3135,7 @@ Note: Implication of not being enough.
 > にげるしかない - There&rsquo;s noting more (we can do) than run - There&rsquo;s nothing for it but to run - There&rsquo;s no other action but to run
 
 
-<a id="org0d797c8"></a>
+<a id="org29daf28"></a>
 
 ## ばかり
 
@@ -3147,7 +3148,7 @@ Note: Implication of not being enough.
 「ばかり」 and 「だけ」 have the same literal meaning (only/just) but as we learned in the lesson on ばかり, it&rsquo;s a hyperbole, we don&rsquo;t literally mean it only sells bread. Just that it sells bread far more than anything else.
 
 
-<a id="org7a8a226"></a>
+<a id="org29a9923"></a>
 
 ## のみ
 
@@ -3158,7 +3159,7 @@ Note: Implication of not being enough.
 「のみ」 is typically used in polite or formal contexts, otherwise 「だけ」 is used.
 
 
-<a id="orga4a3837"></a>
+<a id="org77a2df4"></a>
 
 # Lesson 34: Understand any sentence
 
@@ -3167,7 +3168,7 @@ As we know the fundamental core of Japanese is what we covered in the very first
 In English these are called the Subject and the Predicate, in Japanese the 主語(しゅご) and the 述語(じゅつご).
 
 
-<a id="org57d34db"></a>
+<a id="orgcbb9331"></a>
 
 ## How do we know when a logical clause ends? (How do we identify a logical clause?)
 
@@ -3195,14 +3196,14 @@ The sentence will always end with an engine except for if there are one or two *
 How do we find, or how do we eliminate the possibility of a compound sentence? Just as before, a logical clause must end with an engine, and if the sentence is compound it must end also with a connector.
 
 
-<a id="org7fc5dd5"></a>
+<a id="orgc42035c"></a>
 
 # Lesson 35: より, の ほう, いっぽう
 
 > マアリ\*より\*さくら\*のほう\*がきれいだ - Sakura is prettier than Mary
 
 
-<a id="org1ca5c6e"></a>
+<a id="org21c054a"></a>
 
 ## より
 
@@ -3233,7 +3234,7 @@ We can also use 「より」 in other contexts:
 > さくらは人より傾い - Sakura is clever compared to people - Sakura is clever compared to (most) people - Sakura is smarter than most
 
 
-<a id="org3d0305d"></a>
+<a id="orgf13557d"></a>
 
 ## ほう
 
@@ -3253,7 +3254,7 @@ Notice again how we don&rsquo;t need 「より」 here, just as before we didn&r
 A lot of the time 「より」 and 「ほう」 will be used individually. When they&rsquo;re being used together it&rsquo;s usually either formal or adding emphasis.
 
 
-<a id="org0bc760b"></a>
+<a id="org4965407"></a>
 
 ## いっぽう 一方
 
@@ -3272,7 +3273,7 @@ Another use of 「いっぽう」 is that it can also be used after a complete v
 > この村の人口が減る一方 - This village&rsquo;s population is declining (and declining and declining) - This village&rsquo;s population just keeps on declining
 
 
-<a id="org9b9c878"></a>
+<a id="org48c677b"></a>
 
 # Lesson 36: ところ - The Japanese concept of place
 
@@ -3318,12 +3319,12 @@ But it can mean either:
 > いいところに来たね! - You came at a good time didn&rsquo;t you!
 
 
-<a id="orga12c8d4"></a>
+<a id="orgda3c94b"></a>
 
 # Lesson 37: Structure, な vs の, なる & たる adjectives
 
 
-<a id="orgaf5036a"></a>
+<a id="org1c1cd31"></a>
 
 ## する verbs
 
@@ -3336,7 +3337,7 @@ But it can mean either:
 -   Note: する and 勉強 fused together to form a &rsquo;true&rsquo; verb
 
 
-<a id="org6f1a388"></a>
+<a id="orgdc01391"></a>
 
 ## なる & たる &rsquo;adjectives&rsquo;
 
@@ -3355,7 +3356,7 @@ What does the choice of 「なる」 over な actually mean? In modern texts the
 The subtle difference is that 「なる」 means &rsquo;is magnificent&rsquo;, whereas 「たる」 means &rsquo;in a blazing manner&rsquo;.
 
 
-<a id="orgb3d7f43"></a>
+<a id="orgc75e67f"></a>
 
 ## All-kanji groups
 
@@ -3364,7 +3365,7 @@ The subtle difference is that 「なる」 means &rsquo;is magnificent&rsquo;, w
 Most of the time this is one noun modifying another noun. We have seen ways in which nouns modify each-other via な-の-なる-たる. They can also modify each-other directly i.e. 「日本」 + 「語」 = 「日本語」. This works in just the same way as English: &rsquo;Book&rsquo; + &rsquo;Shelf&rsquo; = &rsquo;Bookshelf&rsquo;. Japanese goes much further with this and has many many combinations that don&rsquo;t exist in English.
 
 
-<a id="orgf42bb3a"></a>
+<a id="org5ca2684"></a>
 
 # Extra: が particle becomes の in subordinate clauses
 
@@ -3391,7 +3392,7 @@ Let&rsquo;s look at an English equivalent:
 > 私のたべたケーキは(∅が)おいしかった - My eaten cake is delicious
 
 
-<a id="org4af200c"></a>
+<a id="org54d852a"></a>
 
 # Lesson 38: じゃない, ではない
 
@@ -3454,7 +3455,7 @@ There are of course more formal ways of using 「ではない」 as a positive s
 -   Note: This may be used as an assertion. Once we have definitively proven something, we may finish with this as a short of challenge.
 
 
-<a id="org180392d"></a>
+<a id="org5b7428f"></a>
 
 # Lesson 39: Buried questions
 
@@ -3486,7 +3487,7 @@ From this usage we can see how we can use か to mean &rsquo;or&rsquo;:
 > お茶かコーヒーどちらがいい？ - Which is good, tea or coffee?
 
 
-<a id="org95a8557"></a>
+<a id="org00ab86d"></a>
 
 ## かもしれない - Maybe
 
@@ -3498,7 +3499,7 @@ From this usage we can see how we can use か to mean &rsquo;or&rsquo;:
 -> The question of XX, I cannot go so far as to know = Maybe XX
 
 
-<a id="orgdda0b8e"></a>
+<a id="org6758e36"></a>
 
 ## かな - I wonder
 
@@ -3508,7 +3509,7 @@ From this usage we can see how we can use か to mean &rsquo;or&rsquo;:
 -   な address the question to oneself
 
 
-<a id="org9892d42"></a>
+<a id="org5045027"></a>
 
 ## か is a nominaliser
 
@@ -3517,7 +3518,7 @@ From this usage we can see how we can use か to mean &rsquo;or&rsquo;:
 Notice how か has turned 「ゆうれいを見た」 into a quasi-noun that can take の.
 
 
-<a id="orgd061698"></a>
+<a id="orgec3cc27"></a>
 
 ## もんか & ものですか
 
@@ -3536,19 +3537,19 @@ Another place we often see か as a negativising question marker is in 「どこ
 What is 「どころ」 doing here? It&rsquo;s dealing with the concept of reading kanji and negativising it. &rsquo;The circumstances in which I could read kanji aren&rsquo;t&rsquo;, &rsquo;Not only has the situation not reached this far place, it hasn&rsquo;t even read this near place&rsquo;.
 
 
-<a id="org7f8acd1"></a>
+<a id="org9a01ca1"></a>
 
 # Extra: Sentence ender particles
 
 
-<a id="org3f0cfda"></a>
+<a id="orge2bc5f5"></a>
 
 ## ね
 
 ね is a marker for information that the speaker assume the listener to know already. It is the marker for shared information/feelings.
 
 
-<a id="org60880b5"></a>
+<a id="orgfc32ab0"></a>
 
 ## よ
 
@@ -3557,14 +3558,14 @@ What is 「どころ」 doing here? It&rsquo;s dealing with the concept of readi
 よ can be assertive, and can be used to contradict, but most of the time it&rsquo;s a friendly particle that introduces some information the listener doesn&rsquo;t know but you think they will be interested in.
 
 
-<a id="orgf782aef"></a>
+<a id="orga5911ac"></a>
 
 ## よね
 
 This might seem a little confusing at first, notice however it&rsquo;s よね, you can&rsquo;t say ねよ. The reason for this is that you&rsquo;re introducing the listener to something that they don&rsquo;t know, and then immediately treating that information as shared.
 
 
-<a id="org57a4f3f"></a>
+<a id="org65cb8de"></a>
 
 ## な
 
@@ -3581,19 +3582,19 @@ One may be intending to share this statement with someone else.
 There are also occasions where men will use な where women would use ね. In these cases the difference in meaning is &rsquo;You agree with me don&rsquo;t you&rsquo; for ね and &rsquo;Well that&rsquo;s what I think and I don&rsquo;t care if you agree with me or not&rsquo; for な.
 
 
-<a id="org6567dda"></a>
+<a id="org53307cd"></a>
 
 ## かな
 
 &rsquo;I wonder&rsquo;. XX か(question)な(directs question at oneself).
 
 
-<a id="orgb1e5ab4"></a>
+<a id="org52c181a"></a>
 
 # Lesson 40: Japanese structure pitfalls
 
 
-<a id="org3979a59"></a>
+<a id="org7fa55e1"></a>
 
 ## で
 
@@ -3630,7 +3631,7 @@ The particle で doesn&rsquo;t make any sense here. Remember the て-form is oft
 Here is an example of the て-form of だ being used as a connective: &rsquo;You weren&rsquo;t hurt - that&rsquo;s good&rsquo;
 
 
-<a id="org4c996e7"></a>
+<a id="orgda5122c"></a>
 
 ## が
 
@@ -3649,7 +3650,7 @@ Also: sometimes this が will be used at the end of a sentence to soften a reque
 > コーヒーがほしいが - I&rsquo;d like some coffee - I&rsquo;d like some coffee but (if it&rsquo;s any trouble it&rsquo;s not necessary)
 
 
-<a id="org809e606"></a>
+<a id="orgacac903"></a>
 
 ## に
 
@@ -3658,7 +3659,7 @@ Also: sometimes this が will be used at the end of a sentence to soften a reque
 It is further used in certain expressions like 「それに」 (furthermore) leveraging the &rsquo;and&rsquo; quality of に to be a clause connector.
 
 
-<a id="org443d87b"></a>
+<a id="org73269df"></a>
 
 # Lesson 41: Japanese structure key facts
 
@@ -3667,7 +3668,7 @@ New info:
 -   する nouns (verbs) can drop the を particle to form a &rsquo;true&rsquo; する verb
 
 
-<a id="orge8029b7"></a>
+<a id="org4b7aa07"></a>
 
 ## Adverbial nouns
 
@@ -3692,7 +3693,7 @@ As we know, any noun that can be used adverbially can be done so using the parti
 「ずいぶん」 means &rsquo;sufficiently&rsquo;. In English &rsquo;sufficiently&rsquo; isn&rsquo;t a noun, but in Japanese it is. Like 「あまり」 is often used with some inverse-hyperbole i.e. sufficiently = more than sufficient.
 
 
-<a id="orgec98f9d"></a>
+<a id="org16f0482"></a>
 
 # Lesson 42: まま
 
@@ -3736,7 +3737,7 @@ Remember: Sometimes 「思い」 does imply desire:
 \#+END<sub>QUOTE</sub>
 
 
-<a id="org5492772"></a>
+<a id="org4e00998"></a>
 
 # Lesson 43: Cut through the confusion
 
@@ -3745,7 +3746,7 @@ This is a good lesson but not much worth taking notes on.
 The general gist is that Japanese does not make much distinction between the actor of a sentence and the receiver. Things that are passive/non-passive can be the other depending on what is being spoken about. Often the concept of there being an &rsquo;object&rsquo; and an &rsquo;actor&rsquo; or an inducer and an induced is meaningless, as the act is a shared thing between the two.
 
 
-<a id="org32bba66"></a>
+<a id="org0fc3f9a"></a>
 
 # Lesson 44: Chau, Chatta, ちゃう、 ちゃった
 
@@ -3763,12 +3764,12 @@ This can be used for a much wider range of things than just regret. To help unde
 We also use this about future things, with a similar feeling as &rsquo;done&rsquo; is used for the past.
 
 
-<a id="org10d5392"></a>
+<a id="org4c8b01d"></a>
 
 # Lesson 45: First-step guide into self immersion
 
 
-<a id="orge28e3bf"></a>
+<a id="orgbd1c1f9"></a>
 
 # Lesson 46: Japanese word order
 
@@ -3799,7 +3800,7 @@ Not a logical clause, but a modified noun
 Again, not a logical clause but a modified noun
 
 
-<a id="orge62a9d9"></a>
+<a id="org00f77bf"></a>
 
 # Lesson 47: Secret weapon for breaking down sentences
 
@@ -3823,7 +3824,7 @@ Remember: the 4 logical particles aside from が (に、 で、 を、 へ) all 
 Remember: modifiers can be entire clauses in their own right.
 
 
-<a id="org87e1ca5"></a>
+<a id="org490ea22"></a>
 
 # Lesson 48: Dealing with ambiguity
 
@@ -3838,7 +3839,7 @@ There are three rules for busting ambiguity (and they are not different than the
 3.  Absurdity
 
 
-<a id="org3106a5c"></a>
+<a id="orgf861dd6"></a>
 
 # Lesson 49: Japanese point-of-view - もらう, てもらう
 
@@ -3876,14 +3877,14 @@ The person もらう-ing does not have to be the speaker:
 Kureru cannot be used for someone other than oneself/one&rsquo;s group, but もらう is not.
 
 
-<a id="orgdbd7e0f"></a>
+<a id="org3030918"></a>
 
 # Lesson 50: させてもらう
 
 There are many expressions that combine 「てもらう」 (see previous lesson) with the causative helper verb 「せる/させる」, 「させてもらう」.
 
 
-<a id="orgfa03bf7"></a>
+<a id="orgeb0bb33"></a>
 
 ## The hidden secret of the causative helper
 
@@ -3905,7 +3906,7 @@ The causative can be used in many other ways that mean neither &rsquo;make&rsquo
 > 読み聞かせる - Read and cause to hear (Read aloud)
 
 
-<a id="org783f099"></a>
+<a id="org617405a"></a>
 
 ## させてもらう
 
@@ -3920,14 +3921,14 @@ Sometimes this can mean &rsquo;allow&rsquo;:
 > 帰らせてもらいます - (I) will receive (your) allowing (me) to go home
 
 
-<a id="org7263417"></a>
+<a id="org470c8ba"></a>
 
 ## 敬語 (polite)
 
 All though we aren&rsquo;t yet covering polite speech, the polite form of もらう is いただく (or as this is polite speech is usually used with ます so) いただきます. We are used to this phrase before eating, but what it really means is something like &rsquo;I humbly receive&rsquo;.
 
 
-<a id="org2d26a02"></a>
+<a id="orgd3b5fb9"></a>
 
 # Lesson 51: How to read a Japanese Kaidan (ghost story)
 
@@ -3959,7 +3960,7 @@ All though we aren&rsquo;t yet covering polite speech, the polite form of もら
 \#+END<sub>QUOTE</sub>
 
 
-<a id="org1a4e807"></a>
+<a id="org4a8b3bf"></a>
 
 # Lesson 52: In-depth japanese sentence analysis
 
@@ -4005,7 +4006,7 @@ In 「ことに気付いた」 why is に used and not を? The Japanese-English
     -   &rsquo;Because the door was unlocked she went in **just like that**&rsquo;
 
 
-<a id="org89f58a2"></a>
+<a id="org7e0c151"></a>
 
 # Lesson 53: Enjoy Japanese Horror (more sentence analysis)
 
@@ -4042,7 +4043,7 @@ In 「ことに気付いた」 why is に used and not を? The Japanese-English
     -   おく means to put something in a place, but as we know the japanese concept of &rsquo;place&rsquo; is very loose, so そとしておく means &rsquo;put in place acting quietly&rsquo; (fairly close to a common English expression)
 
 
-<a id="org7fc31fb"></a>
+<a id="orgc1c99dd"></a>
 
 # Lesson 54: Irregularities in Japanese
 
@@ -4079,7 +4080,7 @@ This alone isn&rsquo;t the sole reason for these two forms surviving into modern
 The way something sounds or looks always has to be self move, because we&rsquo;re not doing anything to the sound or image, it is the sound or image that is doing the act of seeming a certain way.
 
 
-<a id="org0ab0578"></a>
+<a id="org4cbf647"></a>
 
 # Lesson 55: Secrets of the で particle
 
@@ -4146,7 +4147,7 @@ The same thing is happened when we say:
 > 一人で踊る - Dance alone
 
 
-<a id="org93e190f"></a>
+<a id="org3f085d7"></a>
 
 # Lesson 56: Deeper secrets of は and の particles
 
@@ -4181,7 +4182,7 @@ Where are the A and the B of this sentence? This is an A is B sentence. The は-
 Why is it being put this way? Because it *can* be. Again, it is cumbersome in English, but not in Japanese.
 
 
-<a id="org4def98e"></a>
+<a id="org155574b"></a>
 
 # Lesson 57: 込む - The secret of multi-meaning Japanese words
 
@@ -4196,7 +4197,7 @@ We may encounter this initially in very simple meanings such as &rsquo;込んで
 It then becomes attached as a helper verb to the い-stem of other verbs. 飛び込む which means &rsquo;jump in&rsquo;. Either literally or metaphorically.
 
 
-<a id="org43b1fb8"></a>
+<a id="orgef9b965"></a>
 
 # Lesson 58: Particle combinations
 
@@ -4227,7 +4228,7 @@ We do need に so that the topic is about **in** winter.
 This sentence carries the implication that we&rsquo;re going to school but not going somewhere else (because of the exclusiveness of the は particle).
 
 
-<a id="org9101a32"></a>
+<a id="org1a79615"></a>
 
 # Lesson 59: Untranslatable Japanese
 
@@ -4237,7 +4238,7 @@ There is a group of verbs in Japanese that are defined by their English translat
 -   濁る - Do (state of) cloudy/muddy (become cloudy/muddy)
 
 
-<a id="orge0fb39f"></a>
+<a id="orgcc56f0d"></a>
 
 # Lesson 60: Non-logical structure
 
@@ -4257,7 +4258,7 @@ As with が the default value of ∅ is &rsquo;I&rsquo;.
 The topic is usually a noun, and the comment must be a complete logical clause.
 
 
-<a id="org5501233"></a>
+<a id="org46513b8"></a>
 
 # Lesson 61: が and は deeper secrets
 
@@ -4300,7 +4301,7 @@ These are all tendencies however. There is no structural reason for any of these
 The topic is 「おまえみたいな半人前に」 but the writer has chosen to deemphasise this topic, and introduce a subtopic that is やすみ, &rsquo;rests&rsquo;. This places the emphases on the not existing of the tests.
 
 
-<a id="org372d57b"></a>
+<a id="orgdb54b15"></a>
 
 # Lesson 62: て-おく vs て-しまう, Helper verb secrets
 
@@ -4318,33 +4319,33 @@ Japanese people are very fond of helper verbs and attach them very often dependi
     Remember, おく means &rsquo;place/put&rsquo; and ておく means to put something in place (for some reason). That is to say, the use of ておく implies a reason for the action, even if not stated.
 
 
-<a id="org5b9b840"></a>
+<a id="org4e4e1d8"></a>
 
 # Lesson 63: Sentence enders in real life Japanese
 
 
-<a id="org24141cb"></a>
+<a id="orgbe8e001"></a>
 
 ## かい
 
 かい is simply a softened and colloquial form of か. In casual speech we don&rsquo;t use か as a sentence-ender question marker very often (though we do use it in other positions). Usually we will just use a rising intonation (or a question mark on its own in typed speech), we may use の (which is ambiguous because it can mark a question or an explanation), but we can occasionally use かい. かい is a predominantly masculine (though older women may use it) and rather &rsquo;folksy&rsquo; way of marking a question.
 
 
-<a id="org022ca55"></a>
+<a id="orgef45dca"></a>
 
 ## だい
 
 だい is just だ+かい. This is the form of かい we use in copula-ending sentences. Everything about かい applies to だい except a particularly common colloquialism which is 「どうだい」 meaning &rsquo;how is [something]&rsquo;.
 
 
-<a id="orgdfb2528"></a>
+<a id="org5215f7d"></a>
 
 ## ちょうだい
 
 This isn&rsquo;t related to かい or だい but is an informal equivalent to ください, so usually it is added to the て-form of a verb to ask someone to do something. It is slightly feminine but not exclusively.
 
 
-<a id="org43640cc"></a>
+<a id="org5c07ab2"></a>
 
 ## Emphasisers
 
@@ -4353,7 +4354,7 @@ This isn&rsquo;t related to かい or だい but is an informal equivalent to �
 -   さ - more common verbal exclamation mark, slightly masculine but not exclusively. Very likely to hear in real life
 
 
-<a id="org7c8943f"></a>
+<a id="org2660640"></a>
 
 ## pseudo-sentence enders
 
@@ -4362,7 +4363,7 @@ Often sentences end in conjunctions. This has been covered previously.
 し is very similar to から, it&rsquo;s most common and regular use is to combine reasons. There is an example here, it essentiall goes: reason a し reason b し therefore&#x2026; you can therefore use し with only one reason to imply that there are other reasons also. し has the effect of softening a reason, so saying something like &rsquo;because riding a bike is forbidden here&rsquo; + し sounds a bit friendlier. This tactic of &rsquo;vaguing&rsquo; things up is common in English using words like &rsquo;like&rsquo; and &rsquo;kinda&rsquo;
 
 
-<a id="org36b1aec"></a>
+<a id="org09ebf88"></a>
 
 # Lesson 64: もの and こと secrets
 
@@ -4381,7 +4382,7 @@ Notice how this is a very different statement to &rsquo;I went to Japan&rsquo;. 
 > どんな人にも失敗することがある - Everybody sometimes makes mistakes - Whatever kind of person it may be, the fact of making mistakes exists.
 
 
-<a id="orgf3c4946"></a>
+<a id="orga077f29"></a>
 
 ## もの as a sentence ender
 
@@ -4402,14 +4403,14 @@ What is the difference between:
 Note the latter is far more emotional.
 
 
-<a id="org895b227"></a>
+<a id="orgb908320"></a>
 
 ## こと as a sentence ender
 
 こと is used as a sentence ender for lists of rules. Even a single statement, if followed by こと shows that that thing is a rule/regulation. こと shows that the statement is a decision that has been made. Refer to lessons 28 and 29.
 
 
-<a id="org3169cf9"></a>
+<a id="org3ccaffa"></a>
 
 # Lesson 65: て行く and て来る, coming and going
 
@@ -4428,14 +4429,14 @@ There are also some examples of Iku being used as a time metaphor
 > 寒くなっていった - It became cold (objectively speaking)
 
 
-<a id="orgca350cb"></a>
+<a id="orgd5a2679"></a>
 
 # Lesson 66: Hidden subjects
 
 Sometimes Japanese may not define the ∅ pronoun. We do this sometimes in English too: &rsquo;I hear they&rsquo;re putting a man on mars next year&rsquo;. Who&rsquo;s &rsquo;they&rsquo;, we can&rsquo;t tell from the sentence, we just have to use our wider knowledge to conclude NASA (or Mr. Musk, Russians or the ESA or the Chinese). This is quite common in Japanese.
 
 
-<a id="orgbfc8b0f"></a>
+<a id="org7acb251"></a>
 
 # Lesson 67: もう and まだ
 
@@ -4487,7 +4488,7 @@ The additive もう is also often used to express time relations in much the sam
 > \*もう\*二度来ないよ! - I&rsquo;ll never come again - lit: I won&rsquo;t come for another second time
 
 
-<a id="orgde322a2"></a>
+<a id="org5d504e6"></a>
 
 # Lesson 68: Japanese underlying logic, わけ、 そういうわけ、 わけが分からない、 わけない
 
@@ -4541,7 +4542,7 @@ X has no reasoning (therefore is simple enough to exist without it (hyperbole))
 > 日本語をはなすのわわけがないことだ - Speaking Japanese is easy (and there&rsquo;s no reason needed) - Japanese is a no-brainer
 
 
-<a id="orge99400a"></a>
+<a id="org1bb89c6"></a>
 
 # Lesson 69: Kaidan 4
 
@@ -4554,14 +4555,14 @@ X has no reasoning (therefore is simple enough to exist without it (hyperbole))
 見て欲しい means &rsquo;want someone to see&rsquo;.
 
 
-<a id="orgd150e54"></a>
+<a id="orgacc463a"></a>
 
 # Lesson 70: かける/かかる
 
 The core meaning of these two words is &rsquo;hang&rsquo; or &rsquo;hook&rsquo;, though as has been covered previously the Japanese definition doesn&rsquo;t quite occupy the same meaning-space as the English. The two versions are just for self-move (かかる) and other-move (かける) usages.
 
 
-<a id="org8ba4e6e"></a>
+<a id="orgdb46ff2"></a>
 
 ## かける
 
@@ -4592,7 +4593,7 @@ As we&rsquo;re talking about things being in a sense stuck/caught on something (
 > 食べかけた Cookie - Part eaten cookie - A cookie that got caught on eating
 
 
-<a id="org26f5d1d"></a>
+<a id="org7ef4082"></a>
 
 ## かかる
 
@@ -4613,7 +4614,7 @@ Something rather untranslatable:
 > 電話かかかる - The telephone hangs itself - Telephone got hooked up - Receive a telephone call
 
 
-<a id="org31233ef"></a>
+<a id="orgb6ea678"></a>
 
 # Lesson 71: Japanese counters
 
@@ -4655,7 +4656,7 @@ Rule 2. All ten-tenable kana counters replace the second syllable of the number 
 Rule 3. Sometimes a ten-ten or maru is added to the counter, often this is optional
 
 
-<a id="orgeea7567"></a>
+<a id="orgd8c311a"></a>
 
 # Lesson 72: The great connector (い-stem)
 
@@ -4681,7 +4682,7 @@ In English the verb form and the noun form of a verb are usually (though not alw
 [1] marks location target noun, [2] marks purpose target noun. Note how &rsquo;buy bread&rsquo; is a noun (it has to be to be marked by に).
 
 
-<a id="org504e976"></a>
+<a id="org8c9481f"></a>
 
 # Lesson 73: 気 Ki
 
@@ -4690,7 +4691,7 @@ In English the verb form and the noun form of a verb are usually (though not alw
 Japanese use 気をけて (attach your spirit) in the same way in English we say &rsquo;mind&#x2026;&rsquo; i.e. mind the step, be careful of the step, attach your spirit to the step.
 
 
-<a id="org1770eae"></a>
+<a id="org71d070d"></a>
 
 ## 気になる 気にする
 
@@ -4705,7 +4706,7 @@ Neither 気になる 気にする mean anything on their own.
 Now the doer of the action is I. There are two implications here, the first is that we are the one controlling our spirit, it isn&rsquo;t acting naturally. This gives it a slightly more negative meaning. It typically therefore means worried. The other implication is that we are in control of our spirit. 気にしないで - Don&rsquo;t turn it into your spirit - Don&rsquo;t worry about it.
 
 
-<a id="orgbb259be"></a>
+<a id="orga4265d9"></a>
 
 ## 気がする
 
@@ -4714,7 +4715,7 @@ Here it is the spirit itself that&rsquo;s acting. Our spirit, or a certain aspec
 > 騙されているような気がする - I&rsquo;ve got a feeling we&rsquo;re being tricked/deceived. - A deceiving-appearance-feeling is active (doing itself i.e. existing and)
 
 
-<a id="org9b2cf92"></a>
+<a id="org311635f"></a>
 
 ## 気に入る
 
@@ -4723,7 +4724,7 @@ Here it is the spirit itself that&rsquo;s acting. Our spirit, or a certain aspec
 Of note, when describing what someone else likes, this pattern is much more polite than tai/garu/hoshii.
 
 
-<a id="org3155f0b"></a>
+<a id="org2886dcb"></a>
 
 # Lesson 74: Love and other mysteries of こと
 
@@ -4752,7 +4753,7 @@ Note: The explanation already exists, it&rsquo;s just that we&rsquo;ve now disco
 > そんな! - That [thing] (protest)
 
 
-<a id="org589497d"></a>
+<a id="orgfc62adc"></a>
 
 # Lesson 75: How expression strategies differ
 
@@ -4777,7 +4778,7 @@ We are taught early on that その means &rsquo;that&rsquo;, which it does, but 
 > ある村のこと - The affair of a certain village
 
 
-<a id="org4bcd288"></a>
+<a id="org99bd673"></a>
 
 # Lesson 76: Aku, akeru, hiraku, hirakeru
 
@@ -4794,28 +4795,28 @@ What is the difference between あく and ひらく (they use the same kanji+kan
 > 運がひらける - Luck opens (and will stay that way)
 
 
-<a id="org57dbe36"></a>
+<a id="orgbe8cf0f"></a>
 
 # Lesson 77: Real Japanese structure vs Tae Kim
 
 There are no notes today
 
 
-<a id="org4655418"></a>
+<a id="org714bdd4"></a>
 
 # Lesson 78: Tae Kim vs the Copula
 
 Likely to not have any notes to take again. There is a brief note here further explaining the lack of Japanese verb &ldquo;conjugations&rdquo;, in that a conjugated verb is still a verb, but Japanese verbs are transformed into (not conjugated into) verbs, and adjectives. たべない is not a conjugated verb, it&rsquo;s an adjective.
 
 
-<a id="orgc2df536"></a>
+<a id="orgab4f8c4"></a>
 
 # Lesson 79: Deeper secrets of the copula
 
 English doesn&rsquo;t have a dedicated copula. Every language has a copula, it is the one-way equals sign that tells us A is B, but B is not necessarily A. To go a bit deeper, what the copula does is place things into sets. A belongs to the set of things B. The set may only be a set of one, i.e. That person is Sakura, then &rsquo;that person&rsquo; (and that person only) is Sakura. English doesn&rsquo;t have a dedicated copula, English doubles up the verb of being (is, be, am, are, was, were, etc.) with the copula. These two completely different semantic functions are so closely packed that natives can&rsquo;t even tell them apart. This causes no issue for native speakers, but it does make it difficult for native English speakers to learn languages that do have a dedicated copula.
 
 
-<a id="org0f0b94a"></a>
+<a id="orgdb6c5d1"></a>
 
 # Lesson 80: Dropped particles and casual omissions
 
@@ -4847,7 +4848,7 @@ Finally, the third kind of thing that gets dropped are &rsquo;trailing&rsquo; se
 In Japanese this often takes the form of ending a sentence with the て form. This has been discussed before, but can be used to soften or strengthen a statement.
 
 
-<a id="org24000e1"></a>
+<a id="org9307127"></a>
 
 # Lesson 81: Global principle of all Japanese word forms
 
@@ -4870,7 +4871,7 @@ When we drop the い altogether we can attach the そう helper &rsquo;seems&rsq
 The copula has a mini-stem system, becoming で (て-form) and な (connective-form). (There&rsquo;s again some notes here on だっ and だろ and how the final kana in these instances are morphed but it&rsquo;s a little unclear to me what these mean).
 
 
-<a id="orgd83930b"></a>
+<a id="orga349760"></a>
 
 # Lesson 82: なんて, なんか, など. 3 common words clarified
 
@@ -4943,7 +4944,7 @@ Finally, we can use なんて like the original meaning of なにという, but 
 > [Name]​**なんて**​人は知らない - I don&rsquo;t anyone called [Name]
 
 
-<a id="org7dba8c3"></a>
+<a id="orge1f11f9"></a>
 
 # Lesson 83: Commanding in Japanese
 
@@ -5002,7 +5003,7 @@ The first is the のだ/んだ ending placed onto a complete logical clause whic
 Also, ように (covered in lesson 28) can form commands.
 
 
-<a id="org56d5b20"></a>
+<a id="orgeab5a35"></a>
 
 # Lesson 84: What older copulas tell us
 
@@ -5033,6 +5034,41 @@ There are cases where we don&rsquo;t have a choice of which to use, for example,
 円形のさま doesn&rsquo;t really work here.
 
 Historically, だ is an abbreviation of である, and です is an abbreviation of であります. There are some notes here on how all this works but I&rsquo;m not sure it&rsquo;s necessary.
+
+
+<a id="org3e828a7"></a>
+
+# Lesson 85: まい the negative helper
+
+まい is a negative helper like ず and ぬ and is a relative of まい. Like ぬ and ず it isn&rsquo;t quite at home in modern Japanese.
+
+The first unusual thing about まい is that is doesn&rsquo;t attach to one of the verb stems, in most cases it attaches to the complete verb. It can attach to the universal ichidan stem but often attaches to the full ichidan verb too. くる and する have irregular forms in こまい and しまい but they can also be くるまい and するまい.
+
+まい is a sister to ない. まい is the volitional form. Adjectives don&rsquo;t usually have volitional forms but in this case they do, and they have certain uses. まい is an adjective, but unlike any others it **does not** morph. There is no まくて or まかった or any other form, only the simple, unchanged form. This is actually the same as the (positive) volitional helper verb which also doesn&rsquo;t have a past form or a て-form etc.
+
+What does the negative volitional actually do? It can&rsquo;t be used in all the same ways as the positive, it cannot be used as a call to action. It can&rsquo;t be used for constructions that mean &rsquo;try to do [something]&rsquo;.
+
+It&rsquo;s most usual use is to express one&rsquo;s subjective doubt:
+
+> そんあことはあるまい - Such a thing is most unlikely (to be)
+
+> この振りではかれは来まい - In this downpour, I doubt if he&rsquo;ll come
+
+This is rather similar to the other adjectives that have been covered that express subjectivities, such as ほしい and こわい. In this case it&rsquo;s out subjectivity about the likelihood of something.
+
+It is also used, in a way that is directly equivalent to the positive volitional, which is to strongly assert negative intent:
+
+> 二度と行くまい - I won&rsquo;t go there a second time - I won&rsquo;t go there again.
+
+There are a couple of other positive constructions in which まい is used.
+
+VようかVまいか is similar to ~かどうか but is restricted to verbs, and being volitional (will-based) is mostly used in relation to considering options.
+
+Another is in the combined use of し which as we know combines reasons for things, but can be used at the end of a sentence to imply more reasons than just those stated:
+
+> 金持ちではあるまいし - (It&rsquo;s) not that we might be rich or anything
+
+> 世界が終わるわけがあるまいし - It isn&rsquo;t that the world might end of anything
 
 
 # Footnotes

@@ -3579,3 +3579,23 @@ Another is in the combined use of し which as we know combines reasons for thin
 #+BEGIN_QUOTE
 世界が終わるわけがあるまいし - It isn't that the world might end of anything
 #+END_QUOTE
+* Extra: Words that don't belong in modern Japanese
+There are words from old Japanese that have survived into modern Japanese, but they don't work the way that they used to, and they don't work in the quite same manner that words in modern Japanese do either.
+# There are some notes here on the alternative ways of writing 聞く
+
+The せん of ません (the negative form of the polite helper verb ます) is one of these old Japanese words. Usually negatives are formed by attaching the helper adjective ない but with ます, but instead here with have せん which doesn't attach to the normal stem and doesn't work like any of the three main kinds of words, nouns, verbs and adjectives.
+
+ぬ and ず are both negatives.
+
+ぬ essentially works the same way as ない works in modern Japanese. You attach it to the あ-stem to form a negative. わからない == わからぬ. The peculiar thing is that these words despite seeming to be verbs don't have a て-form or modulate in any way.
+
+ず works like ないで (the irregular て-form of ない). Again, it attaches to the あ-stem like ない and ぬ. It doesn't mean the ないで that can be a command or suggestion, it only means the ないで that means 'without doing A, do B':
+#+BEGIN_QUOTE
+たべないでねた == たべずねた - I went to sleep without eating
+#+END_QUOTE
+
+While ず is often used in exactly the same way as ないで, ず can also be used with に:
+#+BEGIN_QUOTE
+たべずにねた -
+#+END_QUOTE
+ず and ぬ do not work like verbs, they don't modulate. They also don't work like adjectives. For this reason they aren't 用言 (active words), i.e. they're (practically) nouns (in modern Japanese). Since it's adverbial, it can be treated like an adverbial noun.

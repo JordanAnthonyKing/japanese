@@ -3599,3 +3599,47 @@ While ず is often used in exactly the same way as ないで, ず can also be us
 たべずにねた -
 #+END_QUOTE
 ず and ぬ do not work like verbs, they don't modulate. They also don't work like adjectives. For this reason they aren't 用言 (active words), i.e. they're (practically) nouns (in modern Japanese). Since it's adverbial, it can be treated like an adverbial noun.
+* Lesson 86: 次第 (shidai)
+しだい is another word that has many different definitions when translated into English. 次第 is made of two Kanji, and it's a noun (as we can tell from it being a word formed solely of kanji). The two kanji are 次 (next) and 第 (ordinal (number in sequence)). In English ordinal is the /st/ in 1st, the /nd/ in 2nd etc. In Japanese just 第 (だい) is used: 第3話 - 3rd episode.
+
+What 次第 therefore means is 'next [thing] in sequence'. It generally works by attaching to another noun, giving us a compound. The simplest usage of this is equivalent to the English expressions 'as soon as':
+#+BEGIN_QUOTE
+分かり次第お会話します - As soon as [it] becomes known, I'll call you - I'll call you as soon as I know
+#+END_QUOTE
+#+BEGIN_QUOTE
+食事の用意が出来次第食べる - As soon as the preparations for the meal are complete we'll eat.
+#+END_QUOTE
+Note, here we have attached 次第 to the stem of 出来る.
+
+From this same idea of 'next in sequence', we get this seemingly disparate English translation 'depending upon':
+#+BEGIN_QUOTE
+それは天気次第だ - That follows directly from the weather - That depends on the weather
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+手当たり次第食べる - Hand touch is followed by eat - He eats whatever he puts his hands on
+#+END_QUOTE
+
+Another useful trick is that we can attach 次第 directly to a person:
+#+BEGIN_QUOTE
+それはあなた次第です - That follow-from-you-thing is - It follows directly from you - It's up to you
+#+END_QUOTE
+
+According to:
+#+BEGIN_QUOTE
+値段は品次第で違う - Price differs directly following the goods - The price is according to the good's quality
+#+END_QUOTE
+#+BEGIN_QUOTE
+身分次第に暮らす - Live according to one's means
+#+END_QUOTE
+
+In some cases 次第 meaning 'next in sequence' can represent the whole sequence:
+#+BEGIN_QUOTE
+それはこんな次第だった - It was this kind of situation - It was this kind of sequence of events
+#+END_QUOTE
+
+次第に is simply the practice of applying に to a noun to describe doing something adverbially. Doing something in a 次第 manner is to do it as a sequence of steps or gradually.
+#+BEGIN_QUOTE
+チェシャー猫は次第に消えた - The cheshire cat disappeared gradually
+#+END_QUOTE
+The important note here, is that when 次第 is used by itself, i.e. it isn't joined to another noun, it means 'gradual', when it is joined to another noun, then it means 'X is next in sequence', regardless of if に is attached or not.

@@ -3643,3 +3643,31 @@ In some cases 次第 meaning 'next in sequence' can represent the whole sequence
 チェシャー猫は次第に消えた - The cheshire cat disappeared gradually
 #+END_QUOTE
 The important note here, is that when 次第 is used by itself, i.e. it isn't joined to another noun, it means 'gradual', when it is joined to another noun, then it means 'X is next in sequence', regardless of if に is attached or not.
+* Lesson 87: しか Japanese structure inverted
+しか is a particle that has a rather unusual effect on sentences.
+#+BEGIN_QUOTE
+さくらしかいない - There's nobody here but Sakura
+#+END_QUOTE
+しか does two things in a sentence like this. Firstly, it replaces the が particle just like か, secondly and more unusually, しか 'inverts' the sentence, that is to say, where が marks a noun, しか marks everything except the noun it attaches to.
+#+BEGIN_QUOTE
+さくらしかいない - Everyone other than Sakura is not here
+#+END_QUOTE
+Note: しか implicitly marks things that are similar, not literally all other things.
+
+In some しか marked sentences there is still a が marked subject:
+#+BEGIN_QUOTE
+タオルが一枚しかありません - There's only one towel here
+#+END_QUOTE
+#+BEGIN_QUOTE
+タオルが一枚あります - Towel one-flat-thing-ly exists - Towel onely exists - There is one towel
+#+END_QUOTE
+#+BEGIN_QUOTE
+タオルが一枚しかありません - All towels except this one flat-thing don't exist - There's only one towel here
+#+END_QUOTE
+Note: Here we are inverting the counter, so towels still exist, just not more than one(ly).
+
+There is a colloquial use of しか in しかない:
+#+BEGIN_QUOTE
+逃げるしかない - All things except run doesn't exist - We gotta run
+#+END_QUOTE
+In these sentences, where しかない is attached to the end of a logical clause or a verb standing in for a logical clause, although not strictly grammatical, colloquially it means 'must' i.e. it is the only option, possibility, thing etc.

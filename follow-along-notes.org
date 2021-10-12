@@ -3671,3 +3671,18 @@ There is a colloquial use of しか in しかない:
 逃げるしかない - All things except run doesn't exist - We gotta run
 #+END_QUOTE
 In these sentences, where しかない is attached to the end of a logical clause or a verb standing in for a logical clause, although not strictly grammatical, colloquially it means 'must' i.e. it is the only option, possibility, thing etc.
+* Lesson 88: をしたい vs がしたい
+There is a well known anime called: 「君の膵臓をたべたい」 - I want to eat your pancreas. Why is this を when previously we have learnt to use が for sentences like 'I like coffee'?
+
+As we know, when there is no inducer of the want, i.e. cake, the たべたい can be directed inwards:
+#+BEGIN_QUOTE
+(∅が)早く食べたい - I want to eat
+#+END_QUOTE
+
+Dolly sensei is doing a lot of talking here, but I think I can cut to the chase. Knowing a sentence like: 「ケーキが食べたい」 means 'Cake is want to eat inducing' and 「私はケーキが食べたい」 means 'as for me, cake is want to eat inducing'. How might we truly say 'I want to eat cake', not 'as for me, cake is making me want to eat', it would look something like '私がケーキを食べたい', which we can obviously shorten to 「ケーキを食べたい」.
+
+This same logic can apply to all subjectivities.
+
+A justification of this grammatically, that we have を in a sentence without a verb, is that the たい is not being attached to the 食べる alone, it is being attached to the ケーキを食べ(る) construction.
+
+Using が is absolutely the standard, however there are situations where we always use this を version. For instance, wanting to help or defend someone/something. The difference is about if something is an impulsive desire or a decision/mindset of our own. Cake makes me impulsively want to eat it, but I want to defend my country because it's my duty, is the gist. 'I want to defend Sakura' is in some way more respectful. Hence, we aren't wanting to eat the girl's pancreas because it's delicious, but we want to eat it (for some other reason (to cure the cancer)).

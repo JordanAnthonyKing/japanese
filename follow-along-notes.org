@@ -3686,3 +3686,13 @@ This same logic can apply to all subjectivities.
 A justification of this grammatically, that we have を in a sentence without a verb, is that the たい is not being attached to the 食べる alone, it is being attached to the ケーキを食べ(る) construction.
 
 Using が is absolutely the standard, however there are situations where we always use this を version. For instance, wanting to help or defend someone/something. The difference is about if something is an impulsive desire or a decision/mindset of our own. Cake makes me impulsively want to eat it, but I want to defend my country because it's my duty, is the gist. 'I want to defend Sakura' is in some way more respectful. Hence, we aren't wanting to eat the girl's pancreas because it's delicious, but we want to eat it (for some other reason (to cure the cancer)).
+* Lesson 89: The universal subject
+# There may not be much to take notes on this lesson. It seems to be a summation of points in previous episodes on the subject
+
+There is one kind of sentence in Japanese that really is subjectless, these kinds of sentences exist in English too but are a little more common in Japanese:
+#+BEGIN_QUOTE
+大阪にたどり着いたさくらたち。 - Arrived at Osaka, Sakura and Friends.
+#+END_QUOTE
+These aren't quite sentences, and wouldn't be seen as sentences by most Japanese linguists. What they are is simple modified nouns. This sentence doesn't say 'Sakura and Friends arrives at Osaka', we're simply modifying 'Sakura and Friends' with the modifier 'Arrived at Osaka'. Sentences like this arne't used very often, but can be used in narrative as a summation or a description of a result.
+
+This is just about the only example of a subjectless sentence, but really it's not even a sentence, it's just a particular narrative technique that sometimes gets used, and is really just a noun. A real sentence must tell us something about something: AがB.

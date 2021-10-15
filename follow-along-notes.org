@@ -3696,3 +3696,13 @@ There is one kind of sentence in Japanese that really is subjectless, these kind
 These aren't quite sentences, and wouldn't be seen as sentences by most Japanese linguists. What they are is simple modified nouns. This sentence doesn't say 'Sakura and Friends arrives at Osaka', we're simply modifying 'Sakura and Friends' with the modifier 'Arrived at Osaka'. Sentences like this arne't used very often, but can be used in narrative as a summation or a description of a result.
 
 This is just about the only example of a subjectless sentence, but really it's not even a sentence, it's just a particular narrative technique that sometimes gets used, and is really just a noun. A real sentence must tell us something about something: AがB.
+* Lesson 90: Japanese punctuation
+Most punctuation in Japanese is a relatively late addition to the language, added to help in translating western literature.
+
+The Japanese full-stop (まる) ends sentences. As we know, entire logical clauses can be used not as logical clauses, but as modifiers for nouns or some other element. In Japanese writing a logical clause (not a modifier) has to end with either a まる or in a clause-connector that completes the clause and leads into the next clause (i.e. て-form or から etc.).
+
+The Japanese comma is a completely alogical element. Commas are simply used where one wants to indicate a pause. They are not at all structural.
+
+The question mark (はてな). In formal Japanese there is the question marking particle か. In casual Japanese there is the question marker の, but this is ambiguous as it is also used with statements. The only way to tell a question in Japanese is the rising intonation, which cannot be heard in text. As such the question mark is used to indicate the intonation and indicate a question as opposed to a statement. It's not mandatory to use, but it is used often to disambiguate casual writing.
+
+In Japanese books sometimes you can see (what appears to be) commas running along the left-hand side of a word or phrase. What these marks do is emphasise the word or phrase or indicate that it is being used in a special way. They are essentially Japanese /italics/.

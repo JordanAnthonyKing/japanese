@@ -3706,3 +3706,41 @@ The Japanese comma is a completely alogical element. Commas are simply used wher
 The question mark (はてな). In formal Japanese there is the question marking particle か. In casual Japanese there is the question marker の, but this is ambiguous as it is also used with statements. The only way to tell a question in Japanese is the rising intonation, which cannot be heard in text. As such the question mark is used to indicate the intonation and indicate a question as opposed to a statement. It's not mandatory to use, but it is used often to disambiguate casual writing.
 
 In Japanese books sometimes you can see (what appears to be) commas running along the left-hand side of a word or phrase. What these marks do is emphasise the word or phrase or indicate that it is being used in a special way. They are essentially Japanese /italics/.
+* Lesson 91: 限る and 限り
+限る means to limit or restrict. 限り is the い-stem (that is to say noun form) of that verb. Japanese is very fond of limiting expressions, expressions to do with limits and boundaries. These expressions range from very literal to very metaphorical, as we have seen previously with other words that end up having a long list of English translations.
+#+BEGIN_QUOTE
+出席は招待者に限る - Attendance is limited at invited persons.
+#+END_QUOTE
+#+BEGIN_QUOTE
+声の限りに呼んだ - I called at the limit of my voice - I called as loud as I could
+#+END_QUOTE
+#+BEGIN_QUOTE
+夏はアイスクリームに限る - As for summer, it reaches its limit at ice-cream - Ice-cream is the best thing about summer
+#+END_QUOTE
+#+BEGIN_QUOTE
+運動なら水泳に限る - Swimming is the best kind of exercise
+#+END_QUOTE
+#+BEGIN_QUOTE
+彼女に限ってそんなことはしない - She is the limit (maximum/extreme) of people who wouldn't do such a thing - She'd be the last person to do that sort of thing
+#+END_QUOTE
+
+限る can be used negatively:
+#+BEGIN_QUOTE
+辞書に書いてあることが、常に正しいとは限らない。 - 'Things that are written in the dictionary are always correct' is not necessarily the case - It's not necessarily the case that things written in the dictionary are always correct
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+私の知っている限りではそんな言葉はない - Up to the limit of what I know, there is no such word - As far as I know there's no such word
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+急いでいる時に限ってバスが遅れる - The limit of the times when we're in a hurry the bus comes late - The bus always comes late is when we're in a hurry
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+その場限りのことを言う - She talks off the top of her head
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+ケンカはその場限りさ - Quarrels should be limited to the occasion on which they arise - Quarrels should not be continued
+#+END_QUOTE

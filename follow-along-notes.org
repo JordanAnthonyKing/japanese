@@ -3744,3 +3744,10 @@ In Japanese books sometimes you can see (what appears to be) commas running alon
 #+BEGIN_QUOTE
 ケンカはその場限りさ - Quarrels should be limited to the occasion on which they arise - Quarrels should not be continued
 #+END_QUOTE
+* Powerful kanji hack
+# At this point I have completed the main course, and so will be covering various other videos
+Most kanji are constructed of many separate kanji. Many complex kanji contain one element that is there to tell us how it is pronounced. This radical tells us the main on-reading of the kanji. On-readings are the Chinese readings of the kanji. This isn't true 100% of the time but it is true enough of the time to be incredibly useful.
+
+Dolly refers to something here called the 'sound-sisters'. The first example is the こ sound-sister from 古い, the on-reading of which is こ. This kanji is present in many others, which have the on-reading こ most of the time. (Dolly implies here that on-readings are used in words that combine kanji).
+
+# Dolly gives some examples here, and a deck is included

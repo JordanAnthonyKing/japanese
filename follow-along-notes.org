@@ -3751,3 +3751,10 @@ Most kanji are constructed of many separate kanji. Many complex kanji contain on
 Dolly refers to something here called the 'sound-sisters'. The first example is the こ sound-sister from 古い, the on-reading of which is こ. This kanji is present in many others, which have the on-reading こ most of the time. (Dolly implies here that on-readings are used in words that combine kanji).
 
 # Dolly gives some examples here, and a deck is included
+* Japanese vocabulary, structural secrets that make it easy
+Japanese has a lot more words than English or other European languages. Japanese has many words that are equivalent to phrases in English. A learner of English doesn't need to learn all of these phrases, they simply need to learn the individual words. Similarly, these 'words' in Japanese are constructed from two or more kanji, or are even constructed from multiple words with kanji and kana. Just as in English, a learner doesn't need to learn all of these combinations, only the individual atoms.
+#+BEGIN_QUOTE
+愛犬 (あい + けん (on-reading of いぬ)) - A dog I'm very fond of - love(d) dog
+#+END_QUOTE
+Once we're familiar with the on-readings of the kanji concerned, we can easily understand and say these words.
+# There are many more examples listed

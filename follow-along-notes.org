@@ -3758,3 +3758,7 @@ Japanese has a lot more words than English or other European languages. Japanese
 #+END_QUOTE
 Once we're familiar with the on-readings of the kanji concerned, we can easily understand and say these words.
 # There are many more examples listed
+* What よろしく おねがいします really means
+Yoroshiku Onegaishimasu means something like 'please be good to me' or 'I beg you a favour'. It is used in all sorts of occasions, when we first meet someone, when the new year rolls around 'ことしも よろしく おねがいします' is said, 'This year again, please be good to me'. It's not demanding because it is polite けいご that places the speaker below the receiver.
+
+A common reply is 'こちら こそ よろしく おねがいします' - 'It is I that should be asking for your favour' - 'This side especially asks favour'.

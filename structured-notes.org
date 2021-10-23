@@ -62,6 +62,76 @@
   わたしはほんがわかる - As for me, the book is readable
   #+END_QUOTE
 
+** Core non-logical sentence
+  Japanese is very topic-comment focused.
+
+  Just as with が, every sentence also has a は marked topic, whether we can see it or not
+  - アメリカ人です
+  - ∅がアメリカ人です
+  - ∅は∅がアメリカ人です
+  - (I) am the topic, (I) am the subject, and (I) am an American
+
+  Just as a sentence isn't /logically complete/ without a が-marked subject (invisible or otherwise) a sentence isn't /grammatically complete/ without a は-marked topic (invisible or otherwise).
+
+  As with が the default value of ∅ is 'I'.
+
+  The topic is usually a noun, and the comment must be a complete logical clause.
+
+** は vs が
+  Topic-comment structure is fundamental to Japanese. Every sentence has a topic marked by は, and a comment consisting of a complete logical clause, a が marked subject and some engine. Both the topic and the subject can be invisible.
+
+  In sentences where both the topic and the subject are the same thing, we can use one or both particles. Choice of particle depends on whether we want to emphasise that the thing at hand is the subject or the topic. For instance, if the person we are speaking to isn't aware of who/what something is, it is bast to introduce that thing with が first to explain what it is/does.
+
+  A topic marker can only mark *old* information. This is important because old-information is unimportant information. New information is the thing we're actually trying to convey to someone. は therefore cannot mark new information.
+
+  There is an example here (in English) about 'I fed the iguana', if we used は people would ask 'what iguana' because you hadn't mentioned it yet. The same is true in English, you would have to say 'I fed my' or 'I fed an'. Keep in mind, there are limits to this. For instance, in English it's very common to say 'I fed the dog', to someone, even if they don't know you have a dog, because it's very normal to own a dog, less so to own an Iguana.
+
+  #+BEGIN_QUOTE
+  本を買った - (I) bought a book
+  #+END_QUOTE
+  This is the most normal way to say 'I bought a book'. As we know the ∅ defaults to 'I' when the context isn't telling us that it's anything else. There is no emphasis, it is just a mutual 'I bought a book'. In this sentence I is the subject and the topic.
+  #+BEGIN_QUOTE
+  私は本を買った - What I did was buy a book (you might have bought something else or nothing at all, but /I/ bought a book)
+  #+END_QUOTE
+  If we choose to stress 'I' as the topic we are making わたし into the old information, and the buying of the book into the new information. は has a distinguishing function. When we use は we are either establishing or changing the topic. We know は not only changes the topic to whatever it marks, but it also implies that the comment on the new topic is different to the comment on the old topic. Even if there wasn't an old topic it still implies that the comment is different than the comment on other possible topics. This means that the sentence is implicitly an answer to the question (even if it wasn't asked) 'what did you do?'.
+  #+BEGIN_QUOTE
+  私が本を買った - It is I who bought the book
+  #+END_QUOTE
+  Here we have reversed the emphasis. The old information is now the buying of the book and the new information is /I/. Why would we say this? Perhaps someone is looking at an empty space in the bookshelf and wondering what happened. Then we would place the emphasis on it being 'I' who removed the book (by buying it). The book being gone (i.e. bought) is known information by both parties here, even if the exact reason for the books disappearance isn't known. Though, if you're in a bookstore the most likely reason is that it was bought.
+
+  は and が can also mark particularities, as well as generalities:
+  #+BEGIN_QUOTE
+  花はきれいだ - More likely to mean flowers in general
+  #+END_QUOTE
+  Flowers are old information, we all know what flowers are, so flowers in general.
+  #+BEGIN_QUOTE
+  花がきれいだ - More likely to mean these particular flowers
+  #+END_QUOTE
+  Flowers are new information, so it must be some non-general flowers.
+
+  These are all tendencies however. There is no structural reason for any of these differences. They come entirely from expectations.
+
+  は also adds emphasis forwards:
+  #+BEGIN_QUOTE
+  おまえみたいな半人前に休みはない - For trainees like you, there are no rests - (More accurately) As for traineers like you, as for rests, there are none
+  #+END_QUOTE
+  The topic is 「おまえみたいな半人前に」 but the writer has chosen to deemphasise this topic, and introduce a subtopic that is やすみ, 'rests'. This places the emphases on the not existing of the tests.
+  # I'd like a better example than this.
+** Hidden subjects
+** Active and inactive words
+  As we know, almost all Japanese words divide into three kinds, nouns, verbs and adjectives, most 'other types' are structurally nouns. There is however another way of dividing words which is used in Japanese grammar, this is to divide them into static 'body words' (体言) and active 'use-words' (用言). Static words essentially boil down to nouns.
+
+  By active words, what is meant is those words that can transform, i.e. the final kana can morph or vanish. This applies to both adjectives and verbs. As we know, verbs and adjectives cannot end in a kanji, they must end in a kana. For Godan verbs the final kana is always an う-row kana, and can become the equivalent kana from one of the other 4 rows. For Ichidan verbs the る kana is dropped. For adjectives we can change the い to く、 か or け, or we can drop the い altogether and add something else.
+
+  Static words (nouns) on the other hand cannot be modified at all (grammatically), we just add logical particles or the copula to them. It is important to understand that when we join a logical particle and a noun together we must regard those two things as a single unit.
+  # There are some more notes here on な-adjectives and how a noun + な itself could be 'properly' called a な adjective
+
+  Once we have added the copula (だ) to a noun that unit is now an 'active' word, i.e. we *can* modify it, for instance, as we know, the copula has a て-form which is で, we have modified the final kana of the unit. This is also how we do the past tense of nouns.
+
+  This means that all three engines are 用言, active words/units.
+
+** TODO (Move this) ほしい
+
   <<ほしい>>
   #+BEGIN_QUOTE
   (わたしは)こねこがほしい - (As for me) a kitten is wanted
@@ -82,7 +152,7 @@
 
    The noun and the particle attached to it are an inseparable pair. We must view the two together, they are a question and an answer which form a fundamental unit of the Japanese sentence.
 
-   There cannot be a sentence without が, even if sometimes you can't see it. が can work in A is B sentences, as well as A does B sentences. The other particles can *only* work in A does B sentences i.e. that is sentences with a verb engine.
+   There cannot be a sentence without が, even if sometimes you can't see it. が can work in A is B sentences, as well as A does B sentences. The other particles can *only* (There is an exception: see [[*で in A is B sentences]]) work in A does B sentences i.e. that is sentences with a verb engine.
    - が - Who (or what) did it?
    - を - Whom was it done to?
    - に - Where did they go?/Where are they?
@@ -119,9 +189,10 @@
 *** だ (/da/) - Copula <<だ>>
     For basic use of だ see /core sentence/ ([[*Core sentence]]).
 
-    <<Copula て-form>>
+**** Copula て-form
+    The copula has a て-form, で, which is used to apply particles to the logical clause:
     #+BEGIN_QUOTE
-    ふつうの ウサギでは なかった - As for being an ordinary rabbit, (it) wasn't - (It) wasn't an ordinary rabbit
+    ふつうの ウサギ​*では* なかった - As for being an ordinary rabbit, (it) wasn't - (It) wasn't an ordinary rabbit
     #+END_QUOTE
     では here is the て-form of the copula だ, meaning 'as for being (an ordinary rabbit)'
 
@@ -216,6 +287,14 @@
     # 目に 止まるのは - Eye-at as for stopped-thing - The thing that stopped her eye - The thing that caught her eye
     # #+END_QUOTE
 
+  A similar example with の that isn't structurally very complicated, but is very unlike what would be said in English. This comes from the song 'the bells of notre dame':
+  #+BEGIN_QUOTE
+  朝のパリに響くのは鐘だよ
+  #+END_QUOTE
+  Where are the A and the B of this sentence? This is an A is B sentence. The は-marked topic is 「朝のパリに響くの」 so の is bundling 「朝のパリに響く」 into a single noun which we're talking about, 'Resounds in morning paris' -> 'That which resounds in morning Paris'. The A or が marked topic is that which has just been defined for us by の (the resounding thing in a parisian morning).
+
+  Why is it being put this way? Because it /can/ be. Again, it is cumbersome in English, but not in Japanese.
+
 *** へ (/e/) - Direction
     This is a very simple particle, it duplicates a single use of に. When we say /a is going to b/ we can freely substitute に with へ. This is *all* is can do, it cannot even mark the case where something /is/, only where it is /going/.
 *** で (/de/) - Means
@@ -226,6 +305,63 @@
     #+BEGIN_QUOTE
     [∅が]バス​*で*​こうえんにいく - I go to the park by bus
     #+END_QUOTE
+
+**** で in A is B sentences
+  で is not absolutely restricted to 'a does b' verb sentences (though most of the time it's used in verb sentences). What で is really restricted to is clauses that modify 用言, and as we have just learned a 用言 can be a verb, can be an adjective, but can also be a noun+copula.
+  # TODO Update structured notes with this information
+
+  So what is で actually doing?
+
+  As we know, there are three 'positional' logical particles, they are:
+  - に - Where something goes to or where it is once its got there
+  - え - Directional particle
+  - で - The boundary or limit within which something happens
+
+  Usually the limit described by で is a physical area, though it doesn't have to be. で tells us the boundary within which an action or (here's the new part) a state of being takes place. In other words, it can be adjectival.
+
+  #+BEGIN_QUOTE
+  世界で一番おいしいラメン - The most delicious ramen in the world
+  #+END_QUOTE
+  Why are using で in this case? 「世界で」 is defining the limit within which something is happening, in this case it's defining the limit within which the state of being applies. We are talking about the most delicious ramen in the world, the limit of the state of being the most delicious ramen is the world.
+  #+BEGIN_QUOTE
+  この町で一番おいしいラメン - The most delicious ramen in this town
+  #+END_QUOTE
+
+  # How does this relate to means tho?
+  # TODO: Redo で lesson
+
+  We could say:
+  #+BEGIN_QUOTE
+  世界の一番おいしいラメン - The world's most delicious ramen
+  #+END_QUOTE
+  But this isn't modifying the quality of おいしい (putting a limit on おいしい) in the same way that で is. It is modifying ラメン.
+
+  We can also say:
+  #+BEGIN_QUOTE
+  このラメンは世界で一番おいしい - This ramen is the most delicious in the world
+  #+END_QUOTE
+  But we can't say:
+  #+BEGIN_QUOTE
+  このラメンは世界の一番おいしい - This ramen is the most delicious in the world
+  #+END_QUOTE
+  Because in Japanese words can only modify words that come after them, they can't modify words that come before them, の cannot modify おいしい which is an adjective, it can only modify ラメン which is another noun, and because ラメン  is on the wrong side of it, we can't use it.
+
+  Finally, since we now know that a noun+copula functions as a 用言 (an active element) we can also say:
+  #+BEGIN_QUOTE
+  世界で一番有名なアンドロイド - The most famous android in the world
+  #+END_QUOTE
+  世界で couldn't modify 有名 on its own because 有名 is a noun, but joined with な (the connective form of the copula だ) it can.
+
+  The same thing is happened when we say:
+  #+BEGIN_QUOTE
+  みんあで踊る - We all dance
+  #+END_QUOTE
+  #+BEGIN_QUOTE
+  二人で踊る - The two of us dance
+  #+END_QUOTE
+  #+BEGIN_QUOTE
+  一人で踊る - Dance alone
+  #+END_QUOTE
 
 ** Non-logical particles
    Non-logical particles are not part of the logical structure of a sentence. They are neither the thing we are saying something about, nor what we are saying about it. They also do not tell us more about the engine of the sentence as the other logical particles do.
@@ -258,6 +394,26 @@
     ぼーる​*は*​わたしがさくらに[∅を]なける - As for the ball, I threw (it) at Sakura
     #+END_QUOTE
     This time the を marked noun (not the が marked noun) has become invisible([[Invisible が]]), because what we're throwing is now marked by the は particle, ∅ here has taken the value of 'it'. Even without は we might already know what 'it' was that was thrown from context. The important thing to understand here is that as we change the logical particles from one noun to another we change the meaning of the sentence, but when we change the non-logical particle は from one noun to another it makes no difference to the logic of the sentence. It may make some difference to the emphasis, but it makes no difference to who is doing what or what they're doing it to.
+
+  Japanese is a 'topic prominent' language. Topic-comment structure is a very fundamental aspect of Japanese in a way that it isn't in English. It is for this reason that we so often say 'as for x' when that isn't how we would say something in English.
+  #+BEGIN_QUOTE
+  アフリカはライオンはいるがトラはいない
+  #+END_QUOTE
+  In this sentence we have three は s in a very short space. These are *all* topic markers. The first は is the overall topic marker, it's saying 'speaking of Africa', everything that follows is going to be a comment on the topic of Africa. Everything that follows must be a logical clause, it doesn't matter how small the clause is, but is must be a logical clause. What we have in this example is a sentence consisting of two logical clauses, each of which contains a 'sub-topic'. Each logical clause also has a topic statement preceding it. In full:
+  #+BEGIN_QUOTE
+  アフリカはライオンは[∅が]いるがトラは[∅が]いない
+  #+END_QUOTE
+  Note how there is the contrastive conjunction は used in this sentence. You can tell that it is this が and not the other because it follows a verb (いる) and the logical particle が can only mark nouns.
+
+  Why are they doing this?
+
+  It is because は is used to distinguish things.
+  #+BEGIN_QUOTE
+  アフリカはライオンはいるがトラはいない - Speaking of Africa, speaking of lions, they exist but speaking of tigers, they don't exist.
+  #+END_QUOTE
+  We would never say something like this in English, because the topic marker は is very /agile/, but the methods of introducing a topic in English are not, so they seem forceful or cumbersome.
+
+  When we introduce something using は we are implicitly saying that the comment on the new topic is different from the comment on the old topic. If we wanted to say that the comment is the same we would use the topic marker も.
 
 *** も /mo/ topic inclusive (also)
     も is another non-logical topic-marking particle. も marks the topic of the sentence in the same way that は does. The difference is that while は can mark the topic of the sentence and *can* also change the topic of the sentence, も declares the topic of the sentence but can *only* change the topic of the sentence. We cannot use も unless we are changing the topic of the sentence.
@@ -542,6 +698,55 @@ Do you think I'm going to do that? - I'm not going to do that!
 *** かな
     See: ([[かな]])
 
+*** かい
+   かい is simply a softened and colloquial form of か. In casual speech we don't use か as a sentence-ender question marker very often (though we do use it in other positions). Usually we will just use a rising intonation (or a question mark on its own in typed speech), we may use の (which is ambiguous because it can mark a question or an explanation), but we can occasionally use かい. かい is a predominantly masculine (though older women may use it) and rather 'folksy' way of marking a question.
+
+*** だい
+   だい is just だ+かい. This is the form of かい we use in copula-ending sentences. Everything about かい applies to だい except a particularly common colloquialism which is 「どうだい」 meaning 'how is [something]'.
+
+*** ちょうだい
+   This isn't related to かい or だい but is an informal equivalent to ください, so usually it is added to the て-form of a verb to ask someone to do something. It is slightly feminine but not exclusively.
+
+*** Emphasisers
+   - せ - verbal exclamation mark that adds force - masculine - far more common in anime and manga than in real life
+   - そ - verbal exclamation mark that adds force - masculine - far more common in anime and manga than in real life
+   - さ - more common verbal exclamation mark, slightly masculine but not exclusively. Very likely to hear in real life
+
+*** pseudo-sentence enders
+   Often sentences end in conjunctions. This has been covered previously.
+
+   # There are some notes here about how kara can add force
+
+   し is very similar to から, it's most common and regular use is to combine reasons. There is an example here, it essentiall goes: reason a し reason b し therefore... you can therefore use し with only one reason to imply that there are other reasons also. し has the effect of softening a reason, so saying something like 'because riding a bike is forbidden here' + し sounds a bit friendlier. This tactic of 'vaguing' things up is common in English using words like 'like' and 'kinda'
+*** Particle combinations
+  There's really no such thing as double particles or particle combinations as such, the particles are really just doing what they do all the time.
+
+  It is important to remember the distinction between logical and non-logical particles.
+
+  You can't combine any of the logical particles with any of the others, because logical particles mark nouns with their function in the sentence. What you can combine them with is the non-logical particles, notably the two non-logical topic markers は and も. Combining in this way doesn't clash at all logically as は and も don't tell us anything about what a noun is doing in the sentence.
+
+  The two primary logical particles が and を don't combine with the non-logical particles because any sentence that is directly transitive, that is a sentence where the actor acts upon an object directly. 'I eat' for example is intransitive, but 'I eat bread' is intransitive.
+
+  # There are some notes here on English propositions and other examples
+
+  Any sentence with the を particle is directly transitive, the use of any other particle i.e. と or に is indirectly transitive.
+
+  Because of the directness of が (the thing acting) and を (the thing being acted upon) they can't have a non-logical particle appended to them. If you wanted to attach a non-logical particle you would simply leave the logical particle out, and because が and を are so fundamental they would be understood by the hearer in Japanese.
+
+  We can pair the remaining logical particles with any non-logical particle, the reason for which isn't to make any kind of unusual pair-combination, but to simply use the functions of both particles at the same time.
+  #+BEGIN_QUOTE
+  ∅が冬には雪だるまを作る - As for in the winter, we make snowman
+  #+END_QUOTE
+  We don't need this は, but we can choose to use it to make 'in winter' the subject of the sentence. は also differentiates winter from the other seasons, implying we only make snowmen then.
+  #+BEGIN_QUOTE
+  ∅が春にも雪だるまを作る - We make a snowman in the spring as well
+  #+END_QUOTE
+  We do need に so that the topic is about *in* winter.
+
+  #+BEGIN_QUOTE
+  学校には行く - Going to school
+  #+END_QUOTE
+  This sentence carries the implication that we're going to school but not going somewhere else (because of the exclusiveness of the は particle).
 * Tense
   In Japanese the tenses are not the same past, present and future tenses we're familiar with from English.
 
@@ -753,6 +958,10 @@ Do you think I'm going to do that? - I'm not going to do that!
   - Some る-ending verbs not covered by the first two laws
 
   Is there anything we can do to simplify this: える version have the opposite of the standard word.
+
+There is a group of verbs in Japanese that are defined by their English translations, but the definition isn't real. These are the 'become' verbs:
+- 濡れる - Do (state of) wet (become wet)
+- 濁る - Do (state of) cloudy/muddy (become cloudy/muddy)
 
 * Verb stems
    Note: these stems apply to godan verbs. For ichidan verbs just drop the る.
@@ -1305,7 +1514,7 @@ Do you think I'm going to do that? - I'm not going to do that!
    どうすればいい - In what way if I act will be good?
    #+END_QUOTE
    # TODO add this link
-   Note: すれば is the conditional form of する ([[Conditional form]])
+   Note: すれば is the conditional form of する ([[*Conditionals]])
 
    #+BEGIN_QUOTE
    そういうこと - That way say matter (condition/thing) - Thus-described matter - That kind of thing
@@ -1367,9 +1576,6 @@ Do you think I'm going to do that? - I'm not going to do that!
   さくらが日本人だ -> さくらが日本人だそうだ - Sakura is Japanese -> Sakura is Japanese I hear
   #+END_QUOTE
   So simply put 「そうだ」 at the end of any full statement.
-
-* TODO ば
-  <<Conditional form>>
 
 * ようだ、 ように and みたい - Metaphors and similes
   「ようだ」 forms the far end of a sliding scale of 'likeness' expressions:
@@ -1715,7 +1921,7 @@ Do you think I'm going to do that? - I'm not going to do that!
    #+END_QUOTE
    Of course there isn't any real doubt that it's the station that we're asking for, so again, 'since'.
 
-* Conjunctions
+* TODO (Bring in other conjunctions) Conjunctions
   Sentences where there is more than one logical clause *must* be contain some kind of conjunction. There are many kinds of conjunction, many we have covered already:
   - If/When ~ たら、 なら、 ば
   - And/but ~ そして、 けど
@@ -2114,3 +2320,48 @@ Sometimes this can mean 'allow':
 #+BEGIN_QUOTE
 帰らせてもらいます - (I) will receive (your) allowing (me) to go home
 #+END_QUOTE
+
+* TODO Irregularities in Japanese (Lesson 54)
+* もの and こと secrets
+When first introduced もの and こと where explained as being for tangible, and abstract things separately. This is a good explanation for an early learner, but is not the whole picture:
+#+BEGIN_QUOTE
+愛はすばらしいいものだ - Love is a wonderful thing
+#+END_QUOTE
+Obviously love is abstract, so why are we using もの? もの is used for /nouns/. A noun representing a physical thing or a noun representing an abstract thing.
+
+#+BEGIN_QUOTE
+日本に行ったことがある - (I) have been to Japan
+#+END_QUOTE
+Notice how this is a very different statement to 'I went to Japan'. 'I went' speaks of one particular instance, whereas 'I have' could mean once, or many times. It is the general fact of having been. '(As for me) the thing (the activity/the fact) of 'went to Japan' exists'.
+#+BEGIN_QUOTE
+日本に行くことがある - The fact of my *going* to Japan exists - I sometimes go to Japan
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+どんな人にも失敗することがある - Everybody sometimes makes mistakes - Whatever kind of person it may be, the fact of making mistakes exists.
+#+END_QUOTE
+
+** TODO (Move this) もの as a sentence ender
+Sometimes もの is used in a way that looks like a sentence-ender. The first way is when ものだ is added to a complete logical clause. What this means, is that, the logical clause that we're speaking about, as a generalisation, is reality (is a thing).
+#+BEGIN_QUOTE
+冬は寒いものだ - Winter is cold, and that's just a thing (fact)
+#+END_QUOTE
+
+# There are some notes here on the strict grammaticality of this construction.
+
+#+BEGIN_QUOTE
+子供のころには、よくこちらに来たものだ - When I was a child, coming here was a thing.
+#+END_QUOTE
+Note that such a statement has a nostalgic ring to it, and a sense of personalness. As well as an implicit statement that we no longer come.
+
+What is the difference between:
+#+BEGIN_QUOTE
+日本に行ったことがある - (I) have been to Japan
+#+END_QUOTE
+#+BEGIN_QUOTE
+日本に行ったものだ - (I) used to go to Japan
+#+END_QUOTE
+Note the latter is far more emotional.
+
+** TODO (Move this) こと as a sentence ender
+こと is used as a sentence ender for lists of rules. Even a single statement, if followed by こと shows that that thing is a rule/regulation. こと shows that the statement is a decision that has been made. Refer to lessons 28 and 29.

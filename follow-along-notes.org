@@ -2668,7 +2668,7 @@ The way something sounds or looks always has to be self move, because we're not 
   Static words (nouns) on the other hand cannot be modified at all (grammatically), we just add logical particles or the copula to them. It is important to understand that when we join a logical particle and a noun together we must regard those two things as a single unit.
   # There are some more notes here on な-adjectives and how a noun + な itself could be 'properly' called a な adjective
 
-  Once we have added the copula (だ) to a noun that unit is not an 'active' word, i.e. we *can* modify it, for instance, as we know, the copula has a て-form which is で, we have modified the final kana of the unit. This is also how we do the past tense of nouns.
+  Once we have added the copula (だ) to a noun that unit is now an 'active' word, i.e. we *can* modify it, for instance, as we know, the copula has a て-form which is で, we have modified the final kana of the unit. This is also how we do the past tense of nouns.
 
   This means that all three engines are 用言, active words/units.
 
